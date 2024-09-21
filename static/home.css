@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "clash display variable";
+  src: url(./fonts/ClashDisplay-Variable.ttf) format("truetype");
+}
+body {
+  font-family: "clash display variable";
+  background-color: azure;
+}
+
+.title {
+  font-size: 4rem;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin-top: 50px;
+}
+
+.input_class {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+  position: relative;
+}
+.input_class #player_name_input {
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 30vw;
+  height: 10vh;
+  font-size: 2rem;
+}
+.input_class #player_name_input:hover {
+  background-color: white;
+}
+.input_class #player_name_input:active {
+  outline: none;
+  background-color: white;
+}
+.input_class .suggestions {
+  display: none;
+}
+.input_class .show {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  margin-top: 10px;
+  width: 30vw;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 15px;
+}
+.input_class .show li {
+  list-style: none;
+  width: 100%;
+  cursor: pointer;
+  padding: 8px 16px;
+}/*# sourceMappingURL=home_style.css.map */
