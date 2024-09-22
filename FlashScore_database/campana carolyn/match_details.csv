@@ -1,7 +1,7 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Roehampton (United Kingdom),hard,header
-31.07. 16:20,Campana C.,0,4,6^4,,,,[],"['3', '1', '5', '1', '6', '6']",[],[],[],5.93
-31.07. 16:20,Frayman D.,2,6,7^7,,,,"['4', '3']","['2', '5', '4', '5', '6', '5']",[],[],[],1.11
+31.07. 16:20,Campana C.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1', '6', '6']",[],[],[],5.93
+31.07. 16:20,Frayman D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '5', '4', '5', '6', '5']",[],[],[],1.11
 ITF WOMEN - SINGLES :  W15 Rancho Santa Fe,hard,header
 ITF WOMEN - SINGLES :  W15 San Diego,hard,header
 ITF WOMEN - SINGLES :  W15 San Diego,hard,header
@@ -11,8 +11,8 @@ ITF WOMEN - SINGLES :  W15 Brossard (Canada),hard,header
 ITF WOMEN - SINGLES :  W35 Le Gosier (France),hard,header
 ITF WOMEN - SINGLES :  W35 Petit-Bourg (France),hard,header
 ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
-19.10.2023,Campana C.,1,6^3,6,3,,,[],"['2', '1', '3', '2', '5', '2']",[],[],[],7.03
-19.10.2023,Stollar F.,2,7^7,2,6,,,[],"['2', '2']","['5', '3']",[],[],1.07
+19.10.2023,Campana C.,1,6^3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '3', '2', '5', '2']",[],[],[],7.03
+19.10.2023,Stollar F.,2,7^7,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']","['5', '3']",[],[],1.07
 ITF WOMEN - SINGLES :  W15 Lakewood,hard,header
 ITF WOMEN - SINGLES :  W25 Redding,hard,header
 ITF WOMEN - SINGLES :  W25 Wichita,hard,header

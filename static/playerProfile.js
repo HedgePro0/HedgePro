@@ -1,13 +1,33 @@
 var finalResult = document.querySelectorAll('.finalResult')
 var surface = document.querySelectorAll(".surfaceType") 
-
 var odds_container = document.querySelectorAll(".odds")
 var scores_container_player1 = document.querySelectorAll(".player1_scores")
 var scores_container_player2 = document.querySelectorAll(".player2_scores")
-
 var breakpoints = document.querySelectorAll(".breakPoints")
-
 var summaryTable = document.querySelector(".summaryTable")
+
+var matches_list = document.querySelector(".table")
+let length = matches_list.children.length 
+for (var i = 1; i < length - 1; i++) {
+    var prev = matches_list.children[i - 1]
+    var current = matches_list.children[i]
+
+
+    if (prev.className === "header" && current.className === "header") {
+        prev.style.display = "none"
+    }
+
+    console.log(current)
+    try {
+        var nxt = matches_list.children[i+1]
+
+        if (current.className === "header" && nxt.className === "header") {
+            nxt.style.display = "none"
+        }
+    } catch (err) {
+        console.log(err)
+    } 
+}
 
 finalResult.forEach(element => {
     if (element.textContent === "L") {

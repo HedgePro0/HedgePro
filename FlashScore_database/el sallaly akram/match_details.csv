@@ -1,8 +1,8 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 
 ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-28.08. 15:15,El Sallaly A.,0,1,2,,,,[],[],[],[],[],9.80
-28.08. 15:15,Neuchrist M.,2,6,6,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.03
+28.08. 15:15,El Sallaly A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.80
+28.08. 15:15,Neuchrist M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.03
 ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
 ITF MEN - SINGLES :  M25 Hillcrest (South Africa),hard,header
 ITF MEN - SINGLES :  M15 Hillcrest (South Africa),hard,header
@@ -33,19 +33,19 @@ ITF MEN - SINGLES :  M25 Cairo 3 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
 ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-19.05.2022,El Sallaly A.,0,2,0,,,,[],[],[],[],[],8.40
-19.05.2022,Monzon I.,2,6,6,,,,[],[],[],[],[],1.06
-18.05.2022,Uzhylovskyi V.,1,6,4,0,,,[],[],[],[],[],0
-18.05.2022,El Sallaly A.,1,4,6,0,,,[],[],[],[],[],0
+19.05.2022,El Sallaly A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.40
+19.05.2022,Monzon I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
+18.05.2022,Uzhylovskyi V.,1,6,4,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+18.05.2022,El Sallaly A.,1,4,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 New Delhi (India),hard,header
-23.03.2022,El Sallaly A.,1,2,7^7,6^4,,,[],[],[],[],[],3.74
-23.03.2022,Wojcik Y.,2,6,6^4,7^7,,,[],[],[],[],[],1.26
+23.03.2022,El Sallaly A.,1,2,7^7,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.74
+23.03.2022,Wojcik Y.,2,6,6^4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.26
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Cairo (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
-19.01.2022,El Sallaly A.,0,3,1,,,,[],[],[],[],[],14.50
-19.01.2022,Michalski D.,2,6,6,,,,[],[],[],[],[],1.01
+19.01.2022,El Sallaly A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],14.50
+19.01.2022,Michalski D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.01
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 17 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 13 (Egypt),hard,header
@@ -53,5 +53,5 @@ ITF MEN - SINGLES :  M15 Cairo 15 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
 CHALLENGER MEN - SINGLES :  Stockton (USA),hard,header
-03.10.2017,El Sallaly A.,0,2,3,,,,[],[],[],[],[],17.00
-03.10.2017,Rubin N.,2,6,6,,,,"['1', '0', '4', '1']","['4', '3', '6', '3']",[],[],[],1.01
+03.10.2017,El Sallaly A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],17.00
+03.10.2017,Rubin N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['4', '3', '6', '3']",[],[],[],1.01

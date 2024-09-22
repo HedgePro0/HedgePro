@@ -1,13 +1,13 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
-18.09. 18:50,Zgirovsky A.,1,6,6^4,1,,,"['3', '2', '6', '3']","['5', '3']","['1', '4']",[],[],3.02
-18.09. 18:50,Bobichon M.,2,3,7^7,6,,,[],"['4', '5']","['2', '0', '4', '0', '5', '1']",[],[],1.35
+18.09. 18:50,Zgirovsky A.,1,6,6^4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['5', '3']","['1', '4']",[],[],3.02
+18.09. 18:50,Bobichon M.,2,3,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']","['2', '0', '4', '0', '5', '1']",[],[],1.35
 ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-11.09. 14:00,Zgirovsky A.,2,6,7,,,,"['1', '0', '3', '0', '6', '1']",[],[],[],[],1.38
-11.09. 14:00,Horoz A.,0,1,5,,,,[],"['2', '1', '5', '7']",[],[],[],2.88
+11.09. 14:00,Zgirovsky A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']",[],[],[],[],1.38
+11.09. 14:00,Horoz A.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '5', '7']",[],[],[],2.88
 ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-13.08. 16:30,Zgirovsky A.,0,1,0,,,,[],[],[],[],[],4.46
-13.08. 16:30,Dedura-Palomero D.,2,6,6,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
+13.08. 16:30,Zgirovsky A.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.46
+13.08. 16:30,Dedura-Palomero D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
 ITF MEN - SINGLES :  M25 Grasse (France),clay,header
 ITF MEN - SINGLES :  M25 Carnac (France),clay,header
 ITF MEN - SINGLES :  M25 Deauville (France),clay,header
@@ -53,8 +53,8 @@ CHALLENGER MEN - SINGLES :  Astana (Kazakhstan) - Qualification,hard,header
 23.07.2023,Fayziev S.,1,6,1,2,,,1,1,52%,65% (34/52),42% (20/48),67% (10/15),20% (11/56),68% (15/22),29% (2/7),5,54% (54/100),33% (26/78),45% (80/178),3,58% (7/12),15% (2/13),36% (9/25),"['2', '1', '5', '4']",[],[],[],[],1.95
 ITF MEN - SINGLES :  M25 Uriage (France),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-15.06.2023,Zgirovsky A.,1,2,6,6^1,,,[],[],[],[],[],2.15
-15.06.2023,Cungu R.,2,6,4,7^7,,,[],[],[],[],[],1.64
+15.06.2023,Zgirovsky A.,1,2,6,6^1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
+15.06.2023,Cungu R.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
 ITF MEN - SINGLES :  M25 Kursumlijska Banja 3 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Tbilisi (Georgia),hard,header
 ITF MEN - SINGLES :  M25 Tbilisi (Georgia),hard,header

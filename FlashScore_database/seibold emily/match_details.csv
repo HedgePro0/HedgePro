@@ -1,12 +1,12 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
-10.09. 14:00,Seibold E.,0,6^1,2,,,,"['1', '1', '2', '2', '5', '5']","['1', '0']",[],[],[],1.31
-10.09. 14:00,Kabbaj Y.,2,7^7,6,,,,"['1', '0', '2', '1', '4', '3']","['2', '2', '4', '2', '6', '2']",[],[],[],3.24
+10.09. 14:00,Seibold E.,0,6^1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '5', '5']","['1', '0']",[],[],[],1.31
+10.09. 14:00,Kabbaj Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '3']","['2', '2', '4', '2', '6', '2']",[],[],[],3.24
 ITF WOMEN - SINGLES :  W75 Hechingen (Germany),clay,header
-01.08. 22:00,Seibold E.,0,2,3,,,,"['1', '0', '2', '5']","['1', '0', '3', '4']",[],[],[],2.79
-01.08. 22:00,Makarova E.,2,6,6,,,,"['1', '1', '3', '1', '5', '1', '6', '2']","['2', '2', '4', '2', '5', '3']",[],[],[],1.40
-31.07. 14:20,Seibold E.,2,7,1,6,,,"['1', '0', '3', '4', '4', '5', '6', '5']",[],"['2', '0', '4', '0', '6', '0']",[],[],3.12
-31.07. 14:20,Martincova T.,1,5,6,0,,,"['1', '1', '4', '2', '5', '3']","['3', '1', '5', '1']",[],[],[],1.33
+01.08. 22:00,Seibold E.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '5']","['1', '0', '3', '4']",[],[],[],2.79
+01.08. 22:00,Makarova E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1', '6', '2']","['2', '2', '4', '2', '5', '3']",[],[],[],1.40
+31.07. 14:20,Seibold E.,2,7,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '4', '5', '6', '5']",[],"['2', '0', '4', '0', '6', '0']",[],[],3.12
+31.07. 14:20,Martincova T.,1,5,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '5', '3']","['3', '1', '5', '1']",[],[],[],1.33
 ITF WOMEN - SINGLES :  W15 Krsko (Slovenia),clay,header
 ITF WOMEN - SINGLES :  W35 Aschaffenburg (Germany),clay,header
 ITF WOMEN - SINGLES :  W35 Stuttgart-Vaihingen (Germany),clay,header
@@ -18,8 +18,8 @@ ITF WOMEN - SINGLES :  W35 Sunderland (United Kingdom),hard,header
 ITF WOMEN - SINGLES :  W15 Esch/Alzette (Luxembourg),hard,header
 ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
 ITF WOMEN - SINGLES :  W60 Hechingen (Germany),clay,header
-02.08.2023,Seibold E.,1,2,6,4,,,[],"['3', '2', '4', '3']","['1', '0']",[],[],1.33
-02.08.2023,Hanatani N.,2,6,4,6,,,"['4', '2', '6', '2']","['3', '3']","['4', '4', '6', '4']",[],[],3.10
+02.08.2023,Seibold E.,1,2,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2', '4', '3']","['1', '0']",[],[],1.33
+02.08.2023,Hanatani N.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['3', '3']","['4', '4', '6', '4']",[],[],3.10
 ITF WOMEN - SINGLES :  W25 Horb (Germany),clay,header
 ITF WOMEN - SINGLES :  W25 Punta Cana 2 (Dominican Republic),clay,header
 ITF WOMEN - SINGLES :  W25 Punta Cana (Dominican Republic),clay,header
@@ -48,10 +48,10 @@ ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
 ITF WOMEN - SINGLES :  W25 Stuttgart-Vaihingen (Germany),clay,header
 ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
 ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
-09.06.2022,Seibold E.,0,2,1,,,,"['2', '3']",[],[],[],[],1.78
-09.06.2022,Albie A.,2,6,6,,,,"['2', '0', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.99
-08.06.2022,Seibold E.,2,6,4,6,,,"['4', '2', '6', '2']","['3', '5']","['2', '0', '5', '1']",[],[],1.81
-08.06.2022,Perrin C.,1,2,6,1,,,[],"['1', '0', '3', '0']",[],[],[],1.95
+09.06.2022,Seibold E.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],1.78
+09.06.2022,Albie A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.99
+08.06.2022,Seibold E.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['3', '5']","['2', '0', '5', '1']",[],[],1.81
+08.06.2022,Perrin C.,1,2,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0']",[],[],[],1.95
 ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 4 (Italy),clay,header
 ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
 ITF WOMEN - SINGLES :  W25 Oeiras (Portugal),clay,header

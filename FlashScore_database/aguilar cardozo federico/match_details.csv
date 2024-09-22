@@ -1,10 +1,10 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Cordoba (Argentina),clay,header
-04.09. 20:40,Aguilar Cardozo F.,0,2,3,,,,"['2', '5']","['3', '2']",[],[],[],1.75
-04.09. 20:40,Monzon I.,2,6,6,,,,"['2', '0', '5', '1', '6', '2']","['3', '3', '5', '3']",[],[],[],1.98
+04.09. 20:40,Aguilar Cardozo F.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['3', '2']",[],[],[],1.75
+04.09. 20:40,Monzon I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '2']","['3', '3', '5', '3']",[],[],[],1.98
 ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-23.07. 13:40,Aguilar Cardozo F.,0,1,6^6,,,,[],"['5', '5']",[],[],[],2.18
-23.07. 13:40,Fantini L.,2,6,7^8,,,,"['2', '0', '4', '0']","['3', '2']",[],[],[],1.63
+23.07. 13:40,Aguilar Cardozo F.,0,1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],2.18
+23.07. 13:40,Fantini L.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['3', '2']",[],[],[],1.63
 ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Neuquen (Argentina),clay,header
 ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
@@ -21,10 +21,10 @@ CHALLENGER MEN - SINGLES :  Montevideo (Uruguay) - Qualification,clay,header
 12.11.2023,Aguilar Cardozo F.,0,2,1,,,,0,0,70%,50% (15/30),38% (5/13),17% (1/6),25% (7/28),45% (9/20),0% (0/4),4,47% (20/43),33% (16/48),40% (36/91),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],11.00
 12.11.2023,Houkes M.,2,6,6,,,,1,4,58%,75% (21/28),55% (11/20),100% (4/4),50% (15/30),62% (8/13),83% (5/6),5,67% (32/48),53% (23/43),60% (55/91),5,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.03
 ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-21.09.2023,Aguilar Cardozo F.,0,0,1,,,,[],[],[],[],[],8.80
-21.09.2023,Descotte M. F.,2,6,6,,,,[],[],[],[],[],1.04
-20.09.2023,Aguilar Cardozo F.,2,6,6,,,,[],[],[],[],[],2.67
-20.09.2023,Lucero J.,0,2,2,,,,[],[],[],[],[],1.43
+21.09.2023,Aguilar Cardozo F.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.80
+21.09.2023,Descotte M. F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.04
+20.09.2023,Aguilar Cardozo F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
+20.09.2023,Lucero J.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.43
 CHALLENGER MEN - SINGLES :  Montevideo (Uruguay) - Qualification,clay,header
 07.11.2022,Aguilar Cardozo F.,0,3,2,,,,0,3,67%,47% (15/32),38% (6/16),25% (2/8),35% (13/37),52% (12/23),40% (2/5),6,44% (21/48),42% (25/60),43% (46/108),2,33% (3/9),25% (2/8),29% (5/17),"['2', '0']","['2', '1']",[],[],[],10.00
 07.11.2022,Wenger D.,2,6,6,,,,0,4,62%,65% (24/37),48% (11/23),60% (3/5),53% (17/32),63% (10/16),75% (6/8),6,58% (35/60),56% (27/48),57% (62/108),5,75% (6/8),67% (6/9),71% (12/17),"['1', '2', '3', '2', '6', '3']","['2', '2', '4', '2', '6', '2']",[],[],[],1.03

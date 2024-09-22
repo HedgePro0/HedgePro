@@ -1,20 +1,20 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Singapore (Singapore),hard,header
-10.09. 09:00,Matsuda R.,0,3,5,,,,"['3', '4']","['5', '5']",[],[],[],2.18
-10.09. 09:00,Lee C. Y.,2,6,7,,,,"['4', '2', '5', '3']","['3', '2', '6', '5']",[],[],[],1.63
+10.09. 09:00,Matsuda R.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['5', '5']",[],[],[],2.18
+10.09. 09:00,Lee C. Y.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['3', '2', '6', '5']",[],[],[],1.63
 ITF WOMEN - SINGLES :  W35 Mohammedia (Morocco),clay,header
-31.07. 19:30,Matsuda R.,0,3,3,,,,"['2', '0']",[],[],[],[],1.26
-31.07. 19:30,El Allami M.,2,6,6,,,,"['1', '2', '3', '2', '6', '3']","['3', '1']",[],[],[],3.59
+31.07. 19:30,Matsuda R.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],1.26
+31.07. 19:30,El Allami M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '6', '3']","['3', '1']",[],[],[],3.59
 ITF WOMEN - SINGLES :  W35 Casablanca (Morocco),clay,header
-24.07. 21:00,Matsuda R.,0,1,6^4,,,,"['1', '2']","['4', '4', '6', '6']",[],[],[],0
-24.07. 21:00,Rocchetti S.,2,6,7^7,,,,"['2', '0', '3', '1', '5', '1']","['4', '3', '6', '5']",[],[],[],0
+24.07. 21:00,Matsuda R.,0,1,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['4', '4', '6', '6']",[],[],[],0
+24.07. 21:00,Rocchetti S.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['4', '3', '6', '5']",[],[],[],0
 ITF WOMEN - SINGLES :  W15 Casablanca (Morocco),clay,header
 ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W50 La Marsa (Tunisia),hard,header
-05.06. 16:20,Matsuda R.,0,5,3,,,,"['1', '0', '5', '4']","['2', '1']",[],[],[],8.55
-05.06. 16:20,Gao X.,2,7,6,,,,"['2', '2', '5', '5', '7', '5']","['3', '3', '5', '3']",[],[],[],1.05
+05.06. 16:20,Matsuda R.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['2', '1']",[],[],[],8.55
+05.06. 16:20,Gao X.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '5', '7', '5']","['3', '3', '5', '3']",[],[],[],1.05
 ITF WOMEN - SINGLES :  W15 Fukui (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Toyama (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Telde 4 (Spain),clay,header
@@ -32,22 +32,22 @@ ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Kashiwa (Japan),hard,header
 ITF WOMEN - SINGLES :  W60 Kurume (Japan),grass,header
-17.05.2023,Matsuda R.,1,4,6,3,,,"['1', '0']","['1', '0', '3', '0', '5', '0']","['1', '2']",[],[],1.78
-17.05.2023,Mushika Mao,2,6,0,6,,,"['2', '2', '6', '4']",[],"['2', '0', '3', '1']",[],[],1.93
+17.05.2023,Matsuda R.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '3', '0', '5', '0']","['1', '2']",[],[],1.78
+17.05.2023,Mushika Mao,2,6,0,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '6', '4']",[],"['2', '0', '3', '1']",[],[],1.93
 ITF WOMEN - SINGLES :  W60 Fukuoka (Japan),hard,header
-10.05.2023,Matsuda R.,0,1,2,,,,"['1', '0']","['1', '1']",[],[],[],2.60
-10.05.2023,Namigata J.,2,6,6,,,,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.45
+10.05.2023,Matsuda R.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1']",[],[],[],2.60
+10.05.2023,Namigata J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.45
 ITF WOMEN - SINGLES :  W15 Fukui (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
-15.03.2023,Matsuda R.,0,6^0,5,,,,[],[],[],[],[],5.25
-15.03.2023,Meyer Auf Der Heide L.,2,7^7,7,,,,[],[],[],[],[],1.13
+15.03.2023,Matsuda R.,0,6^0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.25
+15.03.2023,Meyer Auf Der Heide L.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
 ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
-28.02.2023,Matsuda R.,0,1,4,,,,[],[],[],[],[],1.59
-28.02.2023,Piangerelli A.,2,6,6,,,,[],[],[],[],[],2.25
+28.02.2023,Matsuda R.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
+28.02.2023,Piangerelli A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
 ITF WOMEN - SINGLES :  W60 Kyoto (Japan),hard,header
-20.12.2022,Matsuda R.,0,2,4,,,,"['2', '4']","['3', '1']",[],[],[],3.92
-20.12.2022,Arakawa H.,2,6,6,,,,"['2', '1', '4', '1', '5', '2']","['2', '3', '5', '4']",[],[],[],1.22
+20.12.2022,Matsuda R.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['3', '1']",[],[],[],3.92
+20.12.2022,Arakawa H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['2', '3', '5', '4']",[],[],[],1.22
 ITF WOMEN - SINGLES :  W25 Hamamatsu (Japan),hard,header
 ITF WOMEN - SINGLES :  W25 Makinohara (Japan),grass,header
 ITF WOMEN - SINGLES :  W25 Nanao (Japan),hard,header

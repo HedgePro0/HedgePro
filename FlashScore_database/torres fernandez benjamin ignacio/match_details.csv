@@ -1,10 +1,10 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Asuncion (Paraguay),clay,header
-18.09. 19:30,Torres Fernandez B. I.,0,1,1,,,,[],[],[],[],[],6.04
-18.09. 19:30,Estevez J.,2,6,6,,,,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.10
+18.09. 19:30,Torres Fernandez B. I.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.04
+18.09. 19:30,Estevez J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.10
 ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
-21.08. 00:30,Torres Fernandez B. I.,1,7^7,3,0,,,"['4', '4']",[],[],[],[],6.10
-21.08. 00:30,Tosetto R.,2,6^4,6,6,,,"['1', '0']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.10
+21.08. 00:30,Torres Fernandez B. I.,1,7^7,3,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],6.10
+21.08. 00:30,Tosetto R.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.10
 ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
 CHALLENGER MEN - SINGLES :  Bogota (Colombia) - Qualification,clay,header
 05.08. 00:45,Torres Fernandez B. I.,0,4,4,,,,3,4,61%,68% (27/40),46% (12/26),50% (2/4),26% (12/46),42% (11/26),0% (0/6),6,59% (39/66),32% (23/72),45% (62/138),1,89% (8/9),0% (0/9),44% (8/18),[],[],[],[],[],3.50
@@ -26,8 +26,8 @@ CHALLENGER MEN - SINGLES :  Santiago (Chile) - Qualification,clay,header
 ITF MEN - SINGLES :  M25 Recife (Brazil),clay,header
 ITF MEN - SINGLES :  M25 Tucuman (Argentina),clay,header
 ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
-07.12.2023,Torres Fernandez B. I.,0,1,6^3,,,,[],[],[],[],[],3.48
-07.12.2023,Mouilleron Salvo M.,2,6,7^7,,,,[],[],[],[],[],1.27
+07.12.2023,Torres Fernandez B. I.,0,1,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.48
+07.12.2023,Mouilleron Salvo M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
 CHALLENGER MEN - SINGLES :  Temuco (Chile) - Qualification,hard,header
 26.11.2023,Torres Fernandez B. I.,1,6,2,3,,,5,4,63%,61% (36/59),49% (17/35),60% (6/10),18% (9/50),56% (14/25),40% (2/5),9,56% (53/94),31% (23/75),45% (76/169),3,69% (9/13),14% (2/14),41% (11/27),"['2', '1']","['1', '0']",[],[],[],4.36
 26.11.2023,Roberts J.,2,4,6,6,,,5,5,67%,82% (41/50),44% (11/25),60% (3/5),39% (23/59),51% (18/35),40% (4/10),9,69% (52/75),44% (41/94),55% (93/169),4,86% (12/14),31% (4/13),59% (16/27),[],"['1', '1', '3', '1', '6', '2']","['4', '2']",[],[],1.19

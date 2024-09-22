@@ -12,41 +12,45 @@ def getData(name):
     # GETTING THE MATCH DATA FOR A PARTICULAR PERSON
     rows = []
     name = name.replace("%20", " ")
-    with open(f'./FlashScore_database/{name}/match_details.csv') as file:
-        csvreader = csv.reader(file)
-        nextMatch = False
-        length = 0
-        temp_rows = []
-        for row in csvreader:
-            temp_rows.append(row)
-        for i in range(len(temp_rows)):
-            if nextMatch:
-                nextMatch = False 
-                continue
-            if temp_rows[i][-1] == 'header':
-                rows.append(temp_rows[i])
-            else:
-                match_data = [temp_rows[i], temp_rows[i+1]]
-                rows.append(match_data)
-                nextMatch = True
-    matches_info = rows[1::]
+    try:
+        with open(f'./FlashScore_database/{name}/match_details.csv') as file:
+            csvreader = csv.reader(file)
+            nextMatch = False
+            length = 0
+            temp_rows = []
+            for row in csvreader:
+                temp_rows.append(row)
+            for i in range(len(temp_rows)):
+                if nextMatch:
+                    nextMatch = False 
+                    continue
+                if temp_rows[i][-1] == 'header':
+                    rows.append(temp_rows[i])
+                else:
+                    match_data = [temp_rows[i], temp_rows[i+1]]
+                    rows.append(match_data)
+                    nextMatch = True
+        matches_info = rows[1::]
 
-    # GETTING THE PROFILE DATA
-    profileData = []
-    with open(f'./FlashScore_database/{name}/personal_details.csv') as file:
-        csvreader = csv.reader(file)
-        for row in csvreader:
-            profileData.append(row)
+        # GETTING THE PROFILE DATA
+        profileData = []
+        with open(f'./FlashScore_database/{name}/personal_details.csv') as file:
+            csvreader = csv.reader(file)
+            for row in csvreader:
+                profileData.append(row)
+            
+        # GETTING THE SUMMARY TABLE FOR THE REQUIRED PLAYER
+        summary = []
+        with open(f'./FlashScore_database/{name}/career_details.csv') as file:
+            csvreader = csv.reader(file)
+            for row in csvreader:
+                summary.append(row)
         
-    # GETTING THE SUMMARY TABLE FOR THE REQUIRED PLAYER
-    summary = []
-    with open(f'./FlashScore_database/{name}/career_details.csv') as file:
-        csvreader = csv.reader(file)
-        for row in csvreader:
-            summary.append(row)
+        return matches_info, profileData, summary
+    except:
+        pass
     
-    return matches_info, profileData, summary
-
+    
 # INITIALIZING FLASK APP
 app = Flask(__name__)
 
