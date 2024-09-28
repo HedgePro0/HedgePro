@@ -2,17 +2,30 @@ from flask import Flask, redirect, url_for, render_template, request
 import csv
 
 names = []
+todayMatchesData = []
+menRankedPlayers = []
+femaleRankedPlayers = []
+
 with open('./playerLinks.csv') as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         names.append(row[0].lower())
 
-todayMatchesData = []
 with open("todaysMatches.csv") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         todayMatchesData.append(row)
 
+with open("men_ranking.csv") as file:
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        menRankedPlayers.append(row)
+        
+with open("women_ranking.csv") as file:
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        femaleRankedPlayers.append(row)
+    
 
 def getData(name):
     # GETTING THE MATCH DATA FOR A PARTICULAR PERSON
@@ -71,6 +84,10 @@ def searchPlayer():
         
     
     return render_template('home.html', rows=todayMatchesData)
+
+@app.route("/ranked-players")
+def rankedPlayers():
+    return render_template("ranked_players.html", men_data = menRankedPlayers, female_data = femaleRankedPlayers)
 
 
 if __name__ == "__main__":

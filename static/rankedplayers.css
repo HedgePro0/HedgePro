@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "clash display variable";
+  src: url(./fonts/ClashDisplay-Variable.ttf) format("truetype");
+}
+body {
+  font-family: "clash display variable";
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  font-size: 2.5rem;
+  padding: 8px 16px;
+  background: black;
+  color: white;
+  width: 16vw;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menContainer .men {
+  font-size: 1rem;
+  height: 3vh;
+  width: 40vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menContainer .men div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0px 0px 1px #000;
+  height: 100%;
+}
+.menContainer .men .rank {
+  width: 5vw;
+}
+.menContainer .men .name {
+  width: 18vw;
+}
+.menContainer .men .country {
+  width: 12vw;
+}
+.menContainer .men .score {
+  width: 5vw;
+}
+
+.womenContainer .heading {
+  width: 20vw;
+  margin-top: 20px;
+}
+.womenContainer .women {
+  font-size: 1rem;
+  height: 3vh;
+  width: 40vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.womenContainer .women div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0px 0px 1px #000;
+  height: 100%;
+}
+.womenContainer .women .rank {
+  width: 5vw;
+}
+.womenContainer .women .name {
+  width: 18vw;
+}
+.womenContainer .women .country {
+  width: 12vw;
+}
+.womenContainer .women .score {
+  width: 5vw;
+}/*# sourceMappingURL=rankedplayers.css.map */

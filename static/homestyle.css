@@ -75,7 +75,7 @@ body {
 .header {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   margin-top: 50px;
 }
 
@@ -88,7 +88,7 @@ body {
 .row {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
 }
 
 .col {
@@ -103,5 +103,20 @@ body {
 
 .col:nth-child(2) {
   width: 200px;
+} 
+.rankedPlayers {
+  position: absolute;
+  width: 16vw;
+  height: 8vh;
+  background: black;
+  color: white;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(-100%);
+  top: 0;
+  left: 100%;
+
   cursor: pointer;
-} /*# sourceMappingURL=home_style.css.map */
+}/*# sourceMappingURL=home_style.css.map */

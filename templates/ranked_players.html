@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Today's Matches</title>
+    <script defer src="../static/todaysMatches.js"></script>
+    <link rel="stylesheet" href="../static/rankedplayers.css">
+</head>
+<body>
+
+    <div class="menContainer">
+        <div class="heading">Men Rankings</div>
+        
+        {% for name in men_data %}
+        
+        <div class="men">
+            <div class="rank">{{name[0]}}</div>
+            <div class="name">{{name[1]}}</div>
+            <div class="country">{{name[2]}}</div>
+            <div class="score">{{name[3]}}</div>
+        </div>
+        
+        {% endfor %}
+    </div>
+    
+    <div class="womenContainer">
+        <div class="heading">Women Rankings</div>
+        {% for name in female_data %}
+    
+        <div class="women">
+            <div class="rank">{{name[0]}}</div>
+            <div class="name">{{name[1]}}</div>
+            <div class="country">{{name[2]}}</div>
+            <div class="score">{{name[3]}}</div>
+        </div>
+    
+        {% endfor %}
+    </div>
+</body>
+</html>
