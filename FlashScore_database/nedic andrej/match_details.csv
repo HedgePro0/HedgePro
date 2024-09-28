@@ -1,5 +1,9 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-
+ITF MEN - SINGLES :  M25 Zlatibor (Serbia),clay,header
+27.09. 15:00,Nedic A.,1,6,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],[],[],[],2.94
+27.09. 15:00,Prihodko O.,2,4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0']","['6', '5']",[],[],1.36
+26.09. 15:25,Nedic A.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['3', '1']",[],[],2.14
+26.09. 15:25,Basic M.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],1.64
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
 29.08. 16:20,Nedic A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['1', '2']",[],[],[],1.19
 29.08. 16:20,Pisaric A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '6', '3']","['2', '0', '3', '1', '6', '2']",[],[],[],4.27
@@ -50,8 +54,6 @@ ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
 24.06.2023,Nedic A.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.41
 24.06.2023,Aboian L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.74
-23.06.2023,Nedic A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.37
-23.06.2023,Velcz Z.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.91
 22.06.2023,Nedic A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.09
 22.06.2023,Sharipov M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
 20.06.2023,Nedic A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.11
@@ -61,8 +63,6 @@ ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
 ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
 ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
 ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-04.05.2023,Nedic A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.36
-04.05.2023,Safwat M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.31
 03.05.2023,Nedic A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
 03.05.2023,Pisaric A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
 ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
@@ -70,11 +70,9 @@ ITF MEN - SINGLES :  M25 Dubrovnik (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Opatija (Croatia),clay,header
 ATP - SINGLES :  Davis Cup - World Group I (World),-,header
 CHALLENGER MEN - SINGLES :  Banja Luka (Bosnia and Herzegovina) - Qualification,clay,header
-21.08.2022,Nedic A.,0,5,4,,,,3,2,72%,59% (36/61),38% (9/24),67% (10/15),38% (15/39),35% (7/20),50% (3/6),4,53% (45/85),37% (22/59),47% (67/144),2,55% (6/11),27% (3/11),41% (9/22),"['1', '1', '2', '2', '5', '5']",[],[],[],[],6.65
-21.08.2022,Setkic A.,2,7,6,,,,6,2,66%,62% (24/39),65% (13/20),50% (3/6),41% (25/61),63% (15/24),33% (5/15),6,63% (37/59),47% (40/85),53% (77/144),3,73% (8/11),45% (5/11),59% (13/22),"['1', '0', '2', '1', '3', '2', '6', '5']","['3', '2']",[],[],[],1.10
 ITF MEN - SINGLES :  M15 Sarajevo (Bosnia and Herzegovina),clay,header
-09.06.2022,Nedic A.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-09.06.2022,Biljesko D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+09.06.2022,Nedic A.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+09.06.2022,Biljesko D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
 ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
 26.05.2022,Nedic A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.44
@@ -86,6 +84,3 @@ ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
 ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
 ITF MEN - SINGLES :  M25 Opatija (Croatia),clay,header
 CHALLENGER MEN - SINGLES :  Banja Luka (Bosnia and Herzegovina) - Qualification,clay,header
-05.09.2021,Nedic A.,1,6,3,0,,,2,4,60%,63% (26/41),30% (8/27),33% (3/9),38% (17/45),29% (7/24),50% (3/6),8,50% (34/68),36% (25/69),43% (59/137),4,50% (6/12),25% (3/12),38% (9/24),"['1', '1', '3', '1']","['2', '1']",[],[],[],12.00
-05.09.2021,Ejupovic E.,2,3,6,6,,,2,1,65%,62% (28/45),67% (16/24),50% (3/6),37% (15/41),56% (15/27),67% (6/9),9,64% (44/69),50% (34/68),57% (78/137),11,75% (9/12),50% (6/12),63% (15/24),"['1', '0']","['3', '3', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.03
-ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
