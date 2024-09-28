@@ -87,7 +87,7 @@ def searchPlayer():
 
 @app.route("/ranked-players")
 def rankedPlayers():
-    return render_template("ranked_players.html", men_data = menRankedPlayers, female_data = femaleRankedPlayers)
+    return render_template("rankedplayers.html", men_data = menRankedPlayers, female_data = femaleRankedPlayers)
 
 
 if __name__ == "__main__":
