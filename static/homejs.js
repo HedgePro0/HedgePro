@@ -92,21 +92,20 @@ for (var i = 0; i < matches_rows.length; i++) {
             name = name.slice(0,-5)
         }
 
-        var index;
+        var index = 0;
         for (var i = 0; i < names.length; i++) {
             if (names[i].includes(name)) {
                 index = i
                 break
             }
         }
-        
-        if (index) name = names[index].toLowerCase()
+
+        name = names[index].toLowerCase()
+    
         var url = "https://www.hedgepro.club/" + name
 
         var a = document.createElement("a")
         a.href = url
         a.click()
-
-        console.log("https://www.hedgepro.club/" + name)
     })
 }
