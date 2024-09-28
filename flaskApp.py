@@ -18,7 +18,7 @@ def getData(name):
     # GETTING THE MATCH DATA FOR A PARTICULAR PERSON
     rows = []
     name = name.replace("%20", " ")
-    with open(f'./FlashScore_database2/{name}/match_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/match_details.csv') as file:
         csvreader = csv.reader(file)
         nextMatch = False
         length = 0
