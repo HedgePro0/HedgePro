@@ -99,9 +99,9 @@ body {
   align-items: center;
   justify-content: center;
   padding: 10px;
-  cursor:pointer
 }
 
 .col:nth-child(2) {
   width: 200px;
+  cursor: pointer;
 } /*# sourceMappingURL=home_style.css.map */
