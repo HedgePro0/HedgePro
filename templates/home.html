@@ -19,6 +19,37 @@
             </ul>
         </div>
     </form>
+
+    <div class="heading">Today's Matches</div>
+    {% for row in rows %}
+
+    {% if row[-1] == "header" %}
+
+    <div class="header">
+        {% for i in range(11) %}
+        
+        <div class="col">{{row[i]}}</div>
+
+        {% endfor %}
+    </div>
+
+    {% endif %}
+    
+    {% if row[-1] != "header" %}
+
+    <div class="row">
+
+        {% for col in row %}
+
+        <div class="col">{{col}}</div>
+
+        {% endfor %}
+
+    </div>
+
+    {% endif %}
+
+    {% endfor %}
 </body>
 
 </html>

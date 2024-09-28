@@ -61,4 +61,46 @@ body {
   width: 100%;
   cursor: pointer;
   padding: 8px 16px;
-}/*# sourceMappingURL=home_style.css.map */
+}
+
+.heading {
+  font-size: 2rem;
+  padding: 25px;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.header .col {
+  background: black;
+  color: white;
+  box-shadow: inset 0px 0px 0px 1px #fff;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.col {
+  width: 100px;
+  height: 35px;
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.568627451);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.col:nth-child(2) {
+  width: 200px;
+} /*# sourceMappingURL=home_style.css.map */
