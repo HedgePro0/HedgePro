@@ -74,35 +74,27 @@ function renderResults(results) {
 for (var i = 0; i < matches_rows.length; i++) {
     var row = matches_rows[i]
     var cols = row.children
-    // if (i % 2 === 0) {
-    //     cols[9].style.height = "70px"
-    //     cols[10].style.height = "70px"
-    // } else {
-    //     cols[9].style.height = "0px"
-    //     cols[10].style.height = "0px"
-    //     cols[9].style.boxShadow = "none"
-    //     cols[10].style.boxShadow= "none"
-    //     cols[9].style.marginTop = "-35px"
-    // }
+
     cols[1].addEventListener('click', (e) => {
         var name = e.target.textContent
-        // name = name.slice(0,-1)
-
+        
         if (name.includes("(")) {
             name = name.slice(0,-5)
         } else {
-            name = name.slide(0, -1)
+            name = name.slice(0, -1)
         }
 
-        var index;
-        for (var i = 0; i < names.length; i++) {
-            if (names[i].includes(name)) {
-                index = i
+        name = name.toLowerCase()
+        
+        for (var j = 0; j < names.length; j++) {
+            console.log(names[j])
+            if (names[j].includes(name)) {
+                name = names[j].toLowerCase()
+                console.log(name)
                 break
             }
         }
         
-        name = names[index].toLowerCase()
         var url = "https://www.hedgepro.club/" + name
 
         var a = document.createElement("a")
