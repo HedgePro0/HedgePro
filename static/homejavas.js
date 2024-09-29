@@ -86,7 +86,14 @@ for (var i = 0; i < matches_rows.length; i++) {
     // }
     cols[1].addEventListener('click', (e) => {
         var name = e.target.textContent
-        name = name.slice(0,-1)
+        // name = name.slice(0,-1)
+
+        if (name.includes("(")) {
+            name = name.slice(0,-5)
+        } else {
+            name = name.slide(0, -1)
+        }
+
         var index;
         for (var i = 0; i < names.length; i++) {
             if (names[i].includes(name)) {
@@ -95,7 +102,7 @@ for (var i = 0; i < matches_rows.length; i++) {
             }
         }
         
-        if (index) name = names[index].toLowerCase()
+        name = names[index].toLowerCase()
         var url = "https://www.hedgepro.club/" + name
 
         var a = document.createElement("a")
