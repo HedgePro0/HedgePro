@@ -4,12 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Today's Matches</title>
-    <link rel="stylesheet" href="../static/rankedPlayers.css">
+    <script defer src="../static/rankedplayers.js"></script>
+    <link rel="stylesheet" href="../static/rankedplayers.css">
 </head>
 <body>
-
+    
+    <div class="tabs">
+        <div class="menTab heading active">Men Rankings</div>
+        <div class="womenTab heading unactive">Women Rankings</div>
+    </div>
     <div class="menContainer">
-        <div class="heading">Men Rankings</div>
         
         {% for name in men_data %}
         
@@ -24,10 +28,9 @@
     </div>
     
     <div class="womenContainer">
-        <div class="heading">Women Rankings</div>
         {% for name in female_data %}
     
-        <div class="women">
+        <div class="women unactive">
             <div class="rank">{{name[0]}}</div>
             <div class="name">{{name[1]}}</div>
             <div class="country">{{name[2]}}</div>

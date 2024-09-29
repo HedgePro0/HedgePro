@@ -8,21 +8,31 @@ body {
   padding: 0;
 }
 
-.heading {
-  font-size: 2.5rem;
+.tabs {
+  display: flex;
+}
+.tabs .heading {
+  font-size: 1.4rem;
   padding: 8px 16px;
-  background: black;
-  color: white;
-  width: 22vw;
+  width: 16vw;
   height: 8vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 2px solid black;
+}
+.tabs .active {
+  background: black;
+  color: white;
+}
+.tabs .unactive {
+  background: white;
+  color: black;
 }
 
 .menContainer .men {
   font-size: 1rem;
-  height: 3vh;
+  height: 5vh;
   width: 40vw;
   display: flex;
   align-items: center;
@@ -47,14 +57,13 @@ body {
 .menContainer .men .score {
   width: 5vw;
 }
-
-.womenContainer .heading {
-  width: 20vw;
-  margin-top: 20px;
+.menContainer .unactive {
+  display: none;
 }
+
 .womenContainer .women {
   font-size: 1rem;
-  height: 3vh;
+  height: 5vh;
   width: 40vw;
   display: flex;
   align-items: center;
@@ -78,4 +87,7 @@ body {
 }
 .womenContainer .women .score {
   width: 5vw;
+}
+.womenContainer .unactive {
+  display: none;
 }/*# sourceMappingURL=rankedplayers.css.map */
