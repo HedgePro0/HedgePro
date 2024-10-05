@@ -1,7 +1,7 @@
 Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
-17.09. 21:20,Duran T.,1,6,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '3']",[],[],[],1.51
-17.09. 21:20,Slavic N.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '3']","['2', '1', '4', '1']",[],[],2.45
+17.09. 21:20,Duran T.,1,6,3,2,,,"['2', '0']","['2', '3']",[],[],[],1.51
+17.09. 21:20,Slavic N.,2,3,6,6,,,[],"['3', '1', '5', '3']","['2', '1', '4', '1']",[],[],2.45
 CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
 02.09. 16:35,Duran T.,0,3,4,,,,4,2,67%,61% (30/49),46% (11/24),60% (3/5),30% (13/44),33% (6/18),0% (0/2),5,60% (37/62),31% (19/62),45% (56/124),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],7.85
 02.09. 16:35,Dodig M.,2,6,6,,,,4,0,71%,70% (31/44),67% (12/18),100% (2/2),24% (12/49),54% (13/24),40% (2/5),5,69% (43/62),40% (25/62),55% (68/124),3,100% (10/10),22% (2/9),63% (12/19),"['4', '2']","['1', '0']",[],[],[],1.06
@@ -40,7 +40,7 @@ CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
 ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
 ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-31.03.2022,Duran T.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.70
-31.03.2022,Stodder T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-30.03.2022,Duran T.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.74
-30.03.2022,Siniakov D.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
+31.03.2022,Duran T.,0,2,3,,,,[],[],[],[],[],9.70
+31.03.2022,Stodder T.,2,6,6,,,,[],[],[],[],[],1.05
+30.03.2022,Duran T.,2,6,2,6,,,[],[],[],[],[],4.74
+30.03.2022,Siniakov D.,1,4,6,4,,,[],[],[],[],[],1.18
