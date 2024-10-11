@@ -63,16 +63,6 @@ body {
   padding: 8px 16px;
 }
 
-/* 
-
-.heading {
-    font-size: 2rem;
-    padding: 25px;
-    margin-top: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
 .header {
   display: flex;
   align-items: center;
@@ -161,15 +151,21 @@ body {
   position: absolute;
 }
 
-.tabs {
+.tab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.tab .tabs {
   height: 10vh;
+  width: 50vw;
   display: flex;
   align-items: center;
   margin-top: 50px;
   margin-left: 1px;
   margin-bottom: 8px;
 }
-.tabs div {
+.tab .tabs div {
   color: black;
   height: 10vh;
   padding: 6px 20px;
@@ -180,11 +176,42 @@ body {
   transition: 0.4s ease;
   cursor: pointer;
 }
-.tabs div:hover {
+.tab .tabs div:hover {
   background-color: black;
   color: white;
 }
-.tabs .today {
+.tab .tabs .today {
   background: black;
   color: white;
+  font-weight: 500;
+}
+.tab .genderTabs {
+  height: 10vh;
+  width: 25vw;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-right: 15px;
+  margin-top: 50px;
+  margin-bottom: 8px;
+}
+.tab .genderTabs div {
+  color: black;
+  height: 10vh;
+  padding: 6px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0 0px 1px #000;
+  transition: 0.4s ease;
+  cursor: pointer;
+}
+.tab .genderTabs div:hover {
+  background-color: black;
+  color: white;
+}
+.tab .genderTabs .active {
+  background: black;
+  color: white;
+  font-weight: 500;
 }/*# sourceMappingURL=home_style.css.map */

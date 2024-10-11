@@ -4,10 +4,13 @@ import os
 
 names = []
 
-prevMatchesData = []
 prevCounter = 0 
+prevMatchesData = []
 todayMatchesData = []
 nextMatchesData = []
+prevMatchesData_w= []
+todayMatchesData_w = []
+nextMatchesData_w= []
 
 menRankedPlayers = []
 femaleRankedPlayers = []
@@ -32,6 +35,22 @@ if prevCounter > 0:
                 else:
                     prevMatchesData[i-1].append([ temp[j], temp[j+1] ])
                     j += 2
+
+        prevMatchesData_w.append([])
+        with open(f"./Previous_Matches/{i}w.csv") as file:
+            csvreader = csv.reader(file)
+            temp = []
+            for row in csvreader:
+                temp.append(row)
+            j = 0
+            while j < len(temp):
+                if temp[j][-1] == "header":
+                    prevMatchesData_w[i-1].append(temp[j])
+                    j += 1
+                else:
+                    prevMatchesData_w[i-1].append([ temp[j], temp[j+1] ])
+                    j += 2
+        
                     
 with open('./playerLinks.csv') as file:
     csvreader = csv.reader(file)
@@ -52,6 +71,21 @@ with open("todaysMatches.csv") as file:
             todayMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
+with open("todaysMatches_w.csv") as file:
+    temp = []
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        temp.append(row)
+    i = 0
+    while i < len(temp):
+        if temp[i][-1] == "header":
+            todayMatchesData_w.append(temp[i])
+            i += 1
+        else:
+            todayMatchesData_w.append([ temp[i], temp[i+1] ])
+            i += 2
+
+
 with open("nextMatches.csv") as file:
     temp = []
     csvreader = csv.reader(file)
@@ -64,6 +98,20 @@ with open("nextMatches.csv") as file:
             i += 1
         else:
             nextMatchesData.append([ temp[i], temp[i+1] ])
+            i += 2
+
+with open("nextMatches_w.csv") as file:
+    temp = []
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        temp.append(row)
+    i = 0
+    while i < len(temp):
+        if temp[i][-1] == "header":
+            nextMatchesData_w.append(temp[i])
+            i += 1
+        else:
+            nextMatchesData_w.append([ temp[i], temp[i+1] ])
             i += 2
     
 with open("men_ranking.csv") as file:
@@ -133,7 +181,7 @@ def searchPlayer():
             return redirect(url_for('player_profile_page', name = player_name.lower()))
         
     
-    return render_template('home.html', today_rows=todayMatchesData, next_rows = nextMatchesData, prev_rows = prevMatchesData)
+    return render_template('home.html', today_rows=todayMatchesData, next_rows = nextMatchesData, prev_rows = prevMatchesData, today_rows_w = todayMatchesData_w, next_rows_w = nextMatchesData_w, prev_rows_w = prevMatchesData_w)
 
 @app.route("/ranked-players")
 def rankedPlayers():
