@@ -1,128 +1,134 @@
-Time,Beijing,S,1,2,3,4,5,H2H,H,A,header
-05:10,Cobolli F.,2,6,6, , , , ,1.52,2.52
--,Kotov P.,0,4,2, , , , ,,
-06:45,Lehecka J.,2,3,6,6, , , ,1.59,2.32
--,Bautista-Agut R.,1,6,2,1, , , ,,
-09:15,Sinner J. (1), , , , , , ,2,1.06,9.39
--,Safiullin R., , , , , , ,0,,
-14:30,Mannarino A., , , , , , ,4,7.01,1.10
--,Medvedev D. (3), , , , , , ,3,,
-Time,Tokyo (Japan Open),S,1,2,3,4,5,H2H,H,A,header
-04:10,Machac T.,2,2,6,7, , , ,1.34,3.25
--,Paul T. (5),1,6,3,64, , , ,,
-07:05,Michelsen A.,2,6,6, , , , ,1.53,2.48
--,O'Connell C.,0,1,4, , , , ,,
-08:45,Nishikori K.,2,6,6, , , , ,2.43,1.55
--,Thompson J.,0,2,3, , , , ,,
-11:00,Nishioka Y., , , , , , ,1,2.35,1.58
--,Rune H. (6), , , , , , ,1,,
-Time,Orleans challenger,S,1,2,3,4,5,H2H,H,A,header
-15:30,Fearnley J. (8), , , , , , ,0,1.41,2.73
--,Blockx A., , , , , , ,0,,
-17:00,Mayot H. (5), , , , , , ,1,2.05,1.72
--,Huesler M., , , , , , ,0,,
-Time,Antofagasta challenger,S,1,2,3,4,5,H2H,H,A,header
-18:00,De Jong J. (3), , , , , , ,0,1.26,3.62
--,Vallejo A., , , , , , ,0,,
-19:30,Cerundolo J. (8), , , , , , ,4,1.70,2.06
--,Collarini A., , , , , , ,2,,
-Time,Nonthaburi 4 challenger,S,1,2,3,4,5,H2H,H,A,header
-05:40,McDonald M.,2,6,6, , , , ,1.45,2.62
--,Wong C. (8),0,3,4, , , , ,,
-09:10,Wu T.,2,6,3,7, , , ,1.61,2.22
--,McCabe J.,1,1,6,62, , , ,,
-Time,Lisbon challenger,S,1,2,3,4,5,H2H,H,A,header
-"11:00
- ",Tirante T. (4), , , , , , ,0,1.71,2.02
--,Moller E., , , , , , ,0,,
-11:00,Piros Z., , , , , , ,0,2.78,1.41
--,Collignon R., , , , , , ,0,,
-12:30,Nava E., , , , , , ,0,2.20,1.62
--,Rocha H., , , , , , ,0,,
-12:30,Ritschard A. (7), , , , , , ,2,1.62,2.18
--,Barrios Vera M., , , , , , ,1,,
-Time,Charleston challenger,S,1,2,3,4,5,H2H,H,A,header
-16:00,Boyer T. (8), , , , , , ,0,2.65,1.44
--,Tien L. (2), , , , , , ,2,,
-16:00,Tomic B., , , , , , ,0,1.94,1.79
--,Butvilas E., , , , , , ,0,,
-17:30,Eubanks C. (1), , , , , , ,0,1.39,2.83
--,Galarneau A., , , , , , ,0,,
-17:30,Wolf J. (4), , , , , , ,0,1.95,1.78
--,Basavareddy N., , , , , , ,0,,
+Time,Shanghai,S,1,2,3,4,5,H2H,H,A,header
+09:00,Fritz T. (7), , , , , , ,1,1.15,5.38
+-,Goffin D., , , , , , ,1,,
+12:30,Mensik J., , , , , , ,0,6.88,1.10
+-,Djokovic N. (4), , , , , , ,0,,
+Time,Hangzhou challenger,S,1,2,3,4,5,H2H,H,A,header
+05:10,Duckworth J. (1),2,6,6, , , , ,1.93,1.79
+-,Walton A. (5),0,4,4, , , , ,,
+05:15,Tseng C. (8),2,1,6,6, , , ,2.24,1.59
+-,Fognini F. (3),1,6,4,1, , , ,,
+06:35,Diallo G. (6), , , , , , ,0,1.56,2.34
+-,Cazaux A. (4), , , , , , ,2,,
+07:20,McDonald M.,2,6,6, , , , ,1.43,2.71
+-,Hijikata R. (2),0,2,1, , , , ,,
+Time,Valencie challenger,S,1,2,3,4,5,H2H,H,A,header
+13:15,Galan D. (4), , , , , , ,1,1.68,2.11
+-,Choinski J., , , , , , ,2,,
+16:00,Martinez P. (1), , , , , , ,0,1.60,2.25
+-,Buse I., , , , , , ,0,,
+17:00,Moreno De Alboran N. (7), , , , , , ,0,1.56,2.32
+-,Tirante T. (3), , , , , , ,0,,
+18:00,Faria J., , , , , , ,1,2.26,1.59
+-,Novak D., , , , , , ,0,,
+Time,Villa Maria challenger,S,1,2,3,4,5,H2H,H,A,header
+18:00,Sakamoto P., , , , , , ,3,4.16,1.21
+-,Ugo Carabelli C. (4), , , , , , ,0,,
+20:30,Cerundolo J. (7), , , , , , ,3,1.43,2.34
+-,Pucinelli De Almeida M., , , , , , ,0,,
+21:00,Dellien H. (3), , , , , , ,2,2.04,1.72
+-,De Jong J. (5), , , , , , ,1,,
+23:30,Coria F. (1), , , , , , ,0,1.78,1.95
+-,Burruchaga R. (6), , , , , , ,0,,
+Time,Roanne challenger,S,1,2,3,4,5,H2H,H,A,header
+14:00,Martineau M., , , , , , ,1,3.17,1.33
+-,Kym J., , , , , , ,0,,
+16:00,Jorda Sanchis D., , , , , , ,1,3.34,1.30
+-,Grenier H., , , , , , ,0,,
+19:00,Norrie C. (1), , , , , , ,2,1.52,2.40
+-,Van Assche L. (5), , , , , , ,0,,
+20:30,Bonzi B., , , , , , ,2,1.51,2.44
+-,Herbert P. (6), , , , , , ,0,,
+Time,Fairfield challenger,S,1,2,3,4,5,H2H,H,A,header
+21:00,Tien L. (1), , , , , , ,0,1.38,2.88
+-,Kypson P. (5), , , , , , ,0,,
+21:30,Quinn E. (8), , , , , , ,1,2.10,1.67
+-,Schoolkate T. (2), , , , , , ,0,,
+22:30,Popko D. (4), , , , , , ,0,2.15,1.43
+-,Holt B. (6), , , , , , ,0,,
 Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
-04:10,Dougaz A.,2,6,1,6, , , ,1.08,6.57
--,Zhang T.,1,3,6,4, , , ,,
-04:15,Cui J.,2,3,6,6, , , ,1.73,1.98
--,Sun F.,1,6,2,4, , , ,,
-09:40,Prihodko O., , , , , , ,0,2.20,1.59
--,Erhard M., , , , , , ,0,,
-09:40,Poljicak M., , , , , , ,0,1.29,3.29
--,Compagnucci T., , , , , , ,0,,
-11:00,Sanchez Jover C., , , , , , ,1,1.87,1.82
--,Ovcharenko O., , , , , , ,0,,
-11:00,Singh K., , , , , , ,0,2.52,1.46
--,Denolly C., , , , , , ,0,,
-11:00,Alvarez Varona N., , , , , , ,0,1.36,2.89
--,Radulov I., , , , , , ,0,,
-11:30,Giustino L., , , , , , ,2,2.07,1.67
--,Mager G., , , , , , ,0,,
-12:30,Kalyanpur A., , , , , , ,0,4.69,1.15
--,Bax F., , , , , , ,0,,
-13:00,Vasa E., , , , , , ,0,2.11,1.64
--,Wallin O., , , , , , ,0,,
-09:05,Ionel N., , , , , , ,0,2.22,1.58
--,Juarez F., , , , , , ,1,,
-09:10,Binda A., , , , , , ,0,1.35,2.92
--,Bassem Sobhy M., , , , , , ,0,,
-09:10,Moroni F., , , , , , ,0,2.75,1.39
--,Gengel M., , , , , , ,0,,
-09:10,Kivattsev K., , , , , , ,0,1.83,1.84
--,Schiessl J., , , , , , ,0,,
-10:10,Visker N., , , , , , ,0,1.84,1.83
--,Karol M., , , , , , ,0,,
-10:30,Nicod J., , , , , , ,0,1.48,2.45
--,Celikbilek A., , , , , , ,0,,
-10:30,Hernandez C., , , , , , ,0,4.32,1.17
+03:00,Ellis B.,2,7,7, , , , ,1.59,2.20
+-,Sinclair C.,0,5,5, , , , ,,
+04:30,Polmans M.,2,6,6, , , , ,1.11,5.66
+-,Bouzige M.,0,3,2, , , , ,,
+04:50,Jasika O.,2,7,7, , , , ,1.19,4.07
+-,Bradshaw J.,0,5,60, , , , ,,
+05:00,Sekulic P.,2,6,6, , , , ,1.42,2.64
+-,Winter E.,0,4,3, , , , ,,
+09:00,Barbier Gazeu P., , , , , , ,0,1.80,1.88
+-,Iradukunda G., , , , , , ,0,,
+09:30,Ramskogler G., , , , , , ,0,2.11,1.64
+-,Steiner M., , , , , , ,0,,
+09:30,Neuchrist M., , , , , , ,0,1.11,5.78
+-,Ouakaa A., , , , , , ,0,,
+10:00,Maestrelli F., , , , , , ,0,1.91,1.78
+-,Kuzmanov D., , , , , , ,0,,
+10:00,Sanchez Izquierdo N., , , , , , ,1,1.96,1.74
+-,Clarke J., , , , , , ,0,,
+10:00,Mager G., , , , , , ,0,1.20,4.01
+-,Fanselow S., , , , , , ,0,,
+10:00,Fatic N., , , , , , ,2,1.91,1.79
+-,Giustino L., , , , , , ,0,,
+"11:00
+ ",Araujo P., , , , , , ,0, , 
+-,Karlovskiy E., , , , , , ,1,,
+11:30,Denolly C., , , , , , ,0,1.17,4.46
+-,Javia D., , , , , , ,0,,
+"11:30
+ ",Gonzalez Fernandez M., , , , , , ,0,2.12,1.63
+-,Vale D., , , , , , ,1,,
+13:00,Silva F., , , , , , ,0,1.91,1.78
+-,Onclin G., , , , , , ,0,,
+13:00,Bourgue M., , , , , , ,0,1.12,5.45
+-,Zhu M., , , , , , ,0,,
+17:00,Kim A., , , , , , ,0,1.70,2.01
+-,Zink T., , , , , , ,1,,
+18:00,Tudorica A., , , , , , ,0,4.29,1.18
+-,Draxl L., , , , , , ,0,,
+18:00,Maloney P., , , , , , ,0,1.23,3.68
+-,Harper C., , , , , , ,0,,
+18:00,Dougaz A., , , , , , ,0,1.24,3.68
+-,Baadi T., , , , , , ,0,,
+18:00,Ganesan A., , , , , , ,0,3.60,1.24
+-,Ilagan A., , , , , , ,0,,
+18:00,Rybakov A., , , , , , ,0,1.35,2.92
+-,Johns G., , , , , , ,0,,
+18:30,Monday J., , , , , , ,0,1.09,6.24
+-,Chopra K., , , , , , ,0,,
+19:30,McHugh A., , , , , , ,0,1.18,4.29
+-,Torres T., , , , , , ,0,,
+"09:00
+ ",Simakin I., , , , , , ,0, , 
+-,Dzhavakian Y., , , , , , ,0,,
+09:00,Binda A., , , , , , ,0,4.98,1.13
+-,Strombachs R., , , , , , ,1,,
+09:00,Gengel M., , , , , , ,2,1.39,2.73
+-,Elsayed A., , , , , , ,0,,
+09:00,Bertran P., , , , , , ,0,1.31,3.10
+-,Jones M., , , , , , ,0,,
+"10:00
+ ",Searle H., , , , , , ,0, , 
+-,Wassermann D., , , , , , ,1,,
+10:00,Kolar Z., , , , , , ,0,1.25,3.52
+-,Kravchenko G., , , , , , ,0,,
+10:30,Jones M., , , , , , ,0,7.62,1.05
+-,Rodesch C., , , , , , ,0,,
+10:30,Jadoun N., , , , , , ,0,6.69,1.08
 -,Kumar O., , , , , , ,0,,
-11:30,Pokorny L., , , , , , ,0,1.39,2.72
--,Rottoli L., , , , , , ,0,,
-17:00,Ribero F., , , , , , ,1,3.17,1.30
--,Boscardin Dias P., , , , , , ,0,,
-19:00,Gimenez I., , , , , , ,0,4.45,1.16
--,Midon L., , , , , , ,1,,
-Time,UTR Pro Tennis Series,S,1,2,3,4,5,H2H,H,A,header
-"01:00
- ",Brown H., , , , , , ,0,1.50,2.50
--,King O., , , , , , ,0,,
-"01:00
- ",Papac T., , , , , , ,0,1.36,3.00
--,Connelly E., , , , , , ,0,,
-"03:00
- ",Stevens Z., , , , , , ,0,2.25,1.57
--,Bataljin L., , , , , , ,0,,
-Time,UTR Pro Tennis Series 3,S,1,2,3,4,5,H2H,H,A,header
-"14:00
- ",Alberca de las Casas F., , , , , , ,0,2.25,1.57
--,Grippo V., , , , , , ,0,,
-"14:00
- ",Ramirez T., , , , , , ,0,1.73,2.00
--,Riva M., , , , , , ,0,,
-"15:30
- ",Ratti L., , , , , , ,0,1.50,2.50
--,Garcia Longo N., , , , , , ,0,,
-"15:30
- ",Delvalle J., , , , , , ,0,3.25,1.33
--,Popowich J., , , , , , ,0,,
-"17:00
- ",Vazquez F., , , , , , ,0,1.73,2.00
--,Romano G., , , , , , ,0,,
-"18:30
- ",Otegui J., , , , , , ,1,1.36,3.00
--,Bramajo S., , , , , , ,0,,
-"18:30
- ",Ciurletti A., , , , , , ,0,1.73,2.00
--,Labuckas M., , , , , , ,0,,
-"20:00
- ",Russo S., , , , , , ,0,2.20,1.62
--,Doria L., , , , , , ,0,,
+11:30,Montes-De La Torre I., , , , , , ,0,1.28,3.25
+-,Gobat A., , , , , , ,0,,
+11:30,Pawelski M., , , , , , ,1,1.21,3.83
+-,Szajrych J., , , , , , ,0,,
+11:30,Knaff A., , , , , , ,0,3.75,1.22
+-,Agwi M., , , , , , ,0,,
+11:30,Naw H., , , , , , ,0,1.34,2.92
+-,Nikles J., , , , , , ,0,,
+12:00,Gorokhov M., , , , , , ,0,2.22,1.57
+-,Reco A., , , , , , ,0,,
+"12:00
+ ",Coppejans K., , , , , , ,0,1.41,2.97
+-,Wiedenmann L., , , , , , ,0,,
+13:00,Perez Contri S., , , , , , ,0,1.60,2.16
+-,Demin Y., , , , , , ,0,,
+13:00,Hudd E., , , , , , ,0,1.39,2.71
+-,Dellavedova M., , , , , , ,1,,

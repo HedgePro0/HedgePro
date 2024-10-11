@@ -1,21 +1,71 @@
 from flask import Flask, redirect, url_for, render_template, request
 import csv
+import os
 
 names = []
+
+prevMatchesData = []
+prevCounter = 0 
 todayMatchesData = []
+nextMatchesData = []
+
 menRankedPlayers = []
 femaleRankedPlayers = []
 
+with open("previousMatchesCounter") as file:
+    prevCounter = int(file.read())
+print(prevCounter)
+    
+if prevCounter > 0:
+    for i in range(1, prevCounter+1):
+        prevMatchesData.append([])
+        with open(f"./Previous_Matches/{i}.csv") as file:
+            csvreader = csv.reader(file)
+            temp = []
+            for row in csvreader:
+                temp.append(row)
+            j = 0
+            while j < len(temp):
+                if temp[j][-1] == "header":
+                    prevMatchesData[i-1].append(temp[j])
+                    j += 1
+                else:
+                    prevMatchesData[i-1].append([ temp[j], temp[j+1] ])
+                    j += 2
+                    
 with open('./playerLinks.csv') as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         names.append(row[0].lower())
 
 with open("todaysMatches.csv") as file:
+    temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
-        todayMatchesData.append(row)
+        temp.append(row)
+    i = 0
+    while i < len(temp):
+        if temp[i][-1] == "header":
+            todayMatchesData.append(temp[i])
+            i += 1
+        else:
+            todayMatchesData.append([ temp[i], temp[i+1] ])
+            i += 2
 
+with open("nextMatches.csv") as file:
+    temp = []
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        temp.append(row)
+    i = 0
+    while i < len(temp):
+        if temp[i][-1] == "header":
+            nextMatchesData.append(temp[i])
+            i += 1
+        else:
+            nextMatchesData.append([ temp[i], temp[i+1] ])
+            i += 2
+    
 with open("men_ranking.csv") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -83,12 +133,12 @@ def searchPlayer():
             return redirect(url_for('player_profile_page', name = player_name.lower()))
         
     
-    return render_template('home.html', rows=todayMatchesData)
+    return render_template('home.html', today_rows=todayMatchesData, next_rows = nextMatchesData, prev_rows = prevMatchesData)
 
 @app.route("/ranked-players")
 def rankedPlayers():
-    return render_template("rankedplayers.html", men_data = menRankedPlayers, female_data = femaleRankedPlayers)
+    return render_template("ranked_players.html", men_data = menRankedPlayers, female_data = femaleRankedPlayers)
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True) 
