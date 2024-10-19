@@ -13,7 +13,7 @@
             {% block img %}
             <img src="{{profileData[0][0]}}" class="profileImg">
             {% endblock %}
-            {% for i in range(1,8) %}
+            {% for i in range(1, profileData | length) %}
             <span>{{profileData[i][0]}}</span>
             {% endfor %}
         </div>
