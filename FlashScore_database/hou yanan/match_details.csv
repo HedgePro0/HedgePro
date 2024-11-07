@@ -1,27 +1,32 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 40 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
 WTA - SINGLES :  Hua Hin 2 (Thailand) - Qualification,hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
-WTA - SINGLES :  Hua Hin 2 (Thailand) - Qualification,hard,header
-14.09. 09:45,Hou Y.,0,0,0,,,,0,3,61%,37% (7/19),0% (0/12),25% (2/8),25% (6/24),42% (5/12),0% (0/0),2,23% (7/31),31% (11/36),27% (18/67),0,0% (0/6),0% (0/6),0% (0/12),[],[],[],[],[],9.65
-14.09. 09:45,Gao X.,2,6,6,,,,2,0,67%,75% (18/24),58% (7/12),0% (0/0),63% (12/19),100% (12/12),75% (6/8),8,69% (25/36),77% (24/31),73% (49/67),12,100% (6/6),100% (6/6),100% (12/12),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.01
-ITF WOMEN - SINGLES :  W15 Tianjin (China),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 17 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
-27.12.2023,Hou Y.,1,6,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.10
-27.12.2023,El Allami M.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
-WTA - SINGLES :  Nanchang (China) - Qualification,hard,header
-14.10.2023,Hou Y.,0,2,6^1,,,,1,4,66%,49% (18/37),32% (6/19),33% (3/9),47% (16/34),35% (12/34),40% (4/10),4,43% (24/56),41% (28/68),42% (52/124),4,40% (4/10),40% (4/10),40% (8/20),[],"['2', '4', '4', '4', '5', '5', '6', '6']",[],[],[],6.99
-14.10.2023,Eikeri U.,2,6,7^7,,,,1,2,50%,53% (18/34),65% (22/34),60% (6/10),51% (19/37),68% (13/19),67% (6/9),7,59% (40/68),57% (32/56),58% (72/124),9,60% (6/10),60% (6/10),60% (12/20),"['3', '2', '5', '2']","['1', '0', '3', '0', '5', '4', '6', '5']",[],[],[],1.10
-ITF WOMEN - SINGLES :  W15 Hua Hin (Thailand),hard,header
-ITF WOMEN - SINGLES :  W15 Shenzhen (China),hard,header
-ITF WOMEN - SINGLES :  W40 Nanchang (China),clay,header
-ITF WOMEN - SINGLES :  W15 Tianjin 3 (China),hard,header
-ITF WOMEN - SINGLES :  W15 Tianjin 2 (China),hard,header
-ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 40 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+WTA - SINGLES :  Hua Hin 2 (Thailand) - Qualification,hard,header
+14.09. 09:45,Hou Y.,0,0,0,,,,0,3,61%,37% (7/19),0% (0/12),25% (2/8),0 km/h,0 km/h,25% (6/24),42% (5/12),0% (0/0),23% (7/31),31% (11/36),27% (18/67),3,0,0% (0/6),0% (0/6),0% (0/12),[],[],[],[],[],9.65
+14.09. 09:45,Gao X.,2,6,6,,,,2,0,67%,75% (18/24),58% (7/12),0% (0/0),0 km/h,0 km/h,63% (12/19),100% (12/12),75% (6/8),69% (25/36),77% (24/31),73% (49/67),7,0,100% (6/6),100% (6/6),100% (12/12),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.01
+ITF WOMEN - SINGLES :  W15 Tianjin (China),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 17 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+WTA - SINGLES :  Nanchang (China) - Qualification,hard,header
+14.10.2023,Hou Y.,0,2,6^1,,,,1,4,66%,49% (18/37),32% (6/19),33% (3/9),47% (16/34),35% (12/34),40% (4/10),43% (24/56),41% (28/68),42% (52/124),40% (4/10),40% (4/10),40% (8/20),[],"['2', '4', '4', '4', '5', '5', '6', '6']",[],[],[],6.99
+14.10.2023,Eikeri U.,2,6,7^7,,,,1,2,50%,53% (18/34),65% (22/34),60% (6/10),51% (19/37),68% (13/19),67% (6/9),59% (40/68),57% (32/56),58% (72/124),60% (6/10),60% (6/10),60% (12/20),"['3', '2', '5', '2']","['1', '0', '3', '0', '5', '4', '6', '5']",[],[],[],1.10
+ITF WOMEN - SINGLES :  W15 Hua Hin (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Shenzhen (China),hard,header
+ITF WOMEN - SINGLES :  W40 Nanchang (China),clay,header
+ITF WOMEN - SINGLES :  W15 Tianjin 3 (China),hard,header
+ITF WOMEN - SINGLES :  W15 Tianjin 2 (China),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header

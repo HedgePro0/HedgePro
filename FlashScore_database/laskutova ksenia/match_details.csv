@@ -1,46 +1,23 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W35 Solarino 3 (Italy),hard,header
+ITF WOMEN - SINGLES :  W35 Istanbul (Turkey),hard,header
 ITF WOMEN - SINGLES :  W75 Sao Paulo (Brazil),clay,header
 ITF WOMEN - SINGLES :  W50 Pilar (Argentina),clay,header
-ITF WOMEN - SINGLES :  W50 Pilar (Argentina),clay,header
-ITF WOMEN - SINGLES :  W50 Pilar (Argentina),clay,header
-ITF WOMEN - SINGLES :  W50 Pilar (Argentina),clay,header
-26.09. 18:30,Laskutova K.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],7.32
-26.09. 18:30,Sierra S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.06
-25.09. 18:00,Laskutova K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']","['3', '2', '5', '2']",[],[],[],1.07
-25.09. 18:00,Moyano L.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],7.04
 WTA - SINGLES :  Hua Hin 2 (Thailand),hard,header
-17.09. 09:35,Laskutova K.,0,1,0,,,,1,4,58%,50% (14/28),15% (3/20),33% (3/9),27% (9/33),50% (10/20),0% (0/5),3,35% (17/48),36% (19/53),36% (36/101),1,14% (1/7),0% (0/6),8% (1/13),[],[],[],[],[],8.98
-17.09. 09:35,Podoroska N.,2,6,6,,,,1,3,62%,73% (24/33),50% (10/20),100% (5/5),50% (14/28),85% (17/20),67% (6/9),7,64% (34/53),65% (31/48),64% (65/101),10,100% (6/6),86% (6/7),92% (12/13),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.07
+17.09. 09:35,Laskutova K.,0,1,0,,,,1,4,58%,50% (14/28),15% (3/20),33% (3/9),0 km/h,0 km/h,27% (9/33),50% (10/20),0% (0/5),35% (17/48),36% (19/53),36% (36/101),2,0,14% (1/7),0% (0/6),8% (1/13),[],[],[],[],[],8.98
+17.09. 09:35,Podoroska N.,2,6,6,,,,1,3,62%,73% (24/33),50% (10/20),100% (5/5),0 km/h,0 km/h,50% (14/28),85% (17/20),67% (6/9),64% (34/53),65% (31/48),64% (65/101),8,0,100% (6/6),86% (6/7),92% (12/13),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.07
 WTA - SINGLES :  Hua Hin 2 (Thailand) - Qualification,hard,header
-14.09. 12:35,Tang Q.,1,6,4,0,,,0,1,68%,50% (23/46),45% (10/22),33% (3/9),36% (13/36),63% (15/24),57% (4/7),10,49% (33/68),47% (28/60),48% (61/128),5,50% (6/12),36% (4/11),43% (10/23),"['2', '0', '6', '4']","['2', '0', '4', '0']",[],[],[],1.62
-14.09. 12:35,Laskutova K.,1,4,6,3,,,0,2,60%,64% (23/36),38% (9/24),43% (3/7),50% (23/46),55% (12/22),67% (6/9),9,53% (32/60),51% (35/68),52% (67/128),9,64% (7/11),50% (6/12),57% (13/23),"['4', '5']","['1', '4', '3', '4', '5', '4']","['1', '0', '3', '0']",[],[],2.31
+14.09. 12:35,Tang Q.,1,6,4,0,,,0,1,68%,50% (23/46),45% (10/22),33% (3/9),0 km/h,0 km/h,36% (13/36),63% (15/24),57% (4/7),49% (33/68),47% (28/60),48% (61/128),1,0,50% (6/12),36% (4/11),43% (10/23),"['2', '0', '6', '4']","['2', '0', '4', '0']",[],[],[],1.62
+14.09. 12:35,Laskutova K.,1,4,6,3,,,0,2,60%,64% (23/36),38% (9/24),43% (3/7),0 km/h,0 km/h,50% (23/46),55% (12/22),67% (6/9),53% (32/60),51% (35/68),52% (67/128),9,0,64% (7/11),50% (6/12),57% (13/23),"['4', '5']","['1', '4', '3', '4', '5', '4']","['1', '0', '3', '0']",[],[],2.31
 CHALLENGER WOMEN - SINGLES :  Bucharest (Romania) - Qualification,clay,header
-08.09. 15:05,Laskutova K.,1,6,2,5,,,3,4,62%,66% (37/56),35% (12/34),46% (6/13),38% (26/68),56% (19/34),38% (5/13),10,54% (49/90),44% (45/102),49% (94/192),4,53% (8/15),33% (5/15),43% (13/30),"['1', '2', '2', '3', '4', '3']",[],"['1', '2', '2', '3']",[],[],2.82
-08.09. 15:05,Ristic M.,2,4,6,7,,,1,2,67%,62% (42/68),44% (15/34),62% (8/13),34% (19/56),65% (22/34),54% (7/13),9,56% (57/102),46% (41/90),51% (98/192),6,67% (10/15),47% (7/15),57% (17/30),"['2', '0', '3', '1']","['4', '2', '6', '2']","['2', '0', '3', '1', '7', '5']",[],[],1.43
+08.09. 15:05,Laskutova K.,1,6,2,5,,,3,4,62%,66% (37/56),35% (12/34),46% (6/13),0 km/h,0 km/h,38% (26/68),56% (19/34),38% (5/13),54% (49/90),44% (45/102),49% (94/192),3,0,53% (8/15),33% (5/15),43% (13/30),"['1', '2', '2', '3', '4', '3']",[],"['1', '2', '2', '3']",[],[],2.82
+08.09. 15:05,Ristic M.,2,4,6,7,,,1,2,67%,62% (42/68),44% (15/34),62% (8/13),0 km/h,0 km/h,34% (19/56),65% (22/34),54% (7/13),56% (57/102),46% (41/90),51% (98/192),7,0,67% (10/15),47% (7/15),57% (17/30),"['2', '0', '3', '1']","['4', '2', '6', '2']","['2', '0', '3', '1', '7', '5']",[],[],1.43
 ITF WOMEN - SINGLES :  W50 Slobozia (Romania),clay,header
-04.09. 13:40,Laskutova K.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '0', '3', '2']",[],[],[],3.59
-04.09. 13:40,Cortez Llorca L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['1', '1', '3', '3', '6', '4']",[],[],[],1.26
-02.09. 19:45,Laskutova K.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '5', '3']","['4', '5', '6', '5']",[],[],[],1.25
-02.09. 19:45,Gae M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4']","['5', '3']",[],[],[],3.69
 ITF WOMEN - SINGLES :  W35 Brasov (Romania),clay,header
-28.08. 14:00,Laskutova K.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '4', '4', '4', '6', '4']","['2', '2', '3', '5']",[],[],1.68
-28.08. 14:00,Bojovic J.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '3']","['1', '0', '3', '0']","['2', '1', '3', '2', '5', '2', '6', '3']",[],[],2.10
 ITF WOMEN - SINGLES :  W35 Vrnjacka Banja (Serbia),clay,header
-21.08. 13:15,Laskutova K.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '2', '2', '5']",[],[],[],2.17
-21.08. 13:15,Encheva L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3', '4', '3', '6', '3']","['2', '0', '3', '1', '5', '1', '6', '2']",[],[],[],1.64
 ITF WOMEN - SINGLES :  W75 Kursumlijska Banja (Serbia),clay,header
-13.08. 16:40,Laskutova K.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '4', '3', '4']","['3', '1']",[],[],1.91
-13.08. 16:40,Bartashevich Y.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '5', '3']","['2', '3', '4', '3', '6', '3']",[],[],1.81
 ITF WOMEN - SINGLES :  W35 Koksijde (Belgium),clay,header
-09.08. 13:30,Laskutova K.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '3', '5', '4']","['2', '1']",[],[],1.72
-09.08. 13:30,Matoula M.,2,0,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '4', '4', '5', '5', '7', '5']","['3', '3', '6', '4']",[],[],2.02
-07.08. 13:40,Laskutova K.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '4', '6', '4']",[],"['1', '2', '3', '2', '5', '2', '6', '3']",[],[],1.44
-07.08. 13:40,Kozaki F.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']","['4', '3', '6', '3']","['2', '0', '3', '5']",[],[],2.65
-06.08. 17:40,Laskutova K.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4', '6', '5']","['2', '0', '5', '1']",[],[],[],1.14
-06.08. 17:40,Boehner L.,0,6^6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4', '5', '5', '6', '6']",[],[],[],[],5.14
 ITF WOMEN - SINGLES :  W35 Astana (Kazakhstan),hard,header
-23.07. 15:00,Laskutova K.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.79
-23.07. 15:00,Gasanova A.,1,6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '1']",[],[],[],1.40
 ITF WOMEN - SINGLES :  W35 Hillcrest (South Africa),hard,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 8 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 7 (Serbia),clay,header
@@ -49,71 +26,3 @@ ITF WOMEN - SINGLES :  W35 Kursumlijska Banja (Serbia),clay,header
 ITF WOMEN - SINGLES :  W35 Villach (Austria),clay,header
 ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),clay,header
 ITF WOMEN - SINGLES :  W15 Shymkent (Kazakhstan),hard,header
-ITF WOMEN - SINGLES :  W35 Bujumbura 2 (Burundi),clay,header
-ITF WOMEN - SINGLES :  W35 Bujumbura (Burundi),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Karaganda 2 (Kazakhstan),hard,header
-ITF WOMEN - SINGLES :  W15 Karaganda (Kazakhstan),hard,header
-ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
-ITF WOMEN - SINGLES :  W25 Nairobi 2 (Kenya),clay,header
-ITF WOMEN - SINGLES :  W25 Nairobi (Kenya),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 21 (Turkey),clay,header
-09.12.2023,Laskutova K.,0,6^7,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
-09.12.2023,Eraydin B.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
-09.12.2023,Laskutova K.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-09.12.2023,Balus I.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
-07.12.2023,Laskutova K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-07.12.2023,Stojanova J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.41
-ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
-ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
-ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
-ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header
-18.07.2023,Laskutova K.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '0', '3', '2', '4', '3']",[],[],[],1.66
-18.07.2023,Gabric A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '2']","['1', '1', '3', '3', '5', '5', '7', '5']",[],[],[],2.12
-ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
-12.06.2023,Laskutova K.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '4', '5']","['3', '4', '4', '5']",[],[],[],1.48
-12.06.2023,Scholl C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '5', '3', '6', '4']","['4', '2', '5', '3', '6', '4']",[],[],[],2.51
-ITF WOMEN - SINGLES :  W100 Trnava (Slovakia),clay,header
-09.05.2023,Laskutova K.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '2']","['1', '3', '3', '5']",[],[],1.97
-09.05.2023,Siskova A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']",[],"['1', '0', '3', '0', '4', '1', '6', '3']",[],[],1.75
-ITF WOMEN - SINGLES :  W100 Wiesbaden (Germany),clay,header
-03.05.2023,Laskutova K.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '2', '4']",[],[],[],5.05
-03.05.2023,Wickmayer Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '3', '0', '4', '1', '5', '2']",[],[],[],1.14
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W25 Bujumbura 2 (Burundi),clay,header
-ITF WOMEN - SINGLES :  W25 Bujumbura (Burundi),clay,header
-ITF WOMEN - SINGLES :  W40 Murska Sobota (Slovenia),hard,header
-ITF WOMEN - SINGLES :  W15 Gwalior (India),hard,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
-ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
-ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
-ITF WOMEN - SINGLES :  W15 Antalya 22 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W100 Les Franqueses del Valles (Spain),hard,header
-27.10.2022,Laskutova K.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.42
-27.10.2022,Lazaro Garcia A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '5', '2']",[],[],[],1.18
-26.10.2022,Laskutova K.,2,6^3,7^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['1', '0', '2', '1', '4', '5', '6', '5']","['2', '0', '4', '0']",[],[],1.83
-26.10.2022,Radisic N.,1,7^7,6^6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '1', '3', '3', '5', '3', '6', '6']",[],[],[],1.89
-ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 11 (Italy),clay,header
-ITF WOMEN - SINGLES :  W25 Sibenik (Croatia),clay,header
-ITF WOMEN - SINGLES :  W25 Lisbon (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi 3 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi 2 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi (Georgia),hard,header
-ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Monastir (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 50 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 49 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Antalya 36 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 35 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 34 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 33 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 32 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 31 (Turkey),clay,header

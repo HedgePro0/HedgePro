@@ -1,28 +1,271 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-17.07. 16:40,Coccioli A.,1,6,6^7,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '5', '4']","['4', '5']","['4', '4']",[],[],1.49
-17.07. 16:40,Di Natale G. M.,2,4,7^9,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['3', '1']","['1', '0']",[],[],2.50
 ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-26.06. 14:55,Coccioli A.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4', '5', '5']","['3', '5']",[],[],[],1.68
-26.06. 14:55,Malgaroli L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '5']","['2', '1', '4', '1', '6', '3']",[],[],[],2.10
 ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
-08.06. 21:05,Coccioli A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.60
-08.06. 21:05,Ferrari G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['3', '2', '6', '3']",[],[],[],1.06
-06.06. 13:40,Coccioli A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],2.18
-06.06. 13:40,Andre S.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
-05.06. 13:40,Coccioli A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0', '4', '1', '5', '2']",[],[],[],1.51
-05.06. 13:40,Banti C.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '2', '4']",[],[],[],2.45
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Ceuta (Spain),hard,header
-13.12.2023,Coccioli A.,1,6,0,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']",[],"['2', '5']",[],[],0
-13.12.2023,Barreto Sanchez D. A.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1', '6', '2']",[],[],0
 ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Ceuta (Spain),hard,header
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Ceuta (Spain),hard,header
+
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+
+
+
+
+17.07. 16:40,Coccioli A.,1,6,6^7,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '5', '4']","['4', '5']","['4', '4']",[],[],1.49
+
+
+
+
+
+
+
+17.07. 16:40,Di Natale G. M.,2,4,7^9,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['3', '1']","['1', '0']",[],[],2.50
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+
+
+
+
+
+
+
+26.06. 14:55,Coccioli A.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4', '5', '5']","['3', '5']",[],[],[],1.68
+
+
+
+
+
+
+
+26.06. 14:55,Malgaroli L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '5']","['2', '1', '4', '1', '6', '3']",[],[],[],2.10
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+
+
+
+
+
+
+
+08.06. 21:05,Coccioli A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.60
+
+
+
+
+
+
+
+08.06. 21:05,Ferrari G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['3', '2', '6', '3']",[],[],[],1.06
+
+
+
+
+
+
+
+06.06. 13:40,Coccioli A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],2.18
+
+
+
+
+
+
+
+06.06. 13:40,Andre S.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
+
+
+
+
+
+
+
+05.06. 13:40,Coccioli A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0', '4', '1', '5', '2']",[],[],[],1.51
+
+
+
+
+
+
+
+05.06. 13:40,Banti C.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '2', '4']",[],[],[],2.45
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ceuta (Spain),hard,header
+
+
+
+
+
+
+
+13.12.2023,Coccioli A.,1,6,0,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']",[],"['2', '5']",[],[],0
+
+
+
+
+
+
+
+13.12.2023,Barreto Sanchez D. A.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1', '6', '2']",[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+
+
+
+

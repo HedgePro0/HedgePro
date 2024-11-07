@@ -1,9 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Lincoln (USA),hard,header
 ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
 ITF WOMEN - SINGLES :  W75 Rancho Santa Fe,hard,header
-ITF WOMEN - SINGLES :  W75 Rancho Santa Fe,hard,header
-03.10. 02:00,Kinard T.,0,4,2,,,,"['2', '5', '4', '5']","['1', '4', '2', '5']",[],[],[],8.05
-03.10. 02:00,Joint M.,2,6,6,,,,"['3', '1', '5', '1', '6', '4']","['2', '0', '4', '0', '5', '1', '6', '2']",[],[],[],1.05
 ITF WOMEN - SINGLES :  W15 Lakewood,hard,header
 ITF WOMEN - SINGLES :  W15 Lakewood,hard,header
 ITF WOMEN - SINGLES :  W15 Los Angeles,hard,header
@@ -12,128 +10,30 @@ ITF WOMEN - SINGLES :  W15 San Diego,hard,header
 ITF WOMEN - SINGLES :  W15 San Diego,hard,header
 ITF WOMEN - SINGLES :  W15 San Diego,hard,header
 CHALLENGER WOMEN - SINGLES :  Midland (USA) - Qualification,hard,header
-ITF WOMEN - SINGLES :  W15 Lakewood,hard,header
-ITF WOMEN - SINGLES :  W15 Los Angeles,hard,header
-ITF WOMEN - SINGLES :  W15 Rancho Santa Fe,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-CHALLENGER WOMEN - SINGLES :  Midland (USA) - Qualification,hard,header
-ITF WOMEN - SINGLES :  W15 Lakewood,hard,header
-ITF WOMEN - SINGLES :  W15 Los Angeles,hard,header
-ITF WOMEN - SINGLES :  W15 Rancho Santa Fe,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-ITF WOMEN - SINGLES :  W15 San Diego,hard,header
-CHALLENGER WOMEN - SINGLES :  Midland (USA) - Qualification,hard,header
-29.10.2023,Kinard T.,0,6^5,5,,,,2,5,63%,53% (31/58),53% (18/34),55% (6/11),35% (14/40),47% (17/36),67% (4/6),7,53% (49/92),41% (31/76),48% (80/168),3,58% (7/12),33% (4/12),46% (11/24),"['3', '2']","['2', '4', '4', '4', '5', '5']",[],[],[],0
-29.10.2023,Beck C.,2,7^7,7,,,,3,3,53%,65% (26/40),53% (19/36),33% (2/6),47% (27/58),47% (16/34),45% (5/11),5,59% (45/76),47% (43/92),52% (88/168),3,67% (8/12),42% (5/12),54% (13/24),"['5', '5']","['1', '0', '4', '1', '5', '4', '6', '5']",[],[],[],0
+29.10.2023,Kinard T.,0,6^5,5,,,,2,5,63%,53% (31/58),53% (18/34),55% (6/11),35% (14/40),47% (17/36),67% (4/6),53% (49/92),41% (31/76),48% (80/168),58% (7/12),33% (4/12),46% (11/24),"['3', '2']","['2', '4', '4', '4', '5', '5']",[],[],[],0
+29.10.2023,Beck C.,2,7^7,7,,,,3,3,53%,65% (26/40),53% (19/36),33% (2/6),47% (27/58),47% (16/34),45% (5/11),59% (45/76),47% (43/92),52% (88/168),67% (8/12),42% (5/12),54% (13/24),"['5', '5']","['1', '0', '4', '1', '5', '4', '6', '5']",[],[],[],0
 ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-25.10.2023,Kinard T.,1,2,7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['3', '2', '6', '5']",[],[],[],4.89
-25.10.2023,Sleeth L.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['5', '5']","['2', '0', '4', '0']",[],[],1.15
 ITF WOMEN - SINGLES :  W60 Rancho Santa Fe,hard,header
-12.10.2023,Kinard T.,1,1,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['2', '0', '4', '2', '5', '5']","['1', '0']",[],[],8.35
-12.10.2023,Riera J.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['1', '2', '3', '4', '5', '4']","['1', '1', '4', '2', '6', '2']",[],[],1.05
 ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Kashiwa (Japan),hard,header
 ITF WOMEN - SINGLES :  W25 Karuizawa (Japan),grass,header
 ITF WOMEN - SINGLES :  W60 Fukuoka (Japan),hard,header
-10.05.2023,Kinard T.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.45
-10.05.2023,Saigo R.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']",[],[],[],[],1.12
 ITF WOMEN - SINGLES :  W15 Waco,hard,header
 ITF WOMEN - SINGLES :  W15 Champaign,hard,header
 ITF WOMEN - SINGLES :  W60 Las Vegas,hard,header
-13.10.2022,Kinard T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],7.40
-13.10.2022,Sakatsume H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
 ITF WOMEN - SINGLES :  W60 Pelham,clay,header
-18.05.2022,Kinard T.,1,6,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']",[],"['2', '2', '5', '3']",[],[],1.30
-18.05.2022,Newborn R.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']","['2', '1', '4', '5', '6', '5']",[],[],3.42
 ITF WOMEN - SINGLES :  W25 Vero Beach,clay,header
 ITF WOMEN - SINGLES :  W25 Naples,clay,header
 ITF WOMEN - SINGLES :  W25 Daytona Beach,clay,header
 ITF WOMEN - SINGLES :  W25 Orlando,clay,header
 ITF WOMEN - SINGLES :  W60 Las Vegas,hard,header
-05.10.2021,Kinard T.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],4.50
-05.10.2021,Chang S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],[],1.20
 WTA - SINGLES :  Cleveland (USA) - Qualification,hard,header
-21.08.2021,Kinard T.,0,3,5,,,,0,3,69%,57% (34/60),41% (11/27),69% (9/13),27% (9/33),47% (14/30),50% (2/4),4,52% (45/87),37% (23/63),45% (68/150),2,60% (6/10),18% (2/11),38% (8/21),"['2', '1']","['4', '4']",[],[],[],2.86
-21.08.2021,Harrison C.,2,6,7,,,,4,4,52%,70% (23/33),57% (17/30),50% (2/4),42% (25/60),63% (17/27),31% (4/13),8,63% (40/63),48% (42/87),55% (82/150),4,82% (9/11),40% (4/10),62% (13/21),"['2', '2', '4', '2']","['4', '3', '6', '5']",[],[],[],1.45
+21.08.2021,Kinard T.,0,3,5,,,,0,3,69%,57% (34/60),41% (11/27),69% (9/13),27% (9/33),47% (14/30),50% (2/4),52% (45/87),37% (23/63),45% (68/150),60% (6/10),18% (2/11),38% (8/21),"['2', '1']","['4', '4']",[],[],[],2.86
+21.08.2021,Harrison C.,2,6,7,,,,4,4,52%,70% (23/33),57% (17/30),50% (2/4),42% (25/60),63% (17/27),31% (4/13),63% (40/63),48% (42/87),55% (82/150),82% (9/11),40% (4/10),62% (13/21),"['2', '2', '4', '2']","['4', '3', '6', '5']",[],[],[],1.45
 CHALLENGER WOMEN - SINGLES :  Charleston (USA),clay,header
-29.07.2021,Kinard T.,0,2,3,,,,1,3,72%,52% (23/44),24% (4/17),25% (2/8),24% (8/33),36% (5/14),40% (2/5),6,44% (27/61),36% (17/47),41% (44/108),2,33% (3/9),25% (2/8),29% (5/17),"['1', '1']","['1', '1']",[],[],[],9.03
-29.07.2021,Lepchenko V.,2,6,6,,,,6,4,70%,76% (25/33),36% (5/14),60% (3/5),48% (21/44),59% (10/17),75% (6/8),10,64% (30/47),56% (34/61),59% (64/108),6,75% (6/8),67% (6/9),71% (12/17),"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '3', '6', '3']",[],[],[],1.07
-27.07.2021,Kinard T.,2,6,6,,,,0,0,62%,44% (16/36),59% (13/22),56% (5/9),63% (15/24),43% (16/37),47% (7/15),6,50% (29/58),59% (36/61),55% (65/119),6,56% (5/9),78% (7/9),67% (12/18),"['1', '0', '3', '0', '4', '1', '5', '2']","['1', '4', '3', '4', '5', '4']",[],[],[],1.10
-27.07.2021,Pate W.,0,2,4,,,,0,5,39%,38% (9/24),43% (16/37),53% (8/15),56% (20/36),41% (9/22),44% (4/9),4,41% (25/61),50% (29/58),45% (54/119),4,22% (2/9),44% (4/9),33% (6/18),"['1', '3', '2', '4']","['2', '0', '4', '0']",[],[],[],7.20
+29.07.2021,Kinard T.,0,2,3,,,,1,3,72%,52% (23/44),24% (4/17),25% (2/8),24% (8/33),36% (5/14),40% (2/5),44% (27/61),36% (17/47),41% (44/108),33% (3/9),25% (2/8),29% (5/17),"['1', '1']","['1', '1']",[],[],[],9.03
+29.07.2021,Lepchenko V.,2,6,6,,,,6,4,70%,76% (25/33),36% (5/14),60% (3/5),48% (21/44),59% (10/17),75% (6/8),64% (30/47),56% (34/61),59% (64/108),75% (6/8),67% (6/9),71% (12/17),"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '3', '6', '3']",[],[],[],1.07
+27.07.2021,Kinard T.,2,6,6,,,,0,0,62%,44% (16/36),59% (13/22),56% (5/9),63% (15/24),43% (16/37),47% (7/15),50% (29/58),59% (36/61),55% (65/119),56% (5/9),78% (7/9),67% (12/18),"['1', '0', '3', '0', '4', '1', '5', '2']","['1', '4', '3', '4', '5', '4']",[],[],[],1.10
+27.07.2021,Pate W.,0,2,4,,,,0,5,39%,38% (9/24),43% (16/37),53% (8/15),56% (20/36),41% (9/22),44% (4/9),41% (25/61),50% (29/58),45% (54/119),22% (2/9),44% (4/9),33% (6/18),"['1', '3', '2', '4']","['2', '0', '4', '0']",[],[],[],7.20
 ITF WOMEN - SINGLES :  W25 Evansville,hard,header
 ITF WOMEN - SINGLES :  W25 Pelham,clay,header
-ITF WOMEN - SINGLES :  W25 Malibu (USA),hard,header
-ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
-30.10.2018,Kinard T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],4.70
-30.10.2018,Ignatik A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['2', '0', '6', '2']",[],[],[],1.18
-ITF WOMEN - SINGLES :  Tokyo (Japan),hard,header
-09.11.2017,Kinard T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5']","['3', '4', '4', '5']",[],[],[],4.56
-09.11.2017,Brescia G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2', '6', '3']","['3', '1', '5', '3', '6', '4']",[],[],[],1.21
-08.11.2017,Kinard T.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['3', '1', '6', '4']",[],[],[],0
-08.11.2017,Sawayanagi R.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4']","['3', '4']",[],[],[],0
-ITF WOMEN - SINGLES :  Toyota (Japan),hard,header
-WTA - SINGLES :  Seoul (South Korea) - Qualification,hard,header
-17.09.2016,Kinard T.,1,6,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']",[],[],[],[],5.80
-17.09.2016,Chang K-C.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],1.16
-ITF WOMEN - SINGLES :  Kurume (Japan),grass,header
-ITF WOMEN - SINGLES :  Gifu (Japan),hard,header
-WTA - SINGLES :  Kaohsiung (Taiwan) - Qualification,hard,header
-06.02.2016,Kinard T.,1,7^7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['1', '0']","['1', '3']",[],[],4.20
-06.02.2016,Kichenok L.,2,6^2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '1', '3', '1']","['1', '0', '3', '0', '5', '2']",[],[],1.26
-ITF WOMEN - SINGLES :  Seoul (South Korea),hard,header
-ITF WOMEN - SINGLES :  Toyota (Japan),hard,header
-WTA - SINGLES :  Osaka (Japan) - Qualification,hard,header
-06.10.2014,Kinard T.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '2']","['2', '1']",[],[],3.75
-06.10.2014,Bogdan A.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '4']","['3', '3', '6', '4']",[],[],1.31
-05.10.2014,Kinard T.,2,6,1,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3', '6', '4']","['1', '1']","['1', '0', '3', '0', '4', '1', '5', '4', '6', '5']",[],[],3.85
-05.10.2014,De Vroome I.,1,4,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['1', '0', '2', '1', '4', '1', '6', '1']","['1', '3', '2', '4', '4', '4', '5', '5']",[],[],1.29
-04.10.2014,Kinard T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.06
-04.10.2014,Sakata K.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
-ITF WOMEN - SINGLES :  Albuquerque (USA),hard,header
-WTA - SINGLES :  Quebec City (Canada) - Qualification,hard,header
-07.09.2014,Kinard T.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3', '5', '4']","['1', '2', '2', '3', '4', '5']",[],[],3.00
-07.09.2014,Marand S.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '5', '7', '5']","['2', '0', '3', '1', '5', '3', '6', '4']",[],[],1.40
-ITF WOMEN - SINGLES :  Carson (USA),hard,header
-ITF WOMEN - SINGLES :  Sacramento (USA),hard,header
-ITF WOMEN - SINGLES :  Kurume (Japan),grass,header
-ITF WOMEN - SINGLES :  Fukuoka (Japan),grass,header
-ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  Saguenay (Canada),hard,header
-ITF WOMEN - SINGLES :  Albuquerque (USA),hard,header
-18.09.2013,Kinard T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.09.2013,Daniilidou E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['4', '2', '6', '2']",[],[],[],0
-WTA - SINGLES :  Stanford (USA) - Qualification,hard,header
-21.07.2013,Kinard T.,1,4,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '1', '5', '2']","['1', '0', '2', '3', '4', '5']",[],[],0
-21.07.2013,Dabrowski G.,2,6,2,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3', '6', '4']",[],"['1', '1', '3', '1', '5', '3', '7', '5']",[],[],0
-ITF WOMEN - SINGLES :  Waterloo (Canada),clay,header
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header
-18.05.2013,Kinard T.,1,7^7,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '4', '6', '5']","['2', '2']",[],[],[],0
-18.05.2013,Shinikova I.,2,6^3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3', '5', '5', '6', '6']","['1', '0', '3', '2']","['1', '0', '3', '0', '6', '1']",[],[],0
-ITF WOMEN - SINGLES :  Nishi-Tama (Japan),hard,header
-ITF WOMEN - SINGLES :  Kofu (Japan),hard,header
-ITF WOMEN - SINGLES :  Preston (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Glasgow (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  Edgbaston (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  Loughborough (United Kingdom),hard,header
-WTA - SINGLES :  Luxembourg (Luxembourg) - Qualification,hard,header
-13.10.2012,Kinard T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],0
-13.10.2012,Maria T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['4', '3']",[],[],[],0
-WTA - SINGLES :  Quebec City (Canada) - Qualification,hard,header
-08.09.2012,Kinard T.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '3', '2']",[],[],[],0
-08.09.2012,Scholl C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4', '6', '4']","['1', '1', '3', '3', '5', '3']",[],[],[],0
-WTA - SINGLES :  Montreal (Canada) - Qualification,hard,header
-05.08.2012,Kinard T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],0
-05.08.2012,Rezai A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['5', '4']",[],[],[],0
-04.08.2012,Kinard T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '7', '5']","['3', '3', '5', '3']",[],[],[],0
-04.08.2012,Cohen J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '1']",[],[],[],0
-WTA - SINGLES :  Washington (USA) - Qualification,hard,header
-27.07.2012,Kinard T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']","['1', '1']",[],[],[],0
-27.07.2012,Davis L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3', '5', '4']","['1', '0', '2', '1', '4', '1']",[],[],[],0
-ITF WOMEN - SINGLES :  Denver (USA),hard,header
-ITF WOMEN - SINGLES :  Sacramento (USA),hard,header
-ITF WOMEN - SINGLES :  Troy (USA) - Qualification,hard,header
-ITF WOMEN - SINGLES :  Kansas (USA) - Qualification,hard,header
-ITF WOMEN - SINGLES :  Redding (USA),hard,header

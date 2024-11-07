@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
@@ -8,70 +8,344 @@ ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
 BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-09.07.2023,Dzhenev A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-09.07.2023,Ghibaudo A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1']",[],[],[],0
 BOYS - SINGLES :  French Open (France),clay,header
-07.06.2023,Dzhenev A.,1,3,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['2', '0']","['1', '0', '3', '2']",[],[],0
-07.06.2023,Blanch Dar.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['3', '4']","['1', '1', '3', '3', '5', '3']",[],[],0
-06.06.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '2', '1', '4', '3', '6', '3']",[],[],[],0
-06.06.2023,Coman M. A.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],0
-04.06.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],0
-04.06.2023,Ribeiro de Almeida G.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '1', '2', '2']",[],[],[],0
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-05.05.2023,Dzhenev A.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.30
-05.05.2023,Tabur C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-04.05.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-04.05.2023,Hamza Reguig S.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-02.05.2023,Dzhenev A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
-02.05.2023,Habib H.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
 ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
 BOYS - SINGLES :  Australian Open (Australia),hard,header
-25.01.2023,Dzhenev A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-25.01.2023,Blockx A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1']",[],[],[],0
-23.01.2023,Dzhenev A.,2,7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '4', '4', '7', '5']",[],[],[],[],0
-23.01.2023,Ludoski Z.,0,5,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '4', '3']",[],[],[],[],0
-21.01.2023,Dzhenev A.,2,6,2,7^10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '5']",[],[],[],0
-21.01.2023,Bigun K.,1,3,6,6^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1', '6', '2']",[],[],[],0
 ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
 ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+09.07.2023,Dzhenev A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+09.07.2023,Ghibaudo A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1']",[],[],[],0
+
+
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+
+
+07.06.2023,Dzhenev A.,1,3,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['2', '0']","['1', '0', '3', '2']",[],[],0
+
+
+
+07.06.2023,Blanch Dar.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['3', '4']","['1', '1', '3', '3', '5', '3']",[],[],0
+
+
+
+06.06.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '2', '1', '4', '3', '6', '3']",[],[],[],0
+
+
+
+06.06.2023,Coman M. A.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],0
+
+
+
+04.06.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],0
+
+
+
+04.06.2023,Ribeiro de Almeida G.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '1', '2', '2']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+05.05.2023,Dzhenev A.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.30
+
+
+
+05.05.2023,Tabur C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
+
+
+
+04.05.2023,Dzhenev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
+
+
+
+04.05.2023,Hamza Reguig S.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
+
+
+
+02.05.2023,Dzhenev A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
+
+
+
+02.05.2023,Habib H.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+25.01.2023,Dzhenev A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+25.01.2023,Blockx A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1']",[],[],[],0
+
+
+
+23.01.2023,Dzhenev A.,2,7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '4', '4', '7', '5']",[],[],[],[],0
+
+
+
+23.01.2023,Ludoski Z.,0,5,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '4', '3']",[],[],[],[],0
+
+
+
+21.01.2023,Dzhenev A.,2,6,2,7^10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '5']",[],[],[],0
+
+
+
+21.01.2023,Bigun K.,1,3,6,6^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1', '6', '2']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+
+
+

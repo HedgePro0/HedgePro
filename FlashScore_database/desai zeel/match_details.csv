@@ -1,26 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Heraklion (Greece),clay,header
 ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
-04.09. 15:15,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['1', '1', '4', '2', '5', '3']",[],[],[],13.40
-04.09. 15:15,Lekomtseva U.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '4']",[],[],[],0
 ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
-31.08. 13:35,Desai Z.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '1', '4', '3', '5', '4']","['2', '3', '3', '4']",[],[],2.62
-31.08. 13:35,Geerlings Martinez A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['2', '2', '4', '4']","['3', '1', '4', '2', '5', '3']",[],[],1.45
-30.08. 13:35,Desai Z.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']",[],"['2', '0', '3', '1']",[],[],1.62
-30.08. 13:35,Villet M.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['2', '0', '5', '1']","['1', '2']",[],[],2.20
-29.08. 13:40,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.19
-29.08. 13:40,Bougouffa H.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],4.27
-28.08. 15:55,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.20
-28.08. 15:55,Zabolotnaia E.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.18
 ITF WOMEN - SINGLES :  W35 Mohammedia (Morocco),clay,header
-30.07. 15:40,Desai Z.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],3.77
-30.07. 15:40,Dmitruk K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '0', '3', '1', '5', '1']",[],[],[],1.24
 ITF WOMEN - SINGLES :  W35 Casablanca (Morocco),clay,header
-25.07. 15:30,Desai Z.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.66
-25.07. 15:30,Rakotomanga Rajaonah T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['3', '2', '5', '2']",[],[],[],1.17
-24.07. 17:35,Desai Z.,2,2,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['6', '5']","['1', '0', '3', '2', '5', '2', '6', '3']",[],[],2.13
-24.07. 17:35,Sugnaux T.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']",[],"['2', '2', '3', '5']",[],[],1.66
 ITF WOMEN - SINGLES :  W15 Casablanca (Morocco),clay,header
 ITF WOMEN - SINGLES :  W35 Aschaffenburg (Germany),clay,header
 ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
@@ -35,89 +18,12 @@ ITF WOMEN - SINGLES :  W35 Gurugram (India),hard,header
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header
 ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat (Thailand),hard,header
 CHALLENGER WOMEN - SINGLES :  Mumbai (India) - Qualification,hard,header
-04.02. 14:50,Desai Z.,0,5,0,,,,0,4,57%,45% (9/20),27% (4/15),20% (1/5),27% (9/33),75% (21/28),23% (3/13),4,38% (13/34),49% (30/61),45% (43/95),2,33% (2/6),50% (3/6),42% (5/12),"['1', '0', '3', '4', '4', '5']",[],[],[],[],5.69
-04.02. 14:50,Sakatsume H.,1,7,0,,,,1,3,54%,73% (24/33),25% (7/28),77% (10/13),55% (11/20),73% (11/15),80% (4/5),8,51% (31/61),62% (21/34),55% (52/95),4,50% (3/6),67% (4/6),58% (7/12),"['1', '1', '3', '1', '5', '3', '7', '5']",[],[],[],[],1.12
-03.02. 14:05,Desai Z.,2,6,6,,,,2,2,59%,83% (19/23),63% (10/16),0% (0/0),45% (9/20),60% (18/30),71% (5/7),5,74% (29/39),54% (27/50),63% (56/89),7,100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],2.53
-03.02. 14:05,Sakellaridi S.,0,2,1,,,,3,0,40%,55% (11/20),40% (12/30),29% (2/7),17% (4/23),38% (6/16),0% (0/0),5,46% (23/50),26% (10/39),37% (33/89),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],1.49
+04.02. 14:50,Desai Z.,0,5,0,,,,0,4,57%,45% (9/20),27% (4/15),20% (1/5),27% (9/33),75% (21/28),23% (3/13),38% (13/34),49% (30/61),45% (43/95),2,0,33% (2/6),50% (3/6),42% (5/12),"['1', '0', '3', '4', '4', '5']",[],[],[],[],5.69
+04.02. 14:50,Sakatsume H.,1,7,0,,,,1,3,54%,73% (24/33),25% (7/28),77% (10/13),55% (11/20),73% (11/15),80% (4/5),51% (31/61),62% (21/34),55% (52/95),8,0,50% (3/6),67% (4/6),58% (7/12),"['1', '1', '3', '1', '5', '3', '7', '5']",[],[],[],[],1.12
+03.02. 14:05,Desai Z.,2,6,6,,,,2,2,59%,83% (19/23),63% (10/16),0% (0/0),45% (9/20),60% (18/30),71% (5/7),74% (29/39),54% (27/50),63% (56/89),7,0,100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],2.53
+03.02. 14:05,Sakellaridi S.,0,2,1,,,,3,0,40%,55% (11/20),40% (12/30),29% (2/7),17% (4/23),38% (6/16),0% (0/0),46% (23/50),26% (10/39),37% (33/89),3,0,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],1.49
 ITF WOMEN - SINGLES :  W50 Indore (India),hard,header
-31.01. 10:10,Desai Z.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '3']",[],[],[],4.71
-31.01. 10:10,Monnet C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['3', '1', '5', '3']",[],[],[],1.16
 ITF WOMEN - SINGLES :  W50 Pune (India),hard,header
-25.01. 11:40,Desai Z.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],7.60
-25.01. 11:40,Eala A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.06
-24.01. 15:10,Desai Z.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '4', '0', '6', '2']",[],[],[],3.43
-24.01. 15:10,Bhosale R.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['1', '4']",[],[],[],1.28
 ITF WOMEN - SINGLES :  W40 Navi Mumbai (India),hard,header
 ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
 ITF WOMEN - SINGLES :  W25 Bengaluru 2 (India),clay,header
-ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
-21.10.2023,Desai Z.,1,7,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-21.10.2023,Nahum G.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.57
-20.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
-20.10.2023,Wildgruber A.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.83
-19.10.2023,Desai Z.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-19.10.2023,Hrda L.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.50
-18.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.01
-18.10.2023,Senties X.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],18.00
-ITF WOMEN - SINGLES :  W15 Monastir 36 (Tunisia),hard,header
-15.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
-15.10.2023,Inoue H.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-14.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.45
-14.10.2023,Gavrila O.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.50
-13.10.2023,Desai Z.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.40
-13.10.2023,Wildgruber A.,0,6^3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.78
-12.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
-12.10.2023,Rothensteiner L.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.50
-10.10.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.01
-10.10.2023,Senties X.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],12.00
-ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 4 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 3 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Kachreti 2 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Kachreti (Georgia),hard,header
-ITF WOMEN - SINGLES :  W40 Bengaluru (India),hard,header
-ITF WOMEN - SINGLES :  W15 Gurugram (India),hard,header
-25.02.2023,Desai Z.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-25.02.2023,Rao S. S.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
-24.02.2023,Marcinkevica D.,0,4,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.83
-24.02.2023,Desai Z.,0,3,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.88
-23.02.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.01
-23.02.2023,Ingale P.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],12.00
-22.02.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.04
-22.02.2023,Liu M.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.60
-ITF WOMEN - SINGLES :  W15 Jhajjar 2 (India),clay,header
-ITF WOMEN - SINGLES :  W15 Jhajjar (India),clay,header
-11.02.2023,Desai Z.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.22
-11.02.2023,Chaudhari V.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.31
-10.02.2023,Desai Z.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.24
-10.02.2023,Ersoz V.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.72
-09.02.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.10
-09.02.2023,Simunyu C.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.20
-08.02.2023,Desai Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.01
-08.02.2023,Bhatia K.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.50
-ITF WOMEN - SINGLES :  W40 Bhopal (India),hard,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
-ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
-ITF WOMEN - SINGLES :  W15 Oberpullendorf (Austria),hard,header
-ITF WOMEN - SINGLES :  W25 Hua Hin 2 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
-ITF WOMEN - SINGLES :  W25 Parnu (Estonia),clay,header
-ITF WOMEN - SINGLES :  W15 Kottingbrunn 2 (Austria),clay,header
-ITF WOMEN - SINGLES :  W15 Kottingbrunn (Austria),clay,header
-ITF WOMEN - SINGLES :  W25 Gurugram 2 (India),hard,header
-ITF WOMEN - SINGLES :  W25 Gurugram (India),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi 3 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi 2 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25+H Tossa de Mar (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Chiang Rai 2 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Chiang Rai (Thailand),hard,header
-ITF WOMEN - SINGLES :  W15 Nagpur (India),clay,header
-ITF WOMEN - SINGLES :  W15 Ahmedabad (India),clay,header
-ITF WOMEN - SINGLES :  W15 Gurugram (India),hard,header
-ITF WOMEN - SINGLES :  W15 Jhajjar (India),clay,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header

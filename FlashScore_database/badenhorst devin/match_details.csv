@@ -1,18 +1,6 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-02.08. 13:30,Badenhorst D.,1,5,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['3', '1']",[],[],[],1.62
-02.08. 13:30,Hazawa S.,1,7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '5']",[],"['2', '0']",[],[],2.20
-01.08. 13:30,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1']",[],[],[],1.18
-01.08. 13:30,Herrmann T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.47
-31.07. 15:20,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],1.24
-31.07. 15:20,Makhlouf N.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.77
 ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-26.07. 14:00,Badenhorst D.,0,6^6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],1.50
-26.07. 14:00,Ouakaa A.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],2.47
-25.07. 13:40,Badenhorst D.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0']","['5', '4']",[],[],1.15
-25.07. 13:40,Delicata L.,1,7^7,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],4.99
-24.07. 19:40,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['3', '2', '6', '3']",[],[],[],1.29
-24.07. 19:40,Lalami Laaroussi Y.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.37
 ITF MEN - SINGLES :  M15 Hillcrest 2 (South Africa),hard,header
 ITF MEN - SINGLES :  M25 Hillcrest (South Africa),hard,header
 ITF MEN - SINGLES :  M15 Hillcrest (South Africa),hard,header
@@ -21,38 +9,483 @@ ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Monastir 5 (Tunisia),hard,header
 ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
-12.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],0
-12.08.2023,Mhwandagara T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ATP - SINGLES :  Davis Cup - Group III (World),-,header
-11.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],0
-11.08.2023,Padio H.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-10.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '6', '3']",[],[],[],0
-10.08.2023,Coulibaly F.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-09.08.2023,Badenhorst D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['5', '5']",[],[],[],0
-09.08.2023,Sahtali T.,0,2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['4', '3']",[],[],[],0
 ITF MEN - SINGLES :  M25 Roehampton 2 (United Kingdom),hard,header
-02.08.2023,Badenhorst D.,1,2,7^10,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],6.11
-02.08.2023,Loffhagen G.,2,6,6^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0']","['2', '0', '4', '0']",[],[],1.10
-01.08.2023,Badenhorst D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['3', '2']",[],[],[],1.30
-01.08.2023,Habib A.,0,4,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],3.42
 ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
-19.07.2023,Badenhorst D.,0,6^6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['3', '1']",[],[],[],3.56
-19.07.2023,Monday J.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5']","['3', '4', '5', '4']",[],[],[],1.26
-18.07.2023,Badenhorst D.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']",[],"['3', '1']",[],[],1.44
-18.07.2023,Blaydes F.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['5', '3']",[],[],[],2.63
 ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),grass,header
-12.07.2023,Badenhorst D.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],4.57
-12.07.2023,Harris B.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1', '4', '1']",[],[],[],1.17
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Monastir 3 (Tunisia),hard,header
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-05.02.2023,Badenhorst D.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['1', '1', '4', '4']",[],[],[],0
-05.02.2023,Calzi R.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['1', '0', '2', '1', '6', '5']",[],[],[],0
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-ITF MEN - SINGLES :  M25 Pretoria (South Africa),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Hillcrest 2 (South Africa),hard,header
+ITF MEN - SINGLES :  M25 Hillcrest (South Africa),hard,header
+ITF MEN - SINGLES :  M15 Hillcrest (South Africa),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 5 (Tunisia),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Roehampton 2 (United Kingdom),hard,header
+ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+
+
+02.08. 13:30,Badenhorst D.,1,5,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['3', '1']",[],[],[],1.62
+
+
+
+
+
+
+
+02.08. 13:30,Hazawa S.,1,7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '5']",[],"['2', '0']",[],[],2.20
+
+
+
+
+
+
+
+01.08. 13:30,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1']",[],[],[],1.18
+
+
+
+
+
+
+
+01.08. 13:30,Herrmann T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.47
+
+
+
+
+
+
+
+31.07. 15:20,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],1.24
+
+
+
+
+
+
+
+31.07. 15:20,Makhlouf N.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.77
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+
+
+
+
+
+
+
+26.07. 14:00,Badenhorst D.,0,6^6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],1.50
+
+
+
+
+
+
+
+26.07. 14:00,Ouakaa A.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],2.47
+
+
+
+
+
+
+
+25.07. 13:40,Badenhorst D.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0']","['5', '4']",[],[],1.15
+
+
+
+
+
+
+
+25.07. 13:40,Delicata L.,1,7^7,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],4.99
+
+
+
+
+
+
+
+24.07. 19:40,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['3', '2', '6', '3']",[],[],[],1.29
+
+
+
+
+
+
+
+24.07. 19:40,Lalami Laaroussi Y.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.37
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Hillcrest 2 (South Africa),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Hillcrest (South Africa),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Hillcrest (South Africa),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 5 (Tunisia),hard,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
+
+
+
+
+
+
+
+12.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],0
+
+
+
+
+
+
+
+12.08.2023,Mhwandagara T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+
+
+
+
+
+
+
+11.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],0
+
+
+
+
+
+
+
+11.08.2023,Padio H.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+10.08.2023,Badenhorst D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '6', '3']",[],[],[],0
+
+
+
+
+
+
+
+10.08.2023,Coulibaly F.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+09.08.2023,Badenhorst D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['5', '5']",[],[],[],0
+
+
+
+
+
+
+
+09.08.2023,Sahtali T.,0,2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['4', '3']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Roehampton 2 (United Kingdom),hard,header
+
+
+
+
+
+
+
+02.08.2023,Badenhorst D.,1,2,7^10,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],6.11
+
+
+
+
+
+
+
+02.08.2023,Loffhagen G.,2,6,6^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0']","['2', '0', '4', '0']",[],[],1.10
+
+
+
+
+
+
+
+01.08.2023,Badenhorst D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['3', '2']",[],[],[],1.30
+
+
+
+
+
+
+
+01.08.2023,Habib A.,0,4,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],3.42
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
+
+
+
+
+
+
+
+19.07.2023,Badenhorst D.,0,6^6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['3', '1']",[],[],[],3.56
+
+
+
+
+
+
+
+19.07.2023,Monday J.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5']","['3', '4', '5', '4']",[],[],[],1.26
+
+
+
+
+
+
+
+18.07.2023,Badenhorst D.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']",[],"['3', '1']",[],[],1.44
+
+
+
+
+
+
+
+18.07.2023,Blaydes F.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['5', '3']",[],[],[],2.63
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),grass,header
+
+
+
+
+
+
+
+12.07.2023,Badenhorst D.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],4.57
+
+
+
+
+
+
+
+12.07.2023,Harris B.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1', '4', '1']",[],[],[],1.17
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 4 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Monastir 3 (Tunisia),hard,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+
+
+
+
+
+
+05.02.2023,Badenhorst D.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['1', '1', '4', '4']",[],[],[],0
+
+
+
+
+
+
+
+05.02.2023,Calzi R.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['1', '0', '2', '1', '6', '5']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pretoria (South Africa),hard,header
+
+
+
+
+
+
+

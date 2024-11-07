@@ -1,42 +1,192 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES :  M15 Tokyo 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Tokyo 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-28.12.2023,Katayama S.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.97
-28.12.2023,Hara Friend J. D.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
-27.12.2023,Katayama S.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.85
-27.12.2023,Shiraishi H.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.08
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
-07.11.2023,Katayama S.,0,0,4,,,,0,2,84%,42% (22/52),50% (5/10),57% (8/14),23% (7/31),62% (13/21),50% (2/4),4,44% (27/62),38% (20/52),41% (47/114),2,25% (2/8),25% (2/8),25% (4/16),[],"['2', '4', '3', '5']",[],[],[],5.40
-07.11.2023,Blancaneaux G.,2,6,6,,,,5,4,60%,77% (24/31),38% (8/21),50% (2/4),58% (30/52),50% (5/10),43% (6/14),7,62% (32/52),56% (35/62),59% (67/114),10,75% (6/8),75% (6/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '2']",[],[],[],1.13
-CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
-08.11.2022,Katayama S.,0,5,4,,,,2,1,72%,53% (33/62),54% (13/24),60% (6/10),21% (9/43),61% (11/18),100% (2/2),5,53% (46/86),33% (20/61),45% (66/147),3,64% (7/11),18% (2/11),41% (9/22),"['1', '0']","['2', '1']",[],[],[],6.95
-08.11.2022,Hsu Y. H.,2,7,6,,,,13,1,70%,79% (34/43),39% (7/18),0% (0/2),47% (29/62),46% (11/24),40% (4/10),8,67% (41/61),47% (40/86),55% (81/147),4,82% (9/11),36% (4/11),59% (13/22),"['3', '3', '7', '5']","['4', '4', '6', '4']",[],[],[],1.08
-CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
-ITF MEN - SINGLES :  Costa Mesa 2 (USA),hard,header
-ITF MEN - SINGLES :  Claremont (USA),hard,header
-ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
-ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
-ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
-ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
-ITF MEN - SINGLES :  Bangkok (Thailand),hard,header
-ITF MEN - SINGLES :  Tsukuba (Japan),hard,header
-ITF MEN - SINGLES :  Kofu (Japan),hard,header
-ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
-ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
-19.11.2012,Katayama S.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-19.11.2012,Moriya H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],0
-ITF MEN - SINGLES :  Oarai (Japan),hard,header
-ITF MEN - SINGLES :  Kashiwa (Japan),hard,header
-ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
+04.11. 09:45,Katayama S.,0,1,2,,,,1,1,61%,45% (14/31),50% (10/20),43% (3/7),18% (5/28),43% (9/21),0% (0/2),47% (24/51),29% (14/49),38% (38/100),2,1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],13.30
+04.11. 09:45,Atmane T.,2,6,6,,,,12,4,57%,82% (23/28),57% (12/21),100% (2/2),55% (17/31),50% (10/20),57% (4/7),71% (35/49),53% (27/51),62% (62/100),8,0,100% (8/8),57% (4/7),80% (12/15),"['2', '0', '4', '0']","['3', '2', '5', '2']",[],[],[],1.01
+ITF MEN - SINGLES :  M15 Tokyo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
+07.11.2023,Katayama S.,0,0,4,,,,0,2,84%,42% (22/52),50% (5/10),57% (8/14),23% (7/31),62% (13/21),50% (2/4),44% (27/62),38% (20/52),41% (47/114),25% (2/8),25% (2/8),25% (4/16),[],"['2', '4', '3', '5']",[],[],[],5.40
+07.11.2023,Blancaneaux G.,2,6,6,,,,5,4,60%,77% (24/31),38% (8/21),50% (2/4),58% (30/52),50% (5/10),43% (6/14),62% (32/52),56% (35/62),59% (67/114),75% (6/8),75% (6/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '2']",[],[],[],1.13
+CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
+08.11.2022,Katayama S.,0,5,4,,,,2,1,72%,53% (33/62),54% (13/24),60% (6/10),21% (9/43),61% (11/18),100% (2/2),53% (46/86),33% (20/61),45% (66/147),64% (7/11),18% (2/11),41% (9/22),"['1', '0']","['2', '1']",[],[],[],6.95
+08.11.2022,Hsu Y. H.,2,7,6,,,,13,1,70%,79% (34/43),39% (7/18),0% (0/2),47% (29/62),46% (11/24),40% (4/10),67% (41/61),47% (40/86),55% (81/147),82% (9/11),36% (4/11),59% (13/22),"['3', '3', '7', '5']","['4', '4', '6', '4']",[],[],[],1.08
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Costa Mesa 2 (USA),hard,header
+ITF MEN - SINGLES :  Claremont (USA),hard,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
+ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
+ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
+ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
+ITF MEN - SINGLES :  Bangkok (Thailand),hard,header
+ITF MEN - SINGLES :  Tsukuba (Japan),hard,header
+ITF MEN - SINGLES :  Kofu (Japan),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
+ITF MEN - SINGLES :  M15 Tokyo 2 (Japan),hard,header
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Tokyo 2 (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+
+
+
+28.12.2023,Katayama S.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.97
+
+
+
+28.12.2023,Hara Friend J. D.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
+
+
+
+27.12.2023,Katayama S.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.85
+
+
+
+27.12.2023,Shiraishi H.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.08
+
+
+
+CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
+
+
+
+07.11.2023,Katayama S.,0,0,4,,,,0,2,84%,42% (22/52),50% (5/10),57% (8/14),23% (7/31),62% (13/21),50% (2/4),4,44% (27/62),38% (20/52),41% (47/114),2,25% (2/8),25% (2/8),25% (4/16),[],"['2', '4', '3', '5']",[],[],[],5.40
+
+
+
+07.11.2023,Blancaneaux G.,2,6,6,,,,5,4,60%,77% (24/31),38% (8/21),50% (2/4),58% (30/52),50% (5/10),43% (6/14),7,62% (32/52),56% (35/62),59% (67/114),10,75% (6/8),75% (6/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '2']",[],[],[],1.13
+
+
+
+CHALLENGER MEN - SINGLES :  Matsuyama (Japan),hard,header
+
+
+
+08.11.2022,Katayama S.,0,5,4,,,,2,1,72%,53% (33/62),54% (13/24),60% (6/10),21% (9/43),61% (11/18),100% (2/2),5,53% (46/86),33% (20/61),45% (66/147),3,64% (7/11),18% (2/11),41% (9/22),"['1', '0']","['2', '1']",[],[],[],6.95
+
+
+
+08.11.2022,Hsu Y. H.,2,7,6,,,,13,1,70%,79% (34/43),39% (7/18),0% (0/2),47% (29/62),46% (11/24),40% (4/10),8,67% (41/61),47% (40/86),55% (81/147),4,82% (9/11),36% (4/11),59% (13/22),"['3', '3', '7', '5']","['4', '4', '6', '4']",[],[],[],1.08
+
+
+
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Costa Mesa 2 (USA),hard,header
+
+
+
+ITF MEN - SINGLES :  Claremont (USA),hard,header
+
+
+
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
+
+
+
+ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
+
+
+
+ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
+
+
+
+ITF MEN - SINGLES :  Bangkok (Thailand),hard,header
+
+
+
+ITF MEN - SINGLES :  Tsukuba (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Kofu (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+
+
+
+19.11.2012,Katayama S.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+19.11.2012,Moriya H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  Oarai (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Kashiwa (Japan),hard,header
+
+
+
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+
+
+

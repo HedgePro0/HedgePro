@@ -1,35 +1,159 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-17.01. 19:45,Hampe S. P.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],1.42
-17.01. 19:45,Dhamne M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],2.72
 ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-10.01. 20:20,Hampe S. P.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '2', '3', '5']",[],[],[],3.86
-10.01. 20:20,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '5', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],1.23
 ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-19.07.2022,Hampe S. P.,1,5,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4', '6', '5']","['1', '0', '3', '4']",[],[],5.70
-19.07.2022,Jong A. M.,2,7,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['2', '0']","['2', '2', '4', '2', '5', '3']",[],[],1.13
+ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+17.01. 19:45,Hampe S. P.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],1.42
+
+
+
+17.01. 19:45,Dhamne M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],2.72
+
+
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+
+
+10.01. 20:20,Hampe S. P.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '2', '3', '5']",[],[],[],3.86
+
+
+
+10.01. 20:20,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '5', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],1.23
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+
+
+
+19.07.2022,Hampe S. P.,1,5,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4', '6', '5']","['1', '0', '3', '4']",[],[],5.70
+
+
+
+19.07.2022,Jong A. M.,2,7,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['2', '0']","['2', '2', '4', '2', '5', '3']",[],[],1.13
+
+
+

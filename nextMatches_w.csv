@@ -1,96 +1,105 @@
-Time,Wuhan,S,1,2,3,4,5,H2H,H,A,header
-10:30,Sabalenka A. (1), , , , , , ,3,1.59,2.33
--,Gauff C. (4), , , , , , ,4,,
-13:00,Zheng Q. (5), , , , , , ,0,1.21,4.38
--,Wang X., , , , , , ,0,,
-Time,Barcelona 2 ITF,S,1,2,3,4,5,H2H,H,A,header
-10:00,Li A., , , , , , ,2,1.99,1.66
--,Rus A. (2), , , , , , ,0,,
-10:00,Kudermetova P., , , , , , ,0,2.13,1.57
--,Danilovic O. (4), , , , , , ,0,,
-Time,Bratislava 6 ITF,S,1,2,3,4,5,H2H,H,A,header
-"11:00
- ",Ruzic A. (5), , , , , , ,0,1.76,1.91
--,Jamrichova R., , , , , , ,0,,
-"11:00
- ",Dodin O. (1), , , , , , ,0,1.33,2.95
--,Pohankova M., , , , , , ,0,,
-Time,Edmond ITF,S,1,2,3,4,5,H2H,H,A,header
-01:00,Mandlik E. (5), , , , , , ,0,1.63,2.10
--,Mboko V., , , , , , ,0,,
-Time,Quinta do Lago ITF,S,1,2,3,4,5,H2H,H,A,header
-12:00,Jorge M., , , , , , ,0,2.35,1.51
--,Dmitruk K., , , , , , ,0,,
-12:00,Mladenovic K. (4), , , , , , ,1,1.58,2.21
--,Mikulskyte J. (5), , , , , , ,0,,
-12:00,Mansouri Y., , , , , , ,0,1.97,1.73
--,Curmi F., , , , , , ,0,,
-12:00,Monnot A., , , , , , ,0,2.25,1.56
--,Ristic M., , , , , , ,0,,
-Time,Cairns 2 ITF,S,1,2,3,4,5,H2H,H,A,header
-01:00,Aiava D. (1), , , , , , ,0,1.53,2.33
--,Jones E., , , , , , ,0,,
-01:00,Micic E. (8), , , , , , ,0,4.09,1.18
--,Inglis M. (2), , , , , , ,2,,
-Time,Joue-Les-Tours ITF,S,1,2,3,4,5,H2H,H,A,header
-"11:00
- ",Kulikova A. (7), , , , , , ,0, , 
--,Aksu A. (6), , , , , , ,0,,
-Time,Santa Margherita Di Pula 14 ITF,S,1,2,3,4,5,H2H,H,A,header
-10:00,Nahimana S. (7), , , , , , ,1,1.83,1.83
--,Bara I. (2), , , , , , ,0,,
-10:00,Paoletti M., , , , , , ,0,1.22,3.89
--,Mazzola A., , , , , , ,0,,
-Time,Sevilla ITF,S,1,2,3,4,5,H2H,H,A,header
-10:00,Kraus S. (1), , , , , , ,0,1.60,2.18
--,Benoit M. (2), , , , , , ,0,,
-Time,Heraklion 20 ITF,S,1,2,3,4,5,H2H,H,A,header
-09:00,Voracek E., , , , , , ,0,1.98,1.72
--,Glushkova D. (2), , , , , , ,0,,
-09:00,Lovric P. (1), , , , , , ,0,1.31,3.17
--,Paukstyte P. (4), , , , , , ,0,,
-Time,Monastir 5 ITF,S,1,2,3,4,5,H2H,H,A,header
-11:00,Meyer Auf Der Heide L. (3), , , , , , ,0,1.24,3.66
--,Poling L., , , , , , ,0,,
-11:00,Frayman D. (1), , , , , , ,0,1.09,6.34
--,Segattini V., , , , , , ,0,,
-Time,Mysuru ITF,S,1,2,3,4,5,H2H,H,A,header
-06:30,Bhamidipaty S. (1), , , , , , ,1,1.08,6.51
--,Bhatia R. (4), , , , , , ,0,,
-06:30,Lakshmi Prabha A., , , , , , ,0,4.06,1.19
--,Aney J. (2), , , , , , ,0,,
-Time,Sharm El Sheikh 15 ITF,S,1,2,3,4,5,H2H,H,A,header
---:--,Iordache A.,1, , , , , , , , 
--,Lazarenko K.,0, , , , , , ,,
-09:00,Gasanova A. (1), , , , , , ,1,1.04,8.80
--,Mack M., , , , , , ,0,,
-Time,Tsaghkadzor ITF,S,1,2,3,4,5,H2H,H,A,header
-08:00,Kroitor K., , , , , , ,0,1.83,1.83
--,Baranovska A. (3), , , , , , ,0,,
-08:00,Udvardy L. (7), , , , , , ,0,1.34,2.95
--,Zolotareva R. (2), , , , , , ,0,,
-Time,Osaka WTA,S,1,2,3,4,5,H2H,H,A,header
-03:30,Bektas E. (4), , , , , , ,0,1.63,2.15
--,Ito A., , , , , , ,0,,
-03:30,Sonmez Z., , , , , , ,0,1.64,2.12
--,Hartono A. (12), , , , , , ,1,,
-03:30,Fett J. (5), , , , , , ,0,2.09,1.69
--,Stakusic M., , , , , , ,1,,
-03:30,Fruhvirtova L., , , , , , ,0,2.39,1.49
--,Shibahara E. (11), , , , , , ,0,,
-05:00,Siegemund L. (1), , , , , , ,0,1.13,5.52
--,Saigo R., , , , , , ,0,,
-05:00,Sawangkaew M., , , , , , ,1,1.83,1.86
--,Hibino N. (10), , , , , , ,0,,
-05:00,Lys E. (2), , , , , , ,0,1.13,5.12
--,Sakatsume H., , , , , , ,0,,
-05:00,Bogdan A. (6), , , , , , ,1,1.08,6.86
--,Zheng S., , , , , , ,0,,
-06:30,Koike E., , , , , , ,0,5.44,1.12
--,Lamens S. (8), , , , , , ,0,,
-06:30,Ponchet J. (3), , , , , , ,0,1.79,1.90
--,Wang Q., , , , , , ,0,,
-06:30,Sato N., , , , , , ,0,5.93,1.11
--,Parks A. (7), , , , , , ,0,,
-08:00,Ishii S., , , , , , ,0,2.85,1.36
--,Birrell K. (9), , , , , , ,0,,
+Time,ng Kong,WTA,S,1,2,3,4,5,H2H,H,header
+07:00,Hibino Nao,,,,,,,1,2.55,1.50
+-,Sasnovich Aliaksandra,,,,,,,1,,
+07:00,Ito Aoi,,,,,,,0,3.79,1.26
+-,Boulter Katie,,,,,,,0,,
+07:00,Gao Xinyu,,,,,,,0,3.04,1.37
+-,Lamens Suzan,,,,,,,0,,
+08:30,Wong Hong Yi Cody,,,,,,,0,5.52,1.14
+-,Bucsa Cristina,,,,,,,0,,
+08:30,Shnaider Diana,,,,,,,0,1.03,11.30
+-,Okamura Kyoka,,,,,,,0,,
+08:30,Gracheva Varvara,,,,,,,0,1.41,2.88
+-,Prozorova Tatiana,,,,,,,0,,
+10:00,Bogdan Ana,,,,,,,0,1.77,2.03
+-,Birrell Kimberly,,,,,,,1,,
+10:00,Jang Su Jeong,,,,,,,0,2.57,1.49
+-,Zakharova Anastasia,,,,,,,1,,
+11:30,Yamaguchi Mei,,,,,,,0,8.35,1.07
+-,Kenin Sofia,,,,,,,0,,
+13:00,Fernandez Leylah,,,,,,,0,1.19,4.67
+-,Watson Heather,,,,,,,3,,
+Time,uj,ang,S,1,2,3,4,5,H2H,H,header
+05:00,You Xiaodi,,,,,,,0,3.80,1.22
+-,Golubic Viktorija,,,,,,,2,,
+05:00,Bronzetti Lucia,,,,,,,0,1.53,2.40
+-,Sawangkaew Mananchaya,,,,,,,0,,
+05:00,Bondar Anna,,,,,,,3,1.55,2.30
+-,Hartono Arianne,,,,,,,1,,
+05:00,Zheng Wushuang,,,,,,,0,3.00,1.34
+-,Trevisan Martina,,,,,,,0,,
+05:00,Fett Jana,,,,,,,1,1.16,4.72
+-,Zheng Saisai,,,,,,,0,,
+05:00,Siegemund Laura,,,,,,,0,1.62,2.21
+-,Uchijima Moyuka,,,,,,,0,,
+05:00,Zhang Shuai,,,,,,,0,1.78,1.94
+-,Sramkova Rebecca,,,,,,,0,,
+05:00,Hontama Mai,,,,,,,0,2.42,1.51
+-,Wei Sijia,,,,,,,1,,
+Time,,ida,S,1,2,3,4,5,H2H,H,header
+00:00,Mandlik Elizabeth,,,,,,,0,3.10,1.36
+-,Tomljanovic Ajla,,,,,,,0,,
+00:30,Teichmann Jil Belen,,,,,,,0,1.34,2.98
+-,Tikhonova Anastasia,,,,,,,0,,
+01:30,Ruzic Antonia,,,,,,,0,1.51,2.52
+-,Samson Laura,,,,,,,0,,
+17:00,Zarazua Renata,,,,,,,0,1.18,4.76
+-,Urhobo Akasha,,,,,,,0,,
+17:00,Sonmez Zeynep,,,,,,,0,1.77,2.02
+-,Carle Maria Lourdes,,,,,,,0,,
+17:00,Niemeier Jule,,,,,,,0,1.96,1.83
+-,Stefanini Lucrezia,,,,,,,0,,
+17:00,Sorribes Tormo Sara,,,,,,,1,1.02,14.82
+-,Sanchez Ana Sofia,,,,,,,0,,
+17:00,Tsurenko Lesya,,,,,,,0,2.27,1.62
+-,Blinkova Anna,,,,,,,1,,
+17:00,Joint Maya,,,,,,,0,2.01,1.78
+-,Stakusic Marina,,,,,,,0,,
+17:00,Kudermetova Polina,,,,,,,0,1.83,1.96
+-,Podoroska Nadia,,,,,,,1,,
+17:00,Zidansek Tamara,,,,,,,0,2.11,1.61
+-,Lepchenko Varvara,,,,,,,1,,
+Time,nta Cruz,WTA,S,1,2,3,4,5,H2H,H,header
+15:00,Strakhova Valeriya,,,,,,,0,1.49,2.15
+-,Zeballos Noelia,,,,,,,0,,
+15:00,Sherif Mayar,,,,,,,1,1.21,3.62
+-,Arango Emiliana,,,,,,,0,,
+15:00,Capurro Taborda Martina,,,,,,,0,7.33,1.07
+-,Jones Francesca,,,,,,,1,,
+15:00,Semenistaja Darja,,,,,,,0,1.67,1.91
+-,Bolsova Aliona,,,,,,,1,,
+15:00,Janicijevic Selena,,,,,,,0,1.52,2.17
+-,Mladenovic Kristina,,,,,,,0,,
+15:00,Branstine Carson,,,,,,,0,2.00,1.63
+-,Koevermans Anouk,,,,,,,0,,
+15:00,Labrana Fernanda,,,,,,,0,7.44,1.07
+-,Paquet Chloe,,,,,,,0,,
+19:00,Noha Akugue Noma,,,,,,,0,1.85,1.85
+-,Udvardy Panna,,,,,,,0,,
+Time,dney 3,ITF,S,1,2,3,4,5,H2H,H,header
+00:00,Sato Naho,,,,,,,1,1.57,2.25
+-,Sato Hikaru,,,,,,,0,,
+00:00,Saigo Yukina,,,,,,,0,,
+-,Chaudhari Vaidehi,,,,,,,2,,
+01:00,Cabrera Lizette,,,,,,,0,2.37,1.51
+-,Jones Emerson,,,,,,,0,,
+01:00,Da Silva Fick Gabriella,,,,,,,0,2.23,1.58
+-,Bhamidipaty Shrivalli Rashmikaa,,,,,,,2,,
+Time,ntes,ITF,S,1,2,3,4,5,H2H,H,header
+10:00,Dodin Oceane,,,,,,,0,1.17,4.39
+-,Cakarevic Sara,,,,,,,0,,
+10:00,Martynov Diana,,,,,,,0,1.65,2.10
+-,Robbe Alice,,,,,,,2,,
+10:00,Dartron Emeline,,,,,,,0,2.43,1.49
+-,Tan Harmony,,,,,,,0,,
+10:00,Berecoechea Nahia,,,,,,,0,3.10,1.33
+-,Naef Celine,,,,,,,0,,
+Time,kinohara,ITF,S,1,2,3,4,5,H2H,H,header
+01:30,Yuan Chengyiyi,,,,,,,0,,
+-,Saegusa Natsuko,,,,,,,0,,
+01:30,Kobayashi Honoka,,,,,,,1,,
+-,Abe Hiromi,,,,,,,0,,
+01:30,Chen Meng Yi,,,,,,,0,,
+-,Morisaki Kanako,,,,,,,0,,
+01:30,Nagata Anri,,,,,,,2,,
+-,Kozaki Funa,,,,,,,0,,

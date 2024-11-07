@@ -1,17 +1,10 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W35 Miami,hard,header
+ITF WOMEN - SINGLES :  W35 Norman,hard,header
+ITF WOMEN - SINGLES :  W35 Hilton Head Island,hard,header
 ITF WOMEN - SINGLES :  W35 Redding,hard,header
-05.10. 07:25,Lincer O.,0,4,6^4,,,,"['2', '2', '3', '3']","['1', '3', '4', '4', '6', '6']",[],[],[],1.73
-05.10. 07:25,Perez Alarcon L.,2,6,7^7,,,,"['2', '1', '3', '2', '5', '4']","['1', '0', '3', '0', '6', '5']",[],[],[],2.00
-04.10. 03:10,Lincer O.,2,6,6,,,,"['2', '2', '4', '2', '6', '4']","['2', '0', '3', '1', '6', '2']",[],[],[],2.37
-04.10. 03:10,Cross K.,0,4,2,,,,"['2', '1', '3', '4']","['1', '2']",[],[],[],1.53
-03.10. 01:30,Lincer O.,2,6,6,,,,"['3', '1']","['2', '1', '5', '2']",[],[],[],1.36
-03.10. 01:30,Okutoyi A.,0,3,2,,,,[],[],[],[],[],2.94
 ITF WOMEN - SINGLES :  W35 Berkeley,hard,header
-26.09. 01:50,Lincer O.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],2.07
-26.09. 01:50,Fourlis J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '3', '4', '3', '6', '3']",[],[],[],1.69
 ITF WOMEN - SINGLES :  W35 San Rafael (USA),hard,header
-18.09. 04:50,Lincer O.,1,7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '3', '3', '4', '5', '4', '6', '5']","['1', '0', '2', '1']","['2', '2']",[],[],7.90
-18.09. 04:50,Day K.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '4', '2', '5', '5']","['1', '1', '3', '3', '5', '3']","['2', '1', '3', '2', '5', '2']",[],[],1.06
 ITF WOMEN - SINGLES :  W15 Grodzisk Mazowiecki (Poland),hard,header
 ITF WOMEN - SINGLES :  W35 Wichita,hard,header
 ITF WOMEN - SINGLES :  W15 Santo Domingo 2 (Dominican Republic),hard,header
@@ -20,72 +13,14 @@ ITF WOMEN - SINGLES :  W35 Arcadia,hard,header
 ITF WOMEN - SINGLES :  W25 Santo Domingo 6 (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W25 Santo Domingo 5 (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W35 Wichita,hard,header
-ITF WOMEN - SINGLES :  W15 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W15 Santo Domingo (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W35 Arcadia,hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 6 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 5 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-25.10.2023,Lincer O.,0,2,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4']","['3', '3', '5', '5']",[],[],[],2.33
-25.10.2023,Grey S. B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '5', '2']","['3', '2', '5', '4']",[],[],[],1.55
 ITF WOMEN - SINGLES :  W25 Florence,hard,header
 CHALLENGER WOMEN - SINGLES :  Grodzisk Mazowiecki (Poland),hard,header
-07.08.2023,Lincer O.,0,3,4,,,,3,2,63%,48% (26/54),47% (15/32),54% (7/13),35% (15/43),65% (13/20),33% (3/9),6,48% (41/86),44% (28/63),46% (69/149),3,40% (4/10),33% (3/9),37% (7/19),"['2', '4']","['1', '0', '3', '0']",[],[],[],11.00
-07.08.2023,Arango E.,2,6,6,,,,2,3,68%,65% (28/43),35% (7/20),67% (6/9),52% (28/54),53% (17/32),46% (6/13),5,56% (35/63),52% (45/86),54% (80/149),4,67% (6/9),60% (6/10),63% (12/19),"['1', '0', '3', '0', '6', '3']","['1', '3', '4', '4', '6', '4']",[],[],[],1.05
+07.08.2023,Lincer O.,0,3,4,,,,3,2,63%,48% (26/54),47% (15/32),54% (7/13),35% (15/43),65% (13/20),33% (3/9),48% (41/86),44% (28/63),46% (69/149),40% (4/10),33% (3/9),37% (7/19),"['2', '4']","['1', '0', '3', '0']",[],[],[],11.00
+07.08.2023,Arango E.,2,6,6,,,,2,3,68%,65% (28/43),35% (7/20),67% (6/9),52% (28/54),53% (17/32),46% (6/13),56% (35/63),52% (45/86),54% (80/149),67% (6/9),60% (6/10),63% (12/19),"['1', '0', '3', '0', '6', '3']","['1', '3', '4', '4', '6', '4']",[],[],[],1.05
 ITF WOMEN - SINGLES :  W25 Foxhills (United Kingdom),hard,header
 WTA - SINGLES :  Warsaw (Poland) - Qualification,hard,header
-23.07.2023,Lincer O.,0,3,1,,,,1,3,57%,50% (19/38),34% (10/29),50% (6/12),32% (11/34),57% (12/21),25% (2/8),3,43% (29/67),42% (23/55),43% (52/122),1,25% (2/8),25% (2/8),25% (4/16),"['1', '0']","['1', '5']",[],[],[],4.75
-23.07.2023,Raina A.,2,6,6,,,,0,2,62%,68% (23/34),43% (9/21),75% (6/8),50% (19/38),66% (19/29),50% (6/12),4,58% (32/55),57% (38/67),57% (70/122),6,75% (6/8),75% (6/8),75% (12/16),"['1', '1', '3', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.17
+23.07.2023,Lincer O.,0,3,1,,,,1,3,57%,50% (19/38),34% (10/29),50% (6/12),32% (11/34),57% (12/21),25% (2/8),43% (29/67),42% (23/55),43% (52/122),25% (2/8),25% (2/8),25% (4/16),"['1', '0']","['1', '5']",[],[],[],4.75
+23.07.2023,Raina A.,2,6,6,,,,0,2,62%,68% (23/34),43% (9/21),75% (6/8),50% (19/38),66% (19/29),50% (6/12),58% (32/55),57% (38/67),57% (70/122),75% (6/8),75% (6/8),75% (12/16),"['1', '1', '3', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.17
 ITF WOMEN - SINGLES :  W25 Tokyo (Japan),hard,header
 ITF WOMEN - SINGLES :  W25 Karuizawa (Japan),grass,header
 ITF WOMEN - SINGLES :  W60 Kurume (Japan),grass,header
-19.05.2023,Lincer O.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']",[],[],[],[],3.34
-19.05.2023,Ma Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.29
-18.05.2023,Lincer O.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '6']","['3', '2']",[],[],5.20
-18.05.2023,Glushko L.,1,6,6^4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['6', '5']",[],[],[],1.13
-16.05.2023,Lincer O.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],1.01
-16.05.2023,Yamaguchi A.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],11.50
-ITF WOMEN - SINGLES :  W25 Nottingham 2 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Nottingham (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Orlando,hard,header
-ITF WOMEN - SINGLES :  W25 Monastir 9 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Champaign,hard,header
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-27.10.2022,Lincer O.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '4']",[],[],[],9.40
-27.10.2022,Montgomery R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '4', '1', '5', '2']",[],[],[],1.04
-26.10.2022,Lincer O.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['1', '1', '4', '4', '5', '5']","['1', '1', '3', '3', '5', '3']",[],[],0
-26.10.2022,Tjandramulia O.,1,4,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '3', '2', '5', '4', '6', '5']","['1', '0', '2', '1']",[],[],0
-ITF WOMEN - SINGLES :  W60 Macon,hard,header
-20.10.2022,Lincer O.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']",[],[],[],[],2.05
-20.10.2022,Pedretti T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.71
-19.10.2022,Lincer O.,2,2,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '2', '2', '3', '4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.97
-19.10.2022,Ewing S.,1,6,5,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '2']","['2', '0', '3', '1', '5', '5']",[],[],[],1.76
-ITF WOMEN - SINGLES :  W25 Florence,hard,header
-GIRLS - SINGLES :  US Open (USA) - Qualification,hard,header
-03.09.2022,Lincer O.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']",[],[],[],[],0
-03.09.2022,Ercan M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['3', '1', '5', '1']",[],[],[],0
-02.09.2022,Lincer O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']","['2', '2', '3', '3', '5', '3']",[],[],[],0
-02.09.2022,Urhobo A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '3', '2']",[],[],[],0
-ITF WOMEN - SINGLES :  W100 Grodzisk Mazowiecki (Poland),hard,header
-02.08.2022,Lincer O.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],3.62
-02.08.2022,Falkowska W.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.27
-GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
-06.07.2022,Lincer O.,1,0,7^10,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']","['3', '4']",[],[],0
-06.07.2022,Mboko V.,2,6,6^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0']","['4', '2', '6', '4']",[],[],0
-04.07.2022,Lincer O.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1', '4', '3', '6', '5']",[],[],[],0
-04.07.2022,Svendsen J. C.,0,6^0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['3', '3', '5', '5']",[],[],[],0
-02.07.2022,Lincer O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '5', '3']","['1', '2', '3', '2']",[],[],[],0
-02.07.2022,Saito S.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4']","['2', '0']",[],[],[],0
-ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W15 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W15 Santo Domingo (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W15 Guatemala (Guatemala),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header

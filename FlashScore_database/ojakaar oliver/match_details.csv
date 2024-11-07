@@ -1,61 +1,550 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-17.06. 13:50,Ojakaar O.,1,6,4,3,,,1,2,59%,58% (39/67),43% (20/47),67% (12/18),38% (21/55),50% (12/24),71% (5/7),5,52% (59/114),42% (33/79),48% (92/193),4,57% (8/14),36% (5/14),46% (13/28),"['5', '3']","['2', '3', '4', '3']","['1', '2', '2', '3']",[],[],2.36
-17.06. 13:50,Karlovskiy E.,2,3,6,6,,,4,4,70%,62% (34/55),50% (12/24),29% (2/7),42% (28/67),57% (27/47),33% (6/18),6,58% (46/79),48% (55/114),52% (101/193),5,64% (9/14),43% (6/14),54% (15/28),[],"['2', '0', '4', '4', '6', '4']","['2', '0', '3', '1', '5', '3']",[],[],1.55
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-16.03. 13:10,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.18
-16.03. 13:10,Moghimi S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.10
-15.03. 10:00,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.19
-15.03. 10:00,Nadaf H. R.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.40
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
-16.01. 22:40,Ojakaar O.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.75
-16.01. 22:40,Karol M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],1.98
-ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-12.01. 01:45,Ojakaar O.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],3.05
-12.01. 01:45,Martin Tiffon P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['3', '1', '5', '1']",[],[],[],1.34
-10.01. 20:20,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '5', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],1.23
-10.01. 20:20,Hampe S. P.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '2', '3', '5']",[],[],[],3.86
-ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
-BOYS - SINGLES :  US Open (USA),hard,header
-05.09.2023,Ojakaar O.,0,6^4,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-05.09.2023,Blanch Dar.,2,7^7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.09.2023,Ojakaar O.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],0
-04.09.2023,Edengren K.,0,3,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-BOYS - SINGLES :  French Open (France),clay,header
-04.06.2023,Ojakaar O.,1,3,7^7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1']",[],[],[],0
-04.06.2023,Exsted M.,1,6,6^4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['2', '3']",[],[],[],0
-ITF MEN - SINGLES :  M15 Krsko (Slovenia),clay,header
-19.05.2023,Ojakaar O.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.76
-19.05.2023,Gerch L.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['4', '0']",[],[],1.41
-19.05.2023,Ojakaar O.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.94
-19.05.2023,Madarasz G.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
-18.05.2023,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
-18.05.2023,Dimic M.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.60
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-25.01.2023,Ojakaar O.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-25.01.2023,Radulov I.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['3', '1']",[],[],[],0
-24.01.2023,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '4']","['3', '1', '6', '2']",[],[],[],0
-24.01.2023,Forger A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],0
-21.01.2023,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1', '4', '3']",[],[],[],0
-21.01.2023,Schoeman M.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '2']",[],[],[],0
-ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
-ITF MEN - SINGLES :  M15 Doha 4 (Qatar),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+CHALLENGER MEN - SINGLES :  Helsinki (Finland),hard,header
+CHALLENGER MEN - SINGLES :  Helsinki (Finland),hard,header
+04.11. 21:20,Ojakaar O.,0,2,4,,,,4,5,70%,63% (24/38),38% (6/16),40% (2/5),33% (12/36),24% (4/17),0% (0/1),56% (30/54),30% (16/53),43% (46/107),5,0,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],2.99
+04.11. 21:20,Yevseyev D.,2,6,6,,,,2,0,68%,67% (24/36),76% (13/17),100% (1/1),37% (14/38),63% (10/16),60% (3/5),70% (37/53),44% (24/54),57% (61/107),5,0,100% (9/9),33% (3/9),67% (12/18),"['3', '2', '5', '2']","['2', '1']",[],[],[],1.36
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+17.06. 13:50,Ojakaar O.,1,6,4,3,,,1,2,59%,58% (39/67),43% (20/47),67% (12/18),38% (21/55),50% (12/24),71% (5/7),52% (59/114),42% (33/79),48% (92/193),57% (8/14),36% (5/14),46% (13/28),"['5', '3']","['2', '3', '4', '3']","['1', '2', '2', '3']",[],[],2.36
+
+17.06. 13:50,Karlovskiy E.,2,3,6,6,,,4,4,70%,62% (34/55),50% (12/24),29% (2/7),42% (28/67),57% (27/47),33% (6/18),58% (46/79),48% (55/114),52% (101/193),64% (9/14),43% (6/14),54% (15/28),[],"['2', '0', '4', '4', '6', '4']","['2', '0', '3', '1', '5', '3']",[],[],1.55
+
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+ITF MEN - SINGLES :  M15 Krsko (Slovenia),clay,header
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
+
+ITF MEN - SINGLES :  M15 Doha 4 (Qatar),hard,header
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+
+
+
+
+
+
+
+17.06. 13:50,Ojakaar O.,1,6,4,3,,,1,2,59%,58% (39/67),43% (20/47),67% (12/18),38% (21/55),50% (12/24),71% (5/7),5,52% (59/114),42% (33/79),48% (92/193),4,57% (8/14),36% (5/14),46% (13/28),"['5', '3']","['2', '3', '4', '3']","['1', '2', '2', '3']",[],[],2.36
+
+
+
+
+
+
+
+17.06. 13:50,Karlovskiy E.,2,3,6,6,,,4,4,70%,62% (34/55),50% (12/24),29% (2/7),42% (28/67),57% (27/47),33% (6/18),6,58% (46/79),48% (55/114),52% (101/193),5,64% (9/14),43% (6/14),54% (15/28),[],"['2', '0', '4', '4', '6', '4']","['2', '0', '3', '1', '5', '3']",[],[],1.55
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+
+
+
+
+
+
+16.03. 13:10,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.18
+
+
+
+
+
+
+
+16.03. 13:10,Moghimi S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.10
+
+
+
+
+
+
+
+15.03. 10:00,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.19
+
+
+
+
+
+
+
+15.03. 10:00,Nadaf H. R.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.40
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Manacor 2 (Spain),hard,header
+
+
+
+
+
+
+
+16.01. 22:40,Ojakaar O.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.75
+
+
+
+
+
+
+
+16.01. 22:40,Karol M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3']",[],[],[],1.98
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+
+
+
+
+
+
+12.01. 01:45,Ojakaar O.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],3.05
+
+
+
+
+
+
+
+12.01. 01:45,Martin Tiffon P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['3', '1', '5', '1']",[],[],[],1.34
+
+
+
+
+
+
+
+10.01. 20:20,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '5', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],1.23
+
+
+
+
+
+
+
+10.01. 20:20,Hampe S. P.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '2', '3', '5']",[],[],[],3.86
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
+
+
+
+
+
+
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+
+
+
+
+05.09.2023,Ojakaar O.,0,6^4,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+05.09.2023,Blanch Dar.,2,7^7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+04.09.2023,Ojakaar O.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],0
+
+
+
+
+
+
+
+04.09.2023,Edengren K.,0,3,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+
+
+
+
+
+
+04.06.2023,Ojakaar O.,1,3,7^7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1']",[],[],[],0
+
+
+
+
+
+
+
+04.06.2023,Exsted M.,1,6,6^4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['2', '3']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Krsko (Slovenia),clay,header
+
+
+
+
+
+
+
+19.05.2023,Ojakaar O.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.76
+
+
+
+
+
+
+
+19.05.2023,Gerch L.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['4', '0']",[],[],1.41
+
+
+
+
+
+
+
+19.05.2023,Ojakaar O.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.94
+
+
+
+
+
+
+
+19.05.2023,Madarasz G.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
+
+
+
+
+
+
+
+18.05.2023,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
+
+
+
+
+
+
+
+18.05.2023,Dimic M.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.60
+
+
+
+
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+
+
+
+
+25.01.2023,Ojakaar O.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+25.01.2023,Radulov I.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['3', '1']",[],[],[],0
+
+
+
+
+
+
+
+24.01.2023,Ojakaar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '4']","['3', '1', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+24.01.2023,Forger A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],0
+
+
+
+
+
+
+
+21.01.2023,Ojakaar O.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1', '4', '3']",[],[],[],0
+
+
+
+
+
+
+
+21.01.2023,Schoeman M.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '2']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Doha 4 (Qatar),hard,header
+
+
+
+
+
+
+

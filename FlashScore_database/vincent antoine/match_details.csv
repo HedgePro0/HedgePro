@@ -1,14 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
 ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-26.09. 17:10,Vincent A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-26.09. 17:10,Kumar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1']",[],[],[],1.19
-25.09. 23:05,Vincent A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['4', '2']",[],[],[],1.70
-25.09. 23:05,Turriziani Alvarez A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.03
 ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
-19.09. 14:00,Vincent A.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['4', '4']",[],[],3.59
-19.09. 14:00,Kumar O.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['4', '3', '5', '4']",[],[],1.26
-18.09. 15:40,Vincent A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5', '7', '5']","['2', '0', '5', '1']",[],[],[],3.24
-18.09. 15:40,Donnet E.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']",[],[],[],[],1.31
 ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
 ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
@@ -31,25 +24,221 @@ ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
 ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
 ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Creteil (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+
+26.09. 17:10,Vincent A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
+
+
+
+26.09. 17:10,Kumar O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1']",[],[],[],1.19
+
+
+
+25.09. 23:05,Vincent A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['4', '2']",[],[],[],1.70
+
+
+
+25.09. 23:05,Turriziani Alvarez A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.03
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+
+
+
+19.09. 14:00,Vincent A.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['4', '4']",[],[],3.59
+
+
+
+19.09. 14:00,Kumar O.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['4', '3', '5', '4']",[],[],1.26
+
+
+
+18.09. 15:40,Vincent A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5', '7', '5']","['2', '0', '5', '1']",[],[],[],3.24
+
+
+
+18.09. 15:40,Donnet E.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']",[],[],[],[],1.31
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+

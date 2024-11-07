@@ -1,14 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-02.10. 15:00,Ibrahim K.,0,2,6^4,,,,[],"['3', '3', '5', '3']",[],[],[],6.55
-02.10. 15:00,Gengel M.,2,6,7^7,,,,"['2', '1', '5', '2']","['3', '2', '4', '5']",[],[],[],1.08
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-25.09. 17:00,Ibrahim K.,0,3,4,,,,[],[],[],[],[],2.59
-25.09. 17:00,Boros A.,2,6,6,,,,"['2', '0']","['5', '4']",[],[],[],1.45
 ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 27 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
@@ -31,11 +26,195 @@ ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Cairo 3 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-18.05.2022,Ibrahim K.,0,1,3,,,,[],[],[],[],[],6.40
-18.05.2022,Elsayed A.,2,6,6,,,,[],[],[],[],[],1.11
 ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
-20.01.2022,Ibrahim K.,0,1,4,,,,[],[],[],[],[],9.50
-20.01.2022,Hsu Y. H.,2,6,6,,,,[],[],[],[],[],1.05
-19.01.2022,Ibrahim K.,2,6,3,6,,,[],[],[],[],[],3.68
-19.01.2022,Huang T.,1,3,6,3,,,[],[],[],[],[],1.27
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 27 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 21 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Cairo 3 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+
+
+
+02.10. 15:00,Ibrahim K.,0,2,6^4,,,,[],"['3', '3', '5', '3']",[],[],[],6.55
+
+
+
+02.10. 15:00,Gengel M.,2,6,7^7,,,,"['2', '1', '5', '2']","['3', '2', '4', '5']",[],[],[],1.08
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+
+
+
+25.09. 17:00,Ibrahim K.,0,3,4,,,,[],[],[],[],[],2.59
+
+
+
+25.09. 17:00,Boros A.,2,6,6,,,,"['2', '0']","['5', '4']",[],[],[],1.45
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 27 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 7 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 21 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Cairo 3 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+
+
+
+18.05.2022,Ibrahim K.,0,1,3,,,,[],[],[],[],[],6.40
+
+
+
+18.05.2022,Elsayed A.,2,6,6,,,,[],[],[],[],[],1.11
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
+
+
+
+20.01.2022,Ibrahim K.,0,1,4,,,,[],[],[],[],[],9.50
+
+
+
+20.01.2022,Hsu Y. H.,2,6,6,,,,[],[],[],[],[],1.05
+
+
+
+19.01.2022,Ibrahim K.,2,6,3,6,,,[],[],[],[],[],3.68
+
+
+
+19.01.2022,Huang T.,1,3,6,3,,,[],[],[],[],[],1.27
+
+
+

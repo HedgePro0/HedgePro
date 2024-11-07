@@ -1,18 +1,11 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Sant Vicenc de Torello (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
-ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
-25.09. 15:05,Petretic L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],4.04
-25.09. 15:05,Rey Garcia A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.21
 ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
-17.09. 16:35,Petretic L.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '3', '3', '4', '4']",[],[],[],2.72
-17.09. 16:35,Lopez Martinez C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '3', '2', '4', '3', '5', '4']",[],[],[],1.42
 ITF WOMEN - SINGLES :  W35 Duffel (Belgium),clay,header
-13.08. 15:00,Petretic L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.28
-13.08. 15:00,Buyukakcay C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
 ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
-22.07. 22:40,Petretic L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.70
-22.07. 22:40,Bozovic A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.05
 ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
@@ -30,49 +23,337 @@ ITF WOMEN - SINGLES :  W25 Zaragoza (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Brasov 2 (Romania),clay,header
 ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
 ITF WOMEN - SINGLES :  W15 Duffel (Belgium),clay,header
-ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
-ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
-ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
-ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
-14.06.2023,Petretic L.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '5']",[],[],[],7.60
-14.06.2023,Radivojevic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['2', '2', '4', '2', '6', '4']",[],[],[],1.06
-ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
-17.05.2023,Petretic L.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.75
-17.05.2023,Miyazaki L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.11
-ITF WOMEN - SINGLES :  W15 Telde 4 (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Telde 2 (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
-30.03.2023,Petretic L.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
-30.03.2023,Schaefer A. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
-29.03.2023,Petretic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.57
-29.03.2023,Vanhoutte C.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.29
-ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
-22.03.2023,Petretic L.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.60
-22.03.2023,Lodikova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
-ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
-16.03.2023,Petretic L.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.09
-16.03.2023,Schmidt A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
-15.03.2023,Petretic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-15.03.2023,Bojica S.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.16
-ITF WOMEN - SINGLES :  W25 Tucuman 2 (Argentina),clay,header
-ITF WOMEN - SINGLES :  W60 Grenoble (France),hard,header
-07.02.2023,Petretic L.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],11.00
-07.02.2023,Timofeeva M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.02
-ITF WOMEN - SINGLES :  W15 Valencia 2 (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Valencia (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Nules (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
-ITF WOMEN - SINGLES :  W25 Seville (Spain),clay,header
-ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
-ITF WOMEN - SINGLES :  W15 Haren (Netherlands),clay,header
-ITF WOMEN - SINGLES :  W15 Norrkoping (Sweden),clay,header
-ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
-ITF WOMEN - SINGLES :  W15 Padova (Italy),clay,header
-ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
-ITF WOMEN - SINGLES :  W15 Casablanca (Morocco),clay,header
-ITF WOMEN - SINGLES :  W15 Catez Ob Savi (Slovenia),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Sant Vicenc de Torello (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Duffel (Belgium),clay,header
+ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Telde 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Telde (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Le Havre (France),clay,header
+ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Valencia (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Nules (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
+ITF WOMEN - SINGLES :  W25 Ceuta (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Zaragoza (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Brasov 2 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Duffel (Belgium),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+
+ITF WOMEN - SINGLES :  W15 Sant Vicenc de Torello (Spain),hard,header
+
+ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
+
+ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Madrid 3 (Spain),hard,header
+
+
+
+25.09. 15:05,Petretic L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],4.04
+
+
+
+25.09. 15:05,Rey Garcia A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.21
+
+
+
+ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
+
+
+
+17.09. 16:35,Petretic L.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '3', '3', '4', '4']",[],[],[],2.72
+
+
+
+17.09. 16:35,Lopez Martinez C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '3', '2', '4', '3', '5', '4']",[],[],[],1.42
+
+
+
+ITF WOMEN - SINGLES :  W35 Duffel (Belgium),clay,header
+
+
+
+13.08. 15:00,Petretic L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.28
+
+
+
+13.08. 15:00,Buyukakcay C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
+
+
+
+ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
+
+
+
+22.07. 22:40,Petretic L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.70
+
+
+
+22.07. 22:40,Bozovic A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.05
+
+
+
+ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde 2 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Le Havre (France),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Manacor (Spain),hard,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Valencia (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Nules (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Ceuta (Spain),hard,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Zaragoza (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Brasov 2 (Romania),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Duffel (Belgium),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+
+
+
+14.06.2023,Petretic L.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '5']",[],[],[],7.60
+
+
+
+14.06.2023,Radivojevic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['2', '2', '4', '2', '6', '4']",[],[],[],1.06
+
+
+
+ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
+
+
+
+17.05.2023,Petretic L.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.75
+
+
+
+17.05.2023,Miyazaki L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.11
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde 4 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Telde 2 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+
+
+
+30.03.2023,Petretic L.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
+
+
+
+30.03.2023,Schaefer A. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
+
+
+
+29.03.2023,Petretic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.57
+
+
+
+29.03.2023,Vanhoutte C.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.29
+
+
+
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+
+
+
+22.03.2023,Petretic L.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.60
+
+
+
+22.03.2023,Lodikova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
+
+
+
+ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
+
+
+
+16.03.2023,Petretic L.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.09
+
+
+
+16.03.2023,Schmidt A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
+
+
+
+15.03.2023,Petretic L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+
+
+
+15.03.2023,Bojica S.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.16
+
+
+
+ITF WOMEN - SINGLES :  W25 Tucuman 2 (Argentina),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W60 Grenoble (France),hard,header
+
+
+
+07.02.2023,Petretic L.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],11.00
+
+
+
+07.02.2023,Timofeeva M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.02
+
+
+
+ITF WOMEN - SINGLES :  W15 Valencia 2 (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Valencia (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Nules (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Seville (Spain),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Haren (Netherlands),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Norrkoping (Sweden),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Padova (Italy),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Casablanca (Morocco),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Catez Ob Savi (Slovenia),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+
+
+
+ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+
+
+

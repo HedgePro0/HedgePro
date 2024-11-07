@@ -1,43 +1,32 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 BOYS - SINGLES :  US Open (USA),hard,header
-04.09. 20:45,Kim J.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3', '4', '5']",[],[],[],0
-04.09. 20:45,Robertson C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['3', '1', '4', '2', '6', '4']",[],[],[],0
-03.09. 20:45,Kim J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['3', '1', '6', '2']",[],[],[],0
-03.09. 20:45,Battiston A.,0,6^2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],0
-02.09. 02:00,Kim J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['4', '3']",[],[],[],0
-02.09. 02:00,Iutkin I.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-10.07. 15:05,Kim J.,1,6,6^3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['4', '4']",[],[],[],0
-10.07. 15:05,Robertson C.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1']","['4', '2']",[],[],0
-08.07. 00:15,Kim J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],0
-08.07. 00:15,Kennedy J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
 BOYS - SINGLES :  French Open (France),clay,header
-02.06. 14:40,Kim J.,1,7^7,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '3']",[],"['1', '3', '3', '3']",[],[],0
-02.06. 14:40,Robertson C.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']","['4', '2']","['1', '0', '3', '0', '5', '4']",[],[],0
 ITF MEN - SINGLES :  M15 Kashiwa (Japan),hard,header
 ITF MEN - SINGLES :  M15 Tsukuba (Japan),hard,header
 BOYS - SINGLES :  Australian Open (Australia),hard,header
-24.01. 05:35,Kim J.,1,3,7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['6', '5']",[],[],[],0
-24.01. 05:35,Omarkhanov A.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']",[],"['2', '0', '4', '0', '6', '0']",[],[],0
-22.01. 05:40,Kim J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '0', '4', '2', '6', '4']",[],[],[],0
-22.01. 05:40,Host T.,0,6^3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['1', '2', '3', '4']",[],[],[],0
-20.01. 05:40,Kim J.,2,5,6,7^12,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '2']","['3', '3', '5', '3']",[],[],0
-20.01. 05:40,Tabata R.,1,7,2,6^10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['3', '2', '4', '5']",[],[],0
 BOYS - SINGLES :  US Open (USA),hard,header
-04.09.2023,Kim J.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.09.2023,Pacheco Mendez R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['2', '1']",[],[],[],0
 BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-09.07.2023,Kim J.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '4']",[],[],[],0
-09.07.2023,Fonseca J.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0', '4', '1', '5', '2']",[],[],[],0
 ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
 ITF MEN - SINGLES :  M25 Changwon (South Korea),hard,header
 BOYS - SINGLES :  French Open (France),clay,header
-04.06.2023,Kim J.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.06.2023,Prizmic D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],0
 CHALLENGER MEN - SINGLES :  Seoul (South Korea),hard,header
-11.10.2022,Kim J.,0,1,2,,,,1,2,51%,48% (12/25),29% (7/24),33% (3/9),26% (5/19),23% (3/13),100% (1/1),4,39% (19/49),25% (8/32),33% (27/81),2,25% (2/8),14% (1/7),20% (3/15),[],"['1', '2']",[],[],[],13.00
-11.10.2022,Hijikata R.,2,6,6,,,,3,1,59%,74% (14/19),77% (10/13),0% (0/1),52% (13/25),71% (17/24),67% (6/9),18,75% (24/32),61% (30/49),67% (54/81),6,86% (6/7),75% (6/8),80% (12/15),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],1.01
-ITF MEN - SINGLES :  M15 Daegu (South Korea),hard,header
-ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
-ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Tsukuba (Japan),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
+ITF MEN - SINGLES :  M25 Changwon (South Korea),hard,header
+BOYS - SINGLES :  French Open (France),clay,header
+CHALLENGER MEN - SINGLES :  Seoul (South Korea),hard,header
+11.10.2022,Kim J.,0,1,2,,,,1,2,51%,48% (12/25),29% (7/24),33% (3/9),26% (5/19),23% (3/13),100% (1/1),39% (19/49),25% (8/32),33% (27/81),25% (2/8),14% (1/7),20% (3/15),[],"['1', '2']",[],[],[],13.00
+11.10.2022,Hijikata R.,2,6,6,,,,3,1,59%,74% (14/19),77% (10/13),0% (0/1),52% (13/25),71% (17/24),67% (6/9),75% (24/32),61% (30/49),67% (54/81),86% (6/7),75% (6/8),80% (12/15),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],1.01
+ITF MEN - SINGLES :  M15 Daegu (South Korea),hard,header
+ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header

@@ -1,18 +1,10 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-31.07. 14:35,Malgiaritta M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.90
-31.07. 14:35,Tammaro M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.08
-30.07. 13:25,Malgiaritta M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '3']",[],[],[],1.62
-30.07. 13:25,Fellin C.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.20
 ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
-24.01. 22:30,Malgiaritta M.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.23
-24.01. 22:30,Wessels L.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],1.07
 ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Muttenz (Switzerland),clay,header
 ITF MEN - SINGLES :  M25 Osijek (Croatia),clay,header
 ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-01.08.2023,Malgiaritta M.,2,6,7^10,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1']","['1', '0']",[],[],[],1.33
-01.08.2023,Figl M.,0,1,6^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4']","['5', '5']",[],[],[],3.10
 ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
@@ -20,6 +12,18 @@ ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Monastir 9 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-29.01.2022,Malgiaritta M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-29.01.2022,Sheyngezikht L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M25 Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Muttenz (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Ueberlingen (Germany),clay,header

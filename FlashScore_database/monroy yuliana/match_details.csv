@@ -1,20 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+CHALLENGER WOMEN - SINGLES :  Cali (Colombia) - Qualification,clay,header
+04.11. 21:10,Monroy Y.,0,1,3,,,,0,4,79%,41% (19/46),8% (1/12),43% (6/14),41% (13/32),64% (9/14),80% (4/5),34% (20/58),48% (22/46),40% (42/104),3,0,0% (0/8),50% (4/8),25% (4/16),"['1', '5']","['1', '2', '2', '3', '3', '4']",[],[],[],3.26
+04.11. 21:10,Herrero Linana A.,2,6,6,,,,1,1,70%,59% (19/32),36% (5/14),20% (1/5),59% (27/46),92% (11/12),57% (8/14),52% (24/46),66% (38/58),60% (62/104),7,0,50% (4/8),100% (8/8),75% (12/16),"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '3', '1', '4', '2', '5', '3']",[],[],[],1.34
+03.11. 21:15,Monroy Y.,1,6,,,,,0,0,62%,61% (11/18),45% (5/11),33% (1/3),36% (5/14),91% (10/11),75% (3/4),55% (16/29),60% (15/25),57% (31/54),8,0,75% (3/4),60% (3/5),67% (6/9),"['2', '2', '4', '2', '5', '3']",[],[],[],[],4.38
+03.11. 21:15,Krywoj M. S.,0,3,,,,,0,4,56%,64% (9/14),9% (1/11),25% (1/4),39% (7/18),55% (6/11),67% (2/3),40% (10/25),45% (13/29),43% (23/54),2,0,40% (2/5),25% (1/4),33% (3/9),"['1', '0', '3', '4']",[],[],[],[],1.22
+ITF WOMEN - SINGLES :  W15 Huamantla 2 (Mexico),hard,header
 ITF WOMEN - SINGLES :  W15 Huamantla (Mexico),hard,header
 ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-12.09. 18:30,Monroy Y.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],7.60
-12.09. 18:30,Yamalapalli S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.06
-11.09. 18:35,Monroy Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3', '4', '3', '6', '3']","['2', '0', '4', '0', '6', '2']",[],[],[],2.38
-11.09. 18:35,Ngounoue M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '4']",[],[],[],1.54
 ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
-04.09. 18:30,Monroy Y.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['4', '2', '6', '2']","['2', '2', '4', '4', '6', '4']",[],[],7.28
-04.09. 18:30,Cross K.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']",[],"['2', '1', '4', '3']",[],[],1.07
 ITF WOMEN - SINGLES :  W50 Arequipa (Peru),clay,header
-20.08. 20:20,Monroy Y.,1,7^7,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['1', '3', '3', '3']","['1', '1', '2', '2', '4', '2', '5', '5']",[],[],3.59
-20.08. 20:20,Labrana F.,2,6^4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']","['1', '0', '3', '0', '5', '4']","['1', '0', '2', '1', '3', '4', '5', '4']",[],[],1.26
 ITF WOMEN - SINGLES :  W35 Arequipa (Peru),clay,header
-13.08. 21:55,Monroy Y.,1,7,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '7', '5']","['2', '0', '4', '2', '5', '3']",[],[],[],4.46
-13.08. 21:55,Labrana F.,2,5,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5', '4', '5']","['2', '3', '3', '4', '4', '5', '6', '5']","['1', '0', '5', '2']",[],[],1.18
 ITF WOMEN - SINGLES :  W15 Santo Domingo 2 (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W15 Santo Domingo (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W35 Santo Domingo 4 (Dominican Republic),hard,header
@@ -23,65 +18,19 @@ ITF WOMEN - SINGLES :  W35 Sopo (Colombia),clay,header
 ITF WOMEN - SINGLES :  W35 Anapoima (Colombia),clay,header
 ITF WOMEN - SINGLES :  W35 Mosquera (Colombia),clay,header
 WTA - SINGLES :  Billie Jean King Cup - Group I (World),-,header
-11.04. 22:20,Monroy Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3', '4', '4', '6', '4']","['2', '2', '5', '3']",[],[],[],1.29
-11.04. 22:20,Castro Z. M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '4', '3']","['1', '0']",[],[],[],3.43
 WTA - SINGLES :  Bogota (Colombia),clay,header
-03.04. 21:40,Monroy Y.,0,1,2,,,,0,2,83%,41% (22/54),27% (3/11),42% (5/12),33% (8/24),43% (6/14),50% (2/4),4,38% (25/65),37% (14/38),38% (39/103),1,13% (1/8),29% (2/7),20% (3/15),[],"['1', '2', '2', '5']",[],[],[],20.00
-03.04. 21:40,Jones F.,2,6,6,,,,0,4,63%,67% (16/24),57% (8/14),50% (2/4),59% (32/54),73% (8/11),58% (7/12),6,63% (24/38),62% (40/65),62% (64/103),4,71% (5/7),88% (7/8),80% (12/15),"['1', '0', '3', '0', '6', '1']","['2', '0', '3', '1', '5', '1', '6', '2']",[],[],[],0
+03.04. 21:40,Monroy Y.,0,1,2,,,,0,2,83%,41% (22/54),27% (3/11),42% (5/12),33% (8/24),43% (6/14),50% (2/4),38% (25/65),37% (14/38),38% (39/103),5,0,13% (1/8),29% (2/7),20% (3/15),[],"['1', '2', '2', '5']",[],[],[],20.00
+03.04. 21:40,Jones F.,2,6,6,,,,0,4,63%,67% (16/24),57% (8/14),50% (2/4),59% (32/54),73% (8/11),58% (7/12),63% (24/38),62% (40/65),62% (64/103),5,0,71% (5/7),88% (7/8),80% (12/15),"['1', '0', '3', '0', '6', '1']","['2', '0', '3', '1', '5', '1', '6', '2']",[],[],[],0
 ITF WOMEN - SINGLES :  W35 Santo Domingo 2 (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W35 Santo Domingo (Dominican Republic),hard,header
 ITF WOMEN - SINGLES :  W35 Buenos Aires 2 (Argentina),clay,header
 ITF WOMEN - SINGLES :  W35 Buenos Aires (Argentina),clay,header
 ITF WOMEN - SINGLES :  W60 Vacaria (Brazil),clay,header
-12.12.2023,Monroy Y.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],5.29
-12.12.2023,Okalova M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '3', '2', '5', '2']",[],[],[],1.13
 ITF WOMEN - SINGLES :  W25 Mogi das Cruzes (Brazil),clay,header
 ITF WOMEN - SINGLES :  W25 Mendoza (Argentina),clay,header
 ITF WOMEN - SINGLES :  W25 Lujan (Argentina),clay,header
 CHALLENGER WOMEN - SINGLES :  Barranquilla (Colombia),hard,header
-16.08.2023,Monroy Y.,0,2,1,,,,0,2,69%,42% (15/36),50% (8/16),38% (3/8),23% (6/26),33% (5/15),0% (0/4),3,44% (23/52),27% (11/41),37% (34/93),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],15.50
-16.08.2023,Arango E.,2,6,6,,,,0,2,63%,77% (20/26),67% (10/15),100% (4/4),58% (21/36),50% (8/16),63% (5/8),8,73% (30/41),56% (29/52),63% (59/93),5,100% (7/7),63% (5/8),80% (12/15),"['2', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.02
+16.08.2023,Monroy Y.,0,2,1,,,,0,2,69%,42% (15/36),50% (8/16),38% (3/8),23% (6/26),33% (5/15),0% (0/4),44% (23/52),27% (11/41),37% (34/93),38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],15.50
+16.08.2023,Arango E.,2,6,6,,,,0,2,63%,77% (20/26),67% (10/15),100% (4/4),58% (21/36),50% (8/16),63% (5/8),73% (30/41),56% (29/52),63% (59/93),100% (7/7),63% (5/8),80% (12/15),"['2', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.02
 ITF WOMEN - SINGLES :  W60 Feira de Santana (Brazil),hard,header
-04.08.2023,Monroy Y.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],12.00
-04.08.2023,Pigossi L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.01
-01.08.2023,Monroy Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '4', '2', '5', '3', '6', '4']","['2', '0', '4', '0', '5', '1']",[],[],[],1.21
-01.08.2023,Bohrer Martins C.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3', '3', '4', '4', '5']","['1', '4']",[],[],[],4.28
 ITF WOMEN - SINGLES :  W25 Punta Cana 2 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W25 Guayaquil 2 (Ecuador),clay,header
-ITF WOMEN - SINGLES :  W25 Guayaquil (Ecuador),clay,header
-WTA - SINGLES :  Billie Jean King Cup - Group I (World),-,header
-15.04.2023,Monroy Y.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4']",[],[],[],[],2.86
-15.04.2023,Capurro Taborda M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.43
-ITF WOMEN - SINGLES :  W25 Sopo (Colombia),clay,header
-ITF WOMEN - SINGLES :  W25 Mosquera (Colombia),clay,header
-ITF WOMEN - SINGLES :  W40 Anapoima (Colombia),clay,header
-CHALLENGER WOMEN - SINGLES :  Cali (Colombia) - Qualification,clay,header
-29.01.2023,Monroy Y.,1,6,3,1,,,2,4,79%,57% (34/60),31% (5/16),14% (1/7),33% (20/61),48% (15/31),38% (3/8),5,51% (39/76),38% (35/92),44% (74/168),2,54% (7/13),23% (3/13),38% (10/26),"['2', '0', '6', '4']","['3', '5']",[],[],[],8.40
-29.01.2023,Partaud M.,2,4,6,6,,,3,6,66%,67% (41/61),52% (16/31),63% (5/8),43% (26/60),69% (11/16),86% (6/7),7,62% (57/92),49% (37/76),56% (94/168),6,77% (10/13),46% (6/13),62% (16/26),"['1', '2']","['1', '0', '5', '2', '6', '3']","['2', '0', '4', '0']",[],[],1.05
-28.01.2023,Monroy Y.,2,6,6,,,,1,2,79%,64% (35/55),47% (7/15),71% (5/7),48% (13/27),71% (15/21),83% (5/6),8,60% (42/70),58% (28/48),59% (70/118),6,78% (7/9),63% (5/8),71% (12/17),"['2', '0', '4', '2', '5', '3']","['1', '0', '3', '0']",[],[],[],1.26
-28.01.2023,Torres Murcia M. C.,0,3,2,,,,1,5,56%,52% (14/27),29% (6/21),17% (1/6),36% (20/55),53% (8/15),29% (2/7),6,42% (20/48),40% (28/70),41% (48/118),2,38% (3/8),22% (2/9),29% (5/17),"['1', '2', '3', '4']",[],[],[],[],3.62
-ITF WOMEN - SINGLES :  W15 Lima 2 (Peru),clay,header
-ITF WOMEN - SINGLES :  W15 Lima (Peru),clay,header
-ITF WOMEN - SINGLES :  W60 Barranquilla (Colombia),hard,header
-03.11.2022,Monroy Y.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '3']","['2', '1', '4', '5']",[],[],12.50
-03.11.2022,Vedder E.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '2', '6', '2']","['3', '3', '5', '3', '6', '4']",[],[],1.01
-01.11.2022,Monroy Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],0
-01.11.2022,Becerra A. M.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.50
-ITF WOMEN - SINGLES :  W25 Ibague (Colombia),clay,header
-ITF WOMEN - SINGLES :  W15 Bucaramanga (Colombia),clay,header
-ITF WOMEN - SINGLES :  W15 Cancun 12 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 11 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 10 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 9 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),hard,header
-WTA - SINGLES :  Bogota (Colombia),clay,header
-05.04.2022,Monroy Y.,0,0,3,,,,0,1,81%,37% (16/43),20% (2/10),50% (7/14),32% (10/31),58% (7/12),25% (2/8),5,34% (18/53),41% (17/41),37% (35/94),1,13% (1/8),29% (2/7),20% (3/15),[],"['2', '2', '3', '3']",[],[],[],11.00
-05.04.2022,Gorgodze E.,2,6,6,,,,0,4,72%,68% (21/31),42% (5/12),75% (6/8),63% (27/43),80% (8/10),50% (7/14),10,59% (24/41),66% (35/53),65% (61/94),6,71% (5/7),88% (7/8),80% (12/15),"['1', '0', '3', '0', '5', '0']","['2', '1', '3', '2', '4', '3', '6', '3']",[],[],[],1.05
-ITF WOMEN - SINGLES :  W25 Medellin (Colombia),clay,header
-ITF WOMEN - SINGLES :  W25 Anapoima (Colombia),clay,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header

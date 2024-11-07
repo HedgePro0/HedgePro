@@ -1,47 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W75 Vienna (Austria),clay,header
-05.09. 13:30,Kan V.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],1.49
-05.09. 13:30,Karatancheva L.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']",[],[],[],[],2.50
-04.09. 13:35,Kan V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '5', '1']",[],[],[],1.06
-04.09. 13:35,Koller A.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '4']",[],[],[],7.80
 ITF WOMEN - SINGLES :  W35 Verbier (Switzerland),clay,header
-23.08. 17:55,Kan V.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '4']","['3', '3']",[],[],1.17
-23.08. 17:55,Marcinkevica D.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '0', '4', '0']","['1', '0', '4', '3']",[],[],4.66
-22.08. 15:45,Kan V.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '5', '7', '5']",[],[],[],1.17
-22.08. 15:45,Okuwaki R.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4', '5', '4']",[],[],[],4.61
-20.08. 15:20,Kan V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
-20.08. 15:20,Luescher S.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.12
 ITF WOMEN - SINGLES :  W75 Amstetten (Austria),clay,header
-15.08. 16:15,Kan V.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.47
-15.08. 16:15,Cengiz B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '6', '3']","['2', '0', '4', '0']",[],[],[],1.50
-14.08. 19:05,Kan V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0']",[],[],[],1.02
-14.08. 19:05,Pircher A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']",[],[],[],[],11.10
-13.08. 13:30,Kan V.,1,7^7,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '6']","['1', '0', '5', '2']",[],[],[],3.86
-13.08. 13:30,Brancaccio N.,0,6^2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '6', '5']",[],[],[],[],1.23
 ITF WOMEN - SINGLES :  W100 Gran Canaria (Spain),clay,header
-31.07. 13:55,Kan V.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1']","['1', '1']",[],[],4.66
-31.07. 13:55,Teichmann J.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3', '5', '4']","['1', '0', '2', '1', '5', '2']",[],[],1.17
 ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
 ITF WOMEN - SINGLES :  W75 Caserta (Italy),clay,header
-04.06. 20:40,Kan V.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.38
-04.06. 20:40,Fossa Huergo N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],2.88
 ITF WOMEN - SINGLES :  W50 Otocec (Slovenia),clay,header
-22.05. 12:35,Kan V.,0,6^3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['2', '4']",[],[],[],1.75
-22.05. 12:35,Feistel G.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['2', '1', '4', '1', '6', '3']",[],[],[],1.98
 ITF WOMEN - SINGLES :  W50+H Calvi (France),hard,header
-19.04. 15:40,Kan V.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '4']",[],[],[],[],7.39
-19.04. 15:40,Snigur D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
-18.04. 14:10,Kan V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '2']","['4', '2']",[],[],[],3.96
-18.04. 14:10,Banks A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],1.22
-16.04. 15:00,Kan V.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4', '5', '5', '7', '5']","['1', '1', '3', '1', '6', '2']",[],[],[],1.20
-16.04. 15:00,Szostak M.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3', '5', '4']","['1', '0']",[],[],[],4.27
 ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
 ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header
 ITF WOMEN - SINGLES :  W60 Vienna (Austria),clay,header
-07.09.2023,Kan V.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '1']",[],[],[],1.91
-07.09.2023,Abduraimova N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '0', '4', '3']",[],[],[],1.80
-06.09.2023,Kan V.,2,6^2,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['1', '1', '3', '1', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],1.18
-06.09.2023,Morderger T.,1,7^7,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['1', '0', '2', '3']","['2', '1']",[],[],4.43
 ITF WOMEN - SINGLES :  W25 Trieste (Italy),clay,header
 ITF WOMEN - SINGLES :  W25 Osijek 2 (Croatia),clay,header
 ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
@@ -51,13 +19,23 @@ ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
 ITF WOMEN - SINGLES :  W15 Oberpullendorf (Austria),hard,header
 ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
 ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header
-20.07.2022,Kan V.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0']",[],[],[],1.71
-20.07.2022,Nara K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['1', '1', '4', '2']",[],[],[],2.11
-18.07.2022,Kan V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2', '5', '2']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],1.93
-18.07.2022,Salkova D.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2']","['1', '1', '2', '2']",[],[],[],1.80
-ITF WOMEN - SINGLES :  W25 Prokuplje (Serbia),clay,header
-ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
-ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
-ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Bratislava 3 (Slovakia),clay,header
+ITF WOMEN - SINGLES :  W75 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W35 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W75 Amstetten (Austria),clay,header
+ITF WOMEN - SINGLES :  W100 Gran Canaria (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W75 Caserta (Italy),clay,header
+ITF WOMEN - SINGLES :  W50 Otocec (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W50+H Calvi (France),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Trieste (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Osijek 2 (Croatia),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W40 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W40 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
+ITF WOMEN - SINGLES :  W15 Oberpullendorf (Austria),hard,header
+ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
+ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header

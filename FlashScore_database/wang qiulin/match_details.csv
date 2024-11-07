@@ -1,21 +1,94 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M25 Qian Daohu (China),hard,header
 CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-13.10. 13:10,Wang Q.,0,1,3,,,,3,4,61%,52% (16/31),40% (8/20),17% (1/6),21% (7/33),59% (10/17),20% (1/5),4,47% (24/51),34% (17/50),41% (41/101),1,38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],6.94
-13.10. 13:10,Leong M. W. K.,2,6,6,,,,1,4,66%,79% (26/33),41% (7/17),80% (4/5),48% (15/31),60% (12/20),83% (5/6),5,66% (33/50),53% (27/51),59% (60/101),8,88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.08
+13.10. 13:10,Wang Q.,0,1,3,,,,3,4,61%,52% (16/31),40% (8/20),17% (1/6),0 km/h,0 km/h,21% (7/33),59% (10/17),20% (1/5),47% (24/51),34% (17/50),41% (41/101),3,0,38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],6.94
+13.10. 13:10,Leong M. W. K.,2,6,6,,,,1,4,66%,79% (26/33),41% (7/17),80% (4/5),0 km/h,0 km/h,48% (15/31),60% (12/20),83% (5/6),66% (33/50),53% (27/51),59% (60/101),7,0,88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.08
 ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
-17.09. 11:10,Wang Q.,1,3,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '2']","['4', '5']",[],[],5.35
-17.09. 11:10,Agarwal R.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '3']","['3', '1', '7', '5']",[],[],1.13
 ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
 ITF MEN - SINGLES :  M25 Baotou (China),clay,header
 ITF MEN - SINGLES :  M25 Anning (China),clay,header
 ITF MEN - SINGLES :  M25 Luan (China),hard,header
 ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
 CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
-CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
-27.08.2023,Wang Q.,0,2,4,,,,3,2,37%,64% (16/25),35% (15/43),54% (7/13),36% (14/39),59% (13/22),38% (3/8),10,46% (31/68),44% (27/61),45% (58/129),4,33% (3/9),33% (3/9),33% (6/18),"['1', '5']","['2', '4', '4', '4']",[],[],[],12.50
-27.08.2023,Zgirovsky A.,2,6,6,,,,1,6,64%,64% (25/39),41% (9/22),63% (5/8),36% (9/25),65% (28/43),46% (6/13),6,56% (34/61),54% (37/68),55% (71/129),5,67% (6/9),67% (6/9),67% (12/18),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '4']",[],[],[],1.01
+27.08.2023,Wang Q.,0,2,4,,,,3,2,37%,64% (16/25),35% (15/43),54% (7/13),36% (14/39),59% (13/22),38% (3/8),46% (31/68),44% (27/61),45% (58/129),33% (3/9),33% (3/9),33% (6/18),"['1', '5']","['2', '4', '4', '4']",[],[],[],12.50
+27.08.2023,Zgirovsky A.,2,6,6,,,,1,6,64%,64% (25/39),41% (9/22),63% (5/8),36% (9/25),65% (28/43),46% (6/13),56% (34/61),54% (37/68),55% (71/129),67% (6/9),67% (6/9),67% (12/18),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '4']",[],[],[],1.01
+ITF MEN - SINGLES :  M25 Qian Daohu (China),hard,header
+CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
+
+13.10. 13:10,Wang Q.,0,1,3,,,,3,4,61%,52% (16/31),40% (8/20),17% (1/6),21% (7/33),59% (10/17),20% (1/5),4,47% (24/51),34% (17/50),41% (41/101),1,38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],6.94
+
+
+
+13.10. 13:10,Leong M. W. K.,2,6,6,,,,1,4,66%,79% (26/33),41% (7/17),80% (4/5),48% (15/31),60% (12/20),83% (5/6),5,66% (33/50),53% (27/51),59% (60/101),8,88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.08
+
+
+
+ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
+
+
+
+17.09. 11:10,Wang Q.,1,3,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '2']","['4', '5']",[],[],5.35
+
+
+
+17.09. 11:10,Agarwal R.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '3']","['3', '1', '7', '5']",[],[],1.13
+
+
+
+ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
+
+
+
+27.08.2023,Wang Q.,0,2,4,,,,3,2,37%,64% (16/25),35% (15/43),54% (7/13),36% (14/39),59% (13/22),38% (3/8),10,46% (31/68),44% (27/61),45% (58/129),4,33% (3/9),33% (3/9),33% (6/18),"['1', '5']","['2', '4', '4', '4']",[],[],[],12.50
+
+
+
+27.08.2023,Zgirovsky A.,2,6,6,,,,1,6,64%,64% (25/39),41% (9/22),63% (5/8),36% (9/25),65% (28/43),46% (6/13),6,56% (34/61),54% (37/68),55% (71/129),5,67% (6/9),67% (6/9),67% (12/18),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '4']",[],[],[],1.01
+
+
+

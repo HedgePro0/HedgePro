@@ -1,19 +1,11 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
 ITF WOMEN - SINGLES :  W50 Kayseri (Turkey),hard,header
 ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
-ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
-25.09. 17:10,Yoruk I.,1,6,0,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']",[],"['1', '3']",[],[],1.19
-25.09. 17:10,Smekalova M.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],4.23
 ITF WOMEN - SINGLES :  W35 Bistrita (Romania),clay,header
-13.08. 17:20,Yoruk I.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.39
-13.08. 17:20,Bojovic J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2', '4', '3', '6', '3']",[],[],[],1.53
 ITF WOMEN - SINGLES :  W15 Bucharest 4 (Romania),clay,header
-09.08. 12:30,Yoruk I.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],3.43
-09.08. 12:30,Amariei I. D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],[],1.28
-08.08. 14:25,Yoruk I.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '0', '4', '0']","['1', '0', '4', '5', '6', '5']",[],[],1.38
-08.08. 14:25,Teiusanu V.,1,6,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']",[],"['2', '2', '4', '2']",[],[],2.88
-07.08. 14:10,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '4']","['2', '0', '3', '1', '5', '1']",[],[],[],1.33
-07.08. 14:10,Marginean A. I.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5', '4', '5']","['1', '2']",[],[],[],3.12
 ITF WOMEN - SINGLES :  W15 Bucharest 3 (Romania),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
@@ -29,120 +21,3 @@ ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W35 Antalya 4 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W50 Antalya (Turkey),clay,header
-18.01. 12:35,Yoruk I.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '4']",[],[],[],4.30
-18.01. 12:35,Amariei I. D.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '3', '2', '6', '5']",[],[],[],1.19
-16.01. 16:15,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '6', '2']","['2', '0', '3', '1', '6', '2']",[],[],[],5.67
-16.01. 16:15,Prisacariu A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5']","['1', '2']",[],[],[],1.12
-15.01. 17:50,Yoruk I.,2,7^11,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '5', '6', '5']","['2', '0', '3', '1', '6', '2']",[],[],[],1.09
-15.01. 17:50,Atay S.,0,6^9,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '6', '6']","['1', '2']",[],[],[],6.42
-ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W100 Shenzhen (China),hard,header
-19.10.2023,Yoruk I.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-19.10.2023,Babos T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.07
-17.10.2023,Yoruk I.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '5', '5']","['1', '1', '2', '4', '4', '4', '6', '4']","['2', '0', '4', '4', '6', '4']",[],[],2.27
-17.10.2023,Mi T.,1,7,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4', '6', '5']","['1', '0', '2', '1', '4', '1']","['2', '3', '4', '3']",[],[],1.58
-ITF WOMEN - SINGLES :  W40 Pazardzhik (Bulgaria),clay,header
-ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
-ITF WOMEN - SINGLES :  W40 Saint-Palais-sur-Mer (France),clay,header
-ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
-ITF WOMEN - SINGLES :  W25 Bistrita (Romania),clay,header
-ITF WOMEN - SINGLES :  W25 Parnu (Estonia),clay,header
-ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
-ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
-13.06.2023,Yoruk I.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['2', '3', '3', '4']",[],[],[],3.62
-13.06.2023,Cengiz B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4', '6', '4']","['2', '0', '4', '2', '5', '3']",[],[],[],1.25
-12.06.2023,Yoruk I.,2,3,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3']","['1', '0', '3', '0', '5', '0']","['2', '1', '3', '2', '5', '4', '6', '5']",[],[],1.50
-12.06.2023,Hanatani N.,1,6,0,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '4', '3', '6', '3']",[],"['2', '2', '3', '3', '5', '5']",[],[],2.45
-ITF WOMEN - SINGLES :  W60 Bodrum (Turkey),clay,header
-17.05.2023,Yoruk I.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2']","['1', '3', '2', '4', '4', '4']",[],[],[],2.94
-17.05.2023,Buyukakcay C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5', '6', '5']","['1', '0', '3', '0', '4', '1', '5', '4']",[],[],[],1.36
-ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
-29.04.2023,Yoruk I.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],4.46
-29.04.2023,Bara I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['2', '0', '3', '1']",[],[],[],1.18
-28.04.2023,Yoruk I.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']","['3', '3', '5', '3']",[],[],[],3.28
-28.04.2023,Makarova E.,0,2,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['3', '2', '4', '5']",[],[],[],1.30
-28.04.2023,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '5', '3']","['2', '1', '5', '2', '6', '3']",[],[],[],3.34
-28.04.2023,Lodikova D.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4']","['3', '5']",[],[],[],1.29
-26.04.2023,Yoruk I.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '3', '3', '5', '5']","['2', '1', '5', '4']",[],[],[],2.45
-26.04.2023,Dinu C.,0,6^3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2', '4', '3']","['4', '4']",[],[],[],1.50
-ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
-07.04.2023,Yoruk I.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-07.04.2023,Van De Peer V.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-06.04.2023,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
-06.04.2023,Shalamanova D.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
-04.04.2023,Yoruk I.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.04.2023,Chlpac A.,1,7^7,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
-30.03.2023,Yoruk I.,0,6^4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-30.03.2023,Obradovic A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-29.03.2023,Yoruk I.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
-29.03.2023,Kostic T.,1,2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.82
-ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
-25.03.2023,Yoruk I.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-25.03.2023,Lodikova D.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-24.03.2023,Yoruk I.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
-24.03.2023,Candiotto A.,1,6,6^3,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.94
-23.03.2023,Yoruk I.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-23.03.2023,Obradovic A.,0,6^3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-22.03.2023,Yoruk I.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-22.03.2023,Niimi K.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.56
-ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
-17.03.2023,Yoruk I.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.83
-17.03.2023,Kuramochi M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.88
-16.03.2023,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.26
-16.03.2023,Simunyu C.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.54
-15.03.2023,Yoruk I.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.37
-15.03.2023,Ferrara V.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.89
-ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
-24.01.2023,Yoruk I.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.31
-24.01.2023,Demidova D.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.56
-ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
-19.01.2023,Yoruk I.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.57
-19.01.2023,Bartha P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.46
-17.01.2023,Yoruk I.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-17.01.2023,Ilie D. M.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.60
-ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
-14.01.2023,Yoruk I.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.40
-14.01.2023,Demidova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.78
-13.01.2023,Yoruk I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.04
-13.01.2023,Solomatina A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.40
-ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 24 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 22 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
-ITF WOMEN - SINGLES :  W25 Cairo 3 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
-ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
-ITF WOMEN - SINGLES :  W25 Mogyorod (Hungary),clay,header
-ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
-ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
-ITF WOMEN - SINGLES :  W25 Nur-Sultan 2 (Kazakhstan),hard,header
-ITF WOMEN - SINGLES :  W100 Versmold (Germany),clay,header
-05.07.2022,Yoruk I.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],8.40
-05.07.2022,Noskova L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['3', '1', '5', '1']",[],[],[],1.06
-ITF WOMEN - SINGLES :  W25 Raanana (Israel),hard,header
-ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
-27.04.2022,Yoruk I.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '1', '2', '4']",[],[],[],2.42
-27.04.2022,Prisacariu A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],[],1.54
-ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Antalya 2 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header

@@ -1,41 +1,88 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
-14.08. 15:10,Vasa I.,0,1,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5', '6', '5']",[],[],[],3.69
-14.08. 15:10,Gonzalez Fernandez M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['5', '3', '6', '6']",[],[],[],1.25
 ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
-08.08. 12:30,Vasa I.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],1.91
-08.08. 12:30,Tudorica A. N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '1', '4', '2']",[],[],[],1.81
-07.08. 14:05,Vasa I.,2,6^7,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '6', '3']","['2', '0', '6', '4']",[],[],1.86
-07.08. 14:05,Simonsson F.,1,7^9,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['3', '4']",[],[],1.86
 CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
-21.07. 19:10,Vasa I.,0,5,1,,,,3,2,54%,73% (22/30),23% (6/26),17% (1/6),33% (13/39),43% (9/21),17% (1/6),6,50% (28/56),37% (22/60),43% (50/116),3,50% (5/10),11% (1/9),32% (6/19),"['3', '1']",[],[],[],[],1.30
-21.07. 19:10,Setodji T.,2,7,6,,,,6,0,65%,67% (26/39),57% (12/21),83% (5/6),27% (8/30),77% (20/26),83% (5/6),10,63% (38/60),50% (28/56),57% (66/116),5,89% (8/9),50% (5/10),68% (13/19),"['3', '4', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],3.37
+21.07. 19:10,Vasa I.,0,5,1,,,,3,2,54%,73% (22/30),23% (6/26),17% (1/6),33% (13/39),43% (9/21),17% (1/6),50% (28/56),37% (22/60),43% (50/116),3,0,50% (5/10),11% (1/9),32% (6/19),"['3', '1']",[],[],[],[],1.30
+21.07. 19:10,Setodji T.,2,7,6,,,,6,0,65%,67% (26/39),57% (12/21),83% (5/6),27% (8/30),77% (20/26),83% (5/6),63% (38/60),50% (28/56),57% (66/116),7,0,89% (8/9),50% (5/10),68% (13/19),"['3', '4', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],3.37
 ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
 ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
 ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
 ITF MEN - SINGLES :  M25 Lodz (Poland),clay,header
 ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
 ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
-16.06.2023,Vasa I.,1,7^8,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.43
-16.06.2023,Vives Marcos P.,2,6^6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '3']","['1', '0', '3', '0']",[],[],1.51
-15.06.2023,Vasa I.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],"['7', '5']",[],[],4.57
-15.06.2023,Faria J.,1,3,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],1.17
-14.06.2023,Vasa I.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']",[],[],[],[],1.20
-14.06.2023,Martinez Gomez P.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.18
 ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
 ITF MEN - SINGLES :  M15 Helsinki (Finland),hard,header
-12.08.2022,Vasa I.,0,4,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.98
-12.08.2022,Peliwo F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.16
-11.08.2022,Vasa I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.35
-11.08.2022,Ambarzumjan E.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-10.08.2022,Vasa I.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-10.08.2022,Cunat M.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.66
 ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
-03.08.2022,Vasa I.,1,6,6^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
-03.08.2022,Parts R. E.,2,2,7^9,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.86
 ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
 CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
-17.07.2022,Vasa I.,0,1,1,,,,1,5,45%,42% (8/19),39% (9/23),17% (1/6),14% (3/21),39% (7/18),0% (0/1),5,40% (17/42),26% (10/39),33% (27/81),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],9.10
-17.07.2022,Mayot H.,2,6,6,,,,3,1,54%,86% (18/21),61% (11/18),100% (1/1),58% (11/19),61% (14/23),83% (5/6),7,74% (29/39),60% (25/42),67% (54/81),7,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.05
+17.07.2022,Vasa I.,0,1,1,,,,1,5,45%,42% (8/19),39% (9/23),17% (1/6),14% (3/21),39% (7/18),0% (0/1),40% (17/42),26% (10/39),33% (27/81),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],0
+17.07.2022,Mayot H.,2,6,6,,,,3,1,54%,86% (18/21),61% (11/18),100% (1/1),58% (11/19),61% (14/23),83% (5/6),74% (29/39),60% (25/42),67% (54/81),100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],0
 ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
 ITF MEN - SINGLES :  M25 Meitar (Israel),hard,header
+ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
+ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
+18.07.2021,Vasa I.,0,2,6^4,,,,3,5,62%,67% (35/52),31% (10/32),64% (7/11),24% (7/29),34% (11/32),50% (2/4),54% (45/84),34% (21/61),46% (66/145),70% (7/10),20% (2/10),45% (9/20),[],"['2', '3', '4', '3']",[],[],[],8.10
+18.07.2021,Cazaux A.,2,6,7^7,,,,5,3,48%,76% (22/29),56% (18/32),50% (2/4),33% (17/52),53% (17/32),36% (4/11),66% (40/61),46% (39/84),54% (79/145),80% (8/10),40% (4/10),60% (12/20),"['2', '0', '6', '2']","['2', '0', '4', '4']",[],[],[],1.06
+ITF MEN - SINGLES :  M15 Helsinki (Finland),clay,header
+ITF MEN - SINGLES :  M15 Kouvola (Finland),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+
+CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
+
+21.07. 19:10,Vasa I.,0,5,1,,,,3,2,54%,73% (22/30),23% (6/26),17% (1/6),33% (13/39),43% (9/21),17% (1/6),50% (28/56),37% (22/60),43% (50/116),50% (5/10),11% (1/9),32% (6/19),"['3', '1']",[],[],[],[],1.30
+
+21.07. 19:10,Setodji T.,2,7,6,,,,6,0,65%,67% (26/39),57% (12/21),83% (5/6),27% (8/30),77% (20/26),83% (5/6),63% (38/60),50% (28/56),57% (66/116),89% (8/9),50% (5/10),68% (13/19),"['3', '4', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],3.37
+
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+
+ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
+
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+
+ITF MEN - SINGLES :  M25 Lodz (Poland),clay,header
+
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+
+ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
+
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+
+ITF MEN - SINGLES :  M15 Helsinki (Finland),hard,header
+
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+
+CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
+
+17.07.2022,Vasa I.,0,1,1,,,,1,5,45%,42% (8/19),39% (9/23),17% (1/6),14% (3/21),39% (7/18),0% (0/1),40% (17/42),26% (10/39),33% (27/81),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],9.10
+
+17.07.2022,Mayot H.,2,6,6,,,,3,1,54%,86% (18/21),61% (11/18),100% (1/1),58% (11/19),61% (14/23),83% (5/6),74% (29/39),60% (25/42),67% (54/81),100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.05
+
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+
+ITF MEN - SINGLES :  M25 Meitar (Israel),hard,header
+
+ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
+
+ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
+
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+
+CHALLENGER MEN - SINGLES :  Tampere (Finland) - Qualification,clay,header
+
+18.07.2021,Vasa I.,0,2,6^4,,,,3,5,62%,67% (35/52),31% (10/32),64% (7/11),24% (7/29),34% (11/32),50% (2/4),54% (45/84),34% (21/61),46% (66/145),70% (7/10),20% (2/10),45% (9/20),[],"['2', '3', '4', '3']",[],[],[],8.10
+
+18.07.2021,Cazaux A.,2,6,7^7,,,,5,3,48%,76% (22/29),56% (18/32),50% (2/4),33% (17/52),53% (17/32),36% (4/11),66% (40/61),46% (39/84),54% (79/145),80% (8/10),40% (4/10),60% (12/20),"['2', '0', '6', '2']","['2', '0', '4', '4']",[],[],[],1.06
+
+ITF MEN - SINGLES :  M15 Helsinki (Finland),clay,header
+
+ITF MEN - SINGLES :  M15 Kouvola (Finland),hard,header
+

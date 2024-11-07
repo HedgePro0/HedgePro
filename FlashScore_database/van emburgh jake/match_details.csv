@@ -1,91 +1,853 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
 ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
 ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
-01.08. 21:30,Van Emburgh J.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.36
-01.08. 21:30,Mbithi M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']","['1', '1', '3', '1']",[],[],[],1.54
-30.07. 20:20,Van Emburgh J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3', '6', '4']","['2', '0', '4', '0']",[],[],[],1.43
-30.07. 20:20,Pena E.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5']",[],[],[],[],2.68
 ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
-25.07. 22:50,Van Emburgh J.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2']",[],"['1', '3']",[],[],3.37
-25.07. 22:50,Rubio Fierros A. F.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],1.29
 ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Lakewood,hard,header
-04.07. 00:20,Van Emburgh J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4']","['3', '4', '4', '5']",[],[],[],5.56
-04.07. 00:20,Knaff A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '4']","['2', '0', '5', '3', '6', '4']",[],[],[],1.12
 ITF MEN - SINGLES :  M15 Los Angeles,hard,header
-26.06. 03:45,Van Emburgh J.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.00
-26.06. 03:45,Kwiatkowski T. S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0']",[],[],[],1.06
 ITF MEN - SINGLES :  M25 Tulsa,hard,header
-18.06. 23:25,Van Emburgh J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.46
-18.06. 23:25,Ilagan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.13
 ITF MEN - SINGLES :  M15 San Diego,hard,header
-05.06. 03:40,Van Emburgh J.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '1']",[],[],[],0
-05.06. 03:40,Charlton J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '2', '3', '5', '4']",[],[],[],0
 ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
 ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
 ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
 ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Vero Beach,clay,header
-25.04. 00:45,Van Emburgh J.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '5']","['2', '2', '3', '5']",[],[],[],1.86
-25.04. 00:45,Woestendick C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '6', '5']","['2', '1', '3', '2', '5', '2']",[],[],[],1.86
 ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
 ITF MEN - SINGLES :  M25 Wesley Chapel,hard,header
-24.01. 22:35,Van Emburgh J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']","['1', '0']",[],[],[],1.28
-24.01. 22:35,Overmyer K.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '7', '5']","['2', '2', '5', '3']",[],[],[],3.43
 ITF MEN - SINGLES :  M25 Ithaca,hard,header
-17.01. 21:05,Van Emburgh J.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
-17.01. 21:05,Papoe R. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.20
 ITF MEN - SINGLES :  M25 Columbus,hard,header
-15.11.2023,Van Emburgh J.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.97
-15.11.2023,Murgett F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.75
 ITF MEN - SINGLES :  M25 Austin,hard,header
-09.11.2023,Van Emburgh J.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.92
-09.11.2023,Koenig L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],1.79
 ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-02.11.2023,Van Emburgh J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.27
-02.11.2023,Schachter N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['4', '2']",[],[],[],1.58
-02.11.2023,Van Emburgh J.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['4', '5']",[],[],[],1.94
-02.11.2023,Manuel M.,0,2,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],1.77
 ITF MEN - SINGLES :  M15 Norman,hard,header
 ITF MEN - SINGLES :  M15 Ithaca,hard,header
-06.10.2023,Van Emburgh J.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.90
-06.10.2023,Draxl L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '0']",[],[],[],1.11
-05.10.2023,Van Emburgh J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']","['2', '1']",[],[],3.22
-05.10.2023,Corwin F.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],1.31
-03.10.2023,Van Emburgh J.,2,6^2,7^13,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],"['5', '4']",[],[],2.43
-03.10.2023,Martin D.,1,7^7,6^11,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['5', '5']",[],[],1.51
 ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
-17.08.2023,Van Emburgh J.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],3.34
-17.08.2023,Stewart H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '2', '5', '4']",[],[],[],1.29
-16.08.2023,Van Emburgh J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1', '6', '3']",[],[],[],1.56
-16.08.2023,Gaal C.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],2.31
 ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Castelo Branco (Portugal),hard,header
-21.07.2023,Van Emburgh J.,1,2,6,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.82
-21.07.2023,Andaloro F.,2,6,3,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.39
-20.07.2023,Van Emburgh J.,2,7^7,2,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
-20.07.2023,Rodrigues D.,1,6^3,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
-18.07.2023,Van Emburgh J.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.76
-18.07.2023,Cekirge K.,1,4,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.95
-ITF MEN - SINGLES :  M25 Dallas,hard,header
-12.07.2023,Van Emburgh J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],3.32
-12.07.2023,Braswell M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '6', '3']","['3', '1', '5', '1']",[],[],[],1.30
-ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-ITF MEN - SINGLES :  M15 Orange Park,clay,header
-04.05.2023,Van Emburgh J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.60
-04.05.2023,Descotte M. F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.04
-03.05.2023,Van Emburgh J.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0']","['1', '1', '6', '4']",[],[],1.89
-03.05.2023,Strode E.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2']","['1', '0']",[],[],1.82
-ITF MEN - SINGLES :  M15 Edmond,hard,header
-25.01.2023,Van Emburgh J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '2']",[],[],[],2.24
-25.01.2023,Kissell C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '7', '5']","['2', '0', '3', '1']",[],[],[],1.58
-ITF MEN - SINGLES :  M25 Columbus,hard,header
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Lakewood,hard,header
+ITF MEN - SINGLES :  M15 Los Angeles,hard,header
+ITF MEN - SINGLES :  M25 Tulsa,hard,header
+ITF MEN - SINGLES :  M15 San Diego,hard,header
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M25 Wesley Chapel,hard,header
+ITF MEN - SINGLES :  M25 Ithaca,hard,header
+ITF MEN - SINGLES :  M25 Columbus,hard,header
+ITF MEN - SINGLES :  M25 Austin,hard,header
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+ITF MEN - SINGLES :  M15 Norman,hard,header
+ITF MEN - SINGLES :  M15 Ithaca,hard,header
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
+ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Castelo Branco (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Lakewood,hard,header
+
+ITF MEN - SINGLES :  M15 Los Angeles,hard,header
+
+ITF MEN - SINGLES :  M25 Tulsa,hard,header
+
+ITF MEN - SINGLES :  M15 San Diego,hard,header
+
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+
+ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+
+ITF MEN - SINGLES :  M25 Wesley Chapel,hard,header
+
+ITF MEN - SINGLES :  M25 Ithaca,hard,header
+
+ITF MEN - SINGLES :  M25 Columbus,hard,header
+
+ITF MEN - SINGLES :  M25 Austin,hard,header
+
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+
+ITF MEN - SINGLES :  M15 Norman,hard,header
+
+ITF MEN - SINGLES :  M15 Ithaca,hard,header
+
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
+
+ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Castelo Branco (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+
+
+
+
+
+
+01.08. 21:30,Van Emburgh J.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.36
+
+
+
+
+
+
+
+01.08. 21:30,Mbithi M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']","['1', '1', '3', '1']",[],[],[],1.54
+
+
+
+
+
+
+
+30.07. 20:20,Van Emburgh J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3', '6', '4']","['2', '0', '4', '0']",[],[],[],1.43
+
+
+
+
+
+
+
+30.07. 20:20,Pena E.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5']",[],[],[],[],2.68
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+
+
+
+
+
+
+
+25.07. 22:50,Van Emburgh J.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2']",[],"['1', '3']",[],[],3.37
+
+
+
+
+
+
+
+25.07. 22:50,Rubio Fierros A. F.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],1.29
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Lakewood,hard,header
+
+
+
+
+
+
+
+04.07. 00:20,Van Emburgh J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4']","['3', '4', '4', '5']",[],[],[],5.56
+
+
+
+
+
+
+
+04.07. 00:20,Knaff A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '4']","['2', '0', '5', '3', '6', '4']",[],[],[],1.12
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Los Angeles,hard,header
+
+
+
+
+
+
+
+26.06. 03:45,Van Emburgh J.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.00
+
+
+
+
+
+
+
+26.06. 03:45,Kwiatkowski T. S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0']",[],[],[],1.06
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Tulsa,hard,header
+
+
+
+
+
+
+
+18.06. 23:25,Van Emburgh J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.46
+
+
+
+
+
+
+
+18.06. 23:25,Ilagan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.13
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 San Diego,hard,header
+
+
+
+
+
+
+
+05.06. 03:40,Van Emburgh J.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '1']",[],[],[],0
+
+
+
+
+
+
+
+05.06. 03:40,Charlton J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '2', '3', '5', '4']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+
+
+
+
+
+
+
+25.04. 00:45,Van Emburgh J.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '5']","['2', '2', '3', '5']",[],[],[],1.86
+
+
+
+
+
+
+
+25.04. 00:45,Woestendick C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '6', '5']","['2', '1', '3', '2', '5', '2']",[],[],[],1.86
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Wesley Chapel,hard,header
+
+
+
+
+
+
+
+24.01. 22:35,Van Emburgh J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']","['1', '0']",[],[],[],1.28
+
+
+
+
+
+
+
+24.01. 22:35,Overmyer K.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '7', '5']","['2', '2', '5', '3']",[],[],[],3.43
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Ithaca,hard,header
+
+
+
+
+
+
+
+17.01. 21:05,Van Emburgh J.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
+
+
+
+
+
+
+
+17.01. 21:05,Papoe R. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.20
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Columbus,hard,header
+
+
+
+
+
+
+
+15.11.2023,Van Emburgh J.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.97
+
+
+
+
+
+
+
+15.11.2023,Murgett F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.75
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Austin,hard,header
+
+
+
+
+
+
+
+09.11.2023,Van Emburgh J.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.92
+
+
+
+
+
+
+
+09.11.2023,Koenig L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],1.79
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+
+
+
+
+
+
+
+02.11.2023,Van Emburgh J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.27
+
+
+
+
+
+
+
+02.11.2023,Schachter N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['4', '2']",[],[],[],1.58
+
+
+
+
+
+
+
+02.11.2023,Van Emburgh J.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['4', '5']",[],[],[],1.94
+
+
+
+
+
+
+
+02.11.2023,Manuel M.,0,2,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],1.77
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Norman,hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ithaca,hard,header
+
+
+
+
+
+
+
+06.10.2023,Van Emburgh J.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.90
+
+
+
+
+
+
+
+06.10.2023,Draxl L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '0']",[],[],[],1.11
+
+
+
+
+
+
+
+05.10.2023,Van Emburgh J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']","['2', '1']",[],[],3.22
+
+
+
+
+
+
+
+05.10.2023,Corwin F.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],1.31
+
+
+
+
+
+
+
+03.10.2023,Van Emburgh J.,2,6^2,7^13,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],"['5', '4']",[],[],2.43
+
+
+
+
+
+
+
+03.10.2023,Martin D.,1,7^7,6^11,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['5', '5']",[],[],1.51
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
+
+
+
+
+
+
+
+17.08.2023,Van Emburgh J.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],3.34
+
+
+
+
+
+
+
+17.08.2023,Stewart H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '2', '5', '4']",[],[],[],1.29
+
+
+
+
+
+
+
+16.08.2023,Van Emburgh J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1', '6', '3']",[],[],[],1.56
+
+
+
+
+
+
+
+16.08.2023,Gaal C.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],2.31
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Castelo Branco (Portugal),hard,header
+
+
+
+
+
+
+
+21.07.2023,Van Emburgh J.,1,2,6,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.82
+
+
+
+
+
+
+
+21.07.2023,Andaloro F.,2,6,3,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.39
+
+
+
+
+
+
+
+20.07.2023,Van Emburgh J.,2,7^7,2,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
+
+
+
+
+
+
+
+20.07.2023,Rodrigues D.,1,6^3,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
+
+
+
+
+
+
+
+18.07.2023,Van Emburgh J.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.76
+
+
+
+
+
+
+
+18.07.2023,Cekirge K.,1,4,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.95
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Dallas,hard,header
+
+
+
+
+
+
+
+12.07.2023,Van Emburgh J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],3.32
+
+
+
+
+
+
+
+12.07.2023,Braswell M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '6', '3']","['3', '1', '5', '1']",[],[],[],1.30
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Orange Park,clay,header
+
+
+
+
+
+
+
+04.05.2023,Van Emburgh J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.60
+
+
+
+
+
+
+
+04.05.2023,Descotte M. F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.04
+
+
+
+
+
+
+
+03.05.2023,Van Emburgh J.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0']","['1', '1', '6', '4']",[],[],1.89
+
+
+
+
+
+
+
+03.05.2023,Strode E.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2']","['1', '0']",[],[],1.82
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Edmond,hard,header
+
+
+
+
+
+
+
+25.01.2023,Van Emburgh J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '2']",[],[],[],2.24
+
+
+
+
+
+
+
+25.01.2023,Kissell C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '7', '5']","['2', '0', '3', '1']",[],[],[],1.58
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Columbus,hard,header
+
+
+
+
+
+
+

@@ -1,241 +1,522 @@
-Time,Shan,hai,S,1,2,3,4,5,H,A,header
-12:40,Machac T. (30),2,7,7, , , ,8.10,1.08
-Alcaraz C. (3),0,65,5, 
-09:10,Sinner J. (1),2,6,6, , , ,1.29,3.60
-Medvedev D. (5),0,1,4, 
-Time,Hangzhou challe,ger,S,1,2,3,4,5,H,A,header
-08:40,Hijikata R. (2),2,3,6,7, , ,2.15,1.65
-Svajda Z.,1,6,3,5
-08:00,Cazaux A. (4),2,63,6,6, , ,1.07,7.84
-Bar Biryukov P.,1,7,4,2
-07:15,Walton A. (5),2,6,6, , , ,1.27,3.52
-Sun F.,0,3,4, 
-06:40,Tseng C. (8),2,6,7, , , ,1.23,3.94
-Ursu V.,0,1,62, 
-06:20,Duckworth J. (1),2,6,7, , , ,1.19,4.36
-Ramanathan R.,0,4,5, 
-05:15,Fognini F. (3),2,6,7, , , ,1.36,2.97
-Cui J.,0,3,5, 
-05:10,McDonald M.,2,6,6, , , ,1.29,3.41
-Harris B. (7),0,0,1, 
-05:10,Diallo G. (6),2,6,6, , , ,1.05,9.05
-Samrej K.,0,3,2, 
-Time,Valencie challe,ger,S,1,2,3,4,5,H,A,header
-18:10,Novak D.,2,6,7, , , ,2.70,1.43
-Garin C. (2),0,4,62, 
-14:25,Faria J.,2,4,7,6, , ,3.03,1.34
-Moller E.,1,6,5,3
-14:10,Galan D. (4),2,6,7, , , ,1.39,2.85
-Brancaccio R.,0,4,64, 
-12:15,Choinski J.,2,6,6, , , ,1.33,3.05
-Schwaerzler J.,0,3,2, 
-Time,Villa Maria challe,ger,S,1,2,3,4,5,H,A,header
-23:35,Cerundolo J. (7),2,6,7, , , ,1.54,2.39
-Meligeni Rodrigues Alves F.,0,3,64, 
-20:40,Ugo Carabelli C. (4),2,4,6,6, , ,1.52,2.42
-Vallejo A.,1,6,2,3
-20:25,Pucinelli De Almeida M.,2,6,6, , , ,1.54,2.36
-Ambrogi L.,0,1,4, 
-18:10,Coria F. (1),2,4,6,6, , ,1.40,2.78
-Mena F.,1,6,3,4
-17:35,Sakamoto P.,2,4,7,6, , ,3.47,1.28
-Gomez F. (8),1,6,66,4
-17:05,De Jong J. (5),2,7,7, , , ,1.32,3.20
-Boyer T.,0,64,5, 
-16:10,Burruchaga R. (6),1,6,4, , , ,1.75,1.97
-Collarini A.,0,3,1, 
-16:10,Dellien H. (3),2,6,6, , , ,1.63,2.16
-Heide G.,0,3,1, 
-Time,Roanne challe,ger,S,1,2,3,4,5,H,A,header
-21:30,Van Assche L. (5),2,6,6, , , ,1.58,2.27
-Rodionov J.,0,2,1, 
-19:55,Grenier H.,2,6,6, , , ,1.46,2.57
-Vesely J.,0,3,4, 
-17:45,Herbert P. (6),2,6,7, , , ,1.61,2.22
-Royer V.,0,4,63, 
-15:05,Martineau M.,2,5,7,6, , ,2.24,1.60
-Lestienne C. (8),1,7,64,3
-12:35,Jorda Sanchis D.,2,3,6,6, , ,2.58,1.46
-Poljicak M.,1,6,3,4
-10:40,Kym J.,2,7,6, , , ,2.12,1.68
-Bellucci M. (3),0,5,3, 
-Time,Fairfield challe,ger,S,1,2,3,4,5,H,A,header
-22:55,Holt B. (6),2,7,7, , , ,2.21,1.61
-Spizzirri E.,0,5,5, 
-21:30,Popko D. (4),2,7,6, , , ,1.71,2.02
-Seggerman R.,0,5,1, 
-20:05,Schoolkate T. (2),2,6,6, , , ,1.47,2.56
-Zakharov A.,0,3,4, 
-19:10,Quinn E. (8),2,6,2,6, , ,1.43,2.69
-Quan R.,1,3,6,2
-Time,Futures ,024,S,1,2,3,4,5,H,A,header
-22:35,Torres T.,2,7,6, , , ,4.06,1.20
-Neff A.,0,66,4, 
-20:55,Ilagan A.,2,6,6, , , ,1.31,3.15
-Sinha A.,0,4,2, 
-20:10,Rybakov A.,1,6,4, , , ,1.11,5.59
-Martin D.,0,3,3, 
-19:10,Baadi T.,2,6,6, , , ,1.89,1.80
-Aguilar J.,0,2,4, 
-19:10,Dougaz A.,2,65,6,6, , ,1.07,7.29
-Koons H.,1,7,4,2
-19:10,Ganesan A.,2,7,6, , , ,2.95,1.34
-Boulais J.,0,65,3, 
-18:05,Zink T.,2,7,6, , , ,1.20,4.05
-Weekes J.,0,5,0, 
-17:15,McHugh A.,2,6,6, , , ,1.47,2.49
-Loutit J.,0,1,3, 
-16:35,Karlovskiy E.,2,6,7, , , , , 
-Gadamauri B.,0,4,5, 
-16:10,Johns G.,2,6,6, , , ,1.25,3.57
-Thomson M.,0,2,2, 
-16:10,Monday J.,2,6,6, , , ,1.20,4.02
-Dominko S.,0,2,3, 
-16:10,Chopra K.,2,6,6, , , ,1.85,1.84
-Salle F.,0,2,4, 
-16:05,Kim A.,2,6,6, , , ,1.06,7.63
-Mayew W.,0,1,1, 
-15:50,Bourgue M.,2,7,6, , , ,1.24,3.63
-Stice T.,0,5,4, 
-15:15,Zhu M.,2,2,6,6, , ,5.94,1.10
-Cretu C.,1,6,4,2
-15:00,Silva F.,2,7,6, , , ,1.10,5.96
-Marques D.,0,5,0, 
-14:50,Araujo P.,2,6,6, , , ,2.55,1.43
-Berrettini J.,0,4,2, 
-13:55,Onclin G.,2,6,7, , , ,1.30,3.16
-Blanch D.,0,3,5, 
-13:35,Vale D.,2,4,6,6, , ,2.01,1.72
-Barroso Campos A.,1,6,4,1
-13:35,Giustino L.,2,6,6, , , ,1.33,2.99
-Cadenasso G.,0,4,4, 
-13:00,Mager G.,2,6,3,6, , ,1.74,1.96
-Ovcharenko O.,1,3,6,3
-12:55,Iradukunda G.,2,7,7, , , , , 
-Singh K.,0,5,5, 
-12:35,Gonzalez Fernandez M.,2,6,6, , , ,2.24,1.56
-Fernandez Flores D.,0,4,1, 
-12:05,Javia D.,2,5,6,6, , ,1.08,6.59
-Sibanda M.,1,7,0,2
-12:00,Gadamauri B.,2,6,6, , , ,1.02,10.44
-Antonio J.,0,4,0, 
-12:00,Karlovskiy E.,2,6,6, , , , , 
-Domingues J.,0,4,4, 
-11:40,Clarke J.,2,6,6, , , ,1.77,1.93
-Pennaforti G.,0,3,1, 
-10:55,Denolly C.,2,6,6, , , ,1.05,8.03
-Bianchi J.,0,2,4, 
-10:40,Kuzmanov D.,2,6,6, , , , , 
-Carraro L.,0,3,1, 
-10:30,Bourgue M.,2,2,7,6, , ,1.81,1.87
-Echeverria J.,1,6,5,1
-10:30,Cretu C.,2,3,6,6, , ,1.20,4.19
-Curras Abasolo T.,1,6,4,2
-10:30,Berrettini J.,2,6,6, , , ,1.54,2.32
-Rocha F.,0,2,4, 
-10:30,Stice T.,2,6,6, , , ,1.15,4.66
-Marques G.,0,4,2, 
-10:30,Araujo P.,2,6,6, , , ,1.04,8.57
-Portugal J.,0,4,3, 
-10:30,Zhu M.,2,7,6, , , ,3.47,1.26
-Masjuan Ginel P.,0,65,4, 
-10:25,Barbier Gazeu P.,2,6,7, , , ,1.84,1.87
-Schachter N.,0,3,5, 
-09:45,Cadenasso G.,2,7,2,6, , ,1.58,2.21
-Piraino G.,1,65,6,4
-09:40,Fanselow S.,2,4,6,7, , ,2.10,1.65
-Nesterov P.,1,6,1,63
-09:40,Fatic N.,2,6,7, , , ,1.51,2.39
-Krumich M.,0,3,5, 
-09:40,Maestrelli F.,2,6,6, , , ,1.06,7.61
-Spadola A.,0,4,4, 
-09:40,Sanchez Izquierdo N.,2,7,6, , , ,1.70,2.02
-Weis A.,0,5,1, 
-09:15,Neuchrist M.,2,6,6, , , ,1.02,10.88
-Motta A.,0,0,3, 
-09:15,Steiner M.,2,6,2,6, , ,1.08,6.89
-Sinha N.,1,2,6,4
-09:15,Ramskogler G.,2,7,6, , , , , 
-Vishwakarma S.,0,5,1, 
-09:15,Ouakaa A.,2,7,2,6, , ,1.25,3.60
-Nandal Y.,1,62,6,3
-04:55,Winter E.,2,7,6, , , ,1.23,3.70
-Crowther C.,0,5,4, 
-04:20,Polmans M.,1,6,3, , , ,1.06,7.75
-Gaal C.,0,2,2, 
-04:10,Sinclair C.,2,7,7, , , ,1.11,5.53
-Delaney J.,0,65,64, 
-04:00,Jasika O.,1,3,7,3, , ,1.20,3.97
-Rai A.,0,6,5,0
-03:45,Bouzige M.,2,6,6, , , ,1.18,4.28
-Loof T.,0,1,3, 
-03:25,Ellis B.,2,6,7, , , ,1.29,3.27
-Braithwaite T.,0,4,5, 
-02:00,Sekulic P.,2,6,3,6, , ,1.03,9.72
-Pade C.,1,3,6,3
-02:00,Bradshaw J.,2,6,6, , , ,1.52,2.37
-Marinkov P.,0,3,1, 
-18:10,Naw H.,2,6,6, , , ,1.05,7.54
-Garcia Paez L.,0,3,3, 
-17:40,Dellavedova M.,2,6,4,6, , ,1.70,1.95
-Manzanera Pertusa A.,1,4,6,1
-15:15,Hudd E.,2,6,6, , , ,1.22,3.81
-Pascual Ferra R.,0,1,0, 
-15:15,Perez Contri S.,2,6,5,6, , , , 
-Barreto Sanchez D.,1,2,7,2
-15:15,Demin Y.,2,7,3,7, , ,2.16,1.60
-Marrero Curbelo I.,1,5,6,5
-14:25,Knaff A.,2,4,6,6, , ,1.83,1.84
-Borg L.,1,6,4,4
-14:10,Szajrych J.,2,6,6, , , ,1.43,2.59
-Simundza J.,0,3,3, 
-13:25,Nikles J.,2,6,6, , , ,1.07,6.99
-Pohjola P.,0,1,4, 
-13:25,Gobat A.,2,6,6, , , ,1.32,3.06
-Gutierrez O.,0,4,3, 
-13:20,Montes-De La Torre I.,2,6,6, , , ,1.51,2.38
-Pedrico Kravtsov A.,0,4,4, 
-13:15,Wiedenmann L.,2,6,6, , , ,1.25,3.54
-Primucci L.,0,4,2, 
-12:40,Agwi M.,2,6,6, , , ,1.12,5.39
-Molder M.,0,4,2, 
-12:30,Gorokhov M.,2,6,6, , , , , 
-Bobrov B.,0,2,4, 
-12:30,Coppejans K.,2,7,6, , , ,1.25,3.61
-Gima S.,0,65,4, 
-12:10,Kumar O.,2,6,7, , , ,1.17,4.44
-Tabacco F.,0,2,5, 
-12:00,Reco A.,2,6,3,6, , , , 
-Fomba L.,1,3,6,4
-11:55,Kolar Z.,2,7,6, , , ,1.08,6.35
-Donald M.,0,5,2, 
-11:45,Jadoun N.,2,7,6, , , ,2.07,1.66
-Klok D.,0,62,1, 
-11:30,Wassermann D.,2,6,6, , , , , 
-Valsecchi P.,0,2,2, 
-11:15,Jones M.,2,6,7, , , ,1.13,4.95
-Stanke C.,0,0,63, 
-11:10,Gengel M.,2,6,6, , , ,1.14,4.88
-Butulija B.,0,2,3, 
-10:40,Elsayed A.,2,4,6,6, , ,1.32,3.07
-Krajci M.,1,6,4,1
-10:25,Strombachs R.,2,1,6,6, , ,1.19,4.12
-Ehrenschneider N.,1,6,2,1
-10:10,Jones M.,2,6,1,6, , ,1.32,3.06
-Elamin A.,1,0,6,2
-10:05,Rodesch C.,2,6,6, , , ,1.25,3.50
-Lumsden E.,0,4,3, 
-10:00,Searle H.,2,6,6, , , ,1.06,7.43
-Azoides D.,0,2,2, 
-10:00,Kravchenko G.,2,6,1,6, , ,1.72,1.99
-Ejupovic E.,1,3,6,3
-10:00,Pawelski M.,2,7,6, , , ,1.71,2.00
-Fajta P.,0,62,3, 
-09:15,Simakin I.,2,6,6, , , ,1.08,6.62
-Hannestad B.,0,2,1, 
-09:15,Bertran P.,2,6,6, , , ,1.19,4.07
-Mbithi M.,0,3,3, 
-09:15,Dzhavakian Y.,2,7,6, , , , , 
-Sau Franco A.,0,5,1, 
-09:10,Binda A.,2,6,6, , , ,2.86,1.36
-Agafonov E.,0,4,1, 
+Time,,Vienna,S,1,2,3,4,5,H,header
+14:10,Draper Jack,2,6,7,,,,1.65,2.22
+Khachanov K.,Khachanov Karen,4,5,
+Time,,Basel,S,1,2,3,4,5,H,header
+15:40,Mpetshi Perricard Giovanni,2,6,7,,,,2.85,1.42
+Shelton B. (6),Shelton Ben,4,64,
+Time,ipei 2 ch,llenger,S,1,2,3,4,5,H,header
+09:35,Daniel Taro,2,6,7,,,,1.88,1.83
+Walton A. (3),Walton Adam,4,5,
+Time,ritiba ch,llenger,S,1,2,3,4,5,H,header
+15:05,Faria Jaime,2,6,6,,,,2.28,1.58
+Meligeni Rodrigues Alves F. (8),Meligeni Rodrigues Alves Felipe,4,4,
+Time,est ch,llenger,S,1,2,3,4,5,H,header
+15:05,Virtanen Otto,2,6,4,7,,,1.69,2.09
+Bonzi B.,Bonzi Benjamin,4,6,66
+Time,ayford 2 ch,llenger,S,1,2,3,4,5,H,header
+02:30,Hijikata Rinky,2,6,7,,,,1.36,2.98
+Shimizu Y.,Shimizu Yuta,4,64,
+Time,oux Falls ch,llenger,S,1,2,3,4,5,H,header
+19:10,Gojo Borna,2,6,7,,,,1.41,2.75
+Smith C.,Smith Colton,1,5,
+Time,tu,es,2024,S,1,2,3,4,5,H,header
+16:00,Monday Johannus,2,6,6,,,,1.10,5.94
+Aguilar J.,Aguilar Juan Carlos,1,3,
+14:15,Geerts Michael,2,6,7,,,,1.47,2.49
+Prihodko O.,Prihodko Oleg,4,5,
+11:30,Sigsgaard Christian,2,6,7,,,,2.22,1.58
+Matusevich A.,Matusevich Anton,2,65,
+10:00,Karol Milos,2,6,6,,,,2.89,1.36
+Novak D.,Novak Dennis,2,4,
+10:00,Topo Marko,2,7,7,,,,1.27,3.42
+Kimhi O.,Kimhi Orel,66,64,
+08:00,Bar Biryukov Petr,2,6,5,6,,,3.05,1.33
+Gengel M.,Gengel Marek,3,7,4
+05:00,Bai Yan,2,6,4,6,,,1.64,2.11
+Sun F.,Sun Fajing,3,6,2
+11:00,Montes-De La Torre Inaki,2,6,1,6,,,1.68,2.03
+Celikbilek A.,Celikbilek Altug,2,6,4
+09:00,Gentzsch Tom,2,6,6,,,,1.90,1.79
+Basic M.,Basic Mirza,2,4,
+09:00,Ionel Nicholas David,2,613,6,6,,,1.31,3.11
+Madarasz G.,Madarasz Gergely,7,1,2
+03:00,Shin Woobin,2,7,6,,,,1.34,2.93
+Matsumura R.,Matsumura Ryotaro,65,3,
+Time,R Pro Tennis ,eries,3,S,1,2,3,4,5,H,header
+23:51,Bracks Ian,2,7,7,,,,2.00,1.73
+Bellegy A.,Bellegy Arthur,6,6,
+22:44,Emesz Benedikt,2,6,6,,,,1.36,3.00
+Gadecki T.,Gadecki Thomas Nicholas,2,2,
+21:14,Al-Amin Karim,2,6,5,6,,,1.30,3.40
+Smillie C.,Smillie Connor,4,7,4
+20:23,Manuel Melvin,2,6,7,,,,,
+Sweeney J.,Sweeney Jake,2,6,
+19:39,Giamichelle Santiago,2,6,6,,,,2.00,1.73
+Palovic L.,Palovic Lukas,2,2,
+17:00,Boland Brendan,2,2,6,6,,,2.50,1.50
+Blanchar A.,Blanchar Alex,6,0,4
+17:00,Benchakroun Mehdi,2,6,7,7,,,1.28,3.50
+Vrba J.,Vrba Jakub,7,6,6
+Time,R Pro Tennis ,eries,5,S,1,2,3,4,5,H,header
+19:55,Echeverria John,2,6,6,,,,,
+Fernandez Flores D.,Fernandez Flores Diego,4,2,
+18:41,Lalami Laaroussi Younes,2,7,3,6,,,1.83,1.83
+Paardekooper S.,Paardekooper Stijn,5,6,4
+18:27,Pascual Ferra Roger,2,6,6,6,,,1.50,2.50
+Cekirge K.,Cekirge Kuzey,3,7,2
+17:28,Naharro David,2,6,7,,,,1.83,1.83
+Forcano I.,Forcano Ignasi,4,5,
+09:00,Fernandez Flores Diego,2,6,6,,,,1.22,4.00
+Dhoe B.,Dhoe Benjamin,4,1,
+Time,atislava ch,llenger,S,1,2,3,4,5,H,header
+20:10,Kachmazov Alibek,2,6,6,,,,1.32,3.18
+Vrbensky M.,Vrbensky Michael,3,4,
+19:55,Karol Milos,2,7,6,,,,2.49,1.49
+Cressy M. (11),Cressy Maxime,61,1,
+19:10,Medjedovic Hamad,2,6,6,,,,1.32,3.22
+Hassan B.,Hassan Benjamin,0,1,
+17:35,Yevseyev Denis,2,6,7,,,,2.02,1.71
+Klizan M.,Klizan Martin,2,66,
+17:15,Andreev Adrian,2,4,6,6,,,1.93,1.79
+Gombos N.,Gombos Norbert,6,4,3
+16:05,Piros Zsombor,2,6,6,,,,1.51,2.42
+Novak D.,Novak Dennis,2,4,
+14:10,Monteiro Thiago,2,66,7,7,,,1.04,9.57
+Lanik T.,Lanik Tomas,7,63,64
+13:35,Ivanovski Kalin,2,7,7,,,,4.69,1.17
+Kovacevic A. (2),Kovacevic Aleksandar,64,63,
+12:20,Gerasimov Egor,2,6,7,,,,2.02,1.71
+Choinski J.,Choinski Jan,3,64,
+12:10,Collignon Raphael,2,6,6,,,,1.33,3.13
+Sels J.,Sels Jelle,4,2,
+10:05,Royer Valentin,2,5,6,6,,,1.48,2.50
+Marchenko I.,Marchenko Illya,7,4,1
+10:05,Nava Emilio,2,6,2,6,,,1.19,4.35
+Brunclik P.,Brunclik Petr,4,6,3
+Time,azzaville ch,llenger,S,1,2,3,4,5,H,header
+14:00,Yam Chun-Ming,2,7,6,,,,1.61,2.18
+Van Aken N.,Van Aken Nicholas,65,1,
+11:00,Covato Matteo,2,6,6,,,,1.01,13.67
+Pandzou Ekoume C.,Pandzou Ekoume Cheik,1,1,
+11:00,Bataljin Lawrence,2,6,6,,,,1.12,5.71
+Momo Kassa K.,Momo Kassa Kryce Didier,2,3,
+Time,arlottesville ch,llenger,S,1,2,3,4,5,H,header
+23:30,Rodesch Chris,2,6,2,6,,,1.46,2.58
+Williams C.,Williams Cooper,3,6,2
+23:15,Kirchheimer Strong,2,7,6,,,,2.61,1.45
+Seggerman R. (7),Seggerman Ryan,66,2,
+21:25,Rola Blaz,2,7,6,,,,2.38,1.52
+Mayo A. (1),Mayo Aidan,65,2,
+19:55,Zahraj Patrick,2,67,7,7,,,2.37,1.53
+Kumar O. (8),Kumar Omni,7,64,63
+19:20,Rybakov Alex,2,7,7,,,,1.52,2.41
+Artnak B. (6),Artnak Bor,5,63,
+17:40,Ilagan Andre,2,6,6,,,,3.17,1.32
+Braswell M.,Braswell Micah,4,2,
+17:10,Papoe Radu Mihai,2,7,7,,,,1.98,1.75
+McHugh A. (11),McHugh Aidan,64,66,
+15:05,Wiskandt Max,2,6,66,6,,,1.29,3.39
+Grant W.,Grant William,3,7,2
+15:05,Kodat Toby Alex,2,7,6,,,,1.36,2.92
+Bigun K.,Bigun Kaylan,5,4,
+Time,tu,es,2024,S,1,2,3,4,5,H,header
+22:15,Scomparin Pietro Romeo,2,6,6,,,,1.39,2.67
+Ferrarolli D.,Ferrarolli Davide,3,3,
+18:15,Hands Tom,2,5,6,10,,,1.82,1.83
+Hellum Lilleengen L.,Hellum Lilleengen Lukas,7,4,5
+18:00,Spiridon Denis Constantin,2,6,6,,,,,
+Pisanu M.,Pisanu Mattias,1,2,
+17:30,Lechner Daniel,1,,,,,,4.00,1.19
+Vedovelli S.,Vedovelli Stefan,,,
+17:00,Pel Stijn,2,6,6,,,,1.05,7.33
+Marin N.,Marin Nikolai,4,4,
+16:45,Quayle David,2,6,6,,,,1.35,2.82
+Brady C.,Brady Conor,4,3,
+16:35,Gramaticopolo Biagio,1,,,,,,2.36,1.50
+Fondriest M.,Fondriest Matteo,,,
+16:25,Maggs Alexander,2,6,6,,,,1.05,7.33
+Lester F.,Lester Finn,2,0,
+16:15,Kliebhan Daniel,2,7,6,,,,1.08,6.15
+Drayton T.,Drayton Thomas,60,3,
+16:10,Vola Tommaso,2,7,7,,,,2.41,1.48
+Fellin C.,Fellin Christian,5,5,
+16:00,Gloeckler Michael,2,6,6,,,,,
+Paragi Z.,Paragi Zeteny,2,2,
+15:35,Foley Patrick,2,6,6,,,,1.81,1.88
+Swaine C.,Swaine Charlie,3,3,
+15:15,Badini Sergio,2,6,6,,,,,
+Simoncelli D.,Simoncelli David,3,0,
+15:15,Weir Phoenix,2,6,6,,,,1.20,3.92
+Barr E.,Barr Elbert,3,2,
+15:00,Karlsson Wistrand Jack,2,6,6,,,,,
+Pall N.,Pall Noel,1,2,
+15:00,Eichenseher David,2,6,6,,,,,
+Szoke A.,Szoke Adam Gabor,2,2,
+15:00,Jermar Jan,2,7,6,,,,,
+Goczi E.,Goczi Erik,5,4,
+14:55,Beaven James,2,7,6,,,,5.20,1.11
+Calin A.,Calin Albert,65,1,
+14:20,Gobbi Giacomo,2,7,2,12,,,,
+Parenti L.,Parenti Luca,63,6,10
+14:15,Taddia Leonardo,2,6,6,,,,,
+Dragoni A.,Dragoni Alessandro,0,1,
+14:15,Southcombe Mattias,2,6,6,,,,4.00,1.19
+Gold L.,Gold Layne,4,4,
+14:05,Gusic Wan Benjamin,2,6,6,,,,,
+Valtsis T.,Valtsis Theodoros Marios,0,0,
+14:00,Rodrigues Laelson,2,6,6,,,,,
+Andrade A.,Andrade Augusto,3,1,
+14:00,Tumasonis Gabriel Pascotto,2,6,6,,,,,
+Zamora J.,Zamora Juan Ignacio,3,1,
+14:00,Almeida Junior Eugenio,2,6,6,10,,,,
+Pinto P.,Pinto Pedro,3,7,6
+13:30,Slavic Nikola,2,6,6,,,,,
+Gubi T.,Gubi Trisztan,1,2,
+13:30,Pohjola Peetu,2,6,6,,,,,
+Liszka M.,Liszka Márton,3,2,
+13:30,Pieleanu Rares Teodor,2,6,6,,,,,
+Sallay P.,Sallay Peter,4,2,
+13:15,Nestola Fabio,2,6,6,,,,5.33,1.11
+Jenkins Y.,Jenkins Younes,3,4,
+13:00,Crisostomo Giacomo,2,6,6,,,,1.12,5.12
+Agostinetto G.,Agostinetto Giovanni,1,0,
+13:00,Martikainen Otso,2,6,6,,,,,
+Fares B.,Fares Bouraoui,1,1,
+12:55,Hooper Luke,2,6,2,10,,,1.93,1.72
+Shaw M.,Shaw Michael,4,6,4
+12:40,Wallin Olle,2,6,6,,,,1.05,7.50
+Zuckerman A.,Zuckerman Alex,0,3,
+12:35,Kovac Tilen,2,6,4,10,,,1.57,2.20
+Corsaro G.,Corsaro Giuseppe,3,6,4
+12:30,Keck Jonas,1,,,,,,,
+Kolninov O.,Kolninov Oleg,,,
+12:30,Venticinque Marco,1,,,,,,,
+Wierzbicki O.,Wierzbicki Oliwer,,,
+12:30,Abdullin Alan,2,6,6,,,,,
+Rathi S.,Rathi Sparsh Rathi,0,0,
+12:30,Nannelli Mattia,2,6,6,,,,,
+Limani F.,Limani Florent,2,0,
+12:00,Samson Aron Paul,1,,,,,,,
+Deliano L.,Deliano Lucas,,,
+12:00,Medved Jakub,2,1,7,10,,,,
+Dubrivnyy A.,Dubrivnyy Artem,6,5,7
+12:00,Bennour Dit Sahli Anas,2,3,6,10,,,,
+Gazagnaire L.,Gazagnaire Leo,6,3,5
+12:00,Kamendje Stephane Pierre-Jo,2,4,7,11,,,,
+Sibille I.,Sibille Imran,6,5,9
+12:00,Gil Garcia Aaron,2,6,6,,,,,
+Kubo T.,Kubo Takahiro,0,2,
+12:00,Almazan Valiente Izan,2,6,7,,,,,
+Sardo G.,Sardo Gabriel,0,6,
+12:00,Bojarski Alan,2,6,6,,,,,
+De La Cierva Sanchez P.,De La Cierva Sanchez Pablo,1,0,
+12:00,Morandais Jean-Christian,2,6,6,,,,,
+Kerouat Y.,Kerouat Yessine,1,1,
+12:00,Onofrei Matei Cristian,2,6,6,,,,,
+Rajshekar Raman R.,Rajshekar Raman Rishabdev,1,2,
+12:00,Scaglia Mathieu,2,6,6,,,,,
+Faisal G.,Faisal Ghouse Ali,2,3,
+12:00,Boros Attila,2,6,6,,,,,
+Savay Z.,Savay Zalan Sandor,3,0,
+12:00,Schinteie Gheorghe Claudiu,2,7,6,,,,,
+Halmos K.,Halmos Kornel,6,4,
+12:00,Maguire Cian,2,7,6,,,,,
+Korpatsch R.,Korpatsch Richie Thomas,6,4,
+11:30,Hermoso Pablo,2,1,6,10,,,,
+O'Connell B.,O'Connell Benjamin,6,1,7
+11:30,Bolin Markus,2,4,6,10,,,,
+Mitalas G.,Mitalas Georgios,6,3,5
+11:30,Rodriguez-Redondo Daniel-Andrea,2,6,7,,,,,
+Penkner Y.,Penkner Yannick,3,6,
+11:30,Grevelius Erik,2,6,6,,,,,
+Glavas C.,Glavas Christos,4,1,
+11:30,Oliver Liam,2,6,6,,,,,
+Maassen G.,Maassen Graham,4,1,
+11:30,Shumilov Eyal,2,7,7,,,,,
+Antonopoulos C.,Antonopoulos Christos,5,5,
+11:30,Tsitsipas Petros,2,7,4,10,,,,
+Matuszewski G.,Matuszewski Gabriel,6,6,4
+11:30,Kypriotis Evangelos,2,7,6,,,,,
+Piatti R.,Piatti Rocco,6,1,
+11:30,Sabaliauskas Ainius,2,7,7,,,,,
+Holban V.,Holban Vladimir,6,6,
+11:25,Lee Kuan-Yi,2,6,6,,,,,
+You D.,You Du,2,0,
+11:20,Morolli Alberto,2,6,6,,,,,
+Stuffer T.,Stuffer Tim,1,2,
+11:00,Beltran Rubio Michael Alejandro,1,,,,,,,
+Kinner S.,Kinner Semen,,,
+11:00,Goyal Medhir,1,,,,,,,
+Thompson R.,Thompson Ryan,,,
+11:00,Dhokia Rahul,2,2,6,10,,,1.18,4.11
+Van Weldam S.,Van Weldam Steffan,6,3,8
+11:00,Messa Thiago Horacio,2,6,4,10,,,,
+Pinheiro da Cruz Junior G.,Pinheiro da Cruz Junior Glauco,1,6,8
+11:00,Remondy Pagotto Victor Hugo,2,6,6,,,,,
+Marroni Born B.,Marroni Born Bernardo,1,0,
+11:00,De Dios Felipe,2,6,6,,,,,
+Da Silva Albiero G.,Da Silva Albiero Gabriel,1,2,
+11:00,Loureiro Joao Victor Couto,2,6,6,,,,,
+Marton E.,Marton Eric,2,4,
+11:00,Trondson Jake,2,6,65,10,,,2.43,1.47
+Van den Ham T.,Van den Ham Tomi,2,7,7
+11:00,Cejovic Strahinja,2,6,4,10,,,,
+Martsinkevich Z.,Martsinkevich Zakhar,3,6,7
+11:00,Braga Breno,2,6,7,,,,,
+De Souza I.,De Souza Igor Ferreira,3,5,
+11:00,Braga Victor,2,6,5,10,,,,
+Silva L.,Silva Luiz Felipe,4,7,5
+11:00,Kotan Patrick,2,6,6,,,,,
+Martsinkevich A.,Martsinkevich Artur,4,0,
+11:00,Schenekenberg Gabriel,2,6,6,,,,,
+Perez O.,Perez Octavio,4,0,
+11:00,Wendler Filho Jefferson,2,6,6,,,,,
+De La Vega R.,De La Vega Raul,4,2,
+11:00,Canter Alexis,2,6,6,,,,1.05,7.33
+Hou Y.,Hou Ying,4,4,
+11:00,Meijer Daan,2,6,6,10,,,,
+Rimskii M.,Rimskii Mikhail,7,3,4
+10:55,Wang Qiulin,2,7,6,,,,2.06,1.64
+Zheng Y.,Zheng Yanjie,65,1,
+10:55,Vaccari Ludovico,2,7,6,,,,1.92,1.75
+Massucco S.,Massucco Simone,65,3,
+10:35,Susanto Anthony,2,6,6,,,,3.59,1.75
+Li W.,Li Wenze,1,3,
+10:30,Goldsteiner Peter,2,6,6,,,,,
+Boros B.,Boros Bence,2,0,
+10:30,Ahti Vesa,2,6,7,,,,,
+Perjesi Novakovic M.,Perjesi Novakovic Marko,2,6,
+10:30,Kisantal Botond,2,6,7,,,,,
+Bladelius H.,Bladelius Henrik,3,5,
+10:30,Zick Sydney,2,6,6,,,,,
+Mouhan A.,Mouhan Ahmed,4,4,
+10:30,Siddiqui Amaan,2,7,6,,,,,
+Tokar A.,Tokar Alexander,5,2,
+10:15,Zhang Yongming,2,0,6,10,,,,
+Li Z.,Li Zekai,6,3,8
+10:15,Borsoi Jacopo,2,6,6,,,,2.20,1.57
+Schold T.,Schold Tommaso,1,0,
+10:00,Shvangiradze Aleksandre,1,,,,,,,
+Alabedallat W.,Alabedallat Wael,,,
+10:00,Konowczuk Wadym,1,,,,,,,
+Lhuillier S.,Lhuillier Sebastien,,,
+10:00,Fossati Alberto,2,6,6,,,,,
+Fischer D.,Fischer Dennis,0,0,
+10:00,Buytaert Marvin,2,6,6,,,,,
+Baldoni L.,Baldoni Leonardo,1,0,
+10:00,Labitzke Carl,2,6,6,,,,,
+Aksonov K.,Aksonov Kostiantyn,2,4,
+10:00,Lauinger Alexander,2,6,7,,,,,
+Ballestero A.,Ballestero Adryan,3,5,
+09:30,O Nuallain Sean,2,6,6,,,,,
+Ichikawa S.,Ichikawa Seiichiro,0,0,
+09:30,Paolini Andrea,2,6,6,,,,,
+Steudter B.,Steudter Benedikt,0,0,
+09:30,Felsner Fabio,2,6,6,,,,,
+Owen H.,Owen Hunter,0,1,
+09:30,Bove Federico,2,6,4,10,,,,
+Funk A.,Funk Aaron,1,6,8
+09:30,Alimli Mikail,2,6,6,,,,,
+Jorquera E.,Jorquera Emiliano,1,2,
+09:30,Augunas Julius,2,6,6,,,,,
+Van Wyk F.,Van Wyk Francois,2,2,
+09:30,Krall Liam,2,6,6,,,,,
+Hankins M.,Hankins Maxime,2,4,
+09:30,Berghaus Mika,1,6,2,,,,,
+Ruenger R.,Ruenger Roman,3,0,
+09:30,Liokossis Stefano,2,6,6,,,,,
+Fiorini J.,Fiorini Jacopo,3,2,
+09:30,Cuenin Sean,2,6,6,,,,,
+Aregger L.,Aregger Lars,3,3,
+09:30,Lechno-Wasiutynski Fryderyk,2,6,6,,,,,
+Guadagno V.,Guadagno Valentin,3,3,
+09:30,Nagoudi Adam,2,6,7,,,,,
+Varzandeh T.,Varzandeh Tom,3,5,
+09:30,Waldner Niklas,2,6,7,,,,,
+Smith N.,Smith Ned,3,5,
+09:30,Serazhetdinov Ruslan,2,6,6,,,,,
+Kalennik K.,Kalennik Kirill,4,1,
+09:30,Garbero Federico,2,6,6,,,,,
+Jakupi J.,Jakupi Jasin,4,2,
+09:30,Mujakic Alen,2,6,6,,,,,
+Knippling P.,Knippling Paulo,4,2,
+09:30,Cripps Luke,2,7,6,,,,,
+Teglas I.,Teglas Ioan Alexandru,5,1,
+09:30,Shinde Jaishnav,2,7,5,10,,,,
+Loosen T.,Loosen Tim,6,7,6
+09:15,Chen Yan Cheng,2,6,3,10,,,1.22,3.70
+Mingzhou Z.,Mingzhou Zhou,1,6,6
+09:05,Jimenez Michael Dylan,2,63,6,12,,,3.24,1.28
+Chen Z.,Chen Zi Hui,7,3,10
+09:00,Venkataraman Aniketh,1,,,,,,,
+Wassermann M.,Wassermann Miko,,,
+09:00,Kok Kilian,1,,,,,,,
+Marchenko A.,Marchenko Anton,,,
+09:00,Baranec Dusan,1,,,,,,,
+Saunders J.,Saunders Jeremy,,,
+09:00,Brindöpke Frederik,2,3,6,12,,,,
+Van Vlierberghe J.,Van Vlierberghe Jens,6,0,10
+09:00,Singh Aryan Jit,2,4,6,10,,,,
+Meryumoglu A.,Meryumoglu Alper Okay,6,2,8
+09:00,Cardinaud Hugo,2,6,6,,,,,
+Yuan Y.,Yuan Yi,0,0,
+09:00,Malaszszak Markus,2,6,6,,,,,
+Loukopoulos K.,Loukopoulos Konstantinos,0,3,
+09:00,Castelnuovo Yannick,2,6,7,,,,,
+Tufekci C.,Tufekci Cagan Efe,0,5,
+09:00,Shyovitz Eyal,2,6,6,,,,,
+Messina J.,Messina Julian Messina,1,2,
+09:00,Yilmaz Kerem,2,6,7,,,,,
+Shumsky A.,Shumsky Anthony,1,5,
+09:00,Ponchet Matt,1,6,3,,,,,
+Djosic N.,Djosic Nikola,2,0,
+09:00,Schinas Stephanos,2,6,6,,,,,
+Sikalos O.,Sikalos Orestis,2,1,
+09:00,Hornung Gabor,2,6,6,,,,,
+Hesselmann L.,Hesselmann Luca,3,0,
+09:00,Kountourakis Ioannis,2,6,6,,,,,
+Ciocanu A.,Ciocanu Aurel,3,3,
+09:00,Yi Qing Jiang,2,6,3,10,,,,
+Siftar J.,Siftar Jure,4,6,5
+09:00,Siniakov Daniel,2,6,6,,,,,
+Sakellaridis M.,Sakellaridis Michalis,4,1,
+09:00,Vaitiekunas Pijus,2,6,6,,,,,
+Brun T.,Brun Thomas George,4,2,
+09:00,Schifris Jeremy,2,6,6,,,,,
+Van Donselaar F.,Van Donselaar Freek,4,2,
+09:00,Kozlov Arkhip,2,6,6,,,,,
+Amiri F.,Amiri Farzan,4,3,
+09:00,Ignatov Ilya,2,7,3,11,,,,
+Sancaklioglu M.,Sancaklioglu Mustafa,5,6,9
+09:00,Tan Beren,2,7,6,,,,,
+Cherevatyy P.,Cherevatyy Pavel,5,2,
+08:45,Zhang Linghao,2,6,7,,,,1.23,3.62
+Kong W.,Kong Weiyi,1,5,
+08:35,Wang Kai-i,2,7,6,,,,4.12,1.82
+Tang X.,Tang Xiaochuan,64,3,
+08:30,Cao Yitao,2,6,6,,,,4.33,2.95
+Zhao R.,Zhao Runyu,3,0,
+08:00,Sulak Yurii,1,,,,,,,
+Yadlapalli V.,Yadlapalli Vivek,,,
+08:00,Xie Xinyuan,1,,,,,,,
+Stojcic A.,Stojcic Aleksa,,,
+08:00,Grunewald Niklas,1,,,,,,,
+Popyrin A.,Popyrin Anthony,,,
+08:00,Eerola Oskari,2,2,6,10,,,,
+Ibragimov R.,Ibragimov Rail,6,1,8
+08:00,Dullinger Vincent,2,6,6,,,,,
+Hagenmeyer K.,Hagenmeyer Kylian,0,1,
+08:00,Kovalenko Ostap,2,6,6,,,,,
+Kozlovskis P.,Kozlovskis Patriks,1,2,
+08:00,Martishev Valeriy,2,6,6,,,,,
+Bien D.,Bien Daniel,2,2,
+08:00,Seleznev Bogdan,2,6,6,,,,,
+Binda D.,Binda Dzhordzho,4,0,
+08:00,Kloesters Ferdinand,2,7,6,,,,,
+Mascarini R.,Mascarini Riccardo,6,2,
+07:10,Pang Renlong,2,6,6,,,,,
+Li S.,Li Sicheng,4,0,
+06:50,Chang Tzu Li,2,6,6,,,,1.20,3.81
+Hu X.,Hu Xin,1,3,
+06:45,Ziheng He,2,6,6,,,,1.65,2.80
+Han X.,Han Xirui,4,2,
+06:45,Yang Zijiang,2,7,6,,,,1.78,1.87
+Zhang M.,Zhang Minghui,5,1,
+04:45,Yang Xiaoyin,2,6,7,,,,2.24,1.55
+Hsu J.,Hsu Jeffrey,3,5,
+04:45,Cheng Jack,2,7,6,,,,1.16,4.41
+Huang R.,Huang Ruijie,63,3,
+04:30,Ng Ki Lung,2,6,6,,,,2.17,1.79
+Fedorov T.,Fedorov Tikhon,0,1,
+--:--,Pankin Semen,1,,,,,,,
+Dubinin A.,Dubinin Alexey,,,
+Time,ayaquil ch,llenger,S,1,2,3,4,5,H,header
+22:20,Olivieri Genaro Alberto,2,3,6,7,,,1.10,6.47
+Zeballos F. (6),Zeballos Federico,6,4,66
+21:50,Kestelboim Mariano,2,6,6,,,,1.24,3.71
+Rubio Fierros A. (23),Rubio Fierros Alan Fernando,3,3,
+20:35,Barrena Alex,2,6,7,,,,1.13,4.64
+Carou I. (7),Carou Ignacio,1,62,
+19:40,Aboian Leonardo,2,6,6,,,,1.00,26.00
+Wright F.,Wright Felipe,1,0,
+19:35,Johns Garrett,1,3,6,1,,,4.39,1.19
+Londero J. (18),Londero Juan Ignacio,6,4,0
+19:15,Huertas Del Pino Conner,2,5,7,6,,,2.98,1.35
+De Krom M. (21),De Krom Michiel,7,65,3
+18:55,Monzon Ignacio,2,6,6,,,,1.06,7.75
+Camacho E.,Camacho Emilio,2,3,
+18:00,Erhard Mathys,2,6,6,,,,1.01,15.80
+Yunez L.,Yunez Lucas,1,0,
+17:15,Nijboer Ryan,2,6,6,,,,1.10,6.05
+Cigarran T. (14),Cigarran Thiago,3,3,
+16:05,Huertas Del Pino Arklon,2,3,7,6,,,1.96,1.76
+Hernandez Serrano J. (4),Hernandez Serrano Juan Alejandro,6,65,0
+16:05,Campana Lee Gerard,2,4,6,7,,,1.09,6.23
+Saraiva Dos Santos P. (10),Saraiva Dos Santos Paulo Andre,6,4,5
+16:05,McCormick Tristan,2,6,6,,,,1.02,13.79
+Maldonado A.,Maldonado Adrian,1,0,
+Time,,Paris,S,1,2,3,4,5,H,header
+15:40,Fognini Fabio,2,7,4,6,,,3.37,1.31
+Cazaux A.,Cazaux Arthur,64,6,2
+14:45,Moutet Corentin,1,7,,,,,2.50,1.51
+Mensik J. (5),Mensik Jakub,63,,
+14:05,Shang Juncheng,2,6,3,7,,,2.02,1.75
+Bergs Z. (14),Bergs Zizou,4,6,62
+13:15,Sonego Lorenzo,2,6,7,,,,1.57,2.35
+Carballes Baena R. (8),Carballes Baena Roberto,3,64,
+12:05,Halys Quentin,2,3,7,6,,,1.68,2.13
+Yunchaokete B.,Yunchaokete Bu,6,64,3
+11:05,Davidovich Fokina Alejandro,2,6,4,6,,,1.36,3.07
+O'Connell C.,O'Connell Christopher,3,6,3
+11:05,Giron Marcos,2,610,7,6,,,1.76,2.01
+Kecmanovic M. (10),Kecmanovic Miomir,7,62,3
+Time,oul ch,llenger,S,1,2,3,4,5,H,header
+09:15,Samrej Kasidit,2,6,6,,,,,
+Lee S.,Lee Seung Min (2007),2,1,
+08:55,Cui Jie,2,7,6,,,,1.18,4.44
+Masabayashi T.,Masabayashi Tomohiro,64,4,
+06:30,Van Wyk Kris,2,6,6,,,,1.11,5.90
+Ann S.,Ann Suk,0,2,
+06:00,Isomura Kokoro,2,7,6,,,,1.92,1.79
+Lee J.,Lee Jea Moon,5,4,
+05:30,Mukund Sasi Kumar,2,63,6,6,,,1.28,3.35
+Statham R.,Statham Rubin,7,3,4
+05:00,Lee Duck Hee,2,3,6,7,,,2.94,1.37
+Takahashi Y. (10),Takahashi Yusuke,6,3,65
+04:30,Zhou Yi,2,5,7,6,,,1.11,5.66
+Jeong Y.,Jeong Yeongseok,7,5,1
+04:30,Ocleppo Julian,2,6,6,,,,2.12,1.65
+Ayeni A. (9),Ayeni Alafia,4,4,
+03:05,Moriya Hiroki,2,3,6,6,,,1.18,4.42
+Han S.,Han Seon Yong,6,3,1
+03:05,Uchida Kaichi,2,6,6,,,,1.43,2.67
+Chanta T.,Chanta Thanapet,2,3,
+03:05,Uesugi Kaito,2,6,6,,,,1.33,3.05
+Leong M. (12),Leong Mitsuki Wei Kang,2,3,
+03:00,Sim Seongbin,2,7,6,,,,,
+Ganta S. (1),Ganta Sai Karteek Reddy,63,3,
+Time,dney ch,llenger,S,1,2,3,4,5,H,header
+05:30,Matsuda Ryuki,2,3,6,6,,,1.21,4.07
+Lomakin G.,Lomakin Grigoriy,6,3,2
+05:30,Ichikawa Taisei,2,6,3,6,,,1.12,5.58
+Winter H.,Winter Hugh,4,6,4
+04:15,Watanabe Seita,2,7,6,,,,2.85,1.88
+Camus C.,Camus Charlie,5,1,
+04:00,Tkemaladze Zura,2,6,6,,,,1.45,2.62
+Matsuoka H.,Matsuoka Hayato,2,4,
+03:30,Hewitt Cruz,2,6,0,7,,,2.61,1.45
+Ochi M. (5),Ochi Makoto,2,6,64
+02:45,Marinkov Pavle,2,3,6,6,,,2.89,1.37
+Sinclair C. (6),Sinclair Colin,6,1,2
+02:45,Mochizuki Yuki,2,3,6,6,,,1.39,2.81
+Klintcharov A.,Klintcharov Alexander,6,3,3
+02:45,Kumasaka Takuya,2,6,6,,,,1.29,3.37
+Delaney J.,Delaney Jesse,2,4,
+02:15,Sheehy Joshua,2,6,6,,,,1.03,10.80
+Kose C.,Kose Cooper,3,3,
+01:05,Watt James,1,6,0,,,,1.52,2.41
+Crowther C.,Crowther Corban,1,0,
+01:05,Hudd Emile,2,6,6,,,,1.05,8.82
+Host T.,Host Ty,3,1,
+01:05,Bakshi Aleksandre,2,6,6,,,,1.15,4.96
+Loof T.,Loof Thijmen,3,4,

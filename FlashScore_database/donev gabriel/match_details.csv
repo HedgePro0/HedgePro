@@ -1,25 +1,10 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-05.09. 17:05,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1']",[],[],[],0
-05.09. 17:05,Markovic S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '2', '4', '2']",[],[],[],0
-03.09. 13:10,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '2', '6', '2']",[],[],[],0
-03.09. 13:10,Bjelobrk J.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],0
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-31.08. 13:40,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '1', '5', '1']",[],[],[],2.72
-31.08. 13:40,Popovic S.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']",[],"['4', '2', '6', '2']",[],[],1.42
-30.08. 12:40,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '4', '1', '5', '2']",[],[],[],0
-30.08. 12:40,Lalami Laaroussi Y.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],0
-29.08. 15:55,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
-29.08. 15:55,Verbin P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-28.08. 20:15,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '2']",[],[],[],0
-28.08. 20:15,Russo S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '4']",[],[],[],0
 CHALLENGER MEN - SINGLES :  Dobrich (Bulgaria) - Qualification,clay,header
-18.08. 17:45,Donev G.,0,3,2,,,,1,3,68%,53% (21/40),21% (4/19),40% (4/10),35% (12/34),43% (9/21),40% (2/5),5,42% (25/59),38% (21/55),40% (46/114),3,33% (3/9),25% (2/8),29% (5/17),"['1', '1', '3', '1']",[],[],[],[],1.99
-18.08. 17:45,Orlov V.,2,6,6,,,,0,1,62%,65% (22/34),57% (12/21),60% (3/5),48% (19/40),79% (15/19),60% (6/10),8,62% (34/55),58% (34/59),60% (68/114),6,75% (6/8),67% (6/9),71% (12/17),"['1', '0', '2', '3', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.76
+18.08. 17:45,Donev G.,0,3,2,,,,1,3,68%,53% (21/40),21% (4/19),40% (4/10),0 km/h,0 km/h,35% (12/34),43% (9/21),40% (2/5),42% (25/59),38% (21/55),40% (46/114),4,2,33% (3/9),25% (2/8),29% (5/17),"['1', '1', '3', '1']",[],[],[],[],1.99
+18.08. 17:45,Orlov V.,2,6,6,,,,0,1,62%,65% (22/34),57% (12/21),60% (3/5),0 km/h,0 km/h,48% (19/40),79% (15/19),60% (6/10),62% (34/55),58% (34/59),60% (68/114),6,0,75% (6/8),67% (6/9),71% (12/17),"['1', '0', '2', '3', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.76
 ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-14.08. 17:10,Donev G.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],0
-14.08. 17:10,Ciavarella N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['4', '2', '6', '2']",[],[],[],0
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 10 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
@@ -32,104 +17,1140 @@ ITF MEN - SINGLES :  M15 Kish Island 3 (Iran),clay,header
 ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-28.11.2023,Donev G.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.82
-28.11.2023,De Jonge D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.39
 ITF MEN - SINGLES :  M25 Pazardzhik 2 (Bulgaria),clay,header
 ITF MEN - SINGLES :  M25 Pazardzhik (Bulgaria),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 9 (Serbia),clay,header
-21.09.2023,Donev G.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.20
-21.09.2023,Chepelev A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
-20.09.2023,Donev G.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
-20.09.2023,Obradovic D.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-30.08.2023,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.81
-30.08.2023,Bellifemine A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
 ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
-15.08.2023,Donev G.,1,7^7,6^5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.85
-15.08.2023,Rodriguez L. J.,2,6^4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
 ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
 ITF MEN - SINGLES :  M25 Pitesti (Romania),clay,header
 ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
 ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-17.06.2023,Donev G.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-17.06.2023,Sharipov M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-17.06.2023,Donev G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
-17.06.2023,Midon L.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-13.06.2023,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
-13.06.2023,Radulov I.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
-ITF MEN - SINGLES :  M15 Pazardzhik 2 (Bulgaria),clay,header
-25.05.2023,Donev G.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.02
-25.05.2023,Roncalli S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.71
-24.05.2023,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
-24.05.2023,Bonsach G. K.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
-ITF MEN - SINGLES :  M15 Pazardzhik (Bulgaria),clay,header
-20.05.2023,Donev G.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
-20.05.2023,Klok D.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
-19.05.2023,Donev G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.56
-19.05.2023,Jianu F. C.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-18.05.2023,Donev G.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.42
-18.05.2023,Broville M.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 23 (Turkey),clay,header
-06.12.2022,Donev G.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
-06.12.2022,Andaloro F.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
-ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
-ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
-ITF MEN - SINGLES :  M15 Sozopol (Bulgaria),hard,header
-ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
-ITF MEN - SINGLES :  M15 Craiova (Romania),clay,header
-ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Budva 2 (Montenegro),clay,header
-ITF MEN - SINGLES :  M15 Budva (Montenegro),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-19.05.2022,Donev G.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-19.05.2022,Lajal M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.05.2022,Donev G.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.05.2022,Benaim M.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
-11.05.2022,Donev G.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-11.05.2022,Thanos A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-03.03.2022,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.94
-03.03.2022,Neumayer L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
-ITF MEN - SINGLES :  M15 Sozopol (Bulgaria),hard,header
-ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
-ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
-ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
-ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-ITF MEN - SINGLES :  M15 Novomoskovsk 3 (Ukraine),clay,header
-ITF MEN - SINGLES :  M15 Novomoskovsk 2 (Ukraine),clay,header
-ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 11 (Turkey),clay,header
-ATP - SINGLES :  Sofia (Bulgaria) - Qualification,hard,header
-07.11.2020,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],0
-07.11.2020,Ornago F.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['3', '1', '6', '2']",[],[],0
-ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
-ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
-ATP - SINGLES :  Davis Cup - Group II (World),-,header
-14.09.2019,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4', '3', '5']",[],[],[],0
-14.09.2019,Henning P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['2', '1', '4', '1', '5', '2', '6', '3']",[],[],[],0
-ATP - SINGLES :  Sofia (Bulgaria) - Qualification,hard,header
-03.02.2019,Donev G.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],14.50
-03.02.2019,Stakhovsky S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['2', '1', '5', '2']",[],[],[],1.02
-ITF MEN - SINGLES :  Kamen (Germany),clay,header
-ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
-ITF MEN - SINGLES :  Hambach (Germany),hard,header
-ITF MEN - SINGLES :  Sofia (Bulgaria),clay,header
-ITF MEN - SINGLES :  Plovdiv (Bulgaria),clay,header
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+CHALLENGER MEN - SINGLES :  Dobrich (Bulgaria) - Qualification,clay,header
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+
+CHALLENGER MEN - SINGLES :  Dobrich (Bulgaria) - Qualification,clay,header
+
+18.08. 17:45,Donev G.,0,3,2,,,,1,3,68%,53% (21/40),21% (4/19),40% (4/10),0 km/h,0 km/h,35% (12/34),43% (9/21),40% (2/5),42% (25/59),38% (21/55),40% (46/114),4,2,33% (3/9),25% (2/8),29% (5/17),"['1', '1', '3', '1']",[],[],[],[],1.99
+
+18.08. 17:45,Orlov V.,2,6,6,,,,0,1,62%,65% (22/34),57% (12/21),60% (3/5),0 km/h,0 km/h,48% (19/40),79% (15/19),60% (6/10),62% (34/55),58% (34/59),60% (68/114),6,0,75% (6/8),67% (6/9),71% (12/17),"['1', '0', '2', '3', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.76
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 10 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M25 Kursumlijska Banja (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kish Island 4 (Iran),clay,header
+
+ITF MEN - SINGLES :  M15 Kish Island 3 (Iran),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+
+ITF MEN - SINGLES :  M25 Pazardzhik 2 (Bulgaria),clay,header
+
+ITF MEN - SINGLES :  M25 Pazardzhik (Bulgaria),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 9 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+
+ITF MEN - SINGLES :  M25 Pitesti (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+
+
+
+
+
+
+
+05.09. 17:05,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1']",[],[],[],0
+
+
+
+
+
+
+
+05.09. 17:05,Markovic S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '2', '4', '2']",[],[],[],0
+
+
+
+
+
+
+
+03.09. 13:10,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '2', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+03.09. 13:10,Bjelobrk J.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+
+
+
+
+
+
+
+31.08. 13:40,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '1', '5', '1']",[],[],[],2.72
+
+
+
+
+
+
+
+31.08. 13:40,Popovic S.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']",[],"['4', '2', '6', '2']",[],[],1.42
+
+
+
+
+
+
+
+30.08. 12:40,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '4', '1', '5', '2']",[],[],[],0
+
+
+
+
+
+
+
+30.08. 12:40,Lalami Laaroussi Y.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],0
+
+
+
+
+
+
+
+29.08. 15:55,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
+
+
+
+
+
+
+
+29.08. 15:55,Verbin P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+28.08. 20:15,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+28.08. 20:15,Russo S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '4']",[],[],[],0
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Dobrich (Bulgaria) - Qualification,clay,header
+
+
+
+
+
+
+
+18.08. 17:45,Donev G.,0,3,2,,,,1,3,68%,53% (21/40),21% (4/19),40% (4/10),35% (12/34),43% (9/21),40% (2/5),5,42% (25/59),38% (21/55),40% (46/114),3,33% (3/9),25% (2/8),29% (5/17),"['1', '1', '3', '1']",[],[],[],[],1.99
+
+
+
+
+
+
+
+18.08. 17:45,Orlov V.,2,6,6,,,,0,1,62%,65% (22/34),57% (12/21),60% (3/5),48% (19/40),79% (15/19),60% (6/10),8,62% (34/55),58% (34/59),60% (68/114),6,75% (6/8),67% (6/9),71% (12/17),"['1', '0', '2', '3', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.76
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+14.08. 17:10,Donev G.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],0
+
+
+
+
+
+
+
+14.08. 17:10,Ciavarella N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['4', '2', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 10 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kursumlijska Banja (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kish Island 4 (Iran),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kish Island 3 (Iran),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+
+
+
+
+
+
+
+28.11.2023,Donev G.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.82
+
+
+
+
+
+
+
+28.11.2023,De Jonge D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.39
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pazardzhik 2 (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pazardzhik (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 9 (Serbia),clay,header
+
+
+
+
+
+
+
+21.09.2023,Donev G.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.20
+
+
+
+
+
+
+
+21.09.2023,Chepelev A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
+
+
+
+
+
+
+
+20.09.2023,Donev G.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
+
+
+
+
+
+
+
+20.09.2023,Obradovic D.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+
+
+
+
+30.08.2023,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.81
+
+
+
+
+
+
+
+30.08.2023,Bellifemine A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
+
+
+
+
+
+
+
+15.08.2023,Donev G.,1,7^7,6^5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.85
+
+
+
+
+
+
+
+15.08.2023,Rodriguez L. J.,2,6^4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pitesti (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+
+
+
+
+
+
+
+17.06.2023,Donev G.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+17.06.2023,Sharipov M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+17.06.2023,Donev G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
+
+
+
+
+
+
+
+17.06.2023,Midon L.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+
+
+
+
+
+
+
+13.06.2023,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
+
+
+
+
+
+
+
+13.06.2023,Radulov I.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Pazardzhik 2 (Bulgaria),clay,header
+
+
+
+
+
+
+
+25.05.2023,Donev G.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.02
+
+
+
+
+
+
+
+25.05.2023,Roncalli S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.71
+
+
+
+
+
+
+
+24.05.2023,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
+
+
+
+
+
+
+
+24.05.2023,Bonsach G. K.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Pazardzhik (Bulgaria),clay,header
+
+
+
+
+
+
+
+20.05.2023,Donev G.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
+
+
+
+
+
+
+
+20.05.2023,Klok D.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
+
+
+
+
+
+
+
+19.05.2023,Donev G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.56
+
+
+
+
+
+
+
+19.05.2023,Jianu F. C.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
+
+
+
+
+
+
+
+18.05.2023,Donev G.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.42
+
+
+
+
+
+
+
+18.05.2023,Broville M.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 23 (Turkey),clay,header
+
+
+
+
+
+
+
+06.12.2022,Donev G.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
+
+
+
+
+
+
+
+06.12.2022,Andaloro F.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol (Bulgaria),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Craiova (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Budva 2 (Montenegro),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Budva (Montenegro),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+
+
+
+
+19.05.2022,Donev G.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+19.05.2022,Lajal M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+18.05.2022,Donev G.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+18.05.2022,Benaim M.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+
+
+
+
+
+
+
+11.05.2022,Donev G.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+11.05.2022,Thanos A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+
+
+
+
+
+
+
+03.03.2022,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.94
+
+
+
+
+
+
+
+03.03.2022,Neumayer L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol (Bulgaria),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk 3 (Ukraine),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk 2 (Ukraine),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 11 (Turkey),clay,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Sofia (Bulgaria) - Qualification,hard,header
+
+
+
+
+
+
+
+07.11.2020,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],0
+
+
+
+
+
+
+
+07.11.2020,Ornago F.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['3', '1', '6', '2']",[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group II (World),-,header
+
+
+
+
+
+
+
+14.09.2019,Donev G.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4', '3', '5']",[],[],[],0
+
+
+
+
+
+
+
+14.09.2019,Henning P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['2', '1', '4', '1', '5', '2', '6', '3']",[],[],[],0
+
+
+
+
+
+
+
+ATP - SINGLES :  Sofia (Bulgaria) - Qualification,hard,header
+
+
+
+
+
+
+
+03.02.2019,Donev G.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],14.50
+
+
+
+
+
+
+
+03.02.2019,Stakhovsky S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['2', '1', '5', '2']",[],[],[],1.02
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  Kamen (Germany),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  Hambach (Germany),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  Plovdiv (Bulgaria),clay,header
+
+
+
+
+
+
+

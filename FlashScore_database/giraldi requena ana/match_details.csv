@@ -1,23 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 17 (Serbia),clay,header
-04.09. 12:45,Giraldi Requena A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']",[],[],[],[],1.87
-04.09. 12:45,Cvetkovic A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '4', '3', '6', '3']","['2', '0', '6', '2']",[],[],[],1.85
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 16 (Serbia),clay,header
-30.08. 14:15,Giraldi Requena A.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '5']","['1', '1']",[],[],[],1.49
-30.08. 14:15,Jovanovic M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '3', '5', '4', '6', '5']","['1', '0', '2', '1', '4', '1']",[],[],[],2.50
-29.08. 12:45,Giraldi Requena A.,2,6,3,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3', '6', '4']","['1', '5', '3', '5']","['1', '2', '2', '3', '4', '3', '6', '5']",[],[],3.08
-29.08. 12:45,Safta A.,1,4,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['1', '0', '3', '0', '5', '0', '6', '3']","['2', '0', '3', '1', '4', '4', '6', '6']",[],[],1.34
-28.08. 16:15,Giraldi Requena A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],13.10
-28.08. 16:15,Hamilton R. V.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF WOMEN - SINGLES :  W35 Vrnjacka Banja (Serbia),clay,header
-21.08. 18:00,Giraldi Requena A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '4']",[],[],[],[],2.92
-21.08. 18:00,Bulatova A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.37
 ITF WOMEN - SINGLES :  W75 Kursumlijska Banja (Serbia),clay,header
-13.08. 15:00,Giraldi Requena A.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2', '3', '2', '4', '3']",[],[],[],3.86
-13.08. 15:00,Falkner Z.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '3', '3', '4', '4', '7', '5']",[],[],[],1.23
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 15 (Serbia),clay,header
-07.08. 13:50,Giraldi Requena A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3', '6', '3']","['1', '1', '3', '5', '5', '5', '7', '5']",[],[],[],0
-07.08. 13:50,Ao C.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],0
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 7 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 6 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W35 Kursumlijska Banja (Serbia),clay,header
@@ -28,8 +14,6 @@ ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 2 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Sabadell (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
-21.12.2023,Giraldi Requena A.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.02
-21.12.2023,Villet M.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.71
 ITF WOMEN - SINGLES :  W15 Alcala de Henares (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 11 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 10 (Serbia),clay,header
@@ -38,20 +22,10 @@ ITF WOMEN - SINGLES :  W15 Wanfercee-Baulet (Belgium),clay,header
 ITF WOMEN - SINGLES :  W15 Duffel (Belgium),clay,header
 ITF WOMEN - SINGLES :  W15 Malaga (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
-26.01.2023,Giraldi Requena A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
-26.01.2023,Jaskova A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
-24.01.2023,Giraldi Requena A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.74
-24.01.2023,Milatova S.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.41
 ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
-18.01.2023,Giraldi Requena A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
-18.01.2023,Ovcharenko E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
 ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
-13.01.2023,Giraldi Requena A.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.72
-13.01.2023,Rocchetti S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.26
 ITF WOMEN - SINGLES :  W15 Valencia 2 (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Valencia (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
 ITF WOMEN - SINGLES :  W25 Seville (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Melilla (Spain),clay,header
-ITF WOMEN - SINGLES :  W15 Santa Margarita de Montbui (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Melilla (Spain),clay,header

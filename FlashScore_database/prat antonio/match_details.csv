@@ -1,30 +1,83 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
-25.06. 18:00,Prat A.,0,6^2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5', '6', '5']",[],[],[],[],1.79
-25.06. 18:00,Fernandez Flores D.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '3', '6', '6']","['1', '0', '3', '0', '6', '1']",[],[],[],1.93
 ITF MEN - SINGLES :  M25 Mungia-Laukariz (Spain),clay,header
-18.06. 17:15,Prat A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '4', '3', '5']",[],[],[],4.76
-18.06. 17:15,Vives Marcos P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '4', '1', '5', '2']",[],[],[],1.16
 ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
-13.06. 20:40,Prat A.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['1', '0', '3', '2']","['1', '0', '2', '1']",[],[],3.34
-13.06. 20:40,Guerrieri A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3', '6', '3']","['1', '1']","['1', '1', '2', '2', '4', '2', '6', '2']",[],[],1.30
-11.06. 14:50,Prat A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.46
-11.06. 14:50,Sheyngezikht L.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],2.59
 ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
-29.06.2023,Prat A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],3.42
-29.06.2023,Sakellaridis S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '3', '5', '3']",[],[],[],1.28
-28.06.2023,Prat A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1']","['2', '0', '3', '1', '4', '2', '6', '2']",[],[],9.60
-28.06.2023,Lopez San Martin A.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4', '5', '4']","['1', '2', '2', '3']",[],[],1.03
-27.06.2023,Prat A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],2.33
-27.06.2023,Rocha F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5']",[],[],[],[],1.55
 ITF MEN - SINGLES :  M25 Mungia (Spain),clay,header
-20.06.2023,Prat A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']",[],[],[],[],2.86
-20.06.2023,Sun F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '4', '4', '6', '4']","['6', '4']",[],[],[],1.38
 ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
-28.06.2022,Prat A.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '3', '2', '5', '2']",[],[],[],7.70
-28.06.2022,Gulin S.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '2', '3', '5']","['4', '2', '6', '2']",[],[],1.07
 ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-04.01.2022,Prat A.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4', '4', '5']",[],[],[],6.75
-04.01.2022,Lopez Morillo I.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['4', '2', '5', '3', '7', '5']",[],[],[],1.10
 CHALLENGER MEN - SINGLES :  Pozoblanco (Spain) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+ITF MEN - SINGLES :  M25 Mungia-Laukariz (Spain),clay,header
+ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+ITF MEN - SINGLES :  M25 Mungia (Spain),clay,header
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+CHALLENGER MEN - SINGLES :  Pozoblanco (Spain) - Qualification,hard,header
+18.07.2021,Prat A.,1,0,7^7,2,,,2,3,59%,57% (27/47),52% (17/33),22% (2/9),27% (14/52),31% (8/26),67% (2/3),55% (44/80),32% (25/78),44% (69/158),46% (6/13),15% (2/13),31% (8/26),[],"['2', '1', '3', '2']",[],[],[],9.40
+18.07.2021,Martineau M.,2,6,6^4,6,,,7,3,67%,73% (38/52),58% (15/26),33% (1/3),43% (20/47),39% (13/33),78% (7/9),68% (53/78),45% (36/80),56% (89/158),85% (11/13),54% (7/13),69% (18/26),"['2', '0', '4', '0', '6', '0']","['2', '2', '5', '5']","['2', '1', '4', '1']",[],[],1.04
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+ITF MEN - SINGLES :  M25 Mungia-Laukariz (Spain),clay,header
+
+ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
+
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+ITF MEN - SINGLES :  M25 Mungia (Spain),clay,header
+
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+CHALLENGER MEN - SINGLES :  Pozoblanco (Spain) - Qualification,hard,header
+
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Mungia-Laukariz (Spain),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Mungia (Spain),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Pozoblanco (Spain) - Qualification,hard,header
+
+
+
+18.07.2021,Prat A.,1,0,7^7,2,,,2,3,59%,57% (27/47),52% (17/33),22% (2/9),27% (14/52),31% (8/26),67% (2/3),55% (44/80),32% (25/78),44% (69/158),46% (6/13),15% (2/13),31% (8/26),[],"['2', '1', '3', '2']",[],[],[],9.40
+
+
+
+18.07.2021,Martineau M.,2,6,6^4,6,,,7,3,67%,73% (38/52),58% (15/26),33% (1/3),43% (20/47),39% (13/33),78% (7/9),68% (53/78),45% (36/80),56% (89/158),85% (11/13),54% (7/13),69% (18/26),"['2', '0', '4', '0', '6', '0']","['2', '2', '5', '5']","['2', '1', '4', '1']",[],[],1.04
+
+
+

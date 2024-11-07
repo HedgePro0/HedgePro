@@ -1,69 +1,571 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ATP - SINGLES :  Davis Cup - World Group II (World),-,header
-14.09. 15:45,Dlimi Y.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],1.32
-14.09. 15:45,Nys H.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['4', '5']",[],[],[],3.24
 ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
 ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
 ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
 ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-03.02. 14:45,Dlimi Y.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5', '7', '5']","['4', '2']",[],[],[],1.68
-03.02. 14:45,Chrysochos P.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3']","['4', '5']",[],[],[],2.11
 ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
 CHALLENGER MEN - SINGLES :  Champaign (USA) - Qualification,hard,header
 ITF MEN - SINGLES :  M25 Austin,hard,header
-09.11.2023,Dlimi Y.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '1', '3', '1']",[],[],[],2.60
-09.11.2023,Spizzirri E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '0', '2', '3', '4', '3', '6', '3']",[],[],[],1.45
-09.11.2023,Dlimi Y.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '6', '5']",[],[],[],1.10
-09.11.2023,Menichella S.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],6.06
 CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
-24.09.2023,Dlimi Y.,1,1,6,6^5,,,8,5,51%,73% (40/55),45% (24/53),79% (11/14),32% (24/76),50% (22/44),25% (2/8),6,59% (64/108),38% (46/120),48% (110/228),3,79% (11/14),14% (2/14),46% (13/28),[],"['2', '0', '5', '1']",[],[],[],2.24
-24.09.2023,Mayo A.,2,6,3,7^7,,,4,5,63%,68% (52/76),50% (22/44),75% (6/8),27% (15/55),55% (29/53),21% (3/14),6,62% (74/120),41% (44/108),52% (118/228),5,86% (12/14),21% (3/14),54% (15/28),"['3', '1', '5', '1']","['2', '5']",[],[],[],1.59
-ATP - SINGLES :  Davis Cup - World Group II (World),-,header
-17.09.2023,Dlimi Y.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.26
-17.09.2023,Nagal S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['2', '0']",[],[],[],1.20
-16.09.2023,Sasikumar M.,1,7^7,5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '0']","['1', '0']",[],[],1.90
-16.09.2023,Dlimi Y.,1,6^4,7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['4', '4', '7', '5']","['1', '1', '3', '1']",[],[],1.83
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-17.06.2023,Dlimi Y.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.59
-17.06.2023,Royer V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
-16.06.2023,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
-16.06.2023,Cosnet C.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.48
-15.06.2023,Dlimi Y.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.92
-15.06.2023,Zukas M.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.79
-14.06.2023,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-14.06.2023,El Khoumri H.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-09.06.2023,Dlimi Y.,1,3,7^7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
-09.06.2023,Bittoun C.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
-08.06.2023,Dlimi Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
-08.06.2023,Noce G. M.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
-07.06.2023,Dlimi Y.,2,6^6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
-07.06.2023,Carou I.,1,7^8,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-05.02.2023,Boblei F.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],0
-05.02.2023,Dlimi Y.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']",[],[],[],[],0
-ITF MEN - SINGLES :  M15 Monastir 49 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Casablanca 4 (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Casablanca 3 (Morocco),clay,header
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-12.08.2022,Dlimi Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '5', '4', '6', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],0
-12.08.2022,van Schalkwyk C. H.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '4', '4', '4', '5', '5']","['1', '1']",[],[],[],0
-11.08.2022,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['3', '1', '6', '2']",[],[],[],0
-11.08.2022,Njogu A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],0
-10.08.2022,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['2', '1', '4', '3', '5', '4']",[],[],[],0
-10.08.2022,Sahtali T.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2', '4', '4']",[],[],[],0
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Champaign (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Austin,hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+24.09.2023,Dlimi Y.,1,1,6,6^5,,,8,5,51%,73% (40/55),45% (24/53),79% (11/14),32% (24/76),50% (22/44),25% (2/8),59% (64/108),38% (46/120),48% (110/228),79% (11/14),14% (2/14),46% (13/28),[],"['2', '0', '5', '1']",[],[],[],2.24
+24.09.2023,Mayo A.,2,6,3,7^7,,,4,5,63%,68% (52/76),50% (22/44),75% (6/8),27% (15/55),55% (29/53),21% (3/14),62% (74/120),41% (44/108),52% (118/228),86% (12/14),21% (3/14),54% (15/28),"['3', '1', '5', '1']","['2', '5']",[],[],[],1.59
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+
+
+
+14.09. 15:45,Dlimi Y.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],1.32
+
+
+
+
+
+
+
+14.09. 15:45,Nys H.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['4', '5']",[],[],[],3.24
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+
+
+
+
+
+
+03.02. 14:45,Dlimi Y.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5', '7', '5']","['4', '2']",[],[],[],1.68
+
+
+
+
+
+
+
+03.02. 14:45,Chrysochos P.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3']","['4', '5']",[],[],[],2.11
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Champaign (USA) - Qualification,hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Austin,hard,header
+
+
+
+
+
+
+
+09.11.2023,Dlimi Y.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '1', '3', '1']",[],[],[],2.60
+
+
+
+
+
+
+
+09.11.2023,Spizzirri E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '0', '2', '3', '4', '3', '6', '3']",[],[],[],1.45
+
+
+
+
+
+
+
+09.11.2023,Dlimi Y.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '6', '5']",[],[],[],1.10
+
+
+
+
+
+
+
+09.11.2023,Menichella S.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],6.06
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+
+
+
+
+
+
+
+24.09.2023,Dlimi Y.,1,1,6,6^5,,,8,5,51%,73% (40/55),45% (24/53),79% (11/14),32% (24/76),50% (22/44),25% (2/8),6,59% (64/108),38% (46/120),48% (110/228),3,79% (11/14),14% (2/14),46% (13/28),[],"['2', '0', '5', '1']",[],[],[],2.24
+
+
+
+
+
+
+
+24.09.2023,Mayo A.,2,6,3,7^7,,,4,5,63%,68% (52/76),50% (22/44),75% (6/8),27% (15/55),55% (29/53),21% (3/14),6,62% (74/120),41% (44/108),52% (118/228),5,86% (12/14),21% (3/14),54% (15/28),"['3', '1', '5', '1']","['2', '5']",[],[],[],1.59
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+
+
+
+
+
+
+
+17.09.2023,Dlimi Y.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.26
+
+
+
+
+
+
+
+17.09.2023,Nagal S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['2', '0']",[],[],[],1.20
+
+
+
+
+
+
+
+16.09.2023,Sasikumar M.,1,7^7,5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '0']","['1', '0']",[],[],1.90
+
+
+
+
+
+
+
+16.09.2023,Dlimi Y.,1,6^4,7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['4', '4', '7', '5']","['1', '1', '3', '1']",[],[],1.83
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+
+
+
+
+
+
+
+17.06.2023,Dlimi Y.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.59
+
+
+
+
+
+
+
+17.06.2023,Royer V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
+
+
+
+
+
+
+
+16.06.2023,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
+
+
+
+
+
+
+
+16.06.2023,Cosnet C.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.48
+
+
+
+
+
+
+
+15.06.2023,Dlimi Y.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.92
+
+
+
+
+
+
+
+15.06.2023,Zukas M.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.79
+
+
+
+
+
+
+
+14.06.2023,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+14.06.2023,El Khoumri H.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+
+
+
+
+
+
+
+09.06.2023,Dlimi Y.,1,3,7^7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+
+
+
+
+
+
+
+09.06.2023,Bittoun C.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
+
+
+
+
+
+
+
+08.06.2023,Dlimi Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
+
+
+
+
+
+
+
+08.06.2023,Noce G. M.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
+
+
+
+
+
+
+
+07.06.2023,Dlimi Y.,2,6^6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
+
+
+
+
+
+
+
+07.06.2023,Carou I.,1,7^8,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+
+
+
+
+
+
+05.02.2023,Boblei F.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],0
+
+
+
+
+
+
+
+05.02.2023,Dlimi Y.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']",[],[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 49 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca 4 (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca 3 (Morocco),clay,header
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+
+
+
+
+
+
+
+12.08.2022,Dlimi Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '5', '4', '6', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],0
+
+
+
+
+
+
+
+12.08.2022,van Schalkwyk C. H.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '4', '4', '4', '5', '5']","['1', '1']",[],[],[],0
+
+
+
+
+
+
+
+11.08.2022,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['3', '1', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+11.08.2022,Njogu A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],0
+
+
+
+
+
+
+
+10.08.2022,Dlimi Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['2', '1', '4', '3', '5', '4']",[],[],[],0
+
+
+
+
+
+
+
+10.08.2022,Sahtali T.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2', '4', '4']",[],[],[],0
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+
+
+
+
+
+
+

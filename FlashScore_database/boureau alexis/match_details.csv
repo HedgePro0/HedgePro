@@ -1,19 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
 ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-30.08.2023,Boureau A.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
-30.08.2023,Arutiunian E.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
 ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
 ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
 ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
@@ -30,11 +18,198 @@ ITF MEN - SINGLES :  M25 Nevers (France),hard,header
 ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
 ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
 ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
-03.08.2022,Boureau A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-03.08.2022,Wojcik Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
 ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
 ITF MEN - SINGLES :  M25 Uriage (France),clay,header
 ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
 ITF MEN - SINGLES :  M25 Angers (France),clay,header
 ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
+ITF MEN - SINGLES :  M25 Angers (France),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+
+
+30.08.2023,Boureau A.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
+
+
+
+30.08.2023,Arutiunian E.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
+
+
+
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+
+
+
+03.08.2022,Boureau A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
+
+
+
+03.08.2022,Wojcik Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Angers (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+
+
+

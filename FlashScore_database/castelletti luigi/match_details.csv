@@ -1,26 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
-26.03. 17:20,Castelletti L.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.37
-26.03. 17:20,Markovits M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.19
 ITF MEN - SINGLES :  M15 Alcala de Henares (Spain),hard,header
-23.11.2023,Castelletti L.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-23.11.2023,Perez Sanz D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0']",[],[],[],0
-22.11.2023,Castelletti L.,1,7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5', '7', '5']","['3', '1']",[],[],[],0
-22.11.2023,Brunold M.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']",[],[],[],[],0
 CHALLENGER MEN - SINGLES :  Olbia (Italy) - Qualification,hard,header
-15.10.2023,Castelletti L.,0,3,4,,,,6,3,49%,70% (19/27),50% (14/28),33% (1/3),11% (4/35),31% (4/13),0% (0/0),4,60% (33/55),17% (8/48),40% (41/103),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],9.85
-15.10.2023,Bourgue M.,2,6,6,,,,3,3,73%,89% (31/35),69% (9/13),0% (0/0),30% (8/27),50% (14/28),67% (2/3),9,83% (40/48),40% (22/55),60% (62/103),3,100% (10/10),22% (2/9),63% (12/19),"['2', '0']","['4', '3']",[],[],[],1.03
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-30.06.2023,Castelletti L.,1,6,6^2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '5', '4']","['3', '4']","['2', '2']",[],[],7.03
-30.06.2023,Parizzia N.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2']","['3', '1']","['2', '1', '4', '3', '6', '3']",[],[],1.07
-28.06.2023,Castelletti L.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4', '4', '4', '6', '4']","['2', '0', '4', '0']",[],[],2.86
-28.06.2023,Colacioppo G.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '3', '0']","['1', '4']",[],[],1.38
-ITF MEN - SINGLES :  M15 Frascati (Italy),clay,header
-08.06.2022,Castelletti L.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],9.90
-08.06.2022,Egea F. E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '5', '1']",[],[],[],1.04
-ITF MEN - SINGLES :  M15 Almada (Portugal),hard,header
-ITF MEN - SINGLES :  M15 Gaiba (Italy),grass,header
-09.06.2021,Castelletti L.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.00
-09.06.2021,Lock B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0']",[],[],[],1.04
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Bratislava (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
+ITF MEN - SINGLES :  M15 Alcala de Henares (Spain),hard,header
+CHALLENGER MEN - SINGLES :  Olbia (Italy) - Qualification,hard,header
+15.10.2023,Castelletti L.,0,3,4,,,,6,3,49%,70% (19/27),50% (14/28),33% (1/3),11% (4/35),31% (4/13),0% (0/0),60% (33/55),17% (8/48),40% (41/103),78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],9.85
+15.10.2023,Bourgue M.,2,6,6,,,,3,3,73%,89% (31/35),69% (9/13),0% (0/0),30% (8/27),50% (14/28),67% (2/3),83% (40/48),40% (22/55),60% (62/103),100% (10/10),22% (2/9),63% (12/19),"['2', '0']","['4', '3']",[],[],[],1.03
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Frascati (Italy),clay,header
+ITF MEN - SINGLES :  M15 Almada (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Gaiba (Italy),grass,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Bratislava (Slovakia),hard,header

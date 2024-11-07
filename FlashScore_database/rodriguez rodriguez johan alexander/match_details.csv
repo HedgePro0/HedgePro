@@ -1,35 +1,369 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kayseri 3 (Turkey),hard,header
+ITF MEN - SINGLES :  M15 Kayseri 2 (Turkey),hard,header
 ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
 ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
 ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
 CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
-ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
-ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
-CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
-17.09. 04:40,Rodriguez J. A.,0,4,2,,,,3,4,43%,78% (18/23),43% (13/30),0% (0/3),17% (5/30),40% (8/20),0% (0/2),5,58% (31/53),26% (13/50),43% (44/103),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],5.69
-17.09. 04:40,Rodriguez Taverna S.,2,6,6,,,,3,2,60%,83% (25/30),60% (12/20),100% (2/2),22% (5/23),57% (17/30),100% (3/3),5,74% (37/50),42% (22/53),57% (59/103),5,100% (9/9),33% (3/9),67% (12/18),"['3', '2']","['3', '2', '5', '2']",[],[],[],1.12
+17.09. 04:40,Rodriguez J. A.,0,4,2,,,,3,4,43%,78% (18/23),43% (13/30),0% (0/3),0 km/h,0 km/h,17% (5/30),40% (8/20),0% (0/2),58% (31/53),26% (13/50),43% (44/103),2,0,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],5.69
+17.09. 04:40,Rodriguez Taverna S.,2,6,6,,,,3,2,60%,83% (25/30),60% (12/20),100% (2/2),0 km/h,0 km/h,22% (5/23),57% (17/30),100% (3/3),74% (37/50),42% (22/53),57% (59/103),8,0,100% (9/9),33% (3/9),67% (12/18),"['3', '2']","['3', '2', '5', '2']",[],[],[],1.12
 ITF MEN - SINGLES :  M25 Arequipa 2 (Peru),clay,header
 ITF MEN - SINGLES :  M25 Arequipa (Peru),clay,header
 CHALLENGER MEN - SINGLES :  Bogota (Colombia),clay,header
-07.08. 23:15,Rodriguez J. A.,0,6^6,1,,,,3,8,58%,55% (22/40),34% (10/29),38% (3/8),32% (10/31),48% (16/33),60% (3/5),6,46% (32/69),41% (26/64),44% (58/133),2,44% (4/9),30% (3/10),37% (7/19),"['1', '1', '4', '2', '5', '5']",[],[],[],[],7.02
-07.08. 23:15,Mejia N.,2,7^8,6,,,,7,5,48%,68% (21/31),52% (17/33),40% (2/5),45% (18/40),66% (19/29),63% (5/8),5,59% (38/64),54% (37/69),56% (75/133),5,70% (7/10),56% (5/9),63% (12/19),"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '1']",[],[],[],1.08
-06.08. 00:15,Rodriguez J. A.,2,6,6,,,,3,4,57%,59% (19/32),50% (12/24),50% (3/6),61% (20/33),61% (14/23),50% (6/12),7,55% (31/56),61% (34/56),58% (65/112),6,67% (6/9),75% (6/8),71% (12/17),"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '3', '5', '4']",[],[],[],1.05
-06.08. 00:15,Price S.,0,1,4,,,,1,7,59%,39% (13/33),39% (9/23),50% (6/12),41% (13/32),50% (12/24),50% (3/6),5,39% (22/56),45% (25/56),42% (47/112),2,25% (2/8),33% (3/9),29% (5/17),"['1', '0']","['2', '2', '4', '4']",[],[],[],8.60
+07.08. 23:15,Rodriguez J. A.,0,6^6,1,,,,3,8,58%,55% (22/40),34% (10/29),38% (3/8),0 km/h,0 km/h,32% (10/31),48% (16/33),60% (3/5),46% (32/69),41% (26/64),44% (58/133),3,0,44% (4/9),30% (3/10),37% (7/19),"['1', '1', '4', '2', '5', '5']",[],[],[],[],7.02
+07.08. 23:15,Mejia N.,2,7^8,6,,,,7,5,48%,68% (21/31),52% (17/33),40% (2/5),0 km/h,0 km/h,45% (18/40),66% (19/29),63% (5/8),59% (38/64),54% (37/69),56% (75/133),7,0,70% (7/10),56% (5/9),63% (12/19),"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '1']",[],[],[],1.08
+06.08. 00:15,Rodriguez J. A.,2,6,6,,,,3,4,57%,59% (19/32),50% (12/24),50% (3/6),0 km/h,0 km/h,61% (20/33),61% (14/23),50% (6/12),55% (31/56),61% (34/56),58% (65/112),7,0,67% (6/9),75% (6/8),71% (12/17),"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '3', '5', '4']",[],[],[],1.05
+06.08. 00:15,Price S.,0,1,4,,,,1,7,59%,39% (13/33),39% (9/23),50% (6/12),0 km/h,0 km/h,41% (13/32),50% (12/24),50% (3/6),39% (22/56),45% (25/56),42% (47/112),3,0,25% (2/8),33% (3/9),29% (5/17),"['1', '0']","['2', '2', '4', '4']",[],[],[],8.60
 ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
 CHALLENGER MEN - SINGLES :  Ibague (Colombia),clay,header
-26.06. 03:20,Rodriguez J. A.,0,2,1,,,,3,4,52%,50% (17/34),45% (14/31),58% (7/12),25% (6/24),29% (5/17),0% (0/1),6,48% (31/65),27% (11/41),40% (42/106),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],6.27
-26.06. 03:20,Mejia N.,2,6,6,,,,3,0,59%,75% (18/24),71% (12/17),100% (1/1),50% (17/34),55% (17/31),42% (5/12),8,73% (30/41),52% (34/65),60% (64/106),5,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.10
+26.06. 03:20,Rodriguez J. A.,0,2,1,,,,3,4,52%,50% (17/34),45% (14/31),58% (7/12),25% (6/24),29% (5/17),0% (0/1),48% (31/65),27% (11/41),40% (42/106),3,0,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],6.27
+26.06. 03:20,Mejia N.,2,6,6,,,,3,0,59%,75% (18/24),71% (12/17),100% (1/1),50% (17/34),55% (17/31),42% (5/12),73% (30/41),52% (34/65),60% (64/106),7,0,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.10
 ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
 ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
 ITF MEN - SINGLES :  M25 Faro (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio 2 (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio (Portugal),hard,header
-ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
-CHALLENGER MEN - SINGLES :  Bogota (Colombia),clay,header
-29.09.2023,Rodriguez J. A.,1,3,7,1,,,5,3,59%,71% (37/52),36% (13/36),71% (12/17),25% (12/48),44% (16/36),40% (2/5),7,57% (50/88),33% (28/84),45% (78/172),3,64% (9/14),14% (2/14),39% (11/28),[],"['1', '0', '6', '5']",[],[],[],6.15
-29.09.2023,Tabilo A.,2,6,5,6,,,9,3,57%,75% (36/48),56% (20/36),60% (3/5),29% (15/52),64% (23/36),29% (5/17),7,67% (56/84),43% (38/88),55% (94/172),5,86% (12/14),36% (5/14),61% (17/28),"['4', '3', '6', '3']","['3', '3']","['3', '1', '5', '1']",[],[],1.08
-27.09.2023,Rodriguez J. A.,2,7^7,6,,,,3,6,58%,74% (35/47),50% (17/34),83% (5/6),28% (9/32),48% (13/27),100% (3/3),5,64% (52/81),37% (22/59),53% (74/140),3,90% (9/10),30% (3/10),60% (12/20),"['2', '2']","['1', '0', '5', '2']",[],[],[],3.46
-27.09.2023,Huertas Del Pino A.,0,6^5,2,,,,6,5,54%,72% (23/32),52% (14/27),0% (0/3),26% (12/47),50% (17/34),17% (1/6),4,63% (37/59),36% (29/81),47% (66/140),2,70% (7/10),10% (1/10),40% (8/20),"['2', '1']",[],[],[],[],1.24
+ITF MEN - SINGLES :  M15 Kayseri 3 (Turkey),hard,header
+ITF MEN - SINGLES :  M15 Kayseri 2 (Turkey),hard,header
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
+ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
+CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+ITF MEN - SINGLES :  M15 Kayseri 2 (Turkey),hard,header
+
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+
+ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
+
+ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
+
+CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+
+17.09. 04:40,Rodriguez J. A.,0,4,2,,,,3,4,43%,78% (18/23),43% (13/30),0% (0/3),0 km/h,0 km/h,17% (5/30),40% (8/20),0% (0/2),58% (31/53),26% (13/50),43% (44/103),2,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],5.69
+
+17.09. 04:40,Rodriguez Taverna S.,2,6,6,,,,3,2,60%,83% (25/30),60% (12/20),100% (2/2),0 km/h,0 km/h,22% (5/23),57% (17/30),100% (3/3),74% (37/50),42% (22/53),57% (59/103),8,100% (9/9),33% (3/9),67% (12/18),"['3', '2']","['3', '2', '5', '2']",[],[],[],1.12
+
+ITF MEN - SINGLES :  M25 Arequipa 2 (Peru),clay,header
+
+ITF MEN - SINGLES :  M25 Arequipa (Peru),clay,header
+
+CHALLENGER MEN - SINGLES :  Bogota (Colombia),clay,header
+
+07.08. 23:15,Rodriguez J. A.,0,6^6,1,,,,3,8,58%,55% (22/40),34% (10/29),38% (3/8),0 km/h,0 km/h,32% (10/31),48% (16/33),60% (3/5),46% (32/69),41% (26/64),44% (58/133),3,0,44% (4/9),30% (3/10),37% (7/19),"['1', '1', '4', '2', '5', '5']",[],[],[],[],7.02
+
+07.08. 23:15,Mejia N.,2,7^8,6,,,,7,5,48%,68% (21/31),52% (17/33),40% (2/5),0 km/h,0 km/h,45% (18/40),66% (19/29),63% (5/8),59% (38/64),54% (37/69),56% (75/133),7,0,70% (7/10),56% (5/9),63% (12/19),"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '1']",[],[],[],1.08
+
+06.08. 00:15,Rodriguez J. A.,2,6,6,,,,3,4,57%,59% (19/32),50% (12/24),50% (3/6),0 km/h,0 km/h,61% (20/33),61% (14/23),50% (6/12),55% (31/56),61% (34/56),58% (65/112),7,0,67% (6/9),75% (6/8),71% (12/17),"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '3', '5', '4']",[],[],[],1.05
+
+06.08. 00:15,Price S.,0,1,4,,,,1,7,59%,39% (13/33),39% (9/23),50% (6/12),0 km/h,0 km/h,41% (13/32),50% (12/24),50% (3/6),39% (22/56),45% (25/56),42% (47/112),3,0,25% (2/8),33% (3/9),29% (5/17),"['1', '0']","['2', '2', '4', '4']",[],[],[],8.60
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+
+CHALLENGER MEN - SINGLES :  Ibague (Colombia),clay,header
+
+26.06. 03:20,Rodriguez J. A.,0,2,1,,,,3,4,52%,50% (17/34),45% (14/31),58% (7/12),25% (6/24),29% (5/17),0% (0/1),48% (31/65),27% (11/41),40% (42/106),38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],6.27
+
+26.06. 03:20,Mejia N.,2,6,6,,,,3,0,59%,75% (18/24),71% (12/17),100% (1/1),50% (17/34),55% (17/31),42% (5/12),73% (30/41),52% (34/65),60% (64/106),100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.10
+
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+
+ITF MEN - SINGLES :  M25 Faro (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Kayseri 2 (Turkey),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Luque (Paraguay),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Asuncion 2 (Paraguay),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+
+
+
+
+
+
+
+17.09. 04:40,Rodriguez J. A.,0,4,2,,,,3,4,43%,78% (18/23),43% (13/30),0% (0/3),17% (5/30),40% (8/20),0% (0/2),5,58% (31/53),26% (13/50),43% (44/103),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],5.69
+
+
+
+
+
+
+
+17.09. 04:40,Rodriguez Taverna S.,2,6,6,,,,3,2,60%,83% (25/30),60% (12/20),100% (2/2),22% (5/23),57% (17/30),100% (3/3),5,74% (37/50),42% (22/53),57% (59/103),5,100% (9/9),33% (3/9),67% (12/18),"['3', '2']","['3', '2', '5', '2']",[],[],[],1.12
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Arequipa 2 (Peru),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Arequipa (Peru),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Bogota (Colombia),clay,header
+
+
+
+
+
+
+
+07.08. 23:15,Rodriguez J. A.,0,6^6,1,,,,3,8,58%,55% (22/40),34% (10/29),38% (3/8),32% (10/31),48% (16/33),60% (3/5),6,46% (32/69),41% (26/64),44% (58/133),2,44% (4/9),30% (3/10),37% (7/19),"['1', '1', '4', '2', '5', '5']",[],[],[],[],7.02
+
+
+
+
+
+
+
+07.08. 23:15,Mejia N.,2,7^8,6,,,,7,5,48%,68% (21/31),52% (17/33),40% (2/5),45% (18/40),66% (19/29),63% (5/8),5,59% (38/64),54% (37/69),56% (75/133),5,70% (7/10),56% (5/9),63% (12/19),"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '1']",[],[],[],1.08
+
+
+
+
+
+
+
+06.08. 00:15,Rodriguez J. A.,2,6,6,,,,3,4,57%,59% (19/32),50% (12/24),50% (3/6),61% (20/33),61% (14/23),50% (6/12),7,55% (31/56),61% (34/56),58% (65/112),6,67% (6/9),75% (6/8),71% (12/17),"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '3', '5', '4']",[],[],[],1.05
+
+
+
+
+
+
+
+06.08. 00:15,Price S.,0,1,4,,,,1,7,59%,39% (13/33),39% (9/23),50% (6/12),41% (13/32),50% (12/24),50% (3/6),5,39% (22/56),45% (25/56),42% (47/112),2,25% (2/8),33% (3/9),29% (5/17),"['1', '0']","['2', '2', '4', '4']",[],[],[],8.60
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Ibague (Colombia),clay,header
+
+
+
+
+
+
+
+26.06. 03:20,Rodriguez J. A.,0,2,1,,,,3,4,52%,50% (17/34),45% (14/31),58% (7/12),25% (6/24),29% (5/17),0% (0/1),6,48% (31/65),27% (11/41),40% (42/106),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],6.27
+
+
+
+
+
+
+
+26.06. 03:20,Mejia N.,2,6,6,,,,3,0,59%,75% (18/24),71% (12/17),100% (1/1),50% (17/34),55% (17/31),42% (5/12),8,73% (30/41),52% (34/65),60% (64/106),5,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.10
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Faro (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio 2 (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Vila Real de Santo Antonio (Portugal),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Bogota (Colombia),clay,header
+
+
+
+
+
+
+
+29.09.2023,Rodriguez J. A.,1,3,7,1,,,5,3,59%,71% (37/52),36% (13/36),71% (12/17),25% (12/48),44% (16/36),40% (2/5),7,57% (50/88),33% (28/84),45% (78/172),3,64% (9/14),14% (2/14),39% (11/28),[],"['1', '0', '6', '5']",[],[],[],6.15
+
+
+
+
+
+
+
+29.09.2023,Tabilo A.,2,6,5,6,,,9,3,57%,75% (36/48),56% (20/36),60% (3/5),29% (15/52),64% (23/36),29% (5/17),7,67% (56/84),43% (38/88),55% (94/172),5,86% (12/14),36% (5/14),61% (17/28),"['4', '3', '6', '3']","['3', '3']","['3', '1', '5', '1']",[],[],1.08
+
+
+
+
+
+
+
+27.09.2023,Rodriguez J. A.,2,7^7,6,,,,3,6,58%,74% (35/47),50% (17/34),83% (5/6),28% (9/32),48% (13/27),100% (3/3),5,64% (52/81),37% (22/59),53% (74/140),3,90% (9/10),30% (3/10),60% (12/20),"['2', '2']","['1', '0', '5', '2']",[],[],[],3.46
+
+
+
+
+
+
+
+27.09.2023,Huertas Del Pino A.,0,6^5,2,,,,6,5,54%,72% (23/32),52% (14/27),0% (0/3),26% (12/47),50% (17/34),17% (1/6),4,63% (37/59),36% (29/81),47% (66/140),2,70% (7/10),10% (1/10),40% (8/20),"['2', '1']",[],[],[],[],1.24
+
+
+
+
+
+
+

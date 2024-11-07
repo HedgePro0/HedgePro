@@ -1,27 +1,8 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
-19.09. 15:00,Nedelko I.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0']","['2', '3']",[],[],0
-19.09. 15:00,Saritas G.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],"['2', '0', '5', '3']",[],[],0
-18.09. 11:00,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['3', '2', '5', '2', '6', '3']",[],[],[],0
-18.09. 11:00,Jafar I.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],0
 ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
-16.09. 17:40,Nedelko I.,1,6,3,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['2', '1']","['2', '2', '5', '5']",[],[],1.35
-16.09. 17:40,Bocchi L.,2,1,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '5', '3']","['1', '0', '5', '4', '6', '5']",[],[],3.04
-14.09. 12:30,Nedelko I.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['4', '4']",[],[],[],1.37
-14.09. 12:30,Klok D.,0,6^1,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '6']","['1', '0']",[],[],[],2.92
-13.09. 17:15,Nedelko I.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5']","['2', '0', '5', '1']","['2', '1', '6', '3']",[],[],0
-13.09. 17:15,Moghimi S.,1,6,1,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']",[],[],[],[],0
-12.09. 11:00,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '5', '2']",[],[],[],0
-12.09. 11:00,Agostini S.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-27.07. 19:15,Nedelko I.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],2.24
-27.07. 19:15,Broska F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],1.60
-26.07. 17:35,Nedelko I.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '5']","['2', '1', '6', '5']",[],[],[],0
-26.07. 17:35,Nagel A.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3']","['3', '3']",[],[],[],0
-25.07. 19:40,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['4', '3']",[],[],[],0
-25.07. 19:40,Fix D.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-24.07. 22:10,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '5', '2']",[],[],[],0
-24.07. 22:10,Knaff A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
@@ -30,44 +11,67 @@ ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-21.07.2022,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '5', '2']",[],[],[],0
-21.07.2022,Al Azmeh T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
-15.07.2022,Nedelko I.,1,1,7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '5']",[],[],[],0
-15.07.2022,Collignon R.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['4', '4']","['2', '0', '4', '0', '6', '0']",[],[],0
-14.07.2022,Nedelko I.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['1', '0', '4', '3']",[],[],[],0
-14.07.2022,Oliel Y.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],0
-13.07.2022,Nedelko I.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '6', '4']","['2', '2', '5', '3']",[],[],0
-13.07.2022,Colson T.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0']","['1', '0']",[],[],0
 ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
-06.07.2022,Vrbensky M.,0,4,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],0
-06.07.2022,Nedelko I.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-23.06.2022,Nedelko I.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],0
-23.06.2022,Kielan S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],0
-21.06.2022,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '2', '1', '5', '2']",[],[],[],0
-21.06.2022,Uzhylovskyi V.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],0
 ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
 ITF MEN - SINGLES :  M15 Kouvola (Finland),hard,header
-22.05.2022,Nedelko I.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
-22.05.2022,Virtanen O.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
-21.05.2022,Nedelko I.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
-21.05.2022,Weightman O.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
-20.05.2022,Nedelko I.,2,3,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-20.05.2022,Sigsgaard C.,1,6,6^5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-19.05.2022,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-19.05.2022,Saatela L.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.05.2022,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.05.2022,Vasa E.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
 ITF MEN - SINGLES :  M25 Kalmar (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-07.04.2022,Nedelko I.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-07.04.2022,Erhard M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-05.04.2022,Nedelko I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-05.04.2022,Kopp S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-19.01.2022,Nedelko I.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-19.01.2022,Kiyamov T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES :  Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+ITF MEN - SINGLES :  M15 Kouvola (Finland),hard,header
+ITF MEN - SINGLES :  M25 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+
+ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
+
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+
+ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+
+ITF MEN - SINGLES :  M15 Kouvola (Finland),hard,header
+
+ITF MEN - SINGLES :  M25 Kalmar (Sweden),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+

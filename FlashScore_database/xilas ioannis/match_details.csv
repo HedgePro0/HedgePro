@@ -1,22 +1,10 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
 ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-14.09. 20:05,Xilas I.,0,0,1,,,,1,3,77%,41% (11/27),0% (0/8),33% (2/6),12% (3/25),25% (2/8),0% (0/0),3,35% (11/31),17% (4/24),27% (15/55),1,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],28.00
-14.09. 20:05,Djokovic N.,2,6,6,,,,5,0,76%,88% (22/25),75% (6/8),0% (0/0),59% (16/27),100% (8/8),67% (4/6),9,83% (20/24),65% (20/31),73% (40/55),11,100% (7/7),83% (5/6),92% (12/13),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.01
+14.09. 20:05,Xilas I.,0,0,1,,,,1,3,77%,41% (11/27),0% (0/8),33% (2/6),12% (3/25),25% (2/8),0% (0/0),35% (11/31),17% (4/24),27% (15/55),5,0,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],28.00
+14.09. 20:05,Djokovic N.,2,6,6,,,,5,0,76%,88% (22/25),75% (6/8),0% (0/0),59% (16/27),100% (8/8),67% (4/6),83% (20/24),65% (20/31),73% (40/55),5,0,100% (7/7),83% (5/6),92% (12/13),"['4', '0', '6', '0', '6', '0']","['4', '0']",[],[],[],1.01
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
-01.08. 12:30,Xilas I.,1,7,5,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5', '6', '5']","['1', '0', '3', '0', '5', '4']",[],[],[],2.56
-01.08. 12:30,Thanos A.,1,5,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '3']","['1', '3', '4', '4', '5', '5', '7', '5']","['2', '0']",[],[],1.47
-31.07. 12:40,Xilas I.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['3', '2', '4', '3', '6', '5']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],1.48
-31.07. 12:40,Martin Manzano J. C.,1,6,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '1']","['3', '3', '5', '5']","['1', '1', '2', '4']",[],[],2.53
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 12 (Serbia),clay,header
-26.07. 14:00,Xilas I.,1,7^7,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '5', '4']",[],"['2', '2', '3', '3']",[],[],2.01
-26.07. 14:00,La Serna J. M.,2,6^1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '5']","['3', '2']","['2', '1', '3', '2', '4', '3']",[],[],1.73
-25.07. 15:15,Xilas I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.69
-25.07. 15:15,Latinovic S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],2.08
-24.07. 17:20,Xilas I.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '0', '2', '1', '4', '1', '6', '1']","['1', '1', '3', '1', '4', '2']",[],[],2.05
-24.07. 17:20,Klok D.,1,6,1,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['1', '1']","['1', '0', '2', '3']",[],[],1.70
 ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Belgrade (Serbia),clay,header
@@ -26,8 +14,6 @@ ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
 ATP - SINGLES :  Davis Cup - World Group I (World) - Preliminary,-,header
-04.02. 18:50,Xilas I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['2', '4', '4', '4', '6', '4']",[],[],[],0
-04.02. 18:50,Preda L.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0']",[],[],[],0
 ITF MEN - SINGLES :  M25 Heraklion 3 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 6 (Greece),hard,header
 ITF MEN - SINGLES :  M25 Herzlia (Israel),hard,header
@@ -36,30 +22,3 @@ ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Skopje (North Macedonia),clay,header
 ITF MEN - SINGLES :  M15 Pazardzhik (Bulgaria),clay,header
-19.05.2023,Xilas I.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
-19.05.2023,Knaff A.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-10.05.2023,Xilas I.,1,7^7,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-10.05.2023,Marino P.,2,6^3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES :  M25 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Bath (United Kingdom),hard,header
-08.02.2023,Xilas I.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],7.60
-08.02.2023,Cox D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],[],1.06
-ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
-01.06.2022,Xilas I.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.00
-01.06.2022,Bodmer A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
-24.05.2022,Xilas I.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.60
-24.05.2022,Reinberg E.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.08
-ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header
-ITF MEN - SINGLES :  M25 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
-ITF MEN - SINGLES :  M15 Warmbad-Villach (Austria),clay,header
-ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion 8 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header

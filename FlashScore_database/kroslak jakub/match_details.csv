@@ -1,13 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
-14.08. 16:30,Kroslak J.,1,5,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']",[],[],[],3.69
-14.08. 16:30,Visker N.,2,7,0,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['1', '0']",[],[],1.25
 ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-07.08. 15:35,Kroslak J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],2.06
-07.08. 15:35,Brunclik P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '0']",[],[],[],1.69
 ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-23.07. 13:35,Kroslak J.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.17
-23.07. 13:35,Puskar S.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['6', '5']",[],[],[],1.64
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
@@ -18,8 +12,6 @@ ITF MEN - SINGLES :  M15 Monastir 33 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-07.12.2022,Kroslak J.,1,7,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.66
-07.12.2022,Bulitski A.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
 ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
@@ -28,3 +20,24 @@ ITF MEN - SINGLES :  M25 Szabolcsveresmart (Hungary),clay,header
 ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 33 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Szabolcsveresmart (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 11 (Egypt),hard,header

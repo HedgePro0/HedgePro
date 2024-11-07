@@ -1,11 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Bengaluru (India),hard,header
 ITF WOMEN - SINGLES :  W15 Mysuru (India),hard,header
 ITF WOMEN - SINGLES :  W15 Singapore (Singapore),hard,header
-ITF WOMEN - SINGLES :  W15 Mysuru (India),hard,header
-ITF WOMEN - SINGLES :  W15 Singapore (Singapore),hard,header
-10.09. 07:25,Nitture A. D.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],8.15
-10.09. 07:25,Bhosale R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '0', '5', '2']",[],[],[],1.05
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 4 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 3 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat 2 (Thailand),hard,header
@@ -13,22 +9,16 @@ ITF WOMEN - SINGLES :  W35 Indore (India),hard,header
 ITF WOMEN - SINGLES :  W35 Nagpur (India),clay,header
 ITF WOMEN - SINGLES :  W35 Gurugram (India),hard,header
 CHALLENGER WOMEN - SINGLES :  Mumbai (India) - Qualification,hard,header
-03.02. 11:05,Nitture A. D.,0,3,1,,,,2,1,65%,48% (22/46),36% (9/25),65% (11/17),29% (8/28),48% (10/21),40% (2/5),3,44% (31/71),37% (18/49),41% (49/120),2,25% (2/8),25% (2/8),25% (4/16),"['1', '0', '2', '5']",[],[],[],[],18.00
-03.02. 11:05,Sakatsume H.,2,6,6,,,,0,1,57%,71% (20/28),52% (11/21),60% (3/5),52% (24/46),64% (16/25),35% (6/17),7,63% (31/49),56% (40/71),59% (71/120),5,75% (6/8),75% (6/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.01
+03.02. 11:05,Nitture A. D.,0,3,1,,,,2,1,65%,48% (22/46),36% (9/25),65% (11/17),29% (8/28),48% (10/21),40% (2/5),44% (31/71),37% (18/49),41% (49/120),2,0,25% (2/8),25% (2/8),25% (4/16),"['1', '0', '2', '5']",[],[],[],[],18.00
+03.02. 11:05,Sakatsume H.,2,6,6,,,,0,1,57%,71% (20/28),52% (11/21),60% (3/5),52% (24/46),64% (16/25),35% (6/17),63% (31/49),56% (40/71),59% (71/120),8,0,75% (6/8),75% (6/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.01
 ITF WOMEN - SINGLES :  W40 Navi Mumbai (India),hard,header
 ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
 ITF WOMEN - SINGLES :  W15 Ahmedabad (India),clay,header
-29.11.2023,Nitture A. D.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.50
-29.11.2023,Bhamidipaty S. R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 4 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W15 Gurugram (India),hard,header
-22.02.2023,Nitture A. D.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.00
-22.02.2023,Ostlund F.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
 ITF WOMEN - SINGLES :  W15 Jhajjar 2 (India),clay,header
 ITF WOMEN - SINGLES :  W15 Jhajjar (India),clay,header
-08.02.2023,Nitture A. D.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.45
-08.02.2023,Ostlund F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.09
 ITF WOMEN - SINGLES :  W40 Pune (India),hard,header
 ITF WOMEN - SINGLES :  W15 Gwalior (India),hard,header
 ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
@@ -39,11 +29,3 @@ ITF WOMEN - SINGLES :  W25 Gurugram 2 (India),hard,header
 ITF WOMEN - SINGLES :  W25 Gurugram (India),hard,header
 ITF WOMEN - SINGLES :  W15 Nagpur (India),clay,header
 ITF WOMEN - SINGLES :  W15 Ahmedabad (India),clay,header
-ITF WOMEN - SINGLES :  W15 Gurugram (India),hard,header
-ITF WOMEN - SINGLES :  W15 Jhajjar (India),clay,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
-ITF WOMEN - SINGLES :  W25 Pune 2 (India),hard,header
-ITF WOMEN - SINGLES :  W15 Solapur (India),hard,header
-ITF WOMEN - SINGLES :  W15 Bengaluru (India),hard,header
-ITF WOMEN - SINGLES :  W25 Pune (India),hard,header
-ITF WOMEN - SINGLES :  W15 New Delhi (India),hard,header

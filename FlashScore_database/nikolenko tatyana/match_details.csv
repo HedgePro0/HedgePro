@@ -1,12 +1,6 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
-08.08. 12:00,Nikolenko T.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['2', '4']",[],[],[],3.69
-08.08. 12:00,Kummel A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],1.25
-07.08. 10:30,Nikolenko T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1', '5', '2']",[],[],[],2.28
-07.08. 10:30,Kolonus Z.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.58
 ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk (Kazakhstan),hard,header
-31.07. 11:50,Nikolenko T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],8.00
-31.07. 11:50,Back D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['2', '2', '4', '2', '6', '2']",[],[],[],1.06
 ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),clay,header
@@ -16,8 +10,6 @@ ITF WOMEN - SINGLES :  W15 Karaganda (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
-29.11.2023,Nikolenko T.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.42
-29.11.2023,Aikawa M.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
 ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
@@ -25,14 +17,30 @@ ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W25 Astana (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W25 Ust-Kamenogorsk (Kazakhstan),hard,header
 WTA - SINGLES :  Nur-Sultan (Kazakhstan) - Qualification,hard,header
-25.09.2021,Nikolenko T.,1,0,6,1,,,0,6,54%,53% (21/40),38% (13/34),50% (6/12),26% (8/31),23% (8/35),100% (2/2),4,46% (34/74),35% (23/66),41% (57/140),3,45% (5/11),18% (2/11),32% (7/22),[],"['2', '0', '4', '2']",[],[],[],0
-25.09.2021,Vikhlyantseva N.,2,6,3,6,,,2,7,47%,74% (23/31),57% (20/35),0% (0/2),48% (19/40),44% (15/34),50% (6/12),9,65% (43/66),54% (40/74),59% (83/140),6,82% (9/11),55% (6/11),68% (15/22),"['1', '0', '3', '0', '5', '0']","['2', '3']","['3', '1', '5', '1']",[],[],0
-GIRLS - SINGLES :  US Open (USA) - Qualification,hard,header
-03.09.2021,Nikolenko T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],0
-03.09.2021,Xu V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2']","['5', '4']",[],[],[],0
-GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-ITF WOMEN - SINGLES :  W15 Shymkent 6 (Kazakhstan),clay,header
-ITF WOMEN - SINGLES :  W15 Shymkent 5 (Kazakhstan),clay,header
-ITF WOMEN - SINGLES :  W15 Shymkent 4 (Kazakhstan),clay,header
-ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),hard,header
-ITF WOMEN - SINGLES :  W15 Shymkent (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),clay,header
+ITF WOMEN - SINGLES :  W15 Shymkent (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Karaganda 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Karaganda (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W25 Astana (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W25 Ust-Kamenogorsk (Kazakhstan),hard,header
+WTA - SINGLES :  Nur-Sultan (Kazakhstan) - Qualification,hard,header
+25.09.2021,Nikolenko T.,1,0,6,1,,,0,6,54%,53% (21/40),38% (13/34),50% (6/12),26% (8/31),23% (8/35),100% (2/2),46% (34/74),35% (23/66),41% (57/140),45% (5/11),18% (2/11),32% (7/22),[],"['2', '0', '4', '2']",[],[],[],0
+25.09.2021,Vikhlyantseva N.,2,6,3,6,,,2,7,47%,74% (23/31),57% (20/35),0% (0/2),48% (19/40),44% (15/34),50% (6/12),65% (43/66),54% (40/74),59% (83/140),82% (9/11),55% (6/11),68% (15/22),"['1', '0', '3', '0', '5', '0']","['2', '3']","['3', '1', '5', '1']",[],[],0
+GIRLS - SINGLES :  US Open (USA) - Qualification,hard,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ITF WOMEN - SINGLES :  W15 Shymkent 6 (Kazakhstan),clay,header
+ITF WOMEN - SINGLES :  W15 Shymkent 5 (Kazakhstan),clay,header
+ITF WOMEN - SINGLES :  W15 Shymkent 4 (Kazakhstan),clay,header
+ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Shymkent (Kazakhstan),hard,header

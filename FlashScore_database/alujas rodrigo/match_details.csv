@@ -1,18 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-03.10. 13:25,Alujas R.,1,6,5,3,,,"['5', '4']","['5', '4']","['1', '0']",[],[],2.22
-03.10. 13:25,Plunger M.,2,4,7,6,,,[],"['5', '5', '7', '5']","['2', '2', '5', '3']",[],[],1.60
-01.10. 15:15,Brown P.,1,6,1,0,,,"['5', '3', '6', '4']",[],[],[],[],2.28
-01.10. 15:15,Alujas R.,1,4,6,4,,,"['4', '5']","['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],1.57
 ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
-26.09. 14:55,Alujas R.,0,6^5,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['3', '2']",[],[],[],6.23
-26.09. 14:55,Denolly C.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['3', '3']",[],[],[],1.09
-25.09. 13:30,Alujas R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '5', '2']",[],[],[],3.09
-25.09. 13:30,Ouakaa A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
 ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
-ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
-27.08. 19:20,Alujas R.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],7.01
-27.08. 19:20,Engel J.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
 ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
 ITF MEN - SINGLES :  M25 Uriage (France),clay,header
 ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
@@ -25,8 +14,270 @@ ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
 ITF MEN - SINGLES :  M25 Heraklion 3 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 6 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-18.10.2023,Alujas R.,1,7^7,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.05
-18.10.2023,Lilov V.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
 ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
 ITF MEN - SINGLES :  M15 Caslano (Switzerland),clay,header
 ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
+ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
+ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
+ITF MEN - SINGLES :  M25 Deauville (France),clay,header
+ITF MEN - SINGLES :  M15 Kish Island 4 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Kish Island 3 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Grenoble (France),hard,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M25 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 6 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+ITF MEN - SINGLES :  M15 Caslano (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+
+
+
+03.10. 13:25,Alujas R.,1,6,5,3,,,"['5', '4']","['5', '4']","['1', '0']",[],[],2.22
+
+
+
+
+
+
+
+03.10. 13:25,Plunger M.,2,4,7,6,,,[],"['5', '5', '7', '5']","['2', '2', '5', '3']",[],[],1.60
+
+
+
+
+
+
+
+01.10. 15:15,Brown P.,1,6,1,0,,,"['5', '3', '6', '4']",[],[],[],[],2.28
+
+
+
+
+
+
+
+01.10. 15:15,Alujas R.,1,4,6,4,,,"['4', '5']","['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],1.57
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
+
+
+
+
+
+
+
+26.09. 14:55,Alujas R.,0,6^5,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['3', '2']",[],[],[],6.23
+
+
+
+
+
+
+
+26.09. 14:55,Denolly C.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['3', '3']",[],[],[],1.09
+
+
+
+
+
+
+
+25.09. 13:30,Alujas R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '5', '2']",[],[],[],3.09
+
+
+
+
+
+
+
+25.09. 13:30,Ouakaa A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
+
+
+
+
+
+
+
+27.08. 19:20,Alujas R.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],7.01
+
+
+
+
+
+
+
+27.08. 19:20,Engel J.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Deauville (France),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kish Island 4 (Iran),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kish Island 3 (Iran),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Grenoble (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Heraklion 3 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 6 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+
+
+
+
+
+
+18.10.2023,Alujas R.,1,7^7,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.05
+
+
+
+
+
+
+
+18.10.2023,Lilov V.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Caslano (Switzerland),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+
+
+
+
+
+
+

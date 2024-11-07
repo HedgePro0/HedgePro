@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
 ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
 ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
@@ -14,45 +14,283 @@ ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
 ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
 ITF MEN - SINGLES :  M15 Forbach (France),hard,header
 CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
-26.06.2022,Fassbender B.,0,0,2,,,,1,2,68%,42% (11/26),25% (3/12),17% (1/6),19% (6/31),38% (3/8),0% (0/0),3,37% (14/38),23% (9/39),30% (23/77),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.90
-26.06.2022,Fonio G.,2,6,6,,,,3,1,79%,81% (25/31),63% (5/8),0% (0/0),58% (15/26),75% (9/12),83% (5/6),10,77% (30/39),63% (24/38),70% (54/77),7,100% (7/7),71% (5/7),86% (12/14),"['2', '0', '4', '0', '6', '0']","['4', '2', '6', '2']",[],[],[],1.09
-ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Prague 2 (Czech Republic),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-ATP - SINGLES :  Metz (France) - Qualification,hard,header
-16.09.2018,Fassbender B.,0,2,1,,,,[],[],[],[],[],10.00
-16.09.2018,Lestienne C.,2,6,6,,,,"['2', '0', '6', '2']","['2', '0', '5', '1']",[],[],[],1.07
-ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
-ITF MEN - SINGLES :  Madrid 2 (Spain),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
+26.06.2022,Fassbender B.,0,0,2,,,,1,2,68%,42% (11/26),25% (3/12),17% (1/6),19% (6/31),38% (3/8),0% (0/0),37% (14/38),23% (9/39),30% (23/77),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.90
+26.06.2022,Fonio G.,2,6,6,,,,3,1,79%,81% (25/31),63% (5/8),0% (0/0),58% (15/26),75% (9/12),83% (5/6),77% (30/39),63% (24/38),70% (54/77),100% (7/7),71% (5/7),86% (12/14),"['2', '0', '4', '0', '6', '0']","['4', '2', '6', '2']",[],[],[],1.09
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M25 Prague 2 (Czech Republic),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ATP - SINGLES :  Metz (France) - Qualification,hard,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ITF MEN - SINGLES :  Madrid 2 (Spain),hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+
+ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
+
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Arlon (Belgium),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Troyes (France) - Qualification,clay,header
+
+
+
+26.06.2022,Fassbender B.,0,0,2,,,,1,2,68%,42% (11/26),25% (3/12),17% (1/6),19% (6/31),38% (3/8),0% (0/0),3,37% (14/38),23% (9/39),30% (23/77),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.90
+
+
+
+26.06.2022,Fonio G.,2,6,6,,,,3,1,79%,81% (25/31),63% (5/8),0% (0/0),58% (15/26),75% (9/12),83% (5/6),10,77% (30/39),63% (24/38),70% (54/77),7,100% (7/7),71% (5/7),86% (12/14),"['2', '0', '4', '0', '6', '0']","['4', '2', '6', '2']",[],[],[],1.09
+
+
+
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Prague 2 (Czech Republic),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+
+
+
+ATP - SINGLES :  Metz (France) - Qualification,hard,header
+
+
+
+16.09.2018,Fassbender B.,0,2,1,,,,[],[],[],[],[],10.00
+
+
+
+16.09.2018,Lestienne C.,2,6,6,,,,"['2', '0', '6', '2']","['2', '0', '5', '1']",[],[],[],1.07
+
+
+
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+
+
+
+ITF MEN - SINGLES :  Madrid 2 (Spain),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),hard,header
+
+
+

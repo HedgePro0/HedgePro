@@ -1,34 +1,20 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Heraklion 6 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 5 (Greece),clay,header
+ITF WOMEN - SINGLES :  W35 Heraklion 2 (Greece),clay,header
 ITF WOMEN - SINGLES :  W35 Heraklion (Greece),clay,header
 ITF WOMEN - SINGLES :  W75 Sibenik (Croatia),clay,header
-ITF WOMEN - SINGLES :  W75 Sibenik (Croatia),clay,header
-01.10. 16:50,Pavlou D.,0,3,2,,,,"['2', '1', '3', '4']",[],[],[],[],2.89
-01.10. 16:50,Primorac I.,2,6,6,,,,"['2', '2', '4', '2', '5', '3']","['1', '0', '5', '2']",[],[],[],1.37
 ITF WOMEN - SINGLES :  W75 Kursumlijska Banja 2 (Serbia),clay,header
-24.09. 16:10,Pavlou D.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '4']","['3', '1', '4', '2']","['2', '0']",[],[],1.87
-24.09. 16:10,Meyer Auf Der Heide L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']","['2', '3', '3', '4', '5', '4']","['1', '2', '4', '3']",[],[],1.83
 WTA - SINGLES :  Guadalajara (Mexico) - Qualification,hard,header
-07.09. 23:25,Pavlou D.,0,3,3,,,,0,10,58%,55% (17/31),23% (5/22),45% (5/11),31% (11/36),61% (14/23),75% (3/4),4,42% (22/53),42% (25/59),42% (47/112),1,33% (3/9),33% (3/9),33% (6/18),[],"['1', '2', '2', '3', '3', '4']",[],[],[],7.85
-07.09. 23:25,Mandlik E.,2,6,6,,,,3,6,61%,69% (25/36),39% (9/23),25% (1/4),45% (14/31),77% (17/22),55% (6/11),5,58% (34/59),58% (31/53),58% (65/112),4,67% (6/9),67% (6/9),67% (12/18),"['3', '2', '6', '3']","['2', '0', '3', '1', '4', '2', '5', '3']",[],[],[],1.04
+07.09. 23:25,Pavlou D.,0,3,3,,,,0,10,58%,55% (17/31),23% (5/22),45% (5/11),0 km/h,0 km/h,31% (11/36),61% (14/23),75% (3/4),42% (22/53),42% (25/59),42% (47/112),2,0,33% (3/9),33% (3/9),33% (6/18),[],"['1', '2', '2', '3', '3', '4']",[],[],[],7.85
+07.09. 23:25,Mandlik E.,2,6,6,,,,3,6,61%,69% (25/36),39% (9/23),25% (1/4),0 km/h,0 km/h,45% (14/31),77% (17/22),55% (6/11),58% (34/59),58% (31/53),58% (65/112),8,0,67% (6/9),67% (6/9),67% (12/18),"['3', '2', '6', '3']","['2', '0', '3', '1', '4', '2', '5', '3']",[],[],[],1.04
 CHALLENGER WOMEN - SINGLES :  Guadalajara (Mexico),hard,header
-04.09. 22:40,Pavlou D.,0,1,1,,,,3,5,67%,54% (21/39),26% (5/19),44% (4/9),5% (1/22),36% (4/11),0% (0/0),3,45% (26/58),15% (5/33),34% (31/91),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.70
-04.09. 22:40,Bektas E.,2,6,6,,,,7,1,67%,95% (21/22),64% (7/11),0% (0/0),46% (18/39),74% (14/19),56% (5/9),7,85% (28/33),55% (32/58),66% (60/91),7,100% (7/7),71% (5/7),86% (12/14),"['3', '1', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.11
-03.09. 23:55,Pavlou D.,2,6,6,,,,1,2,67%,59% (24/41),65% (13/20),83% (5/6),48% (15/31),91% (10/11),71% (5/7),7,61% (37/61),60% (25/42),60% (62/103),4,88% (7/8),71% (5/7),80% (12/15),"['2', '0', '4', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],3.43
-03.09. 23:55,Strakhova V.,0,1,2,,,,0,2,74%,52% (16/31),9% (1/11),29% (2/7),41% (17/41),35% (7/20),17% (1/6),4,40% (17/42),39% (24/61),40% (41/103),1,29% (2/7),13% (1/8),20% (3/15),"['1', '4']",[],[],[],[],1.29
+04.09. 22:40,Pavlou D.,0,1,1,,,,3,5,67%,54% (21/39),26% (5/19),44% (4/9),0 km/h,0 km/h,5% (1/22),36% (4/11),0% (0/0),45% (26/58),15% (5/33),34% (31/91),4,4,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.70
+04.09. 22:40,Bektas E.,2,6,6,,,,7,1,67%,95% (21/22),64% (7/11),0% (0/0),0 km/h,0 km/h,46% (18/39),74% (14/19),56% (5/9),85% (28/33),55% (32/58),66% (60/91),6,0,100% (7/7),71% (5/7),86% (12/14),"['3', '1', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.11
+03.09. 23:55,Pavlou D.,2,6,6,,,,1,2,67%,59% (24/41),65% (13/20),83% (5/6),0 km/h,0 km/h,48% (15/31),91% (10/11),71% (5/7),61% (37/61),60% (25/42),60% (62/103),7,0,88% (7/8),71% (5/7),80% (12/15),"['2', '0', '4', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],3.43
+03.09. 23:55,Strakhova V.,0,1,2,,,,0,2,74%,52% (16/31),9% (1/11),29% (2/7),0 km/h,0 km/h,41% (17/41),35% (7/20),17% (1/6),40% (17/42),39% (24/61),40% (41/103),3,0,29% (2/7),13% (1/8),20% (3/15),"['1', '4']",[],[],[],[],1.29
 ITF WOMEN - SINGLES :  W15 Monastir 31 (Tunisia),hard,header
-17.08. 14:40,Pavlou D.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.79
-17.08. 14:40,Mansouri Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.40
-16.08. 13:50,Pavlou D.,2,6,7^10,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['3', '4']",[],[],[],1.44
-16.08. 13:50,Quadre B. Q.,0,3,6^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['3', '1']",[],[],[],2.65
-15.08. 13:50,Pavlou D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '5', '3']","['1', '0', '2', '1', '3', '2', '5', '4']",[],[],[],1.55
-15.08. 13:50,Soriano Santiago M.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '4']","['1', '1', '2', '2', '4', '4']",[],[],[],2.34
-14.08. 13:35,Pavlou D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.08
-14.08. 13:35,Ennaciri M.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],6.85
 ITF WOMEN - SINGLES :  W15 Monastir 30 (Tunisia),hard,header
-08.08. 13:30,Pavlou D.,1,2,7^7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '4', '5', '5', '6', '6']",[],[],[],1.86
-08.08. 13:30,Valdmannova V.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '1', '6', '5']","['2', '0', '4', '0', '6', '0']",[],[],1.86
-07.08. 15:10,Pavlou D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.65
-07.08. 15:10,El Allami M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],2.15
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 12 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 11 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W35 Kursumlijska Banja 2 (Serbia),clay,header
@@ -44,58 +30,3 @@ ITF WOMEN - SINGLES :  W35 Antalya 4 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W35 Antalya 3 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W35 Antalya 2 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
-ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W40 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W40 Heraklion (Greece),clay,header
-ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Sibenik (Croatia),clay,header
-ITF WOMEN - SINGLES :  W40 Kursumlijska Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
-ITF WOMEN - SINGLES :  W25 Trieste (Italy),clay,header
-ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
-23.08.2023,Pavlou D.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['3', '3']",[],[],[],9.15
-23.08.2023,Erjavec V.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['3', '2', '6', '5']",[],[],[],1.04
-ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W25 Osijek 2 (Croatia),clay,header
-ITF WOMEN - SINGLES :  W25 Prokuplje (Serbia),clay,header
-ITF WOMEN - SINGLES :  W25 Kursumlijska Banja 2 (Serbia),clay,header
-ITF WOMEN - SINGLES :  W40 Otocec 2 (Slovenia),clay,header
-ITF WOMEN - SINGLES :  W25 Alaminos-Larnaca (Cyprus),clay,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W40 Split (Croatia),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
-21.03.2023,Pavlou D.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
-21.03.2023,Lavino I.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-ITF WOMEN - SINGLES :  W15 Heraklion (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
-04.03.2023,Pavlou D.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.94
-04.03.2023,Mazzola A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.77
-03.03.2023,Pavlou D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-03.03.2023,Shadchneva D.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
-02.03.2023,Pavlou D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.72
-02.03.2023,Juric N.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.01
-01.03.2023,Pavlou D.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
-01.03.2023,Khvatova A.,1,4,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
-ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 8 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 6 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 5 (Greece),clay,header
-ITF WOMEN - SINGLES :  W25 Cairo 3 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W15 Cairo 12 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W15 Cairo 11 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W15 Cairo 10 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W15 Cairo 9 (Egypt),clay,header
-ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Heraklion 4 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W15 Heraklion (Greece),hard,header
-ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
-GIRLS - SINGLES :  Australian Open (Australia),hard,header
-ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header

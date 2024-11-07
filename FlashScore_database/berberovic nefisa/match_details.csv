@@ -1,22 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Alaminos-Larnaca (Cyprus),clay,header
 ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
-28.02. 17:55,Berberovic N.,1,6,3,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0']","['5', '5']",[],[],2.72
-28.02. 17:55,Zidansek T.,2,1,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '5', '3']","['1', '0', '6', '5']",[],[],1.42
 ITF WOMEN - SINGLES :  W75 Grenoble (France),hard,header
-07.02. 18:50,Berberovic N.,0,6^9,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],1.65
-07.02. 18:50,Cengiz B.,2,7^11,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '0', '4', '0']",[],[],[],2.15
 ITF WOMEN - SINGLES :  W50 Porto (Portugal),hard,header
-30.01. 18:20,Berberovic N.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.30
-30.01. 18:20,Stevanovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['3', '1']",[],[],[],1.57
 ITF WOMEN - SINGLES :  W75+H Porto (Portugal),hard,header
-24.01. 16:20,Berberovic N.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['2', '3']",[],[],[],2.88
-24.01. 16:20,Stefanini L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '1']","['2', '0', '4', '2']",[],[],[],1.38
 ITF WOMEN - SINGLES :  W25 Lousada 2 (Portugal),hard,header
 ITF WOMEN - SINGLES :  W25 Lousada (Portugal),hard,header
 ITF WOMEN - SINGLES :  W40 Funchal (Portugal),hard,header
@@ -26,111 +13,37 @@ ITF WOMEN - SINGLES :  W25 Santarem (Portugal),hard,header
 ITF WOMEN - SINGLES :  W25 Vigo (Spain),hard,header
 ITF WOMEN - SINGLES :  W25 Ourense (Spain),hard,header
 ITF WOMEN - SINGLES :  W100 Landisville,hard,header
-10.08.2023,Berberovic N.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3', '4', '4']",[],[],[],2.06
-10.08.2023,Kiick A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0', '2', '1', '4', '3', '5', '4']",[],[],[],1.68
 ITF WOMEN - SINGLES :  W60 Dallas,hard,header
-26.07.2023,Berberovic N.,1,0,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],1.89
-26.07.2023,Okamura K.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']",[],"['3', '1', '5', '1']",[],[],1.82
 ITF WOMEN - SINGLES :  W60 Evansville,hard,header
-21.07.2023,Berberovic N.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],4.38
-21.07.2023,Brengle M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.18
-20.07.2023,Berberovic N.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['3', '4']","['4', '2', '6', '2']",[],[],2.31
-20.07.2023,Crawley F.,1,1,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['4', '2', '5', '3']",[],[],[],1.56
-19.07.2023,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']","['2', '0']",[],[],[],1.55
-19.07.2023,Inoue H.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.36
 ITF WOMEN - SINGLES :  W25 Punta Cana 2 (Dominican Republic),clay,header
 ITF WOMEN - SINGLES :  W25 Punta Cana (Dominican Republic),clay,header
 ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
-15.06.2023,Berberovic N.,0,5,6^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '1']",[],[],[],2.05
-15.06.2023,Herdzelas D.,2,7,7^10,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '7', '5']","['4', '4']",[],[],[],1.69
-14.06.2023,Berberovic N.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '7', '5']","['2', '0']",[],[],[],1.45
-14.06.2023,Helmi O.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],[],[],[],2.59
 ITF WOMEN - SINGLES :  W40 La Marsa (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W25 La Marsa (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W60 Oeiras (Portugal),clay,header
-27.04.2023,Berberovic N.,0,6^4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '4', '4']","['1', '2']",[],[],[],6.90
-27.04.2023,Minnen G.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['2', '0', '4', '2']",[],[],[],1.08
-25.04.2023,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.34
-25.04.2023,Cortez Llorca L.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']",[],[],[],[],3.05
 ITF WOMEN - SINGLES :  W100 Oeiras (Portugal),clay,header
-20.04.2023,Berberovic N.,1,6^4,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '6']","['3', '2', '5', '2']",[],[],[],2.78
-20.04.2023,Uchijima M.,2,7^7,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['3', '5']","['2', '0', '6', '2']",[],[],1.40
-19.04.2023,Berberovic N.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '2', '4', '3', '6', '5']",[],[],[],1.54
-19.04.2023,Mikulskyte J.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '0', '4', '4']",[],[],[],2.36
 WTA - SINGLES :  Billie Jean King Cup - Group II (World) - Placement matches,-,header
-15.04.2023,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.51
-15.04.2023,Rushiti A.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.50
-WTA - SINGLES :  Billie Jean King Cup - Group II (World),-,header
-14.04.2023,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3', '6', '4']","['3', '1', '5', '1', '6', '2']",[],[],[],1.22
-14.04.2023,Buchnik M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['2', '5']",[],[],[],4.38
-13.04.2023,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '4']","['2', '0', '4', '2', '6', '4']",[],[],[],2.36
-13.04.2023,Papamichail D.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4']","['2', '3', '4', '5']",[],[],[],1.55
-WTA - SINGLES :  Bogota (Colombia) - Qualification,clay,header
-01.04.2023,Berberovic N.,1,6,3,2,,,1,6,51%,71% (24/34),27% (9/33),13% (1/8),39% (28/72),53% (16/30),42% (5/12),7,49% (33/67),43% (44/102),46% (77/169),3,46% (6/13),36% (5/14),41% (11/27),"['1', '0', '3', '2']","['1', '0', '3', '2']","['2', '0']",[],[],2.91
-01.04.2023,Vicens Mas R.,2,4,6,6,,,0,4,71%,61% (44/72),47% (14/30),58% (7/12),29% (10/34),73% (24/33),88% (7/8),11,57% (58/102),51% (34/67),54% (92/169),6,64% (9/14),54% (7/13),59% (16/27),"['1', '1']","['2', '2', '3', '3', '5', '3']","['1', '2', '3', '2', '5', '2']",[],[],1.38
-ITF WOMEN - SINGLES :  W25 Sopo (Colombia),clay,header
-ITF WOMEN - SINGLES :  W25 Mosquera (Colombia),clay,header
-ITF WOMEN - SINGLES :  W40 Anapoima (Colombia),clay,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
-CHALLENGER WOMEN - SINGLES :  Limoges (France),hard,header
-12.12.2022,Berberovic N.,0,4,2,,,,2,3,62%,70% (33/47),28% (8/29),67% (6/9),33% (15/45),36% (9/25),0% (0/7),6,54% (41/76),34% (24/70),45% (65/146),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],7.03
-12.12.2022,Burel C.,2,6,6,,,,1,1,64%,67% (30/45),64% (16/25),100% (7/7),30% (14/47),72% (21/29),33% (3/9),7,66% (46/70),46% (35/76),55% (81/146),3,100% (9/9),33% (3/9),67% (12/18),"['4', '3']","['2', '1', '5', '2']",[],[],[],1.10
-ITF WOMEN - SINGLES :  W25 Monastir 8 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Selva Gardena (Italy),hard,header
-ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
-ITF WOMEN - SINGLES :  W100 Shrewsbury (United Kingdom),hard,header
-02.11.2022,Berberovic N.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],5.60
-02.11.2022,Boulter K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '3', '4', '3']",[],[],[],1.12
-ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W60 Glasgow (United Kingdom),hard,header
-20.10.2022,Berberovic N.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '5', '5']",[],[],[],1.55
-20.10.2022,Belgraver J.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '3']",[],[],[],2.37
-19.10.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '2', '5', '4']",[],[],[],1.38
-19.10.2022,McDonald E.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.89
-ITF WOMEN - SINGLES :  W25 Hua Hin 2 (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Hua Hin (Thailand),hard,header
-ITF WOMEN - SINGLES :  W25 Vigo (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Ourense (Spain),hard,header
-ITF WOMEN - SINGLES :  W60 Cordenons (Italy),clay,header
-25.07.2022,Berberovic N.,1,0,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '5', '4']","['2', '3']",[],[],3.84
-25.07.2022,Fruhvirtova L.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['4', '4']","['3', '1', '4', '2']",[],[],1.25
-ITF WOMEN - SINGLES :  W25 Perugia (Italy),clay,header
-ITF WOMEN - SINGLES :  W60 Liepaja (Latvia),clay,header
-15.07.2022,Berberovic N.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '4']",[],[],[],[],1.68
-15.07.2022,Yuan Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3', '5', '5', '7', '5']","['4', '2', '6', '2']",[],[],[],2.19
-14.07.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '2', '3', '2', '5', '2']",[],[],[],1.86
-14.07.2022,Nahimana S.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '3', '5']",[],[],[],1.90
-13.07.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '3', '1']",[],[],[],1.47
-13.07.2022,Malygina E.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '2']",[],[],[],2.63
-ITF WOMEN - SINGLES :  W60 Amstelveen (Netherlands),clay,header
-07.07.2022,Berberovic N.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],2.79
-07.07.2022,Waltert S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.43
-05.07.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.32
-05.07.2022,Gimbrere J.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1']",[],[],[],3.30
-ITF WOMEN - SINGLES :  W25 Den Haag (Netherlands),clay,header
-WTA - SINGLES :  Billie Jean King Cup - Group III (World) - Promotion,-,header
-11.06.2022,Berberovic N.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['3', '4', '6', '5']",[],[],[],0
-11.06.2022,Kabbaj Y.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],0
-WTA - SINGLES :  Billie Jean King Cup - Group III (World),-,header
-10.06.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']",[],[],[],0
-10.06.2022,Mirkovic P.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],28.00
-08.06.2022,Berberovic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],0
-08.06.2022,Adetunji A.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF WOMEN - SINGLES :  W25 Tbilisi 2 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi (Georgia),hard,header
-WTA - SINGLES :  Strasbourg (France),clay,header
-18.05.2022,Berberovic N.,0,2,3,,,,2,5,74%,68% (25/37),15% (2/13),50% (4/8),30% (11/37),50% (13/26),50% (1/2),5,54% (27/50),38% (24/63),45% (51/113),2,50% (4/8),11% (1/9),29% (5/17),[],"['1', '0']",[],[],[],9.03
-18.05.2022,Juvan K.,2,6,6,,,,2,2,59%,70% (26/37),50% (13/26),50% (1/2),32% (12/37),85% (11/13),50% (4/8),4,62% (39/63),46% (23/50),55% (62/113),5,89% (8/9),50% (4/8),71% (12/17),"['3', '1', '6', '2']","['2', '2', '4', '2']",[],[],[],1.07
-16.05.2022,Berberovic N.,2,2,6,6,,,2,4,71%,73% (38/52),33% (7/21),50% (3/6),41% (30/73),54% (13/24),42% (5/12),5,62% (45/73),44% (43/97),52% (88/170),6,75% (9/12),38% (5/13),56% (14/25),[],"['1', '0', '3', '0']","['2', '1', '4', '1', '6', '1']",[],[],9.00
-16.05.2022,Stephens S.,1,6,4,1,,,3,2,75%,59% (43/73),46% (11/24),58% (7/12),27% (14/52),67% (14/21),50% (3/6),5,56% (54/97),38% (28/73),48% (82/170),3,62% (8/13),25% (3/12),44% (11/25),"['2', '0', '6', '2']","['2', '4']",[],[],[],1.09
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header
-14.05.2022,Berberovic N.,0,4,4,,,,3,6,60%,53% (23/43),45% (13/29),64% (9/14),36% (16/44),54% (14/26),43% (3/7),6,50% (36/72),43% (30/70),46% (66/142),2,50% (5/10),30% (3/10),40% (8/20),"['3', '3']","['2', '2', '3', '3']",[],[],[],1.19
-14.05.2022,Gabueva A.,2,6,6,,,,1,0,63%,64% (28/44),46% (12/26),57% (4/7),47% (20/43),55% (16/29),36% (5/14),6,57% (40/70),50% (36/72),54% (76/142),5,70% (7/10),50% (5/10),60% (12/20),"['3', '2', '5', '4']","['1', '0', '3', '2', '5', '4']",[],[],[],4.44
-ITF WOMEN - SINGLES :  W25 Osijek (Croatia),clay,header
-ITF WOMEN - SINGLES :  W25 Monastir 7 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Monastir 6 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Monastir 5 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
-ITF WOMEN - SINGLES :  W25 Macon (France),hard,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W35 Alaminos-Larnaca (Cyprus),clay,header
+ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W75 Grenoble (France),hard,header
+ITF WOMEN - SINGLES :  W50 Porto (Portugal),hard,header
+ITF WOMEN - SINGLES :  W75+H Porto (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Lousada (Portugal),hard,header
+ITF WOMEN - SINGLES :  W40 Funchal (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Faro (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Seville (Spain),clay,header
+ITF WOMEN - SINGLES :  W25 Santarem (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Vigo (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Ourense (Spain),hard,header
+ITF WOMEN - SINGLES :  W100 Landisville,hard,header
+ITF WOMEN - SINGLES :  W60 Dallas,hard,header
+ITF WOMEN - SINGLES :  W60 Evansville,hard,header
+ITF WOMEN - SINGLES :  W25 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Punta Cana (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
+ITF WOMEN - SINGLES :  W40 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Oeiras (Portugal),clay,header
+ITF WOMEN - SINGLES :  W100 Oeiras (Portugal),clay,header
+WTA - SINGLES :  Billie Jean King Cup - Group II (World) - Placement matches,-,header

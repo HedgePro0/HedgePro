@@ -1,12 +1,6 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Reus (Spain),clay,header
-11.09. 13:30,Hernandez M. J.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']",[],[],[],[],9.80
-11.09. 13:30,Kuhl C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.03
 ITF WOMEN - SINGLES :  W15 Valladolid (Spain),hard,header
-29.08. 19:40,Hernandez M. J.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '3', '4', '3']",[],[],[],2.65
-29.08. 19:40,Lopez Martinez C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['3', '1', '4', '4', '6', '4']",[],[],[],1.44
-27.08. 18:45,Hernandez M. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '3', '5', '3', '6', '4']",[],[],[],1.07
-27.08. 18:45,Aranzabal N.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '5']",[],[],[],7.28
 ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Castellon (Spain),clay,header
@@ -15,11 +9,12 @@ ITF WOMEN - SINGLES :  W25 Zaragoza (Spain),clay,header
 ITF WOMEN - SINGLES :  W25 Monzon (Spain),hard,header
 ITF WOMEN - SINGLES :  W25 Platja D'Aro (Spain),clay,header
 CHALLENGER WOMEN - SINGLES :  Reus (Spain) - Qualification,clay,header
-01.05.2023,Hernandez M. J.,0,1,1,,,,0,3,62%,29% (6/21),15% (2/13),25% (2/8),23% (7/31),56% (10/18),17% (1/6),2,24% (8/34),35% (17/49),30% (25/83),1,14% (1/7),14% (1/7),14% (2/14),"['1', '5']",[],[],[],[],0
-01.05.2023,Fita Boluda A.,2,6,6,,,,2,2,63%,77% (24/31),44% (8/18),83% (5/6),71% (15/21),85% (11/13),75% (6/8),9,65% (32/49),76% (26/34),70% (58/83),5,86% (6/7),86% (6/7),86% (12/14),"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '5', '1']",[],[],[],0
+01.05.2023,Hernandez M. J.,0,1,1,,,,0,3,62%,29% (6/21),15% (2/13),25% (2/8),23% (7/31),56% (10/18),17% (1/6),24% (8/34),35% (17/49),30% (25/83),14% (1/7),14% (1/7),14% (2/14),"['1', '5']",[],[],[],[],0
+01.05.2023,Fita Boluda A.,2,6,6,,,,2,2,63%,77% (24/31),44% (8/18),83% (5/6),71% (15/21),85% (11/13),75% (6/8),65% (32/49),76% (26/34),70% (58/83),86% (6/7),86% (6/7),86% (12/14),"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '5', '1']",[],[],[],0
 ITF WOMEN - SINGLES :  W15 Telde 2 (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Valencia 2 (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Nules (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Bucaramanga (Colombia),clay,header
 ITF WOMEN - SINGLES :  W15 Baza (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Cairo 12 (Egypt),clay,header

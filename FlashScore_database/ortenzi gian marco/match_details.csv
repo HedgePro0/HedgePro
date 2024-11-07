@@ -1,89 +1,817 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
 ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
-ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
-12.09. 11:30,Ortenzi G. M.,2,6,6^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']",[],"['4', '4', '6', '4']",[],[],1.83
-12.09. 11:30,Dancu V. A.,1,0,7^9,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],1.88
 ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-23.08. 14:40,Ortenzi G. M.,1,7^9,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '4']","['3', '1']",[],[],[],3.59
-23.08. 14:40,Cadenasso G.,2,6^7,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '5', '5']","['2', '3', '4', '3']","['2', '1', '4', '1']",[],[],1.26
-22.08. 21:15,Ortenzi G. M.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3']","['1', '2', '4', '3']",[],[],[],4.56
-22.08. 21:15,Fonio G.,0,6^6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['2', '0']",[],[],[],1.18
-21.08. 13:15,Ortenzi G. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '4']","['1', '0', '4', '1', '6', '1']",[],[],[],1.69
-21.08. 13:15,Furlanetto M.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4']",[],[],[],[],2.06
 ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-13.08. 14:00,Ortenzi G. M.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.36
-13.08. 14:00,Ivanov I.,2,6,0,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '4']",[],"['3', '1', '5', '1']",[],[],2.97
 ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
-07.08. 16:30,Ortenzi G. M.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '2', '4', '2', '6', '2']",[],[],[],4.47
-07.08. 16:30,Echargui M.,2,7,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0']","['3', '2', '5', '2']",[],[],1.18
-05.08. 17:15,Ortenzi G. M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']",[],[],[],[],1.53
-05.08. 17:15,Bellifemine A.,0,3,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.39
 ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
-11.06. 13:15,Ortenzi G. M.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '2']",[],[],[],1.86
-11.06. 13:15,Pieri S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '7', '5']","['2', '0', '4', '2']",[],[],[],1.86
 ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
 ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
-28.11.2023,Ortenzi G. M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],4.32
-28.11.2023,Caruso S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.19
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-24.10.2023,Ortenzi G. M.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['3', '3', '5', '5', '6', '6']",[],[],[],2.78
-24.10.2023,Tabacco F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4']","['2', '1', '5', '4', '6', '5']",[],[],[],1.40
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
-11.10.2023,Ortenzi G. M.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '0']",[],[],[],8.60
-11.10.2023,Oliveira G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '2', '3', '2']",[],[],[],1.04
-10.10.2023,Ortenzi G. M.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']",[],"['1', '5', '3', '5', '5', '5', '7', '5']",[],[],5.36
-10.10.2023,Ferrari G.,1,2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.13
 ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-12.09.2023,Ortenzi G. M.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0']",[],[],[],1.54
-12.09.2023,D'Agostino S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '5', '4']","['2', '3', '5', '4']",[],[],[],2.36
 ITF MEN - SINGLES :  M15 Bucharest 2 (Romania),clay,header
-31.08.2023,Ortenzi G. M.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
-31.08.2023,Flores J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.93
-30.08.2023,Ortenzi G. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
-30.08.2023,Chirita I. A.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
 ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-23.08.2023,Ortenzi G. M.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.99
-23.08.2023,Baroni N.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']",[],[],[],[],1.73
 ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-19.07.2023,Ortenzi G. M.,1,3,7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['4', '4', '7', '5']",[],[],[],4.28
-19.07.2023,Tabacco F.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1']","['1', '0', '4', '1', '6', '1']",[],[],1.19
 ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
 ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
-17.05.2023,Ortenzi G. M.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '2', '3']",[],[],[],4.12
-17.05.2023,Wehnelt K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '1', '4', '2', '6', '2']",[],[],[],1.20
 ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-01.11.2022,Ortenzi G. M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],1.57
-01.11.2022,Bertuccioli F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '5']",[],[],[],2.30
 ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
-13.10.2022,Ortenzi G. M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
-13.10.2022,Weintraub B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.00
-12.10.2022,Ortenzi G. M.,1,7^7,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.22
-12.10.2022,Weightman O.,0,6^4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
 ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-29.08.2022,Ortenzi G. M.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '2']",[],[],[],1.96
-29.08.2022,Castagnola L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '0', '5', '3']",[],[],[],1.77
 ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-19.07.2022,Ortenzi G. M.,1,3,7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '7', '5']","['3', '1']",[],[],1.35
-19.07.2022,Lalami Laaroussi Y.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '3']","['2', '3', '4', '3']",[],[],3.13
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
-ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
-CHALLENGER MEN - SINGLES :  Francavilla (Italy),clay,header
-17.05.2022,Ortenzi G. M.,0,0,4,,,,0,6,72%,53% (20/38),27% (4/15),38% (3/8),17% (4/23),41% (7/17),100% (1/1),4,45% (24/53),28% (11/40),38% (35/93),2,38% (3/8),13% (1/8),25% (4/16),[],"['2', '3']",[],[],[],4.46
-17.05.2022,Rybakov A.,2,6,6,,,,2,2,58%,83% (19/23),59% (10/17),0% (0/1),47% (18/38),73% (11/15),63% (5/8),8,73% (29/40),55% (29/53),62% (58/93),7,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '4', '0', '6', '0']","['3', '1', '6', '4']",[],[],[],1.20
-CHALLENGER MEN - SINGLES :  Francavilla (Italy) - Qualification,clay,header
-16.05.2022,Ortenzi G. M.,2,6^4,6,6,,,2,5,61%,70% (43/61),49% (19/39),71% (5/7),36% (16/44),60% (28/47),60% (6/10),7,62% (62/100),48% (44/91),55% (106/191),4,86% (12/14),43% (6/14),64% (18/28),"['1', '0', '3', '4']","['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],2.90
-16.05.2022,Balzerani R.,1,7^7,3,1,,,2,7,48%,64% (28/44),40% (19/47),40% (4/10),30% (18/61),51% (20/39),29% (2/7),5,52% (47/91),38% (38/100),45% (85/191),2,57% (8/14),14% (2/14),36% (10/28),"['1', '1', '4', '2']",[],[],[],[],1.40
-15.05.2022,Ortenzi G. M.,2,6,6,,,,3,1,81%,63% (24/38),67% (6/9),75% (3/4),59% (13/22),79% (15/19),75% (6/8),6,64% (30/47),68% (28/41),66% (58/88),8,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.12
-15.05.2022,Podorozhnyi A.,0,1,1,,,,0,6,54%,41% (9/22),21% (4/19),25% (2/8),37% (14/38),33% (3/9),25% (1/4),4,32% (13/41),36% (17/47),34% (30/88),1,14% (1/7),14% (1/7),14% (2/14),"['1', '2']",[],[],[],[],6.10
-ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M15 Nules (Spain),clay,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M15 Bucharest 2 (Romania),clay,header
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
+
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+
+ITF MEN - SINGLES :  M15 Bucharest 2 (Romania),clay,header
+
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+
+ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+
+
+
+
+
+
+
+12.09. 11:30,Ortenzi G. M.,2,6,6^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']",[],"['4', '4', '6', '4']",[],[],1.83
+
+
+
+
+
+
+
+12.09. 11:30,Dancu V. A.,1,0,7^9,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],1.88
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+
+
+
+
+
+
+
+23.08. 14:40,Ortenzi G. M.,1,7^9,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '4']","['3', '1']",[],[],[],3.59
+
+
+
+
+
+
+
+23.08. 14:40,Cadenasso G.,2,6^7,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '5', '5']","['2', '3', '4', '3']","['2', '1', '4', '1']",[],[],1.26
+
+
+
+
+
+
+
+22.08. 21:15,Ortenzi G. M.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3']","['1', '2', '4', '3']",[],[],[],4.56
+
+
+
+
+
+
+
+22.08. 21:15,Fonio G.,0,6^6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['2', '0']",[],[],[],1.18
+
+
+
+
+
+
+
+21.08. 13:15,Ortenzi G. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '4']","['1', '0', '4', '1', '6', '1']",[],[],[],1.69
+
+
+
+
+
+
+
+21.08. 13:15,Furlanetto M.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4']",[],[],[],[],2.06
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+13.08. 14:00,Ortenzi G. M.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.36
+
+
+
+
+
+
+
+13.08. 14:00,Ivanov I.,2,6,0,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '4']",[],"['3', '1', '5', '1']",[],[],2.97
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+
+
+
+
+
+
+
+07.08. 16:30,Ortenzi G. M.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '2', '4', '2', '6', '2']",[],[],[],4.47
+
+
+
+
+
+
+
+07.08. 16:30,Echargui M.,2,7,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0']","['3', '2', '5', '2']",[],[],1.18
+
+
+
+
+
+
+
+05.08. 17:15,Ortenzi G. M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']",[],[],[],[],1.53
+
+
+
+
+
+
+
+05.08. 17:15,Bellifemine A.,0,3,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.39
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+
+
+
+
+
+
+
+11.06. 13:15,Ortenzi G. M.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '2']",[],[],[],1.86
+
+
+
+
+
+
+
+11.06. 13:15,Pieri S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '7', '5']","['2', '0', '4', '2']",[],[],[],1.86
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+
+
+
+
+
+
+
+28.11.2023,Ortenzi G. M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],4.32
+
+
+
+
+
+
+
+28.11.2023,Caruso S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+
+
+
+
+
+
+
+24.10.2023,Ortenzi G. M.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['3', '3', '5', '5', '6', '6']",[],[],[],2.78
+
+
+
+
+
+
+
+24.10.2023,Tabacco F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4']","['2', '1', '5', '4', '6', '5']",[],[],[],1.40
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+
+
+
+
+
+
+
+11.10.2023,Ortenzi G. M.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '0']",[],[],[],8.60
+
+
+
+
+
+
+
+11.10.2023,Oliveira G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '2', '3', '2']",[],[],[],1.04
+
+
+
+
+
+
+
+10.10.2023,Ortenzi G. M.,2,6,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']",[],"['1', '5', '3', '5', '5', '5', '7', '5']",[],[],5.36
+
+
+
+
+
+
+
+10.10.2023,Ferrari G.,1,2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.13
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+
+
+
+
+
+
+
+12.09.2023,Ortenzi G. M.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0']",[],[],[],1.54
+
+
+
+
+
+
+
+12.09.2023,D'Agostino S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '5', '4']","['2', '3', '5', '4']",[],[],[],2.36
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bucharest 2 (Romania),clay,header
+
+
+
+
+
+
+
+31.08.2023,Ortenzi G. M.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
+
+
+
+
+
+
+
+31.08.2023,Flores J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.93
+
+
+
+
+
+
+
+30.08.2023,Ortenzi G. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
+
+
+
+
+
+
+
+30.08.2023,Chirita I. A.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+
+
+
+
+
+
+
+23.08.2023,Ortenzi G. M.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.99
+
+
+
+
+
+
+
+23.08.2023,Baroni N.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']",[],[],[],[],1.73
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+
+
+
+
+19.07.2023,Ortenzi G. M.,1,3,7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['4', '4', '7', '5']",[],[],[],4.28
+
+
+
+
+
+
+
+19.07.2023,Tabacco F.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1']","['1', '0', '4', '1', '6', '1']",[],[],1.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+
+
+
+
+
+
+
+17.05.2023,Ortenzi G. M.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '2', '3']",[],[],[],4.12
+
+
+
+
+
+
+
+17.05.2023,Wehnelt K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '1', '4', '2', '6', '2']",[],[],[],1.20
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+
+
+
+
+
+
+
+01.11.2022,Ortenzi G. M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],1.57
+
+
+
+
+
+
+
+01.11.2022,Bertuccioli F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '5']",[],[],[],2.30
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+
+
+
+
+
+
+
+13.10.2022,Ortenzi G. M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.36
+
+
+
+
+
+
+
+13.10.2022,Weintraub B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.00
+
+
+
+
+
+
+
+12.10.2022,Ortenzi G. M.,1,7^7,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.22
+
+
+
+
+
+
+
+12.10.2022,Weightman O.,0,6^4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.32
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pirot (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+
+
+
+
+
+
+
+29.08.2022,Ortenzi G. M.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '2']",[],[],[],1.96
+
+
+
+
+
+
+
+29.08.2022,Castagnola L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '0', '5', '3']",[],[],[],1.77
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+
+
+
+
+
+
+19.07.2022,Ortenzi G. M.,1,3,7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '7', '5']","['3', '1']",[],[],1.35
+
+
+
+
+
+
+
+19.07.2022,Lalami Laaroussi Y.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '3']","['2', '3', '4', '3']",[],[],3.13
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Wroclaw (Poland),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Francavilla (Italy),clay,header
+
+
+
+
+
+
+
+17.05.2022,Ortenzi G. M.,0,0,4,,,,0,6,72%,53% (20/38),27% (4/15),38% (3/8),17% (4/23),41% (7/17),100% (1/1),4,45% (24/53),28% (11/40),38% (35/93),2,38% (3/8),13% (1/8),25% (4/16),[],"['2', '3']",[],[],[],4.46
+
+
+
+
+
+
+
+17.05.2022,Rybakov A.,2,6,6,,,,2,2,58%,83% (19/23),59% (10/17),0% (0/1),47% (18/38),73% (11/15),63% (5/8),8,73% (29/40),55% (29/53),62% (58/93),7,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '4', '0', '6', '0']","['3', '1', '6', '4']",[],[],[],1.20
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Francavilla (Italy) - Qualification,clay,header
+
+
+
+
+
+
+
+16.05.2022,Ortenzi G. M.,2,6^4,6,6,,,2,5,61%,70% (43/61),49% (19/39),71% (5/7),36% (16/44),60% (28/47),60% (6/10),7,62% (62/100),48% (44/91),55% (106/191),4,86% (12/14),43% (6/14),64% (18/28),"['1', '0', '3', '4']","['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],2.90
+
+
+
+
+
+
+
+16.05.2022,Balzerani R.,1,7^7,3,1,,,2,7,48%,64% (28/44),40% (19/47),40% (4/10),30% (18/61),51% (20/39),29% (2/7),5,52% (47/91),38% (38/100),45% (85/191),2,57% (8/14),14% (2/14),36% (10/28),"['1', '1', '4', '2']",[],[],[],[],1.40
+
+
+
+
+
+
+
+15.05.2022,Ortenzi G. M.,2,6,6,,,,3,1,81%,63% (24/38),67% (6/9),75% (3/4),59% (13/22),79% (15/19),75% (6/8),6,64% (30/47),68% (28/41),66% (58/88),8,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.12
+
+
+
+
+
+
+
+15.05.2022,Podorozhnyi A.,0,1,1,,,,0,6,54%,41% (9/22),21% (4/19),25% (2/8),37% (14/38),33% (3/9),25% (1/4),4,32% (13/41),36% (17/47),34% (30/88),1,14% (1/7),14% (1/7),14% (2/14),"['1', '2']",[],[],[],[],6.10
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Nules (Spain),clay,header
+
+
+
+
+
+
+

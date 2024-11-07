@@ -1,22 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 9 (Italy),clay,header
-04.10. 13:40,Tagger L.,0,2,2,,,,[],"['1', '3']",[],[],[],2.58
-04.10. 13:40,Paoletti M.,2,6,6,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '4', '1']",[],[],[],1.45
-03.10. 13:05,Tagger L.,2,6,6,,,,"['2', '1', '5', '4']","['1', '0', '5', '2', '6', '3']",[],[],[],2.69
-03.10. 13:05,Abbagnato A.,0,4,3,,,,"['4', '4']","['3', '5']",[],[],[],1.42
-02.10. 16:10,Tagger L.,2,6,7^7,,,,"['1', '0', '3', '4', '5', '4']","['1', '2', '5', '4']",[],[],[],5.26
-02.10. 16:10,Vandewinkel H.,0,4,6^3,,,,"['1', '1', '4', '2']","['2', '0', '5', '5']",[],[],[],1.13
 ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 8 (Italy),clay,header
-26.09. 15:15,Tagger L.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '4', '3', '6', '3']",[],[],[],[],7.50
-26.09. 15:15,Vandewinkel H.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']","['2', '1', '5', '2']","['5', '4']",[],[],1.06
-25.09. 13:30,Tagger L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['4', '2']",[],[],[],2.18
-25.09. 13:30,Ruggeri J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']",[],[],[],[],1.62
 GIRLS - SINGLES :  US Open (USA),hard,header
-02.09. 20:45,Tagger L.,1,2,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['4', '4', '6', '4']","['1', '5']",[],[],0
-02.09. 20:45,Xu M.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']","['4', '3']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],0
 GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
-08.07. 15:30,Tagger L.,0,4,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['1', '0']",[],[],[],0
-08.07. 15:30,Grant T. C.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3', '6', '4']","['4', '4']",[],[],[],0
 GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
 ITF WOMEN - SINGLES :  W35 Klagenfurt (Austria),clay,header
 ITF WOMEN - SINGLES :  W35 Villach (Austria),clay,header
@@ -24,3 +11,15 @@ ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 20 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 19 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 9 (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 8 (Italy),clay,header
+GIRLS - SINGLES :  US Open (USA),hard,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ITF WOMEN - SINGLES :  W35 Klagenfurt (Austria),clay,header
+ITF WOMEN - SINGLES :  W35 Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header

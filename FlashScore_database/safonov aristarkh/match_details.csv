@@ -1,22 +1,41 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
-ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
-06.09. 12:50,Safonov A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1']",[],[],[],1.39
-06.09. 12:50,Binda A.,0,6^2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],2.83
-05.09. 13:40,Safonov A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],0
-05.09. 13:40,Tiurnev E.,0,6^2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.09. 10:30,Safonov A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['5', '5', '6', '5', '7', '5']",[],[],[],1.12
-04.09. 10:30,Yerdilda Y.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '5', '1']",[],[],[],5.51
 ITF MEN - SINGLES :  M15 Tashkent (Uzbekistan),hard,header
-31.08. 13:30,Safonov A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3']","['1', '4']",[],[],[],1.89
-31.08. 13:30,Palan D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '4', '3', '6', '3']","['2', '0', '4', '0', '6', '2']",[],[],[],1.83
-30.08. 10:35,Safonov A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0']","['1', '0', '5', '2']",[],[],1.58
-30.08. 10:35,Javia D.,1,1,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '4', '2', '6', '2']",[],[],[],2.28
-28.08. 11:10,Safonov A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '1', '6', '2']",[],[],[],1.31
-28.08. 11:10,Faucon R.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.24
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
 ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M15 St. Petersburg 4 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
+ITF MEN - SINGLES :  M15 Tashkent (Uzbekistan),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M15 St. Petersburg 4 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+
+ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
+
+ITF MEN - SINGLES :  M15 Tashkent (Uzbekistan),hard,header
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+
+ITF MEN - SINGLES :  M15 St. Petersburg 4 (Russia),hard,header
+

@@ -1,70 +1,46 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-17.08. 14:25,Gagliardo L.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3']",[],[],[],3.24
-17.08. 14:25,Paz J. P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '5', '3']",[],[],[],1.31
-16.08. 13:50,Gagliardo L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1', '4', '2']",[],[],[],1.42
-16.08. 13:50,Novakovic N.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3']",[],[],[],2.72
-15.08. 14:00,Gagliardo L.,2,6^7,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['5', '3']","['1', '0', '4', '1', '6', '1']",[],[],1.25
-15.08. 14:00,Lorusso L.,1,7^9,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],3.69
-14.08. 16:20,Gagliardo L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.29
-14.08. 16:20,Jankanj V.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],3.37
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-08.08. 12:30,Gagliardo L.,0,4,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '0']",[],[],[],3.77
-08.08. 12:30,Radjenovic V.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['2', '2']",[],[],[],1.24
-07.08. 12:30,Gagliardo L.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '1', '3', '4', '6', '5']",[],[],[],1.44
-07.08. 12:30,Kudernatsch M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2']",[],[],[],2.65
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
 ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
 ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
-06.09.2023,Gagliardo L.,0,6^3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-06.09.2023,Midon L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
 ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-10.08.2023,Gagliardo L.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '3', '4', '3', '5', '4']","['2', '3']",[],[],1.84
-10.08.2023,Perego G.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']","['3', '1', '4', '4']","['2', '0', '4', '2']",[],[],1.87
-09.08.2023,Gagliardo L.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['1', '0', '5', '4']","['2', '1', '4', '1', '6', '1']",[],[],2.60
-09.08.2023,Mazza M.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2', '6', '3']","['4', '4']",[],[],[],1.45
-08.08.2023,Gagliardo L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '6', '3']","['3', '1', '4', '2']",[],[],[],0
-08.08.2023,Colombo A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '3']",[],[],[],0
 ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
 CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina) - Qualification,clay,header
-23.04.2023,Gagliardo L.,1,4,6,4,,,1,0,76%,71% (37/52),69% (11/16),0% (0/2),33% (15/45),49% (19/39),43% (3/7),7,71% (48/68),40% (34/84),54% (82/152),6,85% (11/13),23% (3/13),54% (14/26),[],"['2', '0', '4', '0', '6', '0']",[],[],[],3.02
-23.04.2023,Zukas M.,2,6,0,6,,,2,1,54%,67% (30/45),51% (20/39),57% (4/7),29% (15/52),31% (5/16),100% (2/2),6,60% (50/84),29% (20/68),46% (70/152),3,77% (10/13),15% (2/13),46% (12/26),"['2', '1']",[],"['1', '0']",[],[],1.36
-ITF MEN - SINGLES :  M15 Lujan (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Cordoba (Argentina),clay,header
-09.11.2022,Gagliardo L.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.45
-09.11.2022,Dellien Velasco M. A.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile) - Qualification,clay,header
-17.10.2022,Gagliardo L.,1,6,0,3,,,0,0,71%,55% (26/47),37% (7/19),17% (1/6),36% (27/74),69% (11/16),25% (3/12),6,50% (33/66),42% (38/90),46% (71/156),4,55% (6/11),25% (3/12),39% (9/23),"['1', '0', '2', '1', '4', '1']",[],[],[],[],2.36
-17.10.2022,Vidal Azorin J. F.,2,2,6,6,,,1,1,82%,64% (47/74),31% (5/16),75% (9/12),45% (21/47),63% (12/19),83% (5/6),6,58% (52/90),50% (33/66),54% (85/156),7,75% (9/12),45% (5/11),61% (14/23),"['1', '1']","['2', '0', '4', '0', '6', '0']","['5', '3']",[],[],1.55
-16.10.2022,Nunez V.,1,6,4,1,,,2,1,71%,60% (31/52),48% (10/21),50% (4/8),31% (20/65),55% (11/20),43% (3/7),5,56% (41/73),36% (31/85),46% (72/158),5,67% (8/12),23% (3/13),44% (11/25),"['5', '4']","['1', '0']","['1', '2']",[],[],5.30
-16.10.2022,Gagliardo L.,1,4,6,4,,,1,0,76%,69% (45/65),45% (9/20),57% (4/7),40% (21/52),52% (11/21),50% (4/8),10,64% (54/85),44% (32/73),54% (86/158),6,77% (10/13),33% (4/12),56% (14/25),[],"['4', '4', '6', '4']","['2', '0', '3', '1']",[],[],1.13
-ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Brasilia (Brazil),clay,header
-ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
-ITF MEN - SINGLES :  M25 Guayaquil (Ecuador),clay,header
-ITF MEN - SINGLES :  M25 Portoviejo (Ecuador),clay,header
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-05.05.2022,Gagliardo L.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.19
-05.05.2022,Kuzuhara B.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-04.05.2022,Gagliardo L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-04.05.2022,Gadamauri B.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-06.04.2022,Gagliardo L.,0,6^3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.88
-06.04.2022,Erhard M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.40
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-30.03.2022,Gagliardo L.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.84
-30.03.2022,Klok D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.92
-ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
-CHALLENGER MEN - SINGLES :  Tigre (Argentina) - Qualification,clay,header
-02.01.2022,Gagliardo L.,1,6^4,6,4,,,4,3,65%,55% (39/71),63% (24/38),69% (11/16),34% (21/62),33% (19/57),45% (5/11),7,57% (62/109),45% (52/116),51% (114/225),3,69% (11/16),31% (5/16),50% (16/32),"['2', '2']","['1', '2', '5', '4']","['2', '3', '4', '5']",[],[],1.89
-02.01.2022,Deckers A.,2,7^7,4,6,,,9,13,52%,66% (41/62),44% (25/57),55% (6/11),45% (32/71),29% (11/38),31% (5/16),7,55% (64/116),43% (47/109),49% (111/225),4,69% (11/16),31% (5/16),50% (16/32),"['2', '1']","['2', '0']","['3', '1', '4', '2', '6', '4']",[],[],1.87
-ITF MEN - SINGLES :  M15 Lambare (Paraguay),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina) - Qualification,clay,header
+23.04.2023,Gagliardo L.,1,4,6,4,,,1,0,76%,71% (37/52),69% (11/16),0% (0/2),33% (15/45),49% (19/39),43% (3/7),71% (48/68),40% (34/84),54% (82/152),85% (11/13),23% (3/13),54% (14/26),[],"['2', '0', '4', '0', '6', '0']",[],[],[],3.02
+23.04.2023,Zukas M.,2,6,0,6,,,2,1,54%,67% (30/45),51% (20/39),57% (4/7),29% (15/52),31% (5/16),100% (2/2),60% (50/84),29% (20/68),46% (70/152),77% (10/13),15% (2/13),46% (12/26),"['2', '1']",[],"['1', '0']",[],[],1.36
+ITF MEN - SINGLES :  M15 Lujan (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Cordoba (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile) - Qualification,clay,header
+17.10.2022,Gagliardo L.,1,6,0,3,,,0,0,71%,55% (26/47),37% (7/19),17% (1/6),36% (27/74),69% (11/16),25% (3/12),50% (33/66),42% (38/90),46% (71/156),55% (6/11),25% (3/12),39% (9/23),"['1', '0', '2', '1', '4', '1']",[],[],[],[],2.36
+17.10.2022,Vidal Azorin J. F.,2,2,6,6,,,1,1,82%,64% (47/74),31% (5/16),75% (9/12),45% (21/47),63% (12/19),83% (5/6),58% (52/90),50% (33/66),54% (85/156),75% (9/12),45% (5/11),61% (14/23),"['1', '1']","['2', '0', '4', '0', '6', '0']","['5', '3']",[],[],1.55
+16.10.2022,Nunez V.,1,6,4,1,,,2,1,71%,60% (31/52),48% (10/21),50% (4/8),31% (20/65),55% (11/20),43% (3/7),56% (41/73),36% (31/85),46% (72/158),67% (8/12),23% (3/13),44% (11/25),"['5', '4']","['1', '0']","['1', '2']",[],[],5.30
+16.10.2022,Gagliardo L.,1,4,6,4,,,1,0,76%,69% (45/65),45% (9/20),57% (4/7),40% (21/52),52% (11/21),50% (4/8),64% (54/85),44% (32/73),54% (86/158),77% (10/13),33% (4/12),56% (14/25),[],"['4', '4', '6', '4']","['2', '0', '3', '1']",[],[],1.13
+ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Brasilia (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
+ITF MEN - SINGLES :  M25 Guayaquil (Ecuador),clay,header
+ITF MEN - SINGLES :  M25 Portoviejo (Ecuador),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
+CHALLENGER MEN - SINGLES :  Tigre (Argentina) - Qualification,clay,header
+02.01.2022,Gagliardo L.,1,6^4,6,4,,,4,3,65%,55% (39/71),63% (24/38),69% (11/16),34% (21/62),33% (19/57),45% (5/11),57% (62/109),45% (52/116),51% (114/225),69% (11/16),31% (5/16),50% (16/32),"['2', '2']","['1', '2', '5', '4']","['2', '3', '4', '5']",[],[],1.89
+02.01.2022,Deckers A.,2,7^7,4,6,,,9,13,52%,66% (41/62),44% (25/57),55% (6/11),45% (32/71),29% (11/38),31% (5/16),55% (64/116),43% (47/109),49% (111/225),69% (11/16),31% (5/16),50% (16/32),"['2', '1']","['2', '0']","['3', '1', '4', '2', '6', '4']",[],[],1.87
+ITF MEN - SINGLES :  M15 Lambare (Paraguay),clay,header

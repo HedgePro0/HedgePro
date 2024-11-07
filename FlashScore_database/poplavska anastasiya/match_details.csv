@@ -1,17 +1,11 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W50 Corroios-Seixal (Portugal),hard,header
-10.07. 18:20,Poplavska A.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4']",[],[],[],[],10.00
-10.07. 18:20,Sebov K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1']","['1', '0', '6', '3']",[],[],[],1.03
 ITF WOMEN - SINGLES :  W35 La Marsa (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
-30.04. 12:40,Poplavska A.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '2', '1', '3', '2', '5', '4']",[],[],[],7.90
-30.04. 12:40,Pridankina E.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']","['1', '1', '2', '2', '3', '3', '5', '5', '7', '5']",[],[],[],1.06
 ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Karaganda 2 (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W15 Karaganda (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
-18.10.2023,Poplavska A.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-18.10.2023,Hoste Ferrer C.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
 ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
 ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
 ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
@@ -29,3 +23,31 @@ ITF WOMEN - SINGLES :  W15 Chiang Rai 2 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W15 Chiang Rai (Thailand),hard,header
 ITF WOMEN - SINGLES :  W25 Sharm ElSheikh (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Kazan 2 (Russia),hard,header
+ITF WOMEN - SINGLES :  W15 Kazan (Russia),hard,header
+ITF WOMEN - SINGLES :  W25 Almaty (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W50 Corroios-Seixal (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Karaganda 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Karaganda (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
+ITF WOMEN - SINGLES :  W25 Kachreti 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W25 Kachreti (Georgia),hard,header
+ITF WOMEN - SINGLES :  W40 Tbilisi (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Kuching (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Cairo 10 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W15 Cairo 9 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W15 Chiang Rai 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Chiang Rai 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Chiang Rai 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Chiang Rai (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Kazan 2 (Russia),hard,header
+ITF WOMEN - SINGLES :  W15 Kazan (Russia),hard,header
+ITF WOMEN - SINGLES :  W25 Almaty (Kazakhstan),hard,header

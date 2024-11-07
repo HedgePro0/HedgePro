@@ -1,96 +1,725 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-19.09. 01:30,Al Azmeh T.,0,4,3,,,,[],[],[],[],[],4.18
-19.09. 01:30,Bulus C.,2,6,6,,,,"['2', '1']","['4', '3', '6', '3']",[],[],[],1.20
 ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
-19.07. 15:40,Al Azmeh T.,0,1,4,,,,[],[],[],[],[],4.51
-19.07. 15:40,Ejupovic E.,2,6,6,,,,"['2', '0', '4', '0']","['2', '1']",[],[],[],1.18
-16.07. 15:05,Al Azmeh T.,2,6,6,,,,"['3', '2']","['1', '0', '3', '0', '6', '3']",[],[],[],1.40
-16.07. 15:05,Trklja A.,0,4,3,,,,[],"['3', '5']",[],[],[],2.79
 ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
-03.07. 15:05,Al Azmeh T.,0,3,2,,,,"['2', '3']",[],[],[],[],2.62
-03.07. 15:05,Recek D.,2,6,6,,,,"['2', '0', '5', '3']","['2', '1', '5', '2']",[],[],[],1.45
 ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
-15.06. 17:35,Al Azmeh T.,0,6^2,2,,,,"['5', '5']",[],[],[],[],0
-15.06. 17:35,Nguyen P. V.,2,7^7,6,,,,"['5', '4']","['2', '0', '6', '2']",[],[],[],0
 ATP - SINGLES :  Davis Cup - Group III (World),-,header
-14.06. 17:45,Al Azmeh T.,1,6^3,6,4,,,[],"['3', '1', '5', '1']","['4', '5']",[],[],0
-14.06. 17:45,Alkotop Moh.,2,7^7,1,6,,,[],[],"['3', '1', '6', '4']",[],[],0
-13.06. 17:40,Al Azmeh T.,2,6,6,,,,"['1', '0', '4', '1', '6', '1']","['4', '2', '6', '2']",[],[],[],0
-13.06. 17:40,Yazdani A.,0,1,2,,,,[],[],[],[],[],0
-12.06. 16:35,Al Azmeh T.,2,6,6,,,,"['2', '1']","['5', '4']",[],[],[],0
-12.06. 16:35,Osmont G.,0,4,4,,,,[],[],[],[],[],0
-11.06. 16:40,Al Azmeh T.,0,6^5,3,,,,[],"['1', '3']",[],[],[],0
-11.06. 16:40,Samrej K.,2,7^7,6,,,,[],"['1', '0', '3', '0', '6', '3']",[],[],[],0
 ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
 ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
 ITF MEN - SINGLES :  M15 Kingston (Jamaica),hard,header
 ITF MEN - SINGLES :  M15 East Lansing,hard,header
-15.11.2023,Al Azmeh T.,0,3,4,,,,"['1', '0']","['1', '1']",[],[],[],2.13
-15.11.2023,Azkara A.,2,6,6,,,,"['1', '1', '4', '2']","['1', '0', '2', '1']",[],[],[],1.65
 ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
 ITF MEN - SINGLES :  M15 Allershausen (Germany),clay,header
-31.08.2023,Al Azmeh T.,0,2,2,,,,[],[],[],[],[],3.48
-31.08.2023,Lemstra K.,2,6,6,,,,"['3', '2', '5', '2']","['2', '1', '5', '2']",[],[],[],1.27
-30.08.2023,Al Azmeh T.,2,6,6,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],2.03
-30.08.2023,Salazar D.,0,0,2,,,,[],[],[],[],[],1.70
 ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-24.08.2023,Al Azmeh T.,0,2,1,,,,[],[],[],[],[],2.27
-24.08.2023,Raynel A.,2,6,6,,,,"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.58
-22.08.2023,Al Azmeh T.,2,6,6,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],4.18
-22.08.2023,Welte M.,0,4,1,,,,[],[],[],[],[],1.20
 ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
-09.08.2023,Al Azmeh T.,1,6^9,6,1,,,"['1', '2', '2', '3']","['1', '3', '3', '3', '5', '3']",[],[],[],2.16
-09.08.2023,Kelm Y.,2,7^11,3,6,,,"['2', '0', '3', '1']","['1', '0', '3', '0']","['3', '1', '5', '1']",[],[],1.64
 ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-27.07.2023,Al Azmeh T.,0,1,6^4,,,,[],"['1', '1']",[],[],[],7.14
-27.07.2023,Gavrielides L.,2,6,7^7,,,,"['2', '0', '4', '0']","['1', '0']",[],[],[],1.07
 ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
 ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-14.06.2023,Al Azmeh T.,0,3,6^4,,,,[],[],[],[],[],10.50
-14.06.2023,Royer V.,2,6,7^7,,,,[],[],[],[],[],1.02
 ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-08.06.2023,Al Azmeh T.,0,5,1,,,,[],[],[],[],[],6.55
-08.06.2023,Denolly C.,2,7,6,,,,[],[],[],[],[],1.08
-07.06.2023,Al Azmeh T.,2,6,6,,,,[],[],[],[],[],3.22
-07.06.2023,Parizzia N.,0,2,3,,,,[],[],[],[],[],1.31
 ITF MEN - SINGLES :  M15 Maputo 2 (Mozambique),hard,header
 ITF MEN - SINGLES :  M15 Maputo (Mozambique),hard,header
 ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
-16.08.2022,Al Azmeh T.,0,6^5,1,,,,"['2', '1']",[],[],[],[],7.40
-16.08.2022,Popovic S.,2,7^7,6,,,,"['5', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],1.07
 ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
-10.08.2022,Al Azmeh T.,1,6,6^2,6^3,,,"['4', '3', '6', '3']","['4', '2']",[],[],[],4.40
-10.08.2022,Gobat A.,2,3,7^7,7^7,,,[],"['4', '5']",[],[],[],1.19
 ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
-03.08.2022,Al Azmeh T.,0,2,2,,,,[],"['2', '5']",[],[],[],14.50
-03.08.2022,Andreev A.,2,6,6,,,,"['4', '2', '6', '2']","['2', '0', '5', '1', '6', '2']",[],[],[],1.02
 ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-21.07.2022,Al Azmeh T.,0,4,2,,,,[],[],[],[],[],0
-21.07.2022,Nedelko I.,2,6,6,,,,"['1', '0']","['1', '0', '5', '2']",[],[],[],0
 ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
-12.07.2022,Al Azmeh T.,0,5,3,,,,"['2', '1', '4', '3']",[],[],[],[],9.20
-12.07.2022,Vrbensky M.,2,7,6,,,,"['3', '3', '5', '5', '7', '5']","['2', '0']",[],[],[],1.05
 ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
-06.07.2022,Al Azmeh T.,0,6^9,1,,,,[],[],[],[],[],6.25
-06.07.2022,Frantzen C.,2,7^11,6,,,,[],"['2', '0', '4', '0']",[],[],[],1.11
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
+ITF MEN - SINGLES :  M15 Kingston (Jamaica),hard,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Allershausen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Maputo 2 (Mozambique),hard,header
+ITF MEN - SINGLES :  M15 Maputo (Mozambique),hard,header
+ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+
+
+
+19.09. 01:30,Al Azmeh T.,0,4,3,,,,[],[],[],[],[],4.18
+
+
+
+
+
+
+
+19.09. 01:30,Bulus C.,2,6,6,,,,"['2', '1']","['4', '3', '6', '3']",[],[],[],1.20
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+
+
+
+
+
+
+
+19.07. 15:40,Al Azmeh T.,0,1,4,,,,[],[],[],[],[],4.51
+
+
+
+
+
+
+
+19.07. 15:40,Ejupovic E.,2,6,6,,,,"['2', '0', '4', '0']","['2', '1']",[],[],[],1.18
+
+
+
+
+
+
+
+16.07. 15:05,Al Azmeh T.,2,6,6,,,,"['3', '2']","['1', '0', '3', '0', '6', '3']",[],[],[],1.40
+
+
+
+
+
+
+
+16.07. 15:05,Trklja A.,0,4,3,,,,[],"['3', '5']",[],[],[],2.79
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+
+
+
+
+
+
+
+03.07. 15:05,Al Azmeh T.,0,3,2,,,,"['2', '3']",[],[],[],[],2.62
+
+
+
+
+
+
+
+03.07. 15:05,Recek D.,2,6,6,,,,"['2', '0', '5', '3']","['2', '1', '5', '2']",[],[],[],1.45
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
+
+
+
+
+
+
+
+15.06. 17:35,Al Azmeh T.,0,6^2,2,,,,"['5', '5']",[],[],[],[],0
+
+
+
+
+
+
+
+15.06. 17:35,Nguyen P. V.,2,7^7,6,,,,"['5', '4']","['2', '0', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+
+
+
+
+
+
+
+14.06. 17:45,Al Azmeh T.,1,6^3,6,4,,,[],"['3', '1', '5', '1']","['4', '5']",[],[],0
+
+
+
+
+
+
+
+14.06. 17:45,Alkotop Moh.,2,7^7,1,6,,,[],[],"['3', '1', '6', '4']",[],[],0
+
+
+
+
+
+
+
+13.06. 17:40,Al Azmeh T.,2,6,6,,,,"['1', '0', '4', '1', '6', '1']","['4', '2', '6', '2']",[],[],[],0
+
+
+
+
+
+
+
+13.06. 17:40,Yazdani A.,0,1,2,,,,[],[],[],[],[],0
+
+
+
+
+
+
+
+12.06. 16:35,Al Azmeh T.,2,6,6,,,,"['2', '1']","['5', '4']",[],[],[],0
+
+
+
+
+
+
+
+12.06. 16:35,Osmont G.,0,4,4,,,,[],[],[],[],[],0
+
+
+
+
+
+
+
+11.06. 16:40,Al Azmeh T.,0,6^5,3,,,,[],"['1', '3']",[],[],[],0
+
+
+
+
+
+
+
+11.06. 16:40,Samrej K.,2,7^7,6,,,,[],"['1', '0', '3', '0', '6', '3']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kingston 2 (Jamaica),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kingston (Jamaica),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+
+
+
+
+
+
+
+15.11.2023,Al Azmeh T.,0,3,4,,,,"['1', '0']","['1', '1']",[],[],[],2.13
+
+
+
+
+
+
+
+15.11.2023,Azkara A.,2,6,6,,,,"['1', '1', '4', '2']","['1', '0', '2', '1']",[],[],[],1.65
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Allershausen (Germany),clay,header
+
+
+
+
+
+
+
+31.08.2023,Al Azmeh T.,0,2,2,,,,[],[],[],[],[],3.48
+
+
+
+
+
+
+
+31.08.2023,Lemstra K.,2,6,6,,,,"['3', '2', '5', '2']","['2', '1', '5', '2']",[],[],[],1.27
+
+
+
+
+
+
+
+30.08.2023,Al Azmeh T.,2,6,6,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],2.03
+
+
+
+
+
+
+
+30.08.2023,Salazar D.,0,0,2,,,,[],[],[],[],[],1.70
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
+
+
+
+
+
+
+
+24.08.2023,Al Azmeh T.,0,2,1,,,,[],[],[],[],[],2.27
+
+
+
+
+
+
+
+24.08.2023,Raynel A.,2,6,6,,,,"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.58
+
+
+
+
+
+
+
+22.08.2023,Al Azmeh T.,2,6,6,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],4.18
+
+
+
+
+
+
+
+22.08.2023,Welte M.,0,4,1,,,,[],[],[],[],[],1.20
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+
+
+
+
+
+
+
+09.08.2023,Al Azmeh T.,1,6^9,6,1,,,"['1', '2', '2', '3']","['1', '3', '3', '3', '5', '3']",[],[],[],2.16
+
+
+
+
+
+
+
+09.08.2023,Kelm Y.,2,7^11,3,6,,,"['2', '0', '3', '1']","['1', '0', '3', '0']","['3', '1', '5', '1']",[],[],1.64
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+
+
+
+
+
+
+
+27.07.2023,Al Azmeh T.,0,1,6^4,,,,[],"['1', '1']",[],[],[],7.14
+
+
+
+
+
+
+
+27.07.2023,Gavrielides L.,2,6,7^7,,,,"['2', '0', '4', '0']","['1', '0']",[],[],[],1.07
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+
+
+
+
+
+
+
+14.06.2023,Al Azmeh T.,0,3,6^4,,,,[],[],[],[],[],10.50
+
+
+
+
+
+
+
+14.06.2023,Royer V.,2,6,7^7,,,,[],[],[],[],[],1.02
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+
+
+
+
+
+
+
+08.06.2023,Al Azmeh T.,0,5,1,,,,[],[],[],[],[],6.55
+
+
+
+
+
+
+
+08.06.2023,Denolly C.,2,7,6,,,,[],[],[],[],[],1.08
+
+
+
+
+
+
+
+07.06.2023,Al Azmeh T.,2,6,6,,,,[],[],[],[],[],3.22
+
+
+
+
+
+
+
+07.06.2023,Parizzia N.,0,2,3,,,,[],[],[],[],[],1.31
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Maputo 2 (Mozambique),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Maputo (Mozambique),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
+
+
+
+
+
+
+
+16.08.2022,Al Azmeh T.,0,6^5,1,,,,"['2', '1']",[],[],[],[],7.40
+
+
+
+
+
+
+
+16.08.2022,Popovic S.,2,7^7,6,,,,"['5', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],1.07
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+
+
+
+
+
+
+
+10.08.2022,Al Azmeh T.,1,6,6^2,6^3,,,"['4', '3', '6', '3']","['4', '2']",[],[],[],4.40
+
+
+
+
+
+
+
+10.08.2022,Gobat A.,2,3,7^7,7^7,,,[],"['4', '5']",[],[],[],1.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+
+
+
+
+
+
+
+03.08.2022,Al Azmeh T.,0,2,2,,,,[],"['2', '5']",[],[],[],14.50
+
+
+
+
+
+
+
+03.08.2022,Andreev A.,2,6,6,,,,"['4', '2', '6', '2']","['2', '0', '5', '1', '6', '2']",[],[],[],1.02
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+
+
+
+
+
+
+
+21.07.2022,Al Azmeh T.,0,4,2,,,,[],[],[],[],[],0
+
+
+
+
+
+
+
+21.07.2022,Nedelko I.,2,6,6,,,,"['1', '0']","['1', '0', '5', '2']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+
+
+
+
+
+
+
+12.07.2022,Al Azmeh T.,0,5,3,,,,"['2', '1', '4', '3']",[],[],[],[],9.20
+
+
+
+
+
+
+
+12.07.2022,Vrbensky M.,2,7,6,,,,"['3', '3', '5', '5', '7', '5']","['2', '0']",[],[],[],1.05
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Marburg (Germany),clay,header
+
+
+
+
+
+
+
+06.07.2022,Al Azmeh T.,0,6^9,1,,,,[],[],[],[],[],6.25
+
+
+
+
+
+
+
+06.07.2022,Frantzen C.,2,7^11,6,,,,[],"['2', '0', '4', '0']",[],[],[],1.11
+
+
+
+
+
+
+
 28.04.2023,"Oropesa T.
  / 
-Ortiz Rodriguez Y. M.",0,16,14,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Ortiz Rodriguez Y. M.",0,16,14,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
 28.04.2023,"Choi C.
  / 
-Wu J.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Wu J.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
 28.04.2023,"Bencomo Otano J. C.
  / 
-Oropesa T.",0,8,15,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Oropesa T.",0,8,15,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
 28.04.2023,"Farias F.
  / 
-Lima J.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Lima J.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
 28.04.2023,"Oropesa T.
  / 
-Ortiz Rodriguez Y. M.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Ortiz Rodriguez Y. M.",2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
 28.04.2023,"Beckford A.
  / 
-Bisnott B.",0,6,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-27.04.2023,Oropesa T.,0,10,10,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-27.04.2023,Wang I.,2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+Bisnott B.",0,6,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+27.04.2023,Oropesa T.,0,10,10,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+
+27.04.2023,Wang I.,2,21,21,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+
+
+
+

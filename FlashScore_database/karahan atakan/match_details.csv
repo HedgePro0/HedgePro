@@ -1,73 +1,313 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
 BOYS - SINGLES :  US Open (USA),hard,header
-BOYS - SINGLES :  US Open (USA),hard,header
-05.09. 21:40,Karahan A.,0,3,3,,,,3,3,49%,68% (17/25),35% (9/26),20% (1/5),29% (12/41),47% (7/15),50% (1/2),11,29,100% (5/5),4,51% (26/51),34% (19/56),42% (45/107),1,56% (5/9),11% (1/9),33% (6/18),1452,[],"['1', '2']",[],[],[],0
-05.09. 21:40,Sakamoto R.,2,6,6,,,,1,1,73%,71% (29/41),53% (8/15),50% (1/2),32% (8/25),65% (17/26),80% (4/5),10,20,64% (14/22),8,66% (37/56),49% (25/51),58% (62/107),4,89% (8/9),44% (4/9),67% (12/18),1468,"['2', '1', '6', '3']","['2', '0', '3', '1']",[],[],[],0
-04.09. 20:45,Karahan A.,2,6,7^13,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '3', '0']",[],[],[],0
-04.09. 20:45,Papamalamis T.,0,4,6^11,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '4', '4']",[],[],[],0
-03.09. 20:40,Karahan A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '6', '2']","['3', '5']","['3', '1', '5', '3']",[],[],0
-03.09. 20:40,Miguel L. G.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '5', '2']","['3', '4']",[],[],0
-02.09. 03:45,Karahan A.,2,6,2,7^10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['2', '1', '4', '1', '6', '5']",[],[],0
-02.09. 03:45,Exsted M.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']","['3', '5', '5', '5', '6', '6']",[],[],0
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-08.07. 15:30,Karahan A.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],0
-08.07. 15:30,Rapagnetta D.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['6', '4']",[],[],[],0
-BOYS - SINGLES :  French Open (France),clay,header
-03.06. 19:30,Karahan A.,0,6^4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']",[],[],[],[],0
-03.06. 19:30,Rice K.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],0
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-24.01. 07:25,Karahan A.,1,6^2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '0', '4', '0']","['4', '5']",[],[],0
-24.01. 07:25,Woestendick C.,2,7^7,1,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['5', '3', '7', '5']",[],[],0
-23.01. 09:35,Karahan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],0
-23.01. 09:35,Camus C.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-21.01. 06:35,Karahan A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['3', '1']",[],[],[],0
-21.01. 06:35,Jovanovski D.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Champaign,hard,header
-12.09.2023,Karahan A.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4']",[],[],[],[],9.25
-12.09.2023,Draxl L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.04
-BOYS - SINGLES :  US Open (USA),hard,header
-03.09.2023,Karahan A.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '5']","['1', '0', '4', '3']",[],[],0
-03.09.2023,Horovitz R.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1', '6', '2']","['3', '3', '4', '4', '6', '4']",[],[],0
-BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
-01.09.2023,Karahan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],0
-01.09.2023,Iakubenko V.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
-31.08.2023,Karahan A.,2,6^1,6,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']","['2', '0']","['1', '0', '3', '1', '4', '1', '5', '3', '6', '3', '8', '4', '10', '6']",[],[],0
-31.08.2023,Hattori R.,1,7^7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']",[],"['1', '1', '2', '4', '3', '4', '4', '7']",[],[],0
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-BOYS - SINGLES :  French Open (France) - Qualification,clay,header
-01.06.2023,Karahan A.,1,4,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '6', '4']",[],[],[],0
-01.06.2023,Majdandzic M.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1']","['3', '2', '5', '2']",[],[],0
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-23.01.2023,Karahan A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-23.01.2023,Blockx A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['5', '4']",[],[],[],0
-21.01.2023,Karahan A.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '6']","['2', '1', '6', '5']",[],[],[],0
-21.01.2023,Kriznik M.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '5']","['3', '3']",[],[],[],0
-ITF MEN - SINGLES :  M15 Antalya 20 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
-BOYS - SINGLES :  US Open (USA),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-BOYS - SINGLES :  French Open (France),clay,header
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-ITF MEN - SINGLES :  M15 Champaign,hard,header
-BOYS - SINGLES :  US Open (USA),hard,header
-BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-BOYS - SINGLES :  French Open (France) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-ITF MEN - SINGLES :  M15 Antalya 20 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+05.09. 21:40,Karahan A.,0,3,3,,,,3,3,49%,68% (17/25),35% (9/26),20% (1/5),29% (12/41),47% (7/15),50% (1/2),11,29,100% (5/5),51% (26/51),34% (19/56),42% (45/107),5,0,56% (5/9),11% (1/9),33% (6/18),1452,[],"['1', '2']",[],[],[],0
+05.09. 21:40,Sakamoto R.,2,6,6,,,,1,1,73%,71% (29/41),53% (8/15),50% (1/2),32% (8/25),65% (17/26),80% (4/5),10,20,64% (14/22),66% (37/56),49% (25/51),58% (62/107),5,0,89% (8/9),44% (4/9),67% (12/18),1468,"['2', '1', '6', '3']","['2', '0', '3', '1']",[],[],[],0
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+BOYS - SINGLES :  French Open (France) - Qualification,clay,header
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 20 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+05.09. 21:40,Karahan A.,0,3,3,,,,3,3,49%,68% (17/25),35% (9/26),20% (1/5),29% (12/41),47% (7/15),50% (1/2),11,29,100% (5/5),4,51% (26/51),34% (19/56),42% (45/107),1,56% (5/9),11% (1/9),33% (6/18),1452,[],"['1', '2']",[],[],[],0
+
+
+
+05.09. 21:40,Sakamoto R.,2,6,6,,,,1,1,73%,71% (29/41),53% (8/15),50% (1/2),32% (8/25),65% (17/26),80% (4/5),10,20,64% (14/22),8,66% (37/56),49% (25/51),58% (62/107),4,89% (8/9),44% (4/9),67% (12/18),1468,"['2', '1', '6', '3']","['2', '0', '3', '1']",[],[],[],0
+
+
+
+04.09. 20:45,Karahan A.,2,6,7^13,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '3', '0']",[],[],[],0
+
+
+
+04.09. 20:45,Papamalamis T.,0,4,6^11,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '4', '4']",[],[],[],0
+
+
+
+03.09. 20:40,Karahan A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '6', '2']","['3', '5']","['3', '1', '5', '3']",[],[],0
+
+
+
+03.09. 20:40,Miguel L. G.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '5', '2']","['3', '4']",[],[],0
+
+
+
+02.09. 03:45,Karahan A.,2,6,2,7^10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['2', '1', '4', '1', '6', '5']",[],[],0
+
+
+
+02.09. 03:45,Exsted M.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']","['3', '5', '5', '5', '6', '6']",[],[],0
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+08.07. 15:30,Karahan A.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],0
+
+
+
+08.07. 15:30,Rapagnetta D.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['6', '4']",[],[],[],0
+
+
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+
+
+03.06. 19:30,Karahan A.,0,6^4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']",[],[],[],[],0
+
+
+
+03.06. 19:30,Rice K.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+24.01. 07:25,Karahan A.,1,6^2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '0', '4', '0']","['4', '5']",[],[],0
+
+
+
+24.01. 07:25,Woestendick C.,2,7^7,1,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['5', '3', '7', '5']",[],[],0
+
+
+
+23.01. 09:35,Karahan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],0
+
+
+
+23.01. 09:35,Camus C.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+21.01. 06:35,Karahan A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']","['3', '1']",[],[],[],0
+
+
+
+21.01. 06:35,Jovanovski D.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+
+
+
+12.09.2023,Karahan A.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4']",[],[],[],[],9.25
+
+
+
+12.09.2023,Draxl L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.04
+
+
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+03.09.2023,Karahan A.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '5']","['1', '0', '4', '3']",[],[],0
+
+
+
+03.09.2023,Horovitz R.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1', '6', '2']","['3', '3', '4', '4', '6', '4']",[],[],0
+
+
+
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+
+
+
+01.09.2023,Karahan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],0
+
+
+
+01.09.2023,Iakubenko V.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
+
+
+
+31.08.2023,Karahan A.,2,6^1,6,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']","['2', '0']","['1', '0', '3', '1', '4', '1', '5', '3', '6', '3', '8', '4', '10', '6']",[],[],0
+
+
+
+31.08.2023,Hattori R.,1,7^7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']",[],"['1', '1', '2', '4', '3', '4', '4', '7']",[],[],0
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+
+
+
+BOYS - SINGLES :  French Open (France) - Qualification,clay,header
+
+
+
+01.06.2023,Karahan A.,1,4,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '6', '4']",[],[],[],0
+
+
+
+01.06.2023,Majdandzic M.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1']","['3', '2', '5', '2']",[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+23.01.2023,Karahan A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+23.01.2023,Blockx A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['5', '4']",[],[],[],0
+
+
+
+21.01.2023,Karahan A.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '6']","['2', '1', '6', '5']",[],[],[],0
+
+
+
+21.01.2023,Kriznik M.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '5']","['3', '3']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 20 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+
+
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+
+
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+
+
+
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+
+
+
+BOYS - SINGLES :  French Open (France) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 20 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+
+
+

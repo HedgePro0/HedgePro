@@ -1,12 +1,8 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W75 Playford (Australia),hard,header
 ITF WOMEN - SINGLES :  W35 Cairns 2 (Australia),hard,header
 ITF WOMEN - SINGLES :  W35 Cairns (Australia),hard,header
-ITF WOMEN - SINGLES :  W35 Cairns (Australia),hard,header
-02.10. 07:15,Smith A.,0,4,4,,,,"['2', '2']",[],[],[],[],12.30
-02.10. 07:15,Inglis M.,2,6,6,,,,"['1', '0', '3', '2']","['3', '2']",[],[],[],1.01
 ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
-10.09. 07:30,Smith A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],3.86
-10.09. 07:30,Cabrera L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1', '4', '1']",[],[],[],1.23
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 4 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 3 (Thailand),hard,header
 ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat 2 (Thailand),hard,header
@@ -30,10 +26,30 @@ ITF WOMEN - SINGLES :  W15 Caloundra 2 (Australia),hard,header
 ITF WOMEN - SINGLES :  W15 Caloundra (Australia),hard,header
 ITF WOMEN - SINGLES :  W25 Canberra 2 (Australia),hard,header
 ITF WOMEN - SINGLES :  W25 Canberra (Australia),hard,header
-WTA - SINGLES :  Sydney (Australia) - Qualification,hard,header
-09.01.2022,Smith A.,1,1,6,0,,,2,1,62%,62% (16/26),50% (8/16),50% (3/6),30% (11/37),21% (4/19),29% (2/7),7,57% (24/42),38% (21/56),46% (45/98),3,63% (5/8),22% (2/9),41% (7/17),[],"['2', '0', '5', '1']",[],[],[],3.17
-09.01.2022,Heisen V.,1,6,1,3,,,4,6,66%,70% (26/37),47% (9/19),71% (5/7),38% (10/26),44% (7/16),50% (3/6),9,63% (35/56),43% (18/42),54% (53/98),5,78% (7/9),38% (3/8),59% (10/17),"['2', '0', '4', '0']",[],"['2', '0']",[],[],1.36
-WTA - SINGLES :  Melbourne (Summer Set 2) (Australia) - Qualification,hard,header
-03.01.2022,Smith A.,0,2,2,,,,1,2,56%,54% (15/28),36% (8/22),17% (1/6),23% (5/22),29% (6/21),100% (1/1),4,46% (23/50),33% (14/43),40% (37/93),1,38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],8.80
-03.01.2022,Wang Xin.,2,6,6,,,,1,3,51%,77% (17/22),57% (12/21),0% (0/1),46% (13/28),55% (12/22),83% (5/6),6,67% (29/43),54% (27/50),60% (56/93),4,88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '6', '2']","['4', '2', '6', '2']",[],[],[],1.02
-ITF WOMEN - SINGLES :  W15 Giza (Egypt),hard,header
+ITF WOMEN - SINGLES :  W75 Playford (Australia),hard,header
+ITF WOMEN - SINGLES :  W35 Cairns 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W35 Cairns (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W35 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Papamoa (New Zealand),hard,header
+ITF WOMEN - SINGLES :  W15 Wellington (New Zealand),hard,header
+ITF WOMEN - SINGLES :  W25 Cairns 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Caloundra 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Caloundra (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Swan Hill 2 (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Tauranga (New Zealand),hard,header
+ITF WOMEN - SINGLES :  W15 Wellington (New Zealand),hard,header
+ITF WOMEN - SINGLES :  W15 Caloundra 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Caloundra (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Canberra 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Canberra (Australia),hard,header

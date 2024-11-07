@@ -1,17 +1,73 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-19.10.2023,Azuma R.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.31
-19.10.2023,O'Hoisin O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.56
-18.10.2023,Azuma R.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-18.10.2023,Perez B.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
 ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
 BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
-31.08.2019,Azuma R.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],0
-31.08.2019,Mpetshi Perricard G.,2,2,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['7', '5']","['6', '4']",[],[],0
-31.08.2019,Azuma R.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '1', '5', '2']",[],[],[],0
-31.08.2019,Dale A.,0,4,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5', '5', '5']",[],[],[],0
 BOYS - SINGLES :  Australian Open (Australia),hard,header
-19.01.2019,Azuma R.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']","['2', '0', '3', '1', '5', '1']",[],[],[],0
-19.01.2019,Kodat T.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '5', '4']","['1', '2']","['2', '0', '4', '0']",[],[],0
 BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+
+
+19.10.2023,Azuma R.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.31
+
+
+
+19.10.2023,O'Hoisin O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.56
+
+
+
+18.10.2023,Azuma R.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+
+
+
+18.10.2023,Perez B.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+
+
+
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+
+
+
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+
+
+
+31.08.2019,Azuma R.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],0
+
+
+
+31.08.2019,Mpetshi Perricard G.,2,2,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['7', '5']","['6', '4']",[],[],0
+
+
+
+31.08.2019,Azuma R.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '1', '5', '2']",[],[],[],0
+
+
+
+31.08.2019,Dale A.,0,4,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5', '5', '5']",[],[],[],0
+
+
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+
+
+
+19.01.2019,Azuma R.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']","['2', '0', '3', '1', '5', '1']",[],[],[],0
+
+
+
+19.01.2019,Kodat T.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '5', '4']","['1', '2']","['2', '0', '4', '0']",[],[],0
+
+
+
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+
+
+

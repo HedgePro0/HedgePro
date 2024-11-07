@@ -1,4 +1,5 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
 ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
@@ -13,173 +14,778 @@ ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
 EXHIBITION - MEN :  Others matches (World),-,header
-ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
-EXHIBITION - MEN :  Others matches (World),-,header
-ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
-EXHIBITION - MEN :  Others matches (World),-,header
-ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
-EXHIBITION - MEN :  Others matches (World),-,header
-ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
-EXHIBITION - MEN :  Others matches (World),-,header
-10.05.2020,Shyla Y.,2,4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '5', '3', '6', '4']","['2', '0', '5', '5']",[],[],1.21
-10.05.2020,Volodkevich I.,1,6,4,6^2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '4', '5']","['1', '2', '4', '3']",[],[],4.38
-10.05.2020,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['3', '1', '6', '4']",[],[],[],1.08
-10.05.2020,Filin P.,0,6^0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '4']",[],[],[],7.90
-08.05.2020,Shyla Y.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],"['3', '3', '6', '4']",[],[],0
-08.05.2020,Narkevich Y.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']","['2', '1']",[],[],0
-07.05.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '0', '6', '2']",[],[],[],0
-07.05.2020,Volodkevich I.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '5']",[],[],[],0
-06.05.2020,Shyla Y.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.53
-06.05.2020,Narkevich Y.,0,6^3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.44
-03.05.2020,Shyla Y.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '3']","['5', '4']",[],[],1.50
-03.05.2020,Liutarevich I.,1,4,7^7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.54
-30.04.2020,Shyla Y.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '3']",[],[],[],0
-30.04.2020,Bardzin A.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],0
-25.04.2020,Shyla Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '7', '5']","['2', '0', '5', '1']",[],[],[],0
-25.04.2020,Golinko A.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
-25.04.2020,Shyla Y.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3', '7', '5']","['5', '3']",[],[],1.36
-25.04.2020,Dubarenco M.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['4', '5']",[],[],[],3.12
-24.04.2020,Shyla Y.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '1', '5', '2']","['3', '2', '6', '3']",[],[],1.31
-24.04.2020,Dubarenco M.,1,6,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '4']",[],[],[],3.44
-24.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0']",[],[],[],0
-24.04.2020,Bardzin A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-23.04.2020,Shyla Y.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['6', '4']",[],[],0
-23.04.2020,Narkevich Y.,1,5,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
-23.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['4', '2', '5', '3']",[],[],[],1.24
-23.04.2020,Filin P.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],4.08
-16.04.2020,Shyla Y.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],0
-16.04.2020,Volodkevich I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
-09.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '2', '6', '3']",[],[],[],0
-09.04.2020,Golinko A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES :  M25 Aktobe 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M25 Aktobe (Kazakhstan),hard,header
-CHALLENGER MEN - SINGLES :  Bendigo (Australia),hard,header
-13.01.2020,Shyla Y.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '3', '5']",[],[],[],2.92
-13.01.2020,Caruana L.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '3', '2', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],1.39
-ATP - SINGLES :  Davis Cup - Group I (World),-,header
-03.02.2018,Shyla Y.,0,6^1,0,,,,4,2,69%,60% (25/42),37% (7/19),56% (5/9),18% (6/34),25% (5/20),50% (1/2),4,52% (32/61),26% (14/54),40% (46/115),3,56% (5/9),11% (1/9),33% (6/18),"['2', '0']",[],[],[],[],0
-03.02.2018,Novak D.,2,7^7,6,,,,4,3,63%,82% (28/34),60% (12/20),50% (1/2),40% (17/42),53% (10/19),44% (4/9),7,74% (40/54),48% (29/61),60% (69/115),8,89% (8/9),44% (4/9),67% (12/18),"['3', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],0
-CHALLENGER MEN - SINGLES :  Suzhou (China),hard,header
-24.10.2017,Shyla Y.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '3']","['2', '5']",[],[],2.18
-24.10.2017,Doumbia S.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '2']","['2', '0', '5', '1', '6', '2']",[],[],1.63
-ATP - SINGLES :  Davis Cup - World Group (World) - Relegation,-,header
-17.09.2017,Shyla Y.,0,4,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.57
-17.09.2017,Chiudinelli M.,3,6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['5', '3']","['2', '1']",[],[],1.57
-15.09.2017,Shyla Y.,3,6,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '3', '0']",[],[],[],5.10
-15.09.2017,Laaksonen H.,0,4,2,6^3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-ITF MEN - SINGLES :  Piombino (Italy),hard,header
-CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
-19.07.2017,Shyla Y.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],5.05
-19.07.2017,Kukushkin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.14
-17.07.2017,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['4', '4', '6', '4']",[],[],[],1.31
-17.07.2017,Nedelko I.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['3', '2']",[],[],[],3.18
-CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
-22.06.2017,Shyla Y.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
-22.06.2017,Gunneswaran P.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.64
-20.06.2017,Shyla Y.,2,7^7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['3', '1']",[],[],2.44
-20.06.2017,Maamoun K.M.,1,6^5,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0']",[],[],[],1.56
-CHALLENGER MEN - SINGLES :  Karshi (Uzbekistan),hard,header
-11.05.2017,Shyla Y.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.10
-11.05.2017,Gerasimov E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0']",[],[],[],1.23
-10.05.2017,Shyla Y.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['7', '5']",[],[],[],1.54
-10.05.2017,Manafov V.,0,6^4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],2.52
-08.05.2017,Shyla Y.,2,7^11,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']",[],"['4', '4', '6', '4']",[],[],2.66
-08.05.2017,Jung J.,1,6^9,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '5', '5']","['3', '2']","['1', '0']",[],[],1.49
-ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-ITF MEN - SINGLES :  Schwieberdingen (Germany),hard,header
-CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
-ATP - SINGLES :  Davis Cup Group II (World),-,header
-CHALLENGER MEN - SINGLES :  Agri (Turkey),hard,header
-ATP - SINGLES :  St. Petersburg (Russia),hard,header
-23.09.2015,Shyla Y.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.00
-23.09.2015,Gabashvili T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '4', '1']",[],[],[],1.07
-ATP - SINGLES :  St. Petersburg (Russia) - Qualification,hard,header
-21.09.2015,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '1']",[],[],[],2.25
-21.09.2015,Bublik A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],1.49
-20.09.2015,Shyla Y.,2,4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['4', '4', '6', '4']","['5', '3', '7', '5']",[],[],1.47
-20.09.2015,Muzaev R.,1,6,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['3', '2']","['4', '5']",[],[],2.80
-19.09.2015,Shyla Y.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1', '5', '1']","['3', '2', '5', '2']",[],[],0
-19.09.2015,Lobkov A.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']",[],[],[],[],0
-CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
-CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
-CHALLENGER MEN - SINGLES :  Moscow (Russia),clay,header
-CHALLENGER MEN - SINGLES :  Eskisehir (Turkey),hard,header
-CHALLENGER MEN - SINGLES :  Samarkand (Uzbekistan),clay,header
-CHALLENGER MEN - SINGLES :  Karshi (Uzbekistan),hard,header
-CHALLENGER MEN - SINGLES :  Batman (Turkey),hard,header
-ATP - SINGLES :  Moscow (Russia) - Qualification,hard,header
-13.10.2014,Shyla Y.,1,6,6^3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['1', '2', '4', '5']",[],[],[],2.70
-13.10.2014,Krstin P.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0', '3', '1']","['5', '4']",[],[],1.52
-12.10.2014,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],4.30
-12.10.2014,Albot R.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '5']",[],[],[],1.26
-11.10.2014,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '0', '5', '1']",[],[],[],1.30
-11.10.2014,Polyakov V.,0,6^3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],3.75
-CHALLENGER MEN - SINGLES :  Izmir (Turkey),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
-CHALLENGER MEN - SINGLES :  Astana 2 (Kazakhstan),hard,header
-CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
-24.09.2013,Shyla Y.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-24.09.2013,Golubev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['3', '2', '5', '2']",[],[],[],0
-ITF MEN - SINGLES :  Haskovo (Bulgaria),clay,header
-ITF MEN - SINGLES :  Tyumen (Russia),hard,header
-ITF MEN - SINGLES :  Cherkassy 3 (Ukraine),hard,header
-ITF MEN - SINGLES :  Jablonec nad Nisou 2 (Czech Republic),hard,header
-ITF MEN - SINGLES :  Opava (Czech Republic),hard,header
-ITF MEN - SINGLES :  Astana 3 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  Moscow 8 (Russia),clay,header
-CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
-25.07.2012,Shyla Y.,0,4,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],0
-25.07.2012,Ilhan M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0']",[],[],[],0
-24.07.2012,Shyla Y.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['3', '3', '5', '3']",[],[],0
-24.07.2012,Androic T.,1,7^7,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],0
-ITF MEN - SINGLES :  Almaty (Kazakhstan),hard,header
-ITF MEN - SINGLES :  Kazan (Russia),clay,header
-ITF MEN - SINGLES :  Shymkent (Kazakhstan),hard,header
-ITF MEN - SINGLES :  Cherkassy 3 (Ukraine),hard,header
-ITF MEN - SINGLES :  Moscow 3 (Russia),hard,header
-ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+EXHIBITION - MEN :  Others matches (World),-,header
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Nur-Sultan 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 14 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 12 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Novomoskovsk (Ukraine),clay,header
+
+
+
+EXHIBITION - MEN :  Others matches (World),-,header
+
+
+
+10.05.2020,Shyla Y.,2,4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '5', '3', '6', '4']","['2', '0', '5', '5']",[],[],1.21
+
+
+
+10.05.2020,Volodkevich I.,1,6,4,6^2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '4', '5']","['1', '2', '4', '3']",[],[],4.38
+
+
+
+10.05.2020,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['3', '1', '6', '4']",[],[],[],1.08
+
+
+
+10.05.2020,Filin P.,0,6^0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '4']",[],[],[],7.90
+
+
+
+08.05.2020,Shyla Y.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],"['3', '3', '6', '4']",[],[],0
+
+
+
+08.05.2020,Narkevich Y.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']","['2', '1']",[],[],0
+
+
+
+07.05.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '0', '6', '2']",[],[],[],0
+
+
+
+07.05.2020,Volodkevich I.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '5']",[],[],[],0
+
+
+
+06.05.2020,Shyla Y.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.53
+
+
+
+06.05.2020,Narkevich Y.,0,6^3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.44
+
+
+
+03.05.2020,Shyla Y.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '3']","['5', '4']",[],[],1.50
+
+
+
+03.05.2020,Liutarevich I.,1,4,7^7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.54
+
+
+
+30.04.2020,Shyla Y.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '3']",[],[],[],0
+
+
+
+30.04.2020,Bardzin A.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],0
+
+
+
+25.04.2020,Shyla Y.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '7', '5']","['2', '0', '5', '1']",[],[],[],0
+
+
+
+25.04.2020,Golinko A.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
+
+
+
+25.04.2020,Shyla Y.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3', '7', '5']","['5', '3']",[],[],1.36
+
+
+
+25.04.2020,Dubarenco M.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['4', '5']",[],[],[],3.12
+
+
+
+24.04.2020,Shyla Y.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '1', '5', '2']","['3', '2', '6', '3']",[],[],1.31
+
+
+
+24.04.2020,Dubarenco M.,1,6,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['2', '4']",[],[],[],3.44
+
+
+
+24.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0']",[],[],[],0
+
+
+
+24.04.2020,Bardzin A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+23.04.2020,Shyla Y.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['6', '4']",[],[],0
+
+
+
+23.04.2020,Narkevich Y.,1,5,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
+
+
+
+23.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['4', '2', '5', '3']",[],[],[],1.24
+
+
+
+23.04.2020,Filin P.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],4.08
+
+
+
+16.04.2020,Shyla Y.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],0
+
+
+
+16.04.2020,Volodkevich I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
+
+
+
+09.04.2020,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '2', '6', '3']",[],[],[],0
+
+
+
+09.04.2020,Golinko A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 5 (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Aktobe 2 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Aktobe (Kazakhstan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Bendigo (Australia),hard,header
+
+
+
+13.01.2020,Shyla Y.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '3', '5']",[],[],[],2.92
+
+
+
+13.01.2020,Caruana L.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '3', '2', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],1.39
+
+
+
+ATP - SINGLES :  Davis Cup - Group I (World),-,header
+
+
+
+03.02.2018,Shyla Y.,0,6^1,0,,,,4,2,69%,60% (25/42),37% (7/19),56% (5/9),18% (6/34),25% (5/20),50% (1/2),4,52% (32/61),26% (14/54),40% (46/115),3,56% (5/9),11% (1/9),33% (6/18),"['2', '0']",[],[],[],[],0
+
+
+
+03.02.2018,Novak D.,2,7^7,6,,,,4,3,63%,82% (28/34),60% (12/20),50% (1/2),40% (17/42),53% (10/19),44% (4/9),7,74% (40/54),48% (29/61),60% (69/115),8,89% (8/9),44% (4/9),67% (12/18),"['3', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],0
+
+
+
+CHALLENGER MEN - SINGLES :  Suzhou (China),hard,header
+
+
+
+24.10.2017,Shyla Y.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '3']","['2', '5']",[],[],2.18
+
+
+
+24.10.2017,Doumbia S.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '2']","['2', '0', '5', '1', '6', '2']",[],[],1.63
+
+
+
+ATP - SINGLES :  Davis Cup - World Group (World) - Relegation,-,header
+
+
+
+17.09.2017,Shyla Y.,0,4,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.57
+
+
+
+17.09.2017,Chiudinelli M.,3,6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['5', '3']","['2', '1']",[],[],1.57
+
+
+
+15.09.2017,Shyla Y.,3,6,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '3', '0']",[],[],[],5.10
+
+
+
+15.09.2017,Laaksonen H.,0,4,2,6^3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+
+
+
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+
+
+
+19.07.2017,Shyla Y.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],5.05
+
+
+
+19.07.2017,Kukushkin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.14
+
+
+
+17.07.2017,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['4', '4', '6', '4']",[],[],[],1.31
+
+
+
+17.07.2017,Nedelko I.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['3', '2']",[],[],[],3.18
+
+
+
+CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
+
+
+
+22.06.2017,Shyla Y.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
+
+
+
+22.06.2017,Gunneswaran P.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.64
+
+
+
+20.06.2017,Shyla Y.,2,7^7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['3', '1']",[],[],2.44
+
+
+
+20.06.2017,Maamoun K.M.,1,6^5,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0']",[],[],[],1.56
+
+
+
+CHALLENGER MEN - SINGLES :  Karshi (Uzbekistan),hard,header
+
+
+
+11.05.2017,Shyla Y.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.10
+
+
+
+11.05.2017,Gerasimov E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '3', '0']",[],[],[],1.23
+
+
+
+10.05.2017,Shyla Y.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['7', '5']",[],[],[],1.54
+
+
+
+10.05.2017,Manafov V.,0,6^4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],2.52
+
+
+
+08.05.2017,Shyla Y.,2,7^11,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']",[],"['4', '4', '6', '4']",[],[],2.66
+
+
+
+08.05.2017,Jung J.,1,6^9,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '5', '5']","['3', '2']","['1', '0']",[],[],1.49
+
+
+
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+
+
+
+ITF MEN - SINGLES :  Schwieberdingen (Germany),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+
+
+
+ATP - SINGLES :  Davis Cup Group II (World),-,header
+
+
+
+CHALLENGER MEN - SINGLES :  Agri (Turkey),hard,header
+
+
+
+ATP - SINGLES :  St. Petersburg (Russia),hard,header
+
+
+
+23.09.2015,Shyla Y.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.00
+
+
+
+23.09.2015,Gabashvili T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '4', '1']",[],[],[],1.07
+
+
+
+ATP - SINGLES :  St. Petersburg (Russia) - Qualification,hard,header
+
+
+
+21.09.2015,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '1']",[],[],[],2.25
+
+
+
+21.09.2015,Bublik A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],1.49
+
+
+
+20.09.2015,Shyla Y.,2,4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['4', '4', '6', '4']","['5', '3', '7', '5']",[],[],1.47
+
+
+
+20.09.2015,Muzaev R.,1,6,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['3', '2']","['4', '5']",[],[],2.80
+
+
+
+19.09.2015,Shyla Y.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1', '5', '1']","['3', '2', '5', '2']",[],[],0
+
+
+
+19.09.2015,Lobkov A.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']",[],[],[],[],0
+
+
+
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Moscow (Russia),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Eskisehir (Turkey),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Samarkand (Uzbekistan),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Karshi (Uzbekistan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Batman (Turkey),hard,header
+
+
+
+ATP - SINGLES :  Moscow (Russia) - Qualification,hard,header
+
+
+
+13.10.2014,Shyla Y.,1,6,6^3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['1', '2', '4', '5']",[],[],[],2.70
+
+
+
+13.10.2014,Krstin P.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0', '3', '1']","['5', '4']",[],[],1.52
+
+
+
+12.10.2014,Shyla Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],4.30
+
+
+
+12.10.2014,Albot R.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '5']",[],[],[],1.26
+
+
+
+11.10.2014,Shyla Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '0', '5', '1']",[],[],[],1.30
+
+
+
+11.10.2014,Polyakov V.,0,6^3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],3.75
+
+
+
+CHALLENGER MEN - SINGLES :  Izmir (Turkey),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Astana 2 (Kazakhstan),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Fergana (Uzbekistan),hard,header
+
+
+
+24.09.2013,Shyla Y.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+
+
+
+24.09.2013,Golubev A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['3', '2', '5', '2']",[],[],[],0
+
+
+
+ITF MEN - SINGLES :  Haskovo (Bulgaria),clay,header
+
+
+
+ITF MEN - SINGLES :  Tyumen (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  Cherkassy 3 (Ukraine),hard,header
+
+
+
+ITF MEN - SINGLES :  Jablonec nad Nisou 2 (Czech Republic),hard,header
+
+
+
+ITF MEN - SINGLES :  Opava (Czech Republic),hard,header
+
+
+
+ITF MEN - SINGLES :  Astana 3 (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  Moscow 8 (Russia),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+
+
+
+25.07.2012,Shyla Y.,0,4,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],0
+
+
+
+25.07.2012,Ilhan M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0']",[],[],[],0
+
+
+
+24.07.2012,Shyla Y.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['3', '3', '5', '3']",[],[],0
+
+
+
+24.07.2012,Androic T.,1,7^7,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],0
+
+
+
+ITF MEN - SINGLES :  Almaty (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  Kazan (Russia),clay,header
+
+
+
+ITF MEN - SINGLES :  Shymkent (Kazakhstan),hard,header
+
+
+
+ITF MEN - SINGLES :  Cherkassy 3 (Ukraine),hard,header
+
+
+
+ITF MEN - SINGLES :  Moscow 3 (Russia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Shymkent 4 (Kazakhstan),clay,header
+
+
+

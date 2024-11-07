@@ -1,93 +1,31 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W35 Qian Daohu (China),hard,header
 ITF WOMEN - SINGLES :  W35 Huzhou (China),hard,header
 ITF WOMEN - SINGLES :  W50 Fuzhou (China),hard,header
-ITF WOMEN - SINGLES :  W50 Fuzhou (China),hard,header
-18.09. 08:40,Laskevich E.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '0', '3', '2', '4', '3']",[],[],[],1.20
-18.09. 08:40,Kudashova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3', '6', '4']","['1', '1', '3', '3', '4', '4', '6', '4']",[],[],[],4.22
 ITF WOMEN - SINGLES :  W50 Guiyang (China),hard,header
-12.09. 09:20,Laskevich E.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '5', '4', '5']",[],[],[],1.07
-12.09. 09:20,Zhang R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '6', '3']","['2', '0', '5', '1', '6', '4']",[],[],[],7.17
-11.09. 09:00,Laskevich E.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['1', '0', '6', '3']","['4', '2']",[],[],1.05
-11.09. 09:00,Li Y.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']",[],[],[],[],8.25
 ITF WOMEN - SINGLES :  W100 Figueira Da Foz (Portugal),hard,header
-26.07. 17:00,Laskevich E.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '5', '4']","['3', '2', '5', '4']",[],[],[],1.56
-26.07. 17:00,Ito A.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4', '5', '5', '7', '5']","['3', '3', '5', '5', '7', '5']",[],[],[],2.32
-25.07. 19:20,Laskevich E.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '3']","['2', '4', '3', '5']","['1', '0', '4', '1', '6', '3']",[],[],1.79
-25.07. 19:20,Jorge F.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5', '3', '5']","['1', '0', '4', '1', '5', '2', '6', '3']","['2', '4']",[],[],1.93
-24.07. 16:40,Laskevich E.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '5', '2', '6', '5']","['2', '0', '3', '1', '6', '2']",[],[],[],1.76
-24.07. 16:40,Tan H.,0,6^2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '5', '5', '5', '6', '6']","['1', '2']",[],[],[],1.97
 ITF WOMEN - SINGLES :  W75 Porto 2 (Portugal),hard,header
-19.07. 18:05,Laskevich E.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '5']","['2', '0', '4', '0']",[],[],[],2.13
-19.07. 18:05,Knutson G.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']","['1', '4']","['3', '1', '5', '1']",[],[],1.66
-18.07. 16:40,Laskevich E.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['2', '0', '3', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.45
-18.07. 16:40,Ito A.,1,3,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2', '3', '2', '4', '3', '6', '3']",[],[],[],2.61
-17.07. 16:40,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.42
-17.07. 16:40,Savinykh V.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],2.72
 ITF WOMEN - SINGLES :  W50 Montemor-o-Novo (Portugal),hard,header
-30.05. 16:05,Laskevich E.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.66
-30.05. 16:05,Aiava D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],[],2.13
-29.05. 16:55,Laskevich E.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '2', '4', '3', '6', '5']",[],[],[],1.22
-29.05. 16:55,Grey S. B.,0,1,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '5', '6', '6']",[],[],[],3.96
 ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
-01.05. 13:55,Laskevich E.,1,2,7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['2', '2', '3', '3', '5', '5', '7', '5']","['1', '3']",[],[],2.15
-01.05. 13:55,Snigur D.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '3', '2', '5', '4']","['1', '0', '3', '0', '5', '2']",[],[],1.65
-30.04. 14:15,Laskevich E.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '3', '2', '5', '4', '6', '5']",[],[],[],1.49
-30.04. 14:15,Shubladze A.,0,0,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '4', '5', '5']",[],[],[],2.50
 ITF WOMEN - SINGLES :  W50 Lopota (Georgia),hard,header
-27.04. 14:40,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.55
-27.04. 14:40,Glushko L.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.36
-26.04. 12:40,Laskevich E.,2,5,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '1', '3', '1', '5', '3']","['1', '2', '3', '4', '5', '4', '6', '5']",[],[],1.19
-26.04. 12:40,Kudashova D.,1,7,3,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5', '6', '5']","['1', '0', '3', '4']","['2', '0', '4', '2', '5', '5']",[],[],4.37
-25.04. 12:40,Laskevich E.,2,6,2,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '6', '2']","['1', '3']","['1', '1', '3', '3', '5', '3', '7', '5']",[],[],2.99
-25.04. 12:40,Valentova T.,1,2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '3', '0', '5', '2']","['1', '0', '3', '2', '4', '5']",[],[],1.37
-24.04. 18:15,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '1', '4', '3', '6', '3']",[],[],[],2.61
-24.04. 18:15,Pridankina E.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],1.45
-22.04. 18:10,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3', '4', '4', '6', '4']","['2', '0', '4', '0']",[],[],[],1.06
-22.04. 18:10,Sagandikova A.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '4', '3']",[],[],[],[],7.70
 ITF WOMEN - SINGLES :  W50 Shenzhen 2 (China),hard,header
-18.04. 07:40,Laskevich E.,0,2,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '5', '4']",[],[],[],1.23
-18.04. 07:40,Ren Y.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '3', '3', '3', '5', '5']",[],[],[],3.86
-17.04. 11:25,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '3', '6', '3']",[],[],[],1.79
-17.04. 11:25,You X.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],1.93
 ITF WOMEN - SINGLES :  W50 Shenzhen (China),hard,header
-11.04. 09:10,Laskevich E.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['2', '1', '3', '2', '6', '3']","['2', '0']",[],[],2.39
-11.04. 09:10,Wei S.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '2']","['2', '2']","['1', '2', '3', '2', '5', '2']",[],[],1.53
-10.04. 10:35,Laskevich E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '3']","['1', '1', '3', '1', '6', '2']",[],[],[],1.42
-10.04. 10:35,Lu J.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '0']",[],[],[],2.72
 ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
 ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header
-ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
-ITF WOMEN - SINGLES :  W25 Loule (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Faro (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Malmo (Sweden),clay,header
-ITF WOMEN - SINGLES :  W25 Bistrita (Romania),clay,header
-ITF WOMEN - SINGLES :  W60 Hechingen (Germany),clay,header
-02.08.2023,Laskevich E.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '4']","['2', '2']",[],[],[],5.95
-02.08.2023,Bouzas Maneiro J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']","['1', '0', '3', '2', '6', '3']",[],[],[],1.10
-ITF WOMEN - SINGLES :  W25 Horb (Germany),clay,header
-ITF WOMEN - SINGLES :  W25 Madrid (Spain),hard,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 3 (Serbia),clay,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W15 Le Havre (France),clay,header
-ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
-15.03.2023,Laskevich E.,1,6,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-15.03.2023,Bertoldo J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.56
-ITF WOMEN - SINGLES :  W25 Ortisei (Italy),hard,header
-ITF WOMEN - SINGLES :  W25 Otocec 2 (Slovenia),clay,header
-ITF WOMEN - SINGLES :  W60 Vrnjacka Banja (Serbia),clay,header
-22.09.2022,Laskevich E.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
-22.09.2022,Ristic M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.68
-ITF WOMEN - SINGLES :  W25 Trieste (Italy),clay,header
-ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W25 Brasov (Romania),clay,header
-ITF WOMEN - SINGLES :  W15 Pescara (Italy),clay,header
-GIRLS - SINGLES :  French Open (France) - Qualification,clay,header
-ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 4 (Egypt),hard,header
-ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF WOMEN - SINGLES :  W15 Villena (Spain),hard,header
-GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
+ITF WOMEN - SINGLES :  W35 Qian Daohu (China),hard,header
+ITF WOMEN - SINGLES :  W35 Huzhou (China),hard,header
+ITF WOMEN - SINGLES :  W50 Fuzhou (China),hard,header
+ITF WOMEN - SINGLES :  W50 Guiyang (China),hard,header
+ITF WOMEN - SINGLES :  W100 Figueira Da Foz (Portugal),hard,header
+ITF WOMEN - SINGLES :  W75 Porto 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W50 Montemor-o-Novo (Portugal),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota (Georgia),hard,header
+ITF WOMEN - SINGLES :  W50 Shenzhen 2 (China),hard,header
+ITF WOMEN - SINGLES :  W50 Shenzhen (China),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header

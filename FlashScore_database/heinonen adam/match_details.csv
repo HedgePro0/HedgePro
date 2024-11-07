@@ -1,24 +1,12 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M25 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
 ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
-23.09. 19:00,Heinonen A.,0,6^1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],2.13
-23.09. 19:00,Sigsgaard C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '5', '1']",[],[],[],1.65
 ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
-18.09. 22:30,Heinonen A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],0
-18.09. 22:30,Renard L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '4', '3']",[],[],[],0
 ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-16.08. 15:50,Heinonen A.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '6', '6']","['1', '0']",[],[],[],2.56
-16.08. 15:50,Wessels L.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '6', '5']","['2', '2', '4', '2']",[],[],[],1.47
-15.08. 15:15,Heinonen A.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '7', '5']",[],"['1', '0', '3', '0']",[],[],2.26
-15.08. 15:15,Sigsgaard C.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '2', '6', '3']",[],[],[],1.59
-14.08. 15:40,Heinonen A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.37
-14.08. 15:40,Paardekooper S.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],2.92
 ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
-07.08. 20:30,Heinonen A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
-07.08. 20:30,Bulus C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['2', '0', '5', '1']",[],[],[],2.62
 ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
-24.07. 18:10,Heinonen A.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['4', '4']","['2', '2', '4', '4']",[],[],1.06
-24.07. 18:10,Gaxherri S.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '5']","['2', '1', '4', '3', '5', '4']",[],[],8.00
 ITF MEN - SINGLES :  M25 Aarhus (Denmark),clay,header
 ITF MEN - SINGLES :  M25 Kursumlijska Banja 2 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
@@ -28,45 +16,604 @@ ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Villena (Spain),hard,header
-23.02. 15:10,Heinonen A.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],3.05
-23.02. 15:10,Sanchez Quilez A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '5']",[],[],[],1.34
-22.02. 18:25,Heinonen A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4']","['1', '0', '3', '0', '6', '3']",[],[],[],2.97
-22.02. 18:25,Gonzalez Fernandez M.,0,6^2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '3']",[],[],[],1.36
-21.02. 17:15,Heinonen A.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '3', '6', '4']","['2', '0', '6', '4']",[],[],2.75
-21.02. 17:15,Blanch D.,1,7,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '6', '5']","['3', '2']","['2', '3']",[],[],1.41
 ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
-25.01. 20:15,Heinonen A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],2.75
-25.01. 20:15,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['4', '3']",[],[],[],1.41
-24.01. 17:10,Heinonen A.,2,7^12,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '3', '2', '6', '5']",[],[],[],1.15
-24.01. 17:10,Ambarzumjan E.,0,6^10,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['2', '2', '4', '4']",[],[],[],4.93
 ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
-28.11.2023,Heinonen A.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['5', '4']",[],[],[],2.50
-28.11.2023,Perez Sanz D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2', '6', '3']",[],"['3', '1', '6', '2']",[],[],1.51
 ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
 ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
 ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
-ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-ITF MEN - SINGLES :  M15 Saarlouis (Germany),clay,header
-22.06.2023,Heinonen A.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '5', '3']","['2', '3']",[],[],2.99
-22.06.2023,Dellavedova M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '3']","['3', '4']","['2', '0', '4', '2']",[],[],1.35
-21.06.2023,Heinonen A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '4', '3']",[],[],[],2.54
-21.06.2023,Tkemaladze Z.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],1.47
-ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
-18.05.2023,Heinonen A.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
-18.05.2023,Dahlin M.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-17.05.2023,Heinonen A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-17.05.2023,Temirhanov A.,0,6^1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
-21.09.2022,Heinonen A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],7.60
-21.09.2022,Lavagno E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']","['4', '2']",[],[],[],1.06
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-13.09.2022,Heinonen A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4']",[],[],[],[],10.50
-13.09.2022,Gerch L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],1.03
-ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
-ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
-ITF MEN - SINGLES :  M25 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
+ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
+ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
+ITF MEN - SINGLES :  M25 Aarhus (Denmark),clay,header
+ITF MEN - SINGLES :  M25 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Villena (Spain),hard,header
+ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
+ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
+
+ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
+
+ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
+
+
+
+23.09. 19:00,Heinonen A.,0,6^1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],2.13
+
+
+
+
+
+
+
+23.09. 19:00,Sigsgaard C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '5', '1']",[],[],[],1.65
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
+
+
+
+
+
+
+
+18.09. 22:30,Heinonen A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],0
+
+
+
+
+
+
+
+18.09. 22:30,Renard L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '4', '3']",[],[],[],0
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+
+
+
+
+
+
+
+16.08. 15:50,Heinonen A.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '6', '6']","['1', '0']",[],[],[],2.56
+
+
+
+
+
+
+
+16.08. 15:50,Wessels L.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '6', '5']","['2', '2', '4', '2']",[],[],[],1.47
+
+
+
+
+
+
+
+15.08. 15:15,Heinonen A.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '7', '5']",[],"['1', '0', '3', '0']",[],[],2.26
+
+
+
+
+
+
+
+15.08. 15:15,Sigsgaard C.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '2', '6', '3']",[],[],[],1.59
+
+
+
+
+
+
+
+14.08. 15:40,Heinonen A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.37
+
+
+
+
+
+
+
+14.08. 15:40,Paardekooper S.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],2.92
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+
+
+
+
+
+
+
+07.08. 20:30,Heinonen A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
+
+
+
+
+
+
+
+07.08. 20:30,Bulus C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['2', '0', '5', '1']",[],[],[],2.62
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
+
+
+
+
+
+
+
+24.07. 18:10,Heinonen A.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['4', '4']","['2', '2', '4', '4']",[],[],1.06
+
+
+
+
+
+
+
+24.07. 18:10,Gaxherri S.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '5']","['2', '1', '4', '3', '5', '4']",[],[],8.00
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Aarhus (Denmark),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kursumlijska Banja 2 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Villena (Spain),hard,header
+
+
+
+
+
+
+
+23.02. 15:10,Heinonen A.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],3.05
+
+
+
+
+
+
+
+23.02. 15:10,Sanchez Quilez A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '5']",[],[],[],1.34
+
+
+
+
+
+
+
+22.02. 18:25,Heinonen A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4']","['1', '0', '3', '0', '6', '3']",[],[],[],2.97
+
+
+
+
+
+
+
+22.02. 18:25,Gonzalez Fernandez M.,0,6^2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '3']",[],[],[],1.36
+
+
+
+
+
+
+
+21.02. 17:15,Heinonen A.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '3', '6', '4']","['2', '0', '6', '4']",[],[],2.75
+
+
+
+
+
+
+
+21.02. 17:15,Blanch D.,1,7,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '6', '5']","['3', '2']","['2', '3']",[],[],1.41
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
+
+
+
+
+
+
+
+25.01. 20:15,Heinonen A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],2.75
+
+
+
+
+
+
+
+25.01. 20:15,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['4', '3']",[],[],[],1.41
+
+
+
+
+
+
+
+24.01. 17:10,Heinonen A.,2,7^12,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '3', '2', '6', '5']",[],[],[],1.15
+
+
+
+
+
+
+
+24.01. 17:10,Ambarzumjan E.,0,6^10,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['2', '2', '4', '4']",[],[],[],4.93
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+
+
+
+
+
+
+
+28.11.2023,Heinonen A.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['5', '4']",[],[],[],2.50
+
+
+
+
+
+
+
+28.11.2023,Perez Sanz D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2', '6', '3']",[],"['3', '1', '6', '2']",[],[],1.51
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Heraklion 2 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Falun (Sweden),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Danderyd (Sweden),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Saarlouis (Germany),clay,header
+
+
+
+
+
+
+
+22.06.2023,Heinonen A.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '5', '3']","['2', '3']",[],[],2.99
+
+
+
+
+
+
+
+22.06.2023,Dellavedova M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '3']","['3', '4']","['2', '0', '4', '2']",[],[],1.35
+
+
+
+
+
+
+
+21.06.2023,Heinonen A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '4', '3']",[],[],[],2.54
+
+
+
+
+
+
+
+21.06.2023,Tkemaladze Z.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],1.47
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+
+
+
+
+
+
+
+18.05.2023,Heinonen A.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
+
+
+
+
+
+
+
+18.05.2023,Dahlin M.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
+
+
+
+
+
+
+
+17.05.2023,Heinonen A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
+
+
+
+
+
+
+
+17.05.2023,Temirhanov A.,0,6^1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+
+
+
+
+
+
+
+21.09.2022,Heinonen A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],7.60
+
+
+
+
+
+
+
+21.09.2022,Lavagno E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']","['4', '2']",[],[],[],1.06
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+
+
+
+
+
+
+
+13.09.2022,Heinonen A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4']",[],[],[],[],10.50
+
+
+
+
+
+
+
+13.09.2022,Gerch L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],1.03
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kalmar (Sweden),clay,header
+
+
+
+
+
+
+

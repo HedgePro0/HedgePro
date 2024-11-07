@@ -1,22 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Heraklion 4 (Greece),clay,header
 ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
-ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
-25.09. 17:35,Muntean V.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],4.04
-25.09. 17:35,Craciun G. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['2', '1', '5', '2']",[],[],[],1.21
 ITF WOMEN - SINGLES :  W35 Brasov (Romania),clay,header
-28.08. 16:30,Muntean V.,1,7,6^6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3', '6', '5']","['2', '1', '3', '4', '6', '5']","['3', '3']",[],[],3.84
-28.08. 16:30,Grammatikopoulou V.,2,5,7^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '4', '4']","['2', '2', '4', '2', '6', '6']","['3', '2', '4', '3']",[],[],1.23
-27.08. 12:50,Muntean V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
-27.08. 12:50,Anghel A. I.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']",[],[],[],[],4.51
 ITF WOMEN - SINGLES :  W35 Cluj Napoca (Romania),clay,header
-21.08. 15:30,Muntean V.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5']","['2', '3']",[],[],[],8.90
-21.08. 15:30,Tig P. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '6', '2']","['3', '1', '4', '2']",[],[],[],1.04
-19.08. 14:00,Muntean V.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0']","['1', '0', '3', '2', '4', '3', '6', '3']",[],[],2.13
-19.08. 14:00,Keller N.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['1', '3', '4', '4', '6', '4']","['2', '2', '3', '3']",[],[],1.66
 ITF WOMEN - SINGLES :  W35 Bistrita (Romania),clay,header
-14.08. 13:00,Muntean V.,1,7^7,2,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '3', '3', '4', '4', '5', '5']","['1', '0', '2', '1']","['1', '0']",[],[],3.77
-14.08. 13:00,Craciun G. A.,2,6^2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2', '4', '3', '5', '4']","['1', '1', '2', '2', '4', '2', '6', '2']","['1', '1', '4', '2', '6', '2']",[],[],1.24
 ITF WOMEN - SINGLES :  W15 Bucharest 3 (Romania),clay,header
 ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
@@ -38,65 +25,4 @@ ITF WOMEN - SINGLES :  W25 Funchal (Portugal),hard,header
 ITF WOMEN - SINGLES :  W25 Mogyorod (Hungary),clay,header
 ITF WOMEN - SINGLES :  W25 Danderyd (Sweden),clay,header
 ITF WOMEN - SINGLES :  W60 Hechingen (Germany),clay,header
-03.08.2022,Muntean V.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '0', '4', '1']",[],[],[],4.22
-03.08.2022,Boskovic L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '4', '2', '6', '2']","['2', '4', '4', '4', '6', '4']",[],[],[],1.20
 ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header
-19.07.2022,Muntean V.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],2.76
-19.07.2022,Radisic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.41
-ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
-ITF WOMEN - SINGLES :  W25 Porto 2 (Portugal),hard,header
-ITF WOMEN - SINGLES :  W60 Andrezieux-Boutheon (France),hard,header
-27.01.2022,Muntean V.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '3']",[],[],[],6.55
-27.01.2022,Dodin O.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['3', '2', '4', '3', '6', '3']",[],[],[],1.10
-26.01.2022,Muntean V.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '3', '1', '4', '2']",[],[],[],1.81
-26.01.2022,Ganz F.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '2', '2', '3']",[],[],[],1.96
-ITF WOMEN - SINGLES :  W15 Monastir 50 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
-ITF WOMEN - SINGLES :  W80 Poitiers (France),hard,header
-27.10.2021,Muntean V.,1,0,7,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '5']",[],[],[],8.80
-27.10.2021,Serban R.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['5', '5']","['6', '4']",[],[],1.06
-ITF WOMEN - SINGLES :  W25 Marbella (Spain),clay,header
-ITF WOMEN - SINGLES :  W25 Sunderland (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Grenoble (France),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
-WTA - SINGLES :  Luxembourg (Luxembourg) - Qualification,hard,header
-12.10.2019,Muntean V.,1,5,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '5']","['1', '1', '3', '1']",[],[],[],2.93
-12.10.2019,Silva E.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4', '6', '5']","['1', '0']","['2', '0', '4', '0']",[],[],1.41
-ITF WOMEN - SINGLES :  Meitar (Israel),hard,header
-11.09.2019,Muntean V.,1,6,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['5', '3']",[],[],[],2.64
-11.09.2019,Lemoine Q.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['4', '5', '6', '5']","['1', '0', '4', '1']",[],[],1.47
-10.09.2019,Muntean V.,1,3,7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '0', '3', '1', '5', '5', '7', '5']",[],[],[],2.85
-10.09.2019,Tan H.,1,6,5,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2']","['1', '2', '3', '4', '5', '4']",[],[],[],1.41
-ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header
-18.07.2018,Muntean V.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '3', '4', '5']",[],[],[],8.10
-18.07.2018,Baindl K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['3', '1', '5', '3', '6', '4']",[],[],[],1.08
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header
-18.05.2018,Muntean V.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '2']",[],[],[],7.50
-18.05.2018,Rybakina E.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['2', '2', '4', '4', '6', '4']","['3', '1', '5', '1']",[],[],1.11
-ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
-16.05.2017,Muntean V.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4', '4', '5', '6', '5']",[],[],[],[],8.30
-16.05.2017,Aiava D.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '5', '3', '6', '6']","['2', '1', '4', '1']",[],[],[],1.08
-ITF WOMEN - SINGLES :  W100 Contrexeville (France),clay,header
-06.07.2016,Muntean V.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],3.42
-06.07.2016,Eric D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['1', '1', '4', '2', '6', '2']",[],[],[],1.32
-ITF WOMEN - SINGLES :  Marseille (France),clay,header
-ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
-WTA - SINGLES :  Luxembourg (Luxembourg) - Qualification,hard,header
-11.10.2014,Muntean V.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.20
-11.10.2014,Broady N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['4', '3', '6', '3']",[],[],[],1.14
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header
-17.05.2014,Muntean V.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '3', '3', '5']",[],[],[],0
-17.05.2014,Georges M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '0', '3', '0', '4', '1', '6', '3']",[],[],[],0
-ITF WOMEN - SINGLES :  Limoges (France),hard,header
-ITF WOMEN - SINGLES :  W100 Contrexeville (France),clay,header
-16.07.2013,Muntean V.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3', '4', '5']",[],[],[],0
-16.07.2013,Friedsam A-L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '6', '2']","['3', '1', '5', '3', '6', '4']",[],[],[],0
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header
-18.05.2013,Muntean V.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '5']",[],[],[],0
-18.05.2013,Beygelzimer Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],0
-ITF WOMEN - SINGLES :  W15 Sibenik (Croatia),clay,header
-ITF WOMEN - SINGLES :  Mamaia (Romania),clay,header
-WTA - SINGLES :  Strasbourg (France) - Qualification,clay,header

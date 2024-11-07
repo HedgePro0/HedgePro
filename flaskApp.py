@@ -47,7 +47,7 @@ if prevCounter > 0:
                     j += 2
 
         prevMatchesData_w.append([])
-        with open(f"./Previous_Matches/{i}w.csv") as file:
+        with open(f"./Previous_Matches/{i}_w.csv") as file:
             csvreader = csv.reader(file)
             temp = []
             for row in csvreader:
@@ -60,6 +60,10 @@ if prevCounter > 0:
                 else:
                     prevMatchesData_w[i-1].append([ temp[j], temp[j+1] ])
                     j += 2
+
+for row in prevMatchesData:
+    for elem in row:
+        print(elem)
         
 # Load other files (Unchanged)
 with open('./playerLinks.csv') as file:

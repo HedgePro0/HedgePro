@@ -1,20 +1,117 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
 ITF MEN - SINGLES :  M15 Asuncion (Paraguay),clay,header
-19.09. 19:30,Rodrigues N.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0']",[],[],[],2.26
-19.09. 19:30,Falabella L. A.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['4', '4', '6', '4']","['6', '4']",[],[],1.59
-18.09. 22:05,Rodrigues N.,2,4,7,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '7', '5']","['4', '4', '6', '6']",[],[],1.68
-18.09. 22:05,Cigarran T.,1,6,5,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '2']","['3', '2', '6', '5']",[],[],2.10
-18.09. 04:10,Rodrigues N.,2,7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '6', '5']","['1', '0']",[],[],[],0
-18.09. 04:10,Nunez V. A. S.,0,5,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['4', '4']",[],[],[],0
 ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
-23.08. 02:50,Rodrigues N.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],3.86
-23.08. 02:50,Dutra Da Silva D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '5', '4']",[],[],[],1.23
-21.08. 00:30,Rodrigues N.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2']","['2', '3', '6', '5']",[],[],[],1.12
-21.08. 00:30,Guercio L.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1']",[],[],[],5.57
 ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
-14.08. 23:30,Rodrigues N.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.55
-14.08. 23:30,Sell K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['5', '3']",[],[],[],1.05
 ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Almada (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 10 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 10 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 8 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 7 (Greece),hard,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Sintra (Portugal),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ATP - SINGLES :  Rio de Janeiro (Brazil) - Qualification,clay,header
+ITF MEN - SINGLES :  M15 Asuncion (Paraguay),clay,header
+ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
+ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Almada (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 10 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 10 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 8 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 7 (Greece),hard,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Sintra (Portugal),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ATP - SINGLES :  Rio de Janeiro (Brazil) - Qualification,clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Asuncion (Paraguay),clay,header
+
+ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
+
+ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
+
+ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
+
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M25 Idanha-a-Nova (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Almada (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 10 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 10 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 8 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 7 (Greece),hard,header
+
+BOYS - SINGLES :  French Open (France),clay,header
+
+ITF MEN - SINGLES :  M15 Castelo Branco (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Sintra 2 (Portugal),hard,header
+
+ITF MEN - SINGLES :  M15 Sintra (Portugal),hard,header
+
+BOYS - SINGLES :  US Open (USA),hard,header
+
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+
+ATP - SINGLES :  Rio de Janeiro (Brazil) - Qualification,clay,header
+
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+

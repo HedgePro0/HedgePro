@@ -1,10 +1,8 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-24.07. 16:25,Katuch J.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],[],[],[],1.68
-24.07. 16:25,Kis Balazs R.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['1', '0']",[],[],2.10
 CHALLENGER MEN - SINGLES :  Astana (Kazakhstan) - Qualification,hard,header
-14.07. 12:05,Katuch J.,0,6^3,0,,,,3,6,50%,68% (19/28),36% (10/28),20% (1/5),21% (7/34),41% (9/22),50% (1/2),5,52% (29/56),29% (16/56),40% (45/112),3,56% (5/9),11% (1/9),33% (6/18),"['5', '5']",[],[],[],[],4.75
-14.07. 12:05,Tkemaladze Z.,2,7^7,6,,,,3,4,61%,79% (27/34),59% (13/22),50% (1/2),32% (9/28),64% (18/28),80% (4/5),9,71% (40/56),48% (27/56),60% (67/112),8,89% (8/9),44% (4/9),67% (12/18),"['2', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.16
+14.07. 12:05,Katuch J.,0,6^3,0,,,,3,6,50%,68% (19/28),36% (10/28),20% (1/5),21% (7/34),41% (9/22),50% (1/2),52% (29/56),29% (16/56),40% (45/112),3,0,56% (5/9),11% (1/9),33% (6/18),"['5', '5']",[],[],[],[],4.75
+14.07. 12:05,Tkemaladze Z.,2,7^7,6,,,,3,4,61%,79% (27/34),59% (13/22),50% (1/2),32% (9/28),64% (18/28),80% (4/5),71% (40/56),48% (27/56),60% (67/112),7,0,89% (8/9),44% (4/9),67% (12/18),"['2', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.16
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Pitesti (Romania),clay,header
 ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
@@ -13,3 +11,58 @@ ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
 ITF MEN - SINGLES :  M15 Kottingbrunn 2 (Austria),clay,header
 ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
 ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+
+24.07. 16:25,Katuch J.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],[],[],[],1.68
+
+
+
+24.07. 16:25,Kis Balazs R.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['1', '0']",[],[],2.10
+
+
+
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan) - Qualification,hard,header
+
+
+
+14.07. 12:05,Katuch J.,0,6^3,0,,,,3,6,50%,68% (19/28),36% (10/28),20% (1/5),21% (7/34),41% (9/22),50% (1/2),5,52% (29/56),29% (16/56),40% (45/112),3,56% (5/9),11% (1/9),33% (6/18),"['5', '5']",[],[],[],[],4.75
+
+
+
+14.07. 12:05,Tkemaladze Z.,2,7^7,6,,,,3,4,61%,79% (27/34),59% (13/22),50% (1/2),32% (9/28),64% (18/28),80% (4/5),9,71% (40/56),48% (27/56),60% (67/112),8,89% (8/9),44% (4/9),67% (12/18),"['2', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.16
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Pitesti (Romania),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Kottingbrunn 2 (Austria),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
+
+
+

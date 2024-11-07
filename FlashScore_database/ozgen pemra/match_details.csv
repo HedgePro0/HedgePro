@@ -1,28 +1,13 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W35 Istanbul (Turkey),hard,header
+ITF WOMEN - SINGLES :  W35 Loule (Portugal),hard,header
 ITF WOMEN - SINGLES :  W50 Quinta do Lago (Portugal),hard,header
 ITF WOMEN - SINGLES :  W15 Trnava (Slovakia),hard,header
-ITF WOMEN - SINGLES :  W15 Trnava (Slovakia),hard,header
-26.09. 13:00,Ozgen P.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']","['2', '3', '4', '3']",[],[],[],1.80
-26.09. 13:00,Laboutkova A.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4', '7', '5']","['3', '1', '5', '5', '7', '5']",[],[],[],1.90
-25.09. 16:20,Ozgen P.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '5', '5', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],1.04
-25.09. 16:20,Rothensteiner L.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '4', '5', '4']",[],[],[],[],8.50
 ITF WOMEN - SINGLES :  W35 Santarem (Portugal),hard,header
-12.09. 14:10,Ozgen P.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2']","['1', '3']",[],[],[],3.34
-12.09. 14:10,McDonald E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.30
-10.09. 16:05,Ozgen P.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '4', '2']","['1', '0', '3', '2', '4', '3', '6', '3']",[],[],2.28
-10.09. 16:05,Gureva A.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '3']","['2', '2', '3', '3']",[],[],1.58
 ITF WOMEN - SINGLES :  W35 Leiria (Portugal),hard,header
-03.09. 17:00,Ozgen P.,1,3,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '3']","['2', '0', '3', '3', '5', '3']",[],[],[],2.72
-03.09. 17:00,Grey S. B.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '3']","['1', '2', '3', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.42
 ITF WOMEN - SINGLES :  W75 Kursumlijska Banja (Serbia),clay,header
-12.08. 17:55,Ozgen P.,1,7^12,6^2,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '3', '4', '6', '5']","['3', '5', '5', '5']","['2', '1', '5', '4']",[],[],3.77
-12.08. 17:55,Hietaranta L.,2,6^10,7^7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '6']","['1', '0', '5', '2']","['4', '4', '5', '5', '7', '5']",[],[],1.24
 ITF WOMEN - SINGLES :  W50 Zagreb (Croatia),clay,header
-05.08. 18:20,Ozgen P.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['1', '0']",[],[],[],3.86
-05.08. 18:20,Ce G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['3', '3', '6', '4']",[],[],[],1.23
 ITF WOMEN - SINGLES :  W100 Vitoria - Gasteiz (Spain),hard,header
-17.07. 13:40,Ozgen P.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '2']",[],[],[],2.13
-17.07. 13:40,Cortez Llorca L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '6', '2']","['2', '0', '3', '1', '5', '1']",[],[],[],1.66
 ITF WOMEN - SINGLES :  W35 Don Benito (Spain),hard,header
 ITF WOMEN - SINGLES :  W35 Getxo (Spain),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 7 (Serbia),clay,header
@@ -32,128 +17,11 @@ ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 4 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 2 (Serbia),clay,header
 ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W50 Murska Sobota (Slovenia),hard,header
-27.03. 16:00,Ozgen P.,1,6,0,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']",[],[],[],[],3.69
-27.03. 16:00,Iatcenko P.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.25
 ITF WOMEN - SINGLES :  W35 Solarino 2 (Italy),hard,header
 ITF WOMEN - SINGLES :  W35 Solarino (Italy),hard,header
 ITF WOMEN - SINGLES :  W50 Edgbaston (United Kingdom),hard,header
-06.02. 15:35,Ozgen P.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.47
-06.02. 15:35,Salkova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],1.09
 ITF WOMEN - SINGLES :  W25 Selva Gardena (Italy),hard,header
 ITF WOMEN - SINGLES :  W25 Ortisei (Italy),hard,header
 ITF WOMEN - SINGLES :  W25 Solarino 3 (Italy),hard,header
 ITF WOMEN - SINGLES :  W25 Solarino 2 (Italy),hard,header
 ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
-ITF WOMEN - SINGLES :  W100 Shrewsbury (United Kingdom),hard,header
-18.10.2023,Ozgen P.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-18.10.2023,Waltert S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['5', '4']",[],[],[],0
-ITF WOMEN - SINGLES :  W80 Le Neubourg (France),hard,header
-13.09.2023,Ozgen P.,1,7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2', '6', '5']","['1', '0', '2', '1', '3', '2']",[],[],[],1.53
-13.09.2023,Lemaitre T.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '3', '3']","['1', '1', '2', '2', '3', '3', '5', '3']","['1', '0', '4', '1']",[],[],2.38
-ITF WOMEN - SINGLES :  W25 Valladolid (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Vigo (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Ourense (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Roehampton 2 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W100 Figueira Da Foz (Portugal),hard,header
-25.07.2023,Ozgen P.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4']","['1', '0']",[],[],[],5.63
-25.07.2023,Monnet C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '2']","['1', '1', '5', '3']",[],[],[],1.12
-ITF WOMEN - SINGLES :  W40 Porto 3 (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Don Benito (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Cantanhede (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25+H Tauste-Zaragoza (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Guimaraes (Portugal),hard,header
-ITF WOMEN - SINGLES :  W40 Murska Sobota (Slovenia),hard,header
-ITF WOMEN - SINGLES :  W40 Maribor (Slovenia),hard,header
-ITF WOMEN - SINGLES :  W40 Ricany (Czech Republic),hard,header
-ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
-ITF WOMEN - SINGLES :  W25 Glasgow (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Bath (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W40 Porto (Portugal),hard,header
-ITF WOMEN - SINGLES :  W60 Sunderland (United Kingdom),hard,header
-24.01.2023,Ozgen P.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '5']",[],[],[],3.40
-24.01.2023,Miyazaki L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '2', '5', '2', '6', '3']",[],[],[],1.28
-CHALLENGER WOMEN - SINGLES :  Angers (France),hard,header
-07.12.2022,Ozgen P.,1,7^7,3,2,,,0,1,70%,59% (42/71),35% (11/31),27% (3/11),32% (18/57),59% (22/37),44% (4/9),5,52% (53/102),43% (40/94),47% (93/196),2,47% (7/15),29% (4/14),38% (11/29),"['3', '2']","['3', '5']","['1', '2', '2', '3']",[],[],1.97
-07.12.2022,Dartron E.,2,6^2,6,6,,,3,4,61%,68% (39/57),41% (15/37),56% (5/9),41% (29/71),65% (20/31),73% (8/11),8,57% (54/94),48% (49/102),53% (103/196),3,71% (10/14),53% (8/15),62% (18/29),"['3', '3']","['1', '0', '4', '1', '6', '3']","['2', '0', '3', '1', '4', '2', '6', '2']",[],[],1.80
-CHALLENGER WOMEN - SINGLES :  Angers (France) - Qualification,hard,header
-05.12.2022,Ozgen P.,0,1,6^4,,,,0,0,75%,55% (24/44),73% (11/15),25% (1/4),20% (8/40),46% (12/26),17% (1/6),7,59% (35/59),30% (20/66),44% (55/125),3,67% (6/9),10% (1/10),37% (7/19),[],"['3', '1']",[],[],[],2.37
-05.12.2022,Garland J.,2,6,7^7,,,,5,2,61%,80% (32/40),54% (14/26),83% (5/6),45% (20/44),27% (4/15),75% (3/4),5,70% (46/66),41% (24/59),56% (70/125),3,90% (9/10),33% (3/9),63% (12/19),"['2', '0', '5', '1']","['4', '5']",[],[],[],1.54
-04.12.2022,Ozgen P.,2,6,6,,,,0,1,58%,86% (18/21),60% (9/15),67% (2/3),50% (18/36),74% (17/23),40% (6/15),8,75% (27/36),59% (35/59),65% (62/95),11,86% (6/7),86% (6/7),86% (12/14),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.17
-04.12.2022,Portillo Ramirez M. J.,0,0,2,,,,0,2,61%,50% (18/36),26% (6/23),60% (9/15),14% (3/21),40% (6/15),33% (1/3),3,41% (24/59),25% (9/36),35% (33/95),2,14% (1/7),14% (1/7),14% (2/14),[],"['1', '5']",[],[],[],4.64
-CHALLENGER WOMEN - SINGLES :  Andorra (Andorra),hard,header
-30.11.2022,Ozgen P.,0,6^3,3,,,,0,0,53%,51% (20/39),50% (17/34),69% (11/16),38% (28/74),83% (10/12),25% (4/16),8,51% (37/73),44% (38/86),47% (75/159),5,50% (5/10),36% (4/11),43% (9/21),"['3', '5', '5', '5']","['1', '0', '3', '2']",[],[],[],5.65
-30.11.2022,Baindl K.,2,7^7,6,,,,2,2,86%,62% (46/74),17% (2/12),75% (12/16),49% (19/39),50% (17/34),31% (5/16),7,56% (48/86),49% (36/73),53% (84/159),4,64% (7/11),50% (5/10),57% (12/21),"['1', '0', '4', '1']","['1', '1', '3', '3', '5', '3']",[],[],[],1.13
-ITF WOMEN - SINGLES :  W25 Ortisei (Italy),hard,header
-ITF WOMEN - SINGLES :  W25 Saint Etienne (France),hard,header
-ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
-ITF WOMEN - SINGLES :  W25 Loule (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Quinta do Lago (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
-WTA - SINGLES :  Portoroz (Slovenia) - Qualification,hard,header
-11.09.2022,Ozgen P.,0,4,2,,,,0,1,58%,55% (17/31),36% (8/22),29% (2/7),28% (7/25),43% (12/28),67% (2/3),3,47% (25/53),36% (19/53),42% (44/106),3,44% (4/9),22% (2/9),33% (6/18),"['3', '1']","['2', '0']",[],[],[],7.80
-11.09.2022,Dart H.,2,6,6,,,,2,2,47%,72% (18/25),57% (16/28),33% (1/3),45% (14/31),64% (14/22),71% (5/7),6,64% (34/53),53% (28/53),58% (62/106),6,78% (7/9),56% (5/9),67% (12/18),"['3', '4', '5', '4']","['1', '2', '3', '2', '5', '2']",[],[],[],1.08
-ITF WOMEN - SINGLES :  W25 Leiria (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Roehampton 2 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Aldershot (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25+H Figueira Da Foz (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Guimaraes (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Corroios-Seixal (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Porto 3 (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Cantanhede (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Tbilisi 3 (Georgia),hard,header
-ITF WOMEN - SINGLES :  W25 Montemor-O-Novo (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Nottingham 4 (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25+H Tossa de Mar (Spain),hard,header
-WTA - SINGLES :  Istanbul (Turkey),clay,header
-19.04.2022,Ozgen P.,0,5,2,,,,1,0,80%,46% (24/52),46% (6/13),40% (4/10),40% (18/45),38% (6/16),50% (3/6),4,46% (30/65),39% (24/61),43% (54/126),5,40% (4/10),30% (3/10),35% (7/20),"['2', '5', '4', '5']","['1', '0']",[],[],[],6.30
-19.04.2022,Grabher J.,2,7,6,,,,2,3,74%,60% (27/45),63% (10/16),50% (3/6),54% (28/52),54% (7/13),60% (6/10),7,61% (37/61),54% (35/65),57% (72/126),5,70% (7/10),60% (6/10),65% (13/20),"['2', '0', '4', '0', '7', '5']","['1', '1', '4', '2', '6', '2']",[],[],[],1.14
-WTA - SINGLES :  Billie Jean King Cup - Group I (World),-,header
-13.04.2022,Ozgen P.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3']","['1', '1']",[],[],[],0
-13.04.2022,Nuudi M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0', '6', '5']",[],[],[],0
-12.04.2022,Ozgen P.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-12.04.2022,Udvardy P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],0
-11.04.2022,Ozgen P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '2', '1', '4', '1', '6', '3']",[],[],[],0
-11.04.2022,Svendsen J. C.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '1', '3', '5']",[],[],[],0
-ITF WOMEN - SINGLES :  W25 Antalya 4 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Antalya 3 (Turkey),clay,header
-ITF WOMEN - SINGLES :  W25 Glasgow (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Birmingham (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Manacor 3 (Spain),hard,header
-ITF WOMEN - SINGLES :  W25 Loughborough (United Kingdom),hard,header
-ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
-ITF WOMEN - SINGLES :  W25 Haabneeme (Estonia),hard,header
-ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
-ITF WOMEN - SINGLES :  W25+H Cherbourg-en-Cotentin (France),hard,header
-ITF WOMEN - SINGLES :  W80+H Le Neubourg (France),hard,header
-28.09.2021,Ozgen P.,1,1,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4', '4', '4', '6', '4']",[],[],[],3.60
-28.09.2021,Kovinic D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '4', '1']","['2', '1', '4', '1']",[],[],1.28
-ITF WOMEN - SINGLES :  W25 Santarem (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
-ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
-ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
-25.08.2021,Ozgen P.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '2', '3', '2']","['1', '2', '4', '3']",[],[],3.66
-25.08.2021,Smitkova T.,2,4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '3', '3', '6', '4']","['2', '0', '5', '5']",[],[],1.27
-ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
-ITF WOMEN - SINGLES :  W60 Vitoria-Gasteiz (Spain),hard,header
-14.07.2021,Ozgen P.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '3']","['2', '2']","['2', '1', '3', '4']",[],[],2.21
-14.07.2021,Mintegi Del Olmo A.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['1', '0', '4', '3', '6', '3']","['2', '2', '4', '2', '5', '3']",[],[],1.65
-ITF WOMEN - SINGLES :  W25 Lisbon (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Palma del Rio (Spain),hard,header
-WTA - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-23.06.2021,Ozgen P.,0,2,5,,,,1,0,71%,53% (24/45),61% (11/18),50% (4/8),26% (11/42),46% (11/24),25% (1/4),11,19,60% (12/20),4,56% (35/63),33% (22/66),44% (57/129),2,60% (6/10),10% (1/10),35% (7/20),"['2', '5']",[],[],[],[],7.10
-23.06.2021,Frech M.,2,6,7,,,,4,0,64%,74% (31/42),54% (13/24),75% (3/4),47% (21/45),39% (7/18),50% (4/8),28,22,56% (5/9),6,67% (44/66),44% (28/63),56% (72/129),5,90% (9/10),40% (4/10),65% (13/20),"['2', '0', '4', '0', '6', '2']","['7', '5']",[],[],[],1.11
-ITF WOMEN - SINGLES :  W25+H Figueira Da Foz (Portugal),hard,header
-ITF WOMEN - SINGLES :  W25 Montemor-O-Novo (Portugal),hard,header
-WTA - SINGLES :  French Open (France) - Qualification,clay,header
-26.05.2021,Ozgen P.,0,3,4,,,,0,2,78%,52% (27/52),33% (5/15),62% (8/13),45% (25/55),36% (8/22),30% (3/10),16,23,71% (15/21),5,48% (32/67),43% (33/77),45% (65/144),2,44% (4/9),30% (3/10),37% (7/19),"['1', '0', '2', '3']","['2', '4']",[],[],[],10.50
-26.05.2021,Min G.,2,6,6,,,,3,0,71%,55% (30/55),64% (14/22),70% (7/10),48% (25/52),53% (8/15),38% (5/13),29,27,56% (14/25),5,57% (44/77),52% (35/67),55% (79/144),5,70% (7/10),56% (5/9),63% (12/19),"['1', '1', '3', '1', '5', '3']","['1', '0', '4', '1']",[],[],[],1.03
-WTA - SINGLES :  Belgrade (Serbia) - Qualification,clay,header
-15.05.2021,Ozgen P.,0,6^8,0,,,,0,1,74%,42% (18/43),20% (3/15),13% (1/8),44% (20/45),33% (10/30),50% (4/8),5,36% (21/58),45% (34/75),41% (55/133),2,22% (2/9),44% (4/9),33% (6/18),"['1', '0', '3', '2', '5', '4', '6', '5']",[],[],[],[],4.26
-15.05.2021,Tomova V.,2,7^10,6,,,,0,4,60%,56% (25/45),53% (16/30),50% (4/8),58% (25/43),73% (11/15),88% (7/8),7,55% (41/75),64% (37/58),59% (78/133),8,56% (5/9),78% (7/9),67% (12/18),"['2', '2', '4', '4', '5', '5', '6', '6']","['1', '0', '3', '0', '5', '0']",[],[],[],1.23
-ITF WOMEN - SINGLES :  W25 Prague (Czech Republic) Draw,WOMEN,header
-WTA - SINGLES :  Istanbul (Turkey) - Qualification,clay,header
-17.04.2021,Ozgen P.,0,4,3,,,,0,2,74%,47% (21/45),50% (8/16),44% (4/9),40% (21/53),44% (12/27),33% (3/9),5,48% (29/61),44% (35/80),45% (64/141),3,44% (4/9),30% (3/10),37% (7/19),"['2', '1', '4', '3']","['1', '0']",[],[],[],6.65
-17.04.2021,Cristian J.,2,6,6,,,,2,2,66%,60% (32/53),48% (13/27),67% (6/9),53% (24/45),38% (6/16),56% (5/9),5,56% (45/80),52% (32/61),55% (77/141),5,70% (7/10),56% (5/9),63% (12/19),"['3', '3', '4', '4', '6', '4']","['2', '2', '4', '2']",[],[],[],1.11
-ITF WOMEN - SINGLES :  W60 Oeiras (Portugal),clay,header
-12.04.2021,Ozgen P.,1,6^3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '5', '2', '6', '5']","['2', '0', '3', '1', '5', '1']","['2', '3']",[],[],1.79
-12.04.2021,Dulgheru A.,2,7^7,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4', '3', '5', '5', '5', '6', '6']","['1', '2']","['2', '0', '4', '2', '6', '2']",[],[],1.94

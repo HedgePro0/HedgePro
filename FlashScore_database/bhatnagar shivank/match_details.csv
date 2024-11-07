@@ -1,9 +1,5 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Singapore (Singapore),hard,header
-12.09. 09:00,Bhatnagar S.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.00
-12.09. 09:00,Shin W.,1,6,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '4', '1']",[],[],[],1.03
-11.09. 11:55,Bhatnagar S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '6', '4']","['3', '1']",[],[],[],2.24
-11.09. 11:55,Nakamura R.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.60
 ITF MEN - SINGLES :  M15 Chandigarh (India),hard,header
 ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
 ITF MEN - SINGLES :  M25 Chennai (India),hard,header
@@ -12,21 +8,32 @@ ITF MEN - SINGLES :  M25 Kalaburagi (India),hard,header
 ITF MEN - SINGLES :  M25 Mumbai (India),hard,header
 ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
 ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
-11.10.2023,Bhatnagar S.,1,7^7,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.57
-11.10.2023,Singh D.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-10.10.2023,Bhatnagar S.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.64
-10.10.2023,Shin W.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
 ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Jakarta 7 (Indonesia),hard,header
 ITF MEN - SINGLES :  M25 Jakarta 6 (Indonesia),hard,header
 ITF MEN - SINGLES :  M15 Jakarta 3 (Indonesia),hard,header
-15.06.2023,Bhatnagar S.,1,2,7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.66
-15.06.2023,Oplustil P.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.12
-14.06.2023,Bhatnagar S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
-14.06.2023,Lumanau C. R.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.10
 ITF MEN - SINGLES :  M25 Jakarta 4 (Indonesia),hard,header
 ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
 ITF MEN - SINGLES :  M15 Bhilai (India),hard,header
 ITF MEN - SINGLES :  M25 Indore (India),hard,header
 ITF MEN - SINGLES :  M15 New Delhi 2 (India),hard,header
 ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Singapore (Singapore),hard,header
+ITF MEN - SINGLES :  M15 Chandigarh (India),hard,header
+ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
+ITF MEN - SINGLES :  M25 Chennai (India),hard,header
+ITF MEN - SINGLES :  M25 Mandya (India),hard,header
+ITF MEN - SINGLES :  M25 Kalaburagi (India),hard,header
+ITF MEN - SINGLES :  M25 Mumbai (India),hard,header
+ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
+ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 7 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 6 (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Jakarta 3 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 4 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
+ITF MEN - SINGLES :  M15 Bhilai (India),hard,header
+ITF MEN - SINGLES :  M25 Indore (India),hard,header
+ITF MEN - SINGLES :  M15 New Delhi 2 (India),hard,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header

@@ -1,22 +1,8 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Krakow (Poland),clay,header
-21.08. 18:10,Ogata H.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '1']",[],[],[],3.02
-21.08. 18:10,Wirglerova S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '2']","['3', '3', '5', '3']",[],[],[],1.35
 ITF WOMEN - SINGLES :  W15 Monastir 31 (Tunisia),hard,header
-13.08. 15:25,Ogata H.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['1', '1']",[],[],[],2.92
-13.08. 15:25,El Allami M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '0', '2', '1']",[],[],[],1.37
 ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
-07.08. 13:15,Ogata H.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.86
-07.08. 13:15,Sholokhova M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.23
-06.08. 16:05,Ogata H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.06
-06.08. 16:05,Tetradze M.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.80
 ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
-01.08. 11:40,Ogata H.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],5.93
-01.08. 11:40,Egorova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '4', '2', '6', '2']",[],[],[],1.11
-31.07. 13:05,Ogata H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.09
-31.07. 13:05,Vig S.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '5']",[],[],[],6.47
-30.07. 14:55,Ogata H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']","['1', '0', '2', '1', '4', '1']",[],[],[],1.09
-30.07. 14:55,Tetradze M.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '1']",[],[],[],6.36
 ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W35 Hillcrest (South Africa),hard,header
@@ -30,11 +16,7 @@ ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
 ITF WOMEN - SINGLES :  W15 Ipoh Perak (Malaysia),hard,header
 ITF WOMEN - SINGLES :  W15 Wellington (New Zealand),hard,header
 ITF WOMEN - SINGLES :  W15 Antalya 21 (Turkey),clay,header
-05.12.2023,Ogata H.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.47
-05.12.2023,Eraydin B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
 ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
-28.11.2023,Ogata H.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.13
-28.11.2023,Garkusha E.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
 ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W40 Nanao (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Sapporo 3 (Japan),hard,header
@@ -43,11 +25,29 @@ ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
 ITF WOMEN - SINGLES :  W15 Singapore (Singapore),hard,header
 ITF WOMEN - SINGLES :  W15 Kuching (Malaysia),hard,header
 ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
-ITF WOMEN - SINGLES :  W15 Ipoh (Malaysia),hard,header
-ITF WOMEN - SINGLES :  W15 Gwalior (India),hard,header
-ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 3 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun 2 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Cancun (Mexico),hard,header
-ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Krakow (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 31 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 Hillcrest (South Africa),hard,header
+ITF WOMEN - SINGLES :  W15 Hillcrest 2 (South Africa),hard,header
+ITF WOMEN - SINGLES :  W15 Hillcrest (South Africa),hard,header
+ITF WOMEN - SINGLES :  W15 Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Shymkent 2 (Kazakhstan),clay,header
+ITF WOMEN - SINGLES :  W15 Shymkent (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Karaganda 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Ipoh Perak (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Wellington (New Zealand),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 21 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W40 Nanao (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Sapporo 3 (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Sapporo (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Singapore (Singapore),hard,header
+ITF WOMEN - SINGLES :  W15 Kuching (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header

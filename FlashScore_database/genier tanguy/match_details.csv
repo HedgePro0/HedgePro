@@ -1,37 +1,314 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-02.10. 13:30,Genier T.,0,4,6^7,,,,[],"['3', '5', '5', '5']",[],[],[],3.30
-02.10. 13:30,Wallart E.,2,6,7^9,,,,"['1', '0']","['2', '1', '4', '1']",[],[],[],1.30
 ITF MEN - SINGLES :  M15 Bali 2 (Indonesia),hard,header
-17.09. 12:55,Genier T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],4.17
-17.09. 12:55,Weber A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '0', '3', '0']",[],[],[],1.20
 ITF MEN - SINGLES :  M25 Bali 2 (Indonesia),hard,header
-ITF MEN - SINGLES :  M25 Bali 2 (Indonesia),hard,header
-11.09. 10:00,Genier T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.06
-11.09. 10:00,Clarke J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '4', '1']",[],[],[],1.08
-10.09. 07:00,Genier T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3', '7', '5']","['4', '2']",[],[],[],1.28
-10.09. 07:00,Ganta S. K. R.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],3.43
 ITF MEN - SINGLES :  M15 Bali (Indonesia),hard,header
-28.08. 11:35,Genier T.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['5', '3']",[],[],3.51
-28.08. 11:35,Colson T.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],1.27
 ITF MEN - SINGLES :  M25 Kassel (Germany),clay,header
-10.07. 17:05,Genier T.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.79
-10.07. 17:05,Weber A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '0']",[],[],[],1.40
 CHALLENGER MEN - SINGLES :  Karlsruhe (Germany) - Qualification,clay,header
-01.07. 13:35,Genier T.,0,3,2,,,,2,1,57%,57% (16/28),43% (9/21),50% (3/6),21% (7/34),17% (2/12),0% (0/1),4,51% (25/49),20% (9/46),36% (34/95),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],7.65
-01.07. 13:35,Rehberg M. H.,2,6,6,,,,2,0,74%,79% (27/34),83% (10/12),100% (1/1),43% (12/28),57% (12/21),50% (3/6),9,80% (37/46),49% (24/49),64% (61/95),5,100% (9/9),38% (3/8),71% (12/17),"['5', '3']","['1', '0', '5', '2']",[],[],[],1.07
-ITF MEN - SINGLES :  M15 Koszalin 2 (Poland),clay,header
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
-ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
-ITF MEN - SINGLES :  M25 Trimbach (Switzerland),hard,header
-ITF MEN - SINGLES :  M25 Doha (Qatar),hard,header
-ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
-ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
-ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
-23.11.2023,Genier T.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-23.11.2023,Matsuoka H.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-ITF MEN - SINGLES :  M25 Sion (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M15 Bali 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Bali 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Bali (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Kassel (Germany),clay,header
+CHALLENGER MEN - SINGLES :  Karlsruhe (Germany) - Qualification,clay,header
+01.07. 13:35,Genier T.,0,3,2,,,,[],[],[],[],[],7.65
+01.07. 13:35,Rehberg M. H.,2,6,6,,,,"['5', '3']","['1', '0', '5', '2']",[],[],[],1.07
+ITF MEN - SINGLES :  M15 Koszalin 2 (Poland),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
+ITF MEN - SINGLES :  M25 Trimbach (Switzerland),hard,header
+ITF MEN - SINGLES :  M25 Doha (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M25 Sion (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+
+
+
+02.10. 13:30,Genier T.,0,4,6^7,,,,[],"['3', '5', '5', '5']",[],[],[],3.30
+
+
+
+
+
+
+
+02.10. 13:30,Wallart E.,2,6,7^9,,,,"['1', '0']","['2', '1', '4', '1']",[],[],[],1.30
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bali 2 (Indonesia),hard,header
+
+
+
+
+
+
+
+17.09. 12:55,Genier T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],4.17
+
+
+
+
+
+
+
+17.09. 12:55,Weber A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '0', '3', '0']",[],[],[],1.20
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Bali 2 (Indonesia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Bali 2 (Indonesia),hard,header
+
+
+
+
+
+
+
+11.09. 10:00,Genier T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.06
+
+
+
+
+
+
+
+11.09. 10:00,Clarke J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '1', '4', '1']",[],[],[],1.08
+
+
+
+
+
+
+
+10.09. 07:00,Genier T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3', '7', '5']","['4', '2']",[],[],[],1.28
+
+
+
+
+
+
+
+10.09. 07:00,Ganta S. K. R.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],3.43
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bali (Indonesia),hard,header
+
+
+
+
+
+
+
+28.08. 11:35,Genier T.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],"['5', '3']",[],[],3.51
+
+
+
+
+
+
+
+28.08. 11:35,Colson T.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '5', '1']",[],[],[],1.27
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kassel (Germany),clay,header
+
+
+
+
+
+
+
+10.07. 17:05,Genier T.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.79
+
+
+
+
+
+
+
+10.07. 17:05,Weber A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '0', '4', '0']",[],[],[],1.40
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Karlsruhe (Germany) - Qualification,clay,header
+
+
+
+
+
+
+
+01.07. 13:35,Genier T.,0,3,2,,,,2,1,57%,57% (16/28),43% (9/21),50% (3/6),21% (7/34),17% (2/12),0% (0/1),4,51% (25/49),20% (9/46),36% (34/95),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],7.65
+
+
+
+
+
+
+
+01.07. 13:35,Rehberg M. H.,2,6,6,,,,2,0,74%,79% (27/34),83% (10/12),100% (1/1),43% (12/28),57% (12/21),50% (3/6),9,80% (37/46),49% (24/49),64% (61/95),5,100% (9/9),38% (3/8),71% (12/17),"['5', '3']","['1', '0', '5', '2']",[],[],[],1.07
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Koszalin 2 (Poland),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Lons-le-Saunier (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Trimbach (Switzerland),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Doha (Qatar),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Doha (Qatar),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
+
+
+
+
+
+
+
+23.11.2023,Genier T.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+
+
+
+
+
+
+
+23.11.2023,Matsuoka H.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Sion (Switzerland),clay,header
+
+
+
+
+
+
+

@@ -1,94 +1,111 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-16.09. 18:35,Bellifemine A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],3.84
-16.09. 18:35,Prechtel S.,0,6^1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '3']",[],[],[],1.23
-13.09. 15:15,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],3.96
-13.09. 15:15,Zekic M.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.22
 ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-05.09. 13:10,Bellifemine A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.26
-05.09. 13:10,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3', '6', '3']",[],[],[],1.59
-04.09. 13:10,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['6', '4']",[],[],[],1.20
-04.09. 13:10,Matuszewski G.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],4.17
 ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
-05.08. 17:15,Bellifemine A.,0,3,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.39
-05.08. 17:15,Ortenzi G. M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']",[],[],[],[],1.53
 ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-19.07. 01:25,Bellifemine A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.90
-19.07. 01:25,Pecci A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.04
-17.07. 14:40,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']","['3', '2', '4', '3', '5', '4']",[],[],[],3.18
-17.07. 14:40,Binda A.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '3', '4', '4']",[],[],[],1.32
 ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
 ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
 CHALLENGER MEN - SINGLES :  Kigali 2 (Rwanda) - Qualification,clay,header
-03.03. 13:40,Bellifemine A.,0,6^1,3,,,,6,3,51%,83% (24/29),54% (15/28),33% (1/3),18% (6/34),27% (6/22),0% (0/0),5,68% (39/57),21% (12/56),45% (51/113),1,82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],3.76
-03.03. 13:40,Bouquet L.,2,7^7,6,,,,7,1,61%,82% (28/34),73% (16/22),0% (0/0),17% (5/29),46% (13/28),67% (2/3),6,79% (44/56),32% (18/57),55% (62/113),3,100% (10/10),18% (2/11),57% (12/21),[],"['1', '0', '6', '3']",[],[],[],1.25
+03.03. 13:40,Bellifemine A.,0,6^1,3,,,,6,3,51%,83% (24/29),54% (15/28),33% (1/3),18% (6/34),27% (6/22),0% (0/0),68% (39/57),21% (12/56),45% (51/113),2,1,82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],3.76
+03.03. 13:40,Bouquet L.,2,7^7,6,,,,7,1,61%,82% (28/34),73% (16/22),0% (0/0),17% (5/29),46% (13/28),67% (2/3),79% (44/56),32% (18/57),55% (62/113),8,0,100% (10/10),18% (2/11),57% (12/21),[],"['1', '0', '6', '3']",[],[],[],1.25
 CHALLENGER MEN - SINGLES :  Kigali (Rwanda) - Qualification,clay,header
-26.02. 13:35,Bellifemine A.,0,5,4,,,,3,4,56%,72% (28/39),48% (15/31),63% (5/8),23% (10/44),52% (13/25),25% (1/4),7,61% (43/70),33% (23/69),47% (66/139),3,73% (8/11),9% (1/11),41% (9/22),"['4', '2']",[],[],[],[],3.03
-26.02. 13:35,Fantini L.,2,7,6,,,,2,1,64%,77% (34/44),48% (12/25),75% (3/4),28% (11/39),52% (16/31),38% (3/8),10,67% (46/69),39% (27/70),53% (73/139),5,91% (10/11),27% (3/11),59% (13/22),"['4', '5', '6', '5']","['4', '3']",[],[],[],1.36
-25.02. 13:40,Bellifemine A.,2,7^7,6^5,6,,,3,5,61%,76% (48/63),58% (23/40),40% (2/5),27% (18/66),59% (27/46),31% (4/13),7,69% (71/103),40% (45/112),54% (116/215),3,82% (14/17),25% (4/16),55% (18/33),"['2', '0']","['4', '5']","['1', '1', '4', '2']",[],[],1.41
-25.02. 13:40,Asaba A.,1,6^1,7^7,3,,,4,15,59%,73% (48/66),41% (19/46),69% (9/13),24% (15/63),43% (17/40),60% (3/5),7,60% (67/112),31% (32/103),46% (99/215),3,75% (12/16),18% (3/17),45% (15/33),"['4', '5']","['2', '0']","['1', '0']",[],[],2.80
+26.02. 13:35,Bellifemine A.,0,5,4,,,,3,4,56%,72% (28/39),48% (15/31),63% (5/8),23% (10/44),52% (13/25),25% (1/4),61% (43/70),33% (23/69),47% (66/139),5,3,73% (8/11),9% (1/11),41% (9/22),"['4', '2']",[],[],[],[],3.03
+26.02. 13:35,Fantini L.,2,7,6,,,,2,1,64%,77% (34/44),48% (12/25),75% (3/4),28% (11/39),52% (16/31),38% (3/8),67% (46/69),39% (27/70),53% (73/139),5,0,91% (10/11),27% (3/11),59% (13/22),"['4', '5', '6', '5']","['4', '3']",[],[],[],1.36
+25.02. 13:40,Bellifemine A.,2,7^7,6^5,6,,,3,5,61%,76% (48/63),58% (23/40),40% (2/5),27% (18/66),59% (27/46),31% (4/13),69% (71/103),40% (45/112),54% (116/215),7,0,82% (14/17),25% (4/16),55% (18/33),"['2', '0']","['4', '5']","['1', '1', '4', '2']",[],[],1.41
+25.02. 13:40,Asaba A.,1,6^1,7^7,3,,,4,15,59%,73% (48/66),41% (19/46),69% (9/13),24% (15/63),43% (17/40),60% (3/5),60% (67/112),31% (32/103),46% (99/215),3,1,75% (12/16),18% (3/17),45% (15/33),"['4', '5']","['2', '0']","['1', '0']",[],[],2.80
 ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
 ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-17.10.2023,Bellifemine A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']",[],[],[],[],7.50
-17.10.2023,Oliveira G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],[],1.06
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
-11.10.2023,Bellifemine A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '5']",[],[],[],[],4.08
-11.10.2023,Pennaforti G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1', '6', '2']","['3', '1', '6', '2']",[],[],[],1.21
-10.10.2023,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '4', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.13
-10.10.2023,Ferri L.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3']","['2', '4']",[],[],[],5.36
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-19.09.2023,Bellifemine A.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '2', '3']",[],[],[],1.70
-19.09.2023,Baroni N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['1', '1', '3', '1', '6', '4']",[],[],[],2.03
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-02.09.2023,Bellifemine A.,0,6^4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.32
-02.09.2023,Pavlovic L.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.30
-01.09.2023,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.47
-01.09.2023,Fajta P.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
-31.08.2023,Bellifemine A.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-31.08.2023,Srbljak G.,1,4,7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
-30.08.2023,Bellifemine A.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
-30.08.2023,Donev G.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.81
 ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
-18.08.2023,Bellifemine A.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.30
-18.08.2023,Boitan G. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-17.08.2023,Bellifemine A.,2,5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-17.08.2023,Dancu V. A.,1,7,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-16.08.2023,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-16.08.2023,Golescu R. A.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.15
 ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
 ITF MEN - SINGLES :  M15 Frascati (Italy),clay,header
-08.06.2023,Bellifemine A.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']",[],[],[],5.15
-08.06.2023,Voisin E.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '3']","['4', '2']",[],[],[],1.14
-07.06.2023,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '5', '1']",[],[],[],6.40
-07.06.2023,Potenza L.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.09
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-18.04.2023,Bellifemine A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],5.45
-18.04.2023,Tabacco G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['2', '1', '6', '3']",[],[],[],1.12
 ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
-05.10.2022,Bellifemine A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],7.60
-05.10.2022,Wenger D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.06
-04.10.2022,Bellifemine A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],2.20
-04.10.2022,Campana F.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '5']",[],[],[],[],1.62
 ITF MEN - SINGLES :  M15 Cairo 10 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Aprilia (Italy),clay,header
-12.07.2022,Bellifemine A.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2']",[],[],[],[],5.20
-12.07.2022,Dalla Valle E.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5', '6', '5']","['1', '0', '3', '0', '6', '1']",[],[],[],1.15
-ITF MEN - SINGLES :  M15 Frascati (Italy),clay,header
-08.06.2022,Bellifemine A.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.10
-08.06.2022,Pereira J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
-ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-18.05.2022,Bellifemine A.,1,3,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.77
-18.05.2022,Emesz B.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.43
-ITF MEN - SINGLES :  M25 Velenje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+CHALLENGER MEN - SINGLES :  Kigali 2 (Rwanda) - Qualification,clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+
+CHALLENGER MEN - SINGLES :  Kigali 2 (Rwanda) - Qualification,clay,header
+
+03.03. 13:40,Bellifemine A.,0,6^1,3,,,,6,3,51%,83% (24/29),54% (15/28),33% (1/3),18% (6/34),27% (6/22),0% (0/0),68% (39/57),21% (12/56),45% (51/113),82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],3.76
+
+03.03. 13:40,Bouquet L.,2,7^7,6,,,,7,1,61%,82% (28/34),73% (16/22),0% (0/0),17% (5/29),46% (13/28),67% (2/3),79% (44/56),32% (18/57),55% (62/113),100% (10/10),18% (2/11),57% (12/21),[],"['1', '0', '6', '3']",[],[],[],1.25
+
+CHALLENGER MEN - SINGLES :  Kigali (Rwanda) - Qualification,clay,header
+
+26.02. 13:35,Bellifemine A.,0,5,4,,,,3,4,56%,72% (28/39),48% (15/31),63% (5/8),23% (10/44),52% (13/25),25% (1/4),61% (43/70),33% (23/69),47% (66/139),73% (8/11),9% (1/11),41% (9/22),"['4', '2']",[],[],[],[],3.03
+
+26.02. 13:35,Fantini L.,2,7,6,,,,2,1,64%,77% (34/44),48% (12/25),75% (3/4),28% (11/39),52% (16/31),38% (3/8),67% (46/69),39% (27/70),53% (73/139),91% (10/11),27% (3/11),59% (13/22),"['4', '5', '6', '5']","['4', '3']",[],[],[],1.36
+
+25.02. 13:40,Bellifemine A.,2,7^7,6^5,6,,,3,5,61%,76% (48/63),58% (23/40),40% (2/5),27% (18/66),59% (27/46),31% (4/13),69% (71/103),40% (45/112),54% (116/215),82% (14/17),25% (4/16),55% (18/33),"['2', '0']","['4', '5']","['1', '1', '4', '2']",[],[],0
+
+25.02. 13:40,Asaba A.,1,6^1,7^7,3,,,4,15,59%,73% (48/66),41% (19/46),69% (9/13),24% (15/63),43% (17/40),60% (3/5),60% (67/112),31% (32/103),46% (99/215),75% (12/16),18% (3/17),45% (15/33),"['4', '5']","['2', '0']","['1', '0']",[],[],0
+
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+
+ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Frascati (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+
+ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+
+ITF MEN - SINGLES :  M15 Cairo 10 (Egypt),clay,header
+
+ITF MEN - SINGLES :  M15 Aprilia (Italy),clay,header
+

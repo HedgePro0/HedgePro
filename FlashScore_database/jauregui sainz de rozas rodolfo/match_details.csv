@@ -1,39 +1,181 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
 ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
 CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
-19.03. 00:40,Jauregui Sainz De Rozas R.,0,2,1,,,,0,1,67%,55% (21/38),32% (6/19),38% (3/8),19% (3/16),32% (7/22),0% (0/0),5,47% (27/57),26% (10/38),39% (37/95),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.38
-19.03. 00:40,Brumm J.,2,6,6,,,,2,0,42%,81% (13/16),68% (15/22),0% (0/0),45% (17/38),68% (13/19),63% (5/8),8,74% (28/38),53% (30/57),61% (58/95),6,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '3', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.14
-18.03. 00:05,Jauregui Sainz De Rozas R.,2,6,6,,,,1,3,70%,65% (20/31),69% (9/13),0% (0/1),40% (16/40),71% (20/28),42% (5/12),7,66% (29/44),53% (36/68),58% (65/112),8,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],1.02
-18.03. 00:05,Delgado G.,0,0,4,,,,0,5,59%,60% (24/40),29% (8/28),58% (7/12),35% (11/31),31% (4/13),100% (1/1),4,47% (32/68),34% (15/44),42% (47/112),2,38% (3/8),13% (1/8),25% (4/16),[],"['2', '4']",[],[],[],11.80
-ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-19.10.2023,Jauregui Sainz De Rozas R.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.33
-19.10.2023,Osorio J. S.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-17.10.2023,Jauregui Sainz De Rozas R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.22
-17.10.2023,Roux E.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.93
-ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
-ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Morelos (Mexico) - Qualification,hard,header
-16.04.2023,Jauregui Sainz De Rozas R.,0,2,2,,,,1,3,67%,43% (17/40),40% (8/20),54% (7/13),24% (6/25),54% (15/28),40% (2/5),4,42% (25/60),40% (21/53),41% (46/113),2,25% (2/8),25% (2/8),25% (4/16),"['2', '5']","['1', '0']",[],[],[],11.00
-16.04.2023,Descotte M. F.,2,6,6,,,,4,2,47%,76% (19/25),46% (13/28),60% (3/5),58% (23/40),60% (12/20),46% (6/13),7,60% (32/53),58% (35/60),59% (67/113),6,75% (6/8),75% (6/8),75% (12/16),"['2', '0', '4', '0', '6', '2']","['2', '2', '4', '2', '6', '2']",[],[],[],1.03
-ITF MEN - SINGLES :  M15 Cancun 13 (Mexico),hard,header
-CHALLENGER MEN - SINGLES :  Morelos (Mexico),hard,header
-26.04.2022,Jauregui Sainz De Rozas R.,0,2,2,,,,1,7,50%,50% (11/22),59% (13/22),20% (1/5),14% (4/29),31% (4/13),0% (0/1),4,55% (24/44),19% (8/42),37% (32/86),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],14.50
-26.04.2022,Quiroz R.,2,6,6,,,,5,1,69%,86% (25/29),69% (9/13),100% (1/1),50% (11/22),41% (9/22),80% (4/5),7,81% (34/42),45% (20/44),63% (54/86),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '3', '0']","['2', '1', '4', '1']",[],[],[],1.01
-ITF MEN - SINGLES :  Morelia (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+19.03. 00:40,Jauregui Sainz De Rozas R.,0,2,1,,,,0,1,67%,55% (21/38),32% (6/19),38% (3/8),19% (3/16),32% (7/22),0% (0/0),47% (27/57),26% (10/38),39% (37/95),2,0,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.38
+19.03. 00:40,Brumm J.,2,6,6,,,,2,0,42%,81% (13/16),68% (15/22),0% (0/0),45% (17/38),68% (13/19),63% (5/8),74% (28/38),53% (30/57),61% (58/95),8,0,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '3', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.14
+18.03. 00:05,Jauregui Sainz De Rozas R.,2,6,6,,,,1,3,70%,65% (20/31),69% (9/13),0% (0/1),40% (16/40),71% (20/28),42% (5/12),66% (29/44),53% (36/68),58% (65/112),5,0,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],1.02
+18.03. 00:05,Delgado G.,0,0,4,,,,0,5,59%,60% (24/40),29% (8/28),58% (7/12),35% (11/31),31% (4/13),100% (1/1),47% (32/68),34% (15/44),42% (47/112),5,1,38% (3/8),13% (1/8),25% (4/16),[],"['2', '4']",[],[],[],11.80
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+CHALLENGER MEN - SINGLES :  Morelos (Mexico) - Qualification,hard,header
+16.04.2023,Jauregui Sainz De Rozas R.,0,2,2,,,,1,3,67%,43% (17/40),40% (8/20),54% (7/13),24% (6/25),54% (15/28),40% (2/5),42% (25/60),40% (21/53),41% (46/113),25% (2/8),25% (2/8),25% (4/16),"['2', '5']","['1', '0']",[],[],[],11.00
+16.04.2023,Descotte M. F.,2,6,6,,,,4,2,47%,76% (19/25),46% (13/28),60% (3/5),58% (23/40),60% (12/20),46% (6/13),60% (32/53),58% (35/60),59% (67/113),75% (6/8),75% (6/8),75% (12/16),"['2', '0', '4', '0', '6', '2']","['2', '2', '4', '2', '6', '2']",[],[],[],1.03
+ITF MEN - SINGLES :  M15 Cancun 13 (Mexico),hard,header
+CHALLENGER MEN - SINGLES :  Morelos (Mexico),hard,header
+26.04.2022,Jauregui Sainz De Rozas R.,0,2,2,,,,1,7,50%,50% (11/22),59% (13/22),20% (1/5),14% (4/29),31% (4/13),0% (0/1),55% (24/44),19% (8/42),37% (32/86),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],14.50
+26.04.2022,Quiroz R.,2,6,6,,,,5,1,69%,86% (25/29),69% (9/13),100% (1/1),50% (11/22),41% (9/22),80% (4/5),81% (34/42),45% (20/44),63% (54/86),100% (8/8),50% (4/8),75% (12/16),"['1', '0', '3', '0']","['2', '1', '4', '1']",[],[],[],1.01
+ITF MEN - SINGLES :  Morelia (Mexico),hard,header
+ITF MEN - SINGLES :  Cordoba 3 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla (Mexico),hard,header
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Villahermosa (Mexico),hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Merida (Mexico) - Qualification,clay,header
+
+
+
+19.03. 00:40,Jauregui Sainz De Rozas R.,0,2,1,,,,0,1,67%,55% (21/38),32% (6/19),38% (3/8),19% (3/16),32% (7/22),0% (0/0),5,47% (27/57),26% (10/38),39% (37/95),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.38
+
+
+
+19.03. 00:40,Brumm J.,2,6,6,,,,2,0,42%,81% (13/16),68% (15/22),0% (0/0),45% (17/38),68% (13/19),63% (5/8),8,74% (28/38),53% (30/57),61% (58/95),6,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '3', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.14
+
+
+
+18.03. 00:05,Jauregui Sainz De Rozas R.,2,6,6,,,,1,3,70%,65% (20/31),69% (9/13),0% (0/1),40% (16/40),71% (20/28),42% (5/12),7,66% (29/44),53% (36/68),58% (65/112),8,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],1.02
+
+
+
+18.03. 00:05,Delgado G.,0,0,4,,,,0,5,59%,60% (24/40),29% (8/28),58% (7/12),35% (11/31),31% (4/13),100% (1/1),4,47% (32/68),34% (15/44),42% (47/112),2,38% (3/8),13% (1/8),25% (4/16),[],"['2', '4']",[],[],[],11.80
+
+
+
+ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
+
+
+
+19.10.2023,Jauregui Sainz De Rozas R.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.33
+
+
+
+19.10.2023,Osorio J. S.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+
+
+
+17.10.2023,Jauregui Sainz De Rozas R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.22
+
+
+
+17.10.2023,Roux E.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.93
+
+
+
+ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Xalapa (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Morelos (Mexico) - Qualification,hard,header
+
+
+
+16.04.2023,Jauregui Sainz De Rozas R.,0,2,2,,,,1,3,67%,43% (17/40),40% (8/20),54% (7/13),24% (6/25),54% (15/28),40% (2/5),4,42% (25/60),40% (21/53),41% (46/113),2,25% (2/8),25% (2/8),25% (4/16),"['2', '5']","['1', '0']",[],[],[],11.00
+
+
+
+16.04.2023,Descotte M. F.,2,6,6,,,,4,2,47%,76% (19/25),46% (13/28),60% (3/5),58% (23/40),60% (12/20),46% (6/13),7,60% (32/53),58% (35/60),59% (67/113),6,75% (6/8),75% (6/8),75% (12/16),"['2', '0', '4', '0', '6', '2']","['2', '2', '4', '2', '6', '2']",[],[],[],1.03
+
+
+
+ITF MEN - SINGLES :  M15 Cancun 13 (Mexico),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Morelos (Mexico),hard,header
+
+
+
+26.04.2022,Jauregui Sainz De Rozas R.,0,2,2,,,,1,7,50%,50% (11/22),59% (13/22),20% (1/5),14% (4/29),31% (4/13),0% (0/1),4,55% (24/44),19% (8/42),37% (32/86),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],14.50
+
+
+
+26.04.2022,Quiroz R.,2,6,6,,,,5,1,69%,86% (25/29),69% (9/13),100% (1/1),50% (11/22),41% (9/22),80% (4/5),7,81% (34/42),45% (20/44),63% (54/86),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '3', '0']","['2', '1', '4', '1']",[],[],[],1.01
+
+
+
+ITF MEN - SINGLES :  Morelia (Mexico),hard,header
+
+
+

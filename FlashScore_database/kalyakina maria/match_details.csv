@@ -1,55 +1,17 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W100 Les Franqueses del Valles (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Sant Vicenc de Torello (Spain),hard,header
 ITF WOMEN - SINGLES :  W35 Baza (Spain),hard,header
-ITF WOMEN - SINGLES :  W35 Baza (Spain),hard,header
-01.10. 23:35,Kalyakina M.,0,4,4,,,,[],"['1', '1', '2', '2']",[],[],[],5.86
-01.10. 23:35,Mikulskyte J.,2,6,6,,,,"['5', '4']","['1', '0', '2', '1', '5', '4']",[],[],[],1.10
 ITF WOMEN - SINGLES :  W15 Monastir 35 (Tunisia),hard,header
-12.09. 15:20,Kalyakina M.,0,6^5,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '5']","['1', '1', '3', '1', '4', '2']",[],[],[],1.51
-12.09. 15:20,Zou R.,2,7^7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '5', '5', '6', '6']","['1', '0', '2', '3', '4', '5']",[],[],[],2.45
-11.09. 19:35,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '3']",[],[],[],2.61
-11.09. 19:35,Raggi A.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],1.45
 ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
-06.09. 13:30,Kalyakina M.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0', '5', '0']","['2', '5']",[],[],2.50
-06.09. 13:30,Golovina M.,2,6,0,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '6', '3']",[],"['2', '0', '4', '0']",[],[],1.49
-05.09. 17:15,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['3', '3', '5', '3']",[],[],[],1.29
-05.09. 17:15,Kaibekova P.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],3.37
-04.09. 19:10,Kalyakina M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '4', '0']",[],[],[],1.86
-04.09. 19:10,Wildgruber A.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],1.86
 ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
-29.08. 13:35,Kalyakina M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['1', '0', '2', '3', '3', '4', '4', '5']",[],[],[],2.01
-29.08. 13:35,Villet M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '7', '5']","['1', '1', '3', '1', '4', '2', '5', '3', '6', '4']",[],[],[],1.73
-27.08. 15:25,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '5', '2']",[],[],[],1.46
-27.08. 15:25,Plekhanova D.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],2.59
 ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
-23.08. 15:45,Kalyakina M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['2', '4']",[],[],[],6.20
-23.08. 15:45,Mansouri Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '3']",[],[],[],1.10
-22.08. 16:50,Kalyakina M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '6', '5']",[],[],[],1.63
-22.08. 16:50,Phanthala M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['2', '2']",[],[],[],2.18
-20.08. 15:15,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['2', '1', '3', '2', '5', '4']",[],[],[],2.92
-20.08. 15:15,Dols S.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '2', '3', '3']",[],[],[],1.37
 ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
-06.08. 13:00,Kalyakina M.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],1.36
-06.08. 13:00,Mamedova E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '5', '2', '6', '3']",[],[],[],2.97
 ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
-02.08. 13:30,Kalyakina M.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']","['1', '1']",[],[],[],4.47
-02.08. 13:30,Egorova D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '5', '4']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.18
-01.08. 11:30,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '4']","['1', '0', '3', '0', '4', '1']",[],[],[],3.18
-01.08. 11:30,Vladson L.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['1', '3', '3', '5']",[],[],[],1.32
-31.07. 11:30,Kalyakina M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '4', '5', '6', '5']","['3', '2', '5', '2', '6', '3']",[],[],[],1.19
-31.07. 11:30,Zakharova E.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['3', '5']",[],[],[],4.37
-30.07. 11:30,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
-30.07. 11:30,Jeladze K.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.11
 ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
-02.05. 11:40,Kalyakina M.,0,5,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3']","['1', '0', '3', '0', '5', '4']",[],[],[],12.10
-02.05. 11:40,Pavlova K.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '5', '7', '5']","['1', '3', '3', '3', '5', '5']",[],[],[],1.01
-01.05. 12:40,Kalyakina M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '6', '2']","['1', '1', '4', '4', '5', '5']",[],[],[],6.63
-01.05. 12:40,Kudashova D.,0,2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '0', '4', '3', '5', '4']",[],[],[],1.09
-30.04. 12:40,Kalyakina M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],[],1.06
-30.04. 12:40,Bochoradze A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '1', '2', '4']",[],[],[],7.60
 ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header
 ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
@@ -59,3 +21,25 @@ ITF WOMEN - SINGLES :  W15 Malaga (Spain),hard,header
 ITF WOMEN - SINGLES :  W25 Monzon (Spain),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W100 Les Franqueses del Valles (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Sant Vicenc de Torello (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Baza (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 35 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Tbilisi (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Ust-Kamenogorsk (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W15 Malaga (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Monzon (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header

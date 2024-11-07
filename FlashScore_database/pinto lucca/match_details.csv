@@ -1,25 +1,23 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Recife (Brazil),clay,header
 CHALLENGER MEN - SINGLES :  Campinas (Brazil) - Qualification,clay,header
-13.10. 18:40,Pinto L.,0,3,1,,,,0,6,49%,52% (13/25),42% (11/26),20% (1/5),25% (8/32),41% (7/17),0% (0/2),5,47% (24/51),31% (15/49),39% (39/100),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],10.20
-13.10. 18:40,Reis Da Silva J.,2,6,6,,,,1,2,65%,75% (24/32),59% (10/17),100% (2/2),48% (12/25),58% (15/26),80% (4/5),8,69% (34/49),53% (27/51),61% (61/100),4,100% (8/8),50% (4/8),75% (12/16),"['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.03
-ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
-23.08. 06:30,Pinto L.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.00
-23.08. 06:30,Boscardin Dias P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '6', '3']",[],[],[],1.06
-21.08. 02:00,Pinto L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']","['1', '0', '5', '4']",[],[],[],1.98
-21.08. 02:00,Meneo T.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2']",[],[],[],1.75
-ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
-ITF MEN - SINGLES :  M25 Sao Paulo (Brazil),clay,header
-ITF MEN - SINGLES :  M15 Belem (Brazil),hard,header
-ITF MEN - SINGLES :  M15 Kingston (Jamaica),hard,header
-CHALLENGER MEN - SINGLES :  Santos (Brazil) - Qualification,clay,header
-05.05. 18:40,Pinto L.,0,3,3,,,,2,3,68%,61% (34/56),38% (10/26),80% (12/15),11% (3/27),37% (7/19),0% (0/0),4,54% (44/82),22% (10/46),42% (54/128),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],6.33
-05.05. 18:40,Sheyngezikht L.,2,6,6,,,,0,1,59%,89% (24/27),63% (12/19),0% (0/0),39% (22/56),62% (16/26),20% (3/15),6,78% (36/46),46% (38/82),58% (74/128),7,100% (9/9),33% (3/9),67% (12/18),"['4', '3', '6', '3']","['2', '0']",[],[],[],1.10
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Belem (Brazil),hard,header
-16.08.2023,Pinto L.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.54
-16.08.2023,Barreiros Reyes M.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.09
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Vacaria (Brazil),clay,header
-ITF MEN - SINGLES :  M15 Cancun 16 (Mexico),hard,header
-ITF MEN - SINGLES :  M15 Cancun 13 (Mexico),hard,header
-ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+CHALLENGER MEN - SINGLES :  Campinas (Brazil) - Qualification,clay,header
+13.10. 18:40,Pinto L.,0,3,1,,,,0,6,49%,52% (13/25),42% (11/26),20% (1/5),0 km/h,0 km/h,25% (8/32),41% (7/17),0% (0/2),47% (24/51),31% (15/49),39% (39/100),3,1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],10.20
+13.10. 18:40,Reis Da Silva J.,2,6,6,,,,1,2,65%,75% (24/32),59% (10/17),100% (2/2),0 km/h,0 km/h,48% (12/25),58% (15/26),80% (4/5),69% (34/49),53% (27/51),61% (61/100),7,0,100% (8/8),50% (4/8),75% (12/16),"['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.03
+ITF MEN - SINGLES :  M25 Belem (Brazil),hard,header
+ITF MEN - SINGLES :  M25 Londrina (Brazil),clay,header
+ITF MEN - SINGLES :  M25 Sao Paulo (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Belem (Brazil),hard,header
+ITF MEN - SINGLES :  M15 Kingston (Jamaica),hard,header
+CHALLENGER MEN - SINGLES :  Santos (Brazil) - Qualification,clay,header
+05.05. 18:40,Pinto L.,0,3,3,,,,2,3,68%,61% (34/56),38% (10/26),80% (12/15),11% (3/27),37% (7/19),0% (0/0),54% (44/82),22% (10/46),42% (54/128),4,1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],6.33
+05.05. 18:40,Sheyngezikht L.,2,6,6,,,,0,1,59%,89% (24/27),63% (12/19),0% (0/0),39% (22/56),62% (16/26),20% (3/15),78% (36/46),46% (38/82),58% (74/128),6,0,100% (9/9),33% (3/9),67% (12/18),"['4', '3', '6', '3']","['2', '0']",[],[],[],1.10
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Belem (Brazil),hard,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Vacaria (Brazil),clay,header
+ITF MEN - SINGLES :  M15 Cancun 16 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 13 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header

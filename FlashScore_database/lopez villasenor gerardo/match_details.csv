@@ -1,18 +1,36 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
-25.07. 23:30,Lopez Villasenor G.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '1']",[],[],[],0
-25.07. 23:30,Gomez J. S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '0', '4', '3', '6', '3']",[],[],[],0
-25.07. 20:30,Lopez Villasenor G.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '4']","['3', '1', '5', '1']",[],[],1.71
-25.07. 20:30,Sanchez M.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['2', '5']",[],[],2.03
 ITF MEN - SINGLES :  M15 Morelia (Mexico),hard,header
-17.10.2023,Lopez Villasenor G.,1,2,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-17.10.2023,Corwin F.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
 ITF MEN - SINGLES :  M25 Zapopan (Mexico),clay,header
 ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-16.09.2022,Lopez Villasenor G.,0,3,4,,,,0,0,68%,67% (24/36),59% (10/17),60% (3/5),21% (9/42),29% (5/17),0% (0/4),4,64% (34/53),24% (14/59),43% (48/112),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],8.10
-16.09.2022,Fatic N.,2,6,6,,,,15,0,71%,79% (33/42),71% (12/17),100% (4/4),33% (12/36),41% (7/17),40% (2/5),7,76% (45/59),36% (19/53),57% (64/112),3,100% (10/10),22% (2/9),63% (12/19),"['2', '0']","['3', '2']",[],[],[],1.08
+16.09.2022,Lopez Villasenor G.,0,3,4,,,,0,0,68%,67% (24/36),59% (10/17),60% (3/5),21% (9/42),29% (5/17),0% (0/4),64% (34/53),24% (14/59),43% (48/112),78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],8.10
+16.09.2022,Fatic N.,2,6,6,,,,15,0,71%,79% (33/42),71% (12/17),100% (4/4),33% (12/36),41% (7/17),40% (2/5),76% (45/59),36% (19/53),57% (64/112),100% (10/10),22% (2/9),63% (12/19),"['2', '0']","['3', '2']",[],[],[],1.08
 ITF MEN - SINGLES :  M15 Cancun 10 (Mexico),hard,header
 ATP - SINGLES :  Acapulco (Mexico) - Qualification,hard,header
-20.02.2022,Lopez Villasenor G.,0,1,1,,,,1,1,62%,52% (12/23),29% (4/14),38% (3/8),17% (3/18),19% (4/21),0% (0/2),3,43% (16/37),26% (10/39),34% (26/76),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],5.08
-20.02.2022,Gojowczyk P.,2,6,6,,,,4,3,46%,83% (15/18),67% (14/21),100% (2/2),48% (11/23),64% (9/14),63% (5/8),11,74% (29/39),57% (21/37),66% (50/76),5,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.18
+20.02.2022,Lopez Villasenor G.,0,1,1,,,,1,1,62%,52% (12/23),29% (4/14),38% (3/8),17% (3/18),19% (4/21),0% (0/2),43% (16/37),26% (10/39),34% (26/76),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],5.08
+20.02.2022,Gojowczyk P.,2,6,6,,,,4,3,46%,83% (15/18),67% (14/21),100% (2/2),48% (11/23),64% (9/14),63% (5/8),74% (29/39),57% (21/37),66% (50/76),100% (7/7),71% (5/7),86% (12/14),"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.18
 CHALLENGER MEN - SINGLES :  Puerto Vallarta (Mexico),hard,header
+24.11.2021,Lopez Villasenor G.,1,7^7,5,0,,,3,1,63%,66% (42/64),47% (18/38),62% (8/13),20% (13/66),54% (13/24),20% (1/5),59% (60/102),29% (26/90),45% (86/192),67% (10/15),7% (1/15),37% (11/30),"['4', '4']",[],[],[],[],2.56
+24.11.2021,Descotte M. F.,2,6^2,7,6,,,3,0,73%,80% (53/66),46% (11/24),80% (4/5),34% (22/64),50% (19/38),38% (5/13),71% (64/90),41% (42/102),55% (106/192),93% (14/15),33% (5/15),63% (19/30),"['2', '1']","['7', '5']","['2', '0', '4', '0', '6', '0']",[],[],1.49
+ITF MEN - SINGLES :  M25 Austin,hard,header
+ITF MEN - SINGLES :  M25 Harlingen,hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 3 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 2 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Medellin (Colombia),clay,header
+ITF MEN - SINGLES :  M15 Ibague (Colombia),clay,header
+ATP - SINGLES :  Los Cabos (Mexico),hard,header
+20.07.2021,Lopez Villasenor G.,0,6^4,2,,,,7,3,62%,64% (32/50),48% (15/31),63% (5/8),14% (5/35),39% (12/31),33% (1/3),58% (47/81),30% (20/66),46% (67/147),70% (7/10),10% (1/10),40% (8/20),"['4', '5']",[],[],[],[],6.65
+20.07.2021,Johnson S.,2,7^7,6,,,,15,3,53%,86% (30/35),52% (16/31),67% (2/3),36% (18/50),42% (13/31),38% (3/8),70% (46/66),42% (34/81),54% (80/147),90% (9/10),30% (3/10),60% (12/20),"['4', '2']","['2', '1', '5', '2']",[],[],[],1.12
+ITF MEN - SINGLES :  M15 Weston,clay,header
+ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ATP - SINGLES :  Acapulco (Mexico),hard,header
+16.03.2021,Lopez Villasenor G.,0,4,2,,,,1,2,63%,64% (21/33),37% (7/19),43% (3/7),20% (5/25),22% (4/18),100% (1/1),54% (28/52),26% (11/43),41% (39/95),56% (5/9),11% (1/9),33% (6/18),"['4', '4']",[],[],[],[],5.08
+16.03.2021,Koepfer D.,2,6,6,,,,4,2,58%,80% (20/25),67% (12/18),0% (0/1),36% (12/33),53% (10/19),57% (4/7),74% (32/43),46% (24/52),59% (56/95),89% (8/9),44% (4/9),67% (12/18),"['1', '0', '5', '4']","['3', '2', '5', '2']",[],[],[],1.18
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+ITF MEN - SINGLES :  M25 Vale Do Lobo (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Torello (Spain),hard,header

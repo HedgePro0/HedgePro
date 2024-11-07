@@ -1,68 +1,322 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
 ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
 ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
 CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
-03.09.2023,Ilkel B.,0,2,2,,,,0,3,52%,46% (11/24),41% (9/22),29% (2/7),19% (5/26),44% (8/18),33% (1/3),4,43% (20/46),30% (13/44),37% (33/90),2,38% (3/8),13% (1/8),25% (4/16),[],"['1', '1']",[],[],[],11.50
-03.09.2023,Orlov V.,2,6,6,,,,3,1,59%,81% (21/26),56% (10/18),67% (2/3),54% (13/24),59% (13/22),71% (5/7),9,70% (31/44),57% (26/46),63% (57/90),5,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '4', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.02
-ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Tbilisi (Georgia),hard,header
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 23 (Turkey),clay,header
-06.12.2022,Ilkel B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
-06.12.2022,Philippov E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.21
-ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Gaziantep (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
-12.09.2022,Ilkel B.,0,4,1,,,,1,1,72%,58% (19/33),31% (4/13),20% (1/5),26% (8/31),31% (4/13),100% (1/1),8,50% (23/46),27% (12/44),39% (35/90),3,50% (4/8),11% (1/9),29% (5/17),"['3', '4']",[],[],[],[],26.00
-12.09.2022,Verdasco F.,2,6,6,,,,5,3,70%,74% (23/31),69% (9/13),0% (0/1),42% (14/33),69% (9/13),80% (4/5),11,73% (32/44),50% (23/46),61% (55/90),7,89% (8/9),50% (4/8),71% (12/17),"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],1.01
-ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
-CHALLENGER MEN - SINGLES :  Heilbronn (Germany) - Qualification,clay,header
-08.05.2022,Ilkel B.,0,0,1,,,,0,1,66%,30% (8/27),57% (8/14),44% (4/9),23% (7/30),47% (7/15),0% (0/0),2,39% (16/41),31% (14/45),35% (30/86),1,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],8.20
-08.05.2022,Bachinger M.,2,6,6,,,,1,2,67%,77% (23/30),53% (8/15),0% (0/0),70% (19/27),43% (6/14),56% (5/9),4,69% (31/45),61% (25/41),65% (56/86),11,100% (7/7),83% (5/6),92% (12/13),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.06
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 35 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 34 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 29 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
-ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
-CHALLENGER MEN - SINGLES :  Istanbul 2 (Turkey) - Qualification,hard,header
-12.09.2021,Ilkel B.,0,1,3,,,,1,5,38%,56% (10/18),34% (10/29),38% (3/8),30% (7/23),18% (4/22),33% (1/3),5,43% (20/47),29% (13/45),36% (33/92),1,38% (3/8),13% (1/8),25% (4/16),[],"['3', '5']",[],[],[],10.50
-12.09.2021,Shevchenko A.,2,6,6,,,,2,2,51%,70% (16/23),73% (16/22),67% (2/3),39% (7/18),48% (14/29),63% (5/8),10,71% (32/45),57% (27/47),64% (59/92),5,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '4', '0']","['3', '2', '5', '2', '6', '3']",[],[],[],1.04
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+03.09.2023,Ilkel B.,0,2,2,,,,0,3,52%,46% (11/24),41% (9/22),29% (2/7),19% (5/26),44% (8/18),33% (1/3),43% (20/46),30% (13/44),37% (33/90),38% (3/8),13% (1/8),25% (4/16),[],"['1', '1']",[],[],[],11.50
+03.09.2023,Orlov V.,2,6,6,,,,3,1,59%,81% (21/26),56% (10/18),67% (2/3),54% (13/24),59% (13/22),71% (5/7),70% (31/44),57% (26/46),63% (57/90),88% (7/8),63% (5/8),75% (12/16),"['1', '0', '4', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.02
+ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Tbilisi (Georgia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 23 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Gaziantep (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+12.09.2022,Ilkel B.,0,4,1,,,,1,1,72%,58% (19/33),31% (4/13),20% (1/5),26% (8/31),31% (4/13),100% (1/1),50% (23/46),27% (12/44),39% (35/90),50% (4/8),11% (1/9),29% (5/17),"['3', '4']",[],[],[],[],26.00
+12.09.2022,Verdasco F.,2,6,6,,,,5,3,70%,74% (23/31),69% (9/13),0% (0/1),42% (14/33),69% (9/13),80% (4/5),73% (32/44),50% (23/46),61% (55/90),89% (8/9),50% (4/8),71% (12/17),"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],1.01
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+CHALLENGER MEN - SINGLES :  Heilbronn (Germany) - Qualification,clay,header
+08.05.2022,Ilkel B.,0,0,1,,,,0,1,66%,30% (8/27),57% (8/14),44% (4/9),23% (7/30),47% (7/15),0% (0/0),39% (16/41),31% (14/45),35% (30/86),17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],8.20
+08.05.2022,Bachinger M.,2,6,6,,,,1,2,67%,77% (23/30),53% (8/15),0% (0/0),70% (19/27),43% (6/14),56% (5/9),69% (31/45),61% (25/41),65% (56/86),100% (7/7),83% (5/6),92% (12/13),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.06
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 35 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 34 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 29 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+CHALLENGER MEN - SINGLES :  Istanbul 2 (Turkey) - Qualification,hard,header
+12.09.2021,Ilkel B.,0,1,3,,,,1,5,38%,56% (10/18),34% (10/29),38% (3/8),30% (7/23),18% (4/22),33% (1/3),43% (20/47),29% (13/45),36% (33/92),38% (3/8),13% (1/8),25% (4/16),[],"['3', '5']",[],[],[],10.50
+12.09.2021,Shevchenko A.,2,6,6,,,,2,2,51%,70% (16/23),73% (16/22),67% (2/3),39% (7/18),48% (14/29),63% (5/8),71% (32/45),57% (27/47),64% (59/92),88% (7/8),63% (5/8),75% (12/16),"['2', '0', '4', '0']","['3', '2', '5', '2', '6', '3']",[],[],[],1.04
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey) - Qualification,hard,header
+
+
+
+03.09.2023,Ilkel B.,0,2,2,,,,0,3,52%,46% (11/24),41% (9/22),29% (2/7),19% (5/26),44% (8/18),33% (1/3),4,43% (20/46),30% (13/44),37% (33/90),2,38% (3/8),13% (1/8),25% (4/16),[],"['1', '1']",[],[],[],11.50
+
+
+
+03.09.2023,Orlov V.,2,6,6,,,,3,1,59%,81% (21/26),56% (10/18),67% (2/3),54% (13/24),59% (13/22),71% (5/7),9,70% (31/44),57% (26/46),63% (57/90),5,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '4', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.02
+
+
+
+ITF MEN - SINGLES :  M25 Bodrum (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Tbilisi (Georgia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 23 (Turkey),clay,header
+
+
+
+06.12.2022,Ilkel B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
+
+
+
+06.12.2022,Philippov E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.21
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 22 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Antalya 5 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M25 Gaziantep (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+
+
+
+12.09.2022,Ilkel B.,0,4,1,,,,1,1,72%,58% (19/33),31% (4/13),20% (1/5),26% (8/31),31% (4/13),100% (1/1),8,50% (23/46),27% (12/44),39% (35/90),3,50% (4/8),11% (1/9),29% (5/17),"['3', '4']",[],[],[],[],26.00
+
+
+
+12.09.2022,Verdasco F.,2,6,6,,,,5,3,70%,74% (23/31),69% (9/13),0% (0/1),42% (14/33),69% (9/13),80% (4/5),11,73% (32/44),50% (23/46),61% (55/90),7,89% (8/9),50% (4/8),71% (12/17),"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],1.01
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+
+
+
+CHALLENGER MEN - SINGLES :  Heilbronn (Germany) - Qualification,clay,header
+
+
+
+08.05.2022,Ilkel B.,0,0,1,,,,0,1,66%,30% (8/27),57% (8/14),44% (4/9),23% (7/30),47% (7/15),0% (0/0),2,39% (16/41),31% (14/45),35% (30/86),1,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],8.20
+
+
+
+08.05.2022,Bachinger M.,2,6,6,,,,1,2,67%,77% (23/30),53% (8/15),0% (0/0),70% (19/27),43% (6/14),56% (5/9),4,69% (31/45),61% (25/41),65% (56/86),11,100% (7/7),83% (5/6),92% (12/13),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.06
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 35 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 34 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 29 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 3 (Bulgaria),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Sozopol 2 (Bulgaria),hard,header
+
+
+
+CHALLENGER MEN - SINGLES :  Istanbul 2 (Turkey) - Qualification,hard,header
+
+
+
+12.09.2021,Ilkel B.,0,1,3,,,,1,5,38%,56% (10/18),34% (10/29),38% (3/8),30% (7/23),18% (4/22),33% (1/3),5,43% (20/47),29% (13/45),36% (33/92),1,38% (3/8),13% (1/8),25% (4/16),[],"['3', '5']",[],[],[],10.50
+
+
+
+12.09.2021,Shevchenko A.,2,6,6,,,,2,2,51%,70% (16/23),73% (16/22),67% (2/3),39% (7/18),48% (14/29),63% (5/8),10,71% (32/45),57% (27/47),64% (59/92),5,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '4', '0']","['3', '2', '5', '2', '6', '3']",[],[],[],1.04
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+
+
+
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+
+
+

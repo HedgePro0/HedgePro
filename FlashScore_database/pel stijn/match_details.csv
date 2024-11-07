@@ -1,18 +1,9 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M25 Norwich (United Kingdom),hard,header
 ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
-18.09. 19:50,Pel S.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],5.99
-18.09. 19:50,Moeller M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.11
 ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
-13.09. 16:15,Pel S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
-13.09. 16:15,Dalmasso G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '6', '3']",[],[],[],1.69
-11.09. 13:00,Pel S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.95
-11.09. 13:00,Parisca I.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],1.77
 ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
-14.08. 14:25,Pel S.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
-14.08. 14:25,Wang A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '4']",[],[],[],1.94
 ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
-17.07. 14:30,Pel S.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.42
-17.07. 14:30,Legout T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
 ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
 ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
@@ -24,16 +15,8 @@ ITF MEN - SINGLES :  M25 Creteil (France),hard,header
 ITF MEN - SINGLES :  M15 Lannion (France),hard,header
 ITF MEN - SINGLES :  M15 Grenoble (France),hard,header
 ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-21.11.2023,Pel S.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
-21.11.2023,Edengren K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
 ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
 ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
-12.10.2023,Pel S.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.56
-12.10.2023,Bax F.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.26
-11.10.2023,Pel S.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-11.10.2023,Vishwakarma S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-10.10.2023,Shah A.,0,0,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.21
-10.10.2023,Pel S.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.61
 ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
 ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
 ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
@@ -42,10 +25,433 @@ ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
 ITF MEN - SINGLES :  M25 Lucknow (India),hard,header
 ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
 ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-11.01.2023,Pel S.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2']",[],[],[],1.04
-11.01.2023,Sibille I.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '4']","['2', '0']",[],[],7.80
 ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
-23.11.2022,Pel S.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.54
-23.11.2022,Vallejo D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],1.18
 ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Norwich (United Kingdom),hard,header
+ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+ITF MEN - SINGLES :  M15 Grenoble (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
+ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Lucknow (India),hard,header
+ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
+
+ITF MEN - SINGLES :  M15 Vaxjo (Sweden),hard,header
+
+
+
+18.09. 19:50,Pel S.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],5.99
+
+
+
+
+
+
+
+18.09. 19:50,Moeller M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.11
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+
+
+
+
+
+
+
+13.09. 16:15,Pel S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
+
+
+
+
+
+
+
+13.09. 16:15,Dalmasso G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '6', '3']",[],[],[],1.69
+
+
+
+
+
+
+
+11.09. 13:00,Pel S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.95
+
+
+
+
+
+
+
+11.09. 13:00,Parisca I.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],1.77
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
+
+
+
+
+
+
+
+14.08. 14:25,Pel S.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
+
+
+
+
+
+
+
+14.08. 14:25,Wang A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '4']",[],[],[],1.94
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+
+
+
+
+
+
+
+17.07. 14:30,Pel S.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.42
+
+
+
+
+
+
+
+17.07. 14:30,Legout T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.18
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Grenoble (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+
+
+
+
+
+
+
+21.11.2023,Pel S.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+
+
+
+
+
+
+
+21.11.2023,Edengren K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
+
+
+
+
+
+
+
+12.10.2023,Pel S.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.56
+
+
+
+
+
+
+
+12.10.2023,Bax F.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.26
+
+
+
+
+
+
+
+11.10.2023,Pel S.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+
+
+
+
+
+
+
+11.10.2023,Vishwakarma S.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+
+
+
+
+
+
+
+10.10.2023,Shah A.,0,0,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.21
+
+
+
+
+
+
+
+10.10.2023,Pel S.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.61
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Lucknow (India),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+
+
+
+
+
+
+
+11.01.2023,Pel S.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2']",[],[],[],1.04
+
+
+
+
+
+
+
+11.01.2023,Sibille I.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '4']","['2', '0']",[],[],7.80
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+
+
+
+
+
+
+
+23.11.2022,Pel S.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.54
+
+
+
+
+
+
+
+23.11.2022,Vallejo D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],1.18
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 3 (Egypt),hard,header
+
+
+
+
+
+
+

@@ -1,94 +1,827 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-02.10. 19:05,Lanik T.,0,4,2,,,,[],"['2', '0']",[],[],[],2.89
-02.10. 19:05,Massard L.,2,6,6,,,,"['2', '1']","['1', '2', '3', '2', '5', '2']",[],[],[],1.37
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-25.09. 16:30,Lanik T.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']",[],[],[],2.47
-25.09. 16:30,Michnev P.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['1', '0']",[],[],1.49
-ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-27.08. 16:00,Lanik T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.58
-27.08. 16:00,Oberleitner N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.09
-ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
-14.08. 14:30,Lanik T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.86
-14.08. 14:30,Sorger S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['2', '1', '5', '2']",[],[],[],1.23
-ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-26.07. 13:30,Lanik T.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.95
-26.07. 13:30,Karol M.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.77
-25.07. 13:40,Lanik T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['4', '3', '6', '3']",[],[],[],1.45
-25.07. 13:40,Nad P.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.62
-24.07. 15:45,Lanik T.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '3']",[],"['2', '0', '4', '0', '6', '0']",[],[],1.08
-24.07. 15:45,Baranec D.,1,3,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '4']",[],[],[],6.69
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-28.06. 14:40,Lanik T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '3']",[],[],[],3.86
-28.06. 14:40,Gulin S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '3']",[],[],[],1.23
-27.06. 14:10,Lanik T.,2,6^2,7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '0', '3', '3', '7', '5']","['4', '4', '7', '5']",[],[],1.25
-27.06. 14:10,Basel V.,1,7^7,5,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '2', '3', '2']","['3', '2']",[],[],3.69
-25.06. 14:10,Lanik T.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '4']","['3', '1', '5', '1']",[],[],1.67
-25.06. 14:10,Prechtel S.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '4']",[],[],[],2.11
-ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
-CHALLENGER MEN - SINGLES :  Prostejov (Czech Republic) - Qualification,clay,header
-02.06. 15:00,Lanik T.,0,4,3,,,,4,4,46%,63% (20/32),42% (16/38),60% (6/10),31% (13/42),45% (10/22),40% (2/5),5,51% (36/70),36% (23/64),44% (59/134),2,56% (5/9),20% (2/10),37% (7/19),"['1', '2', '4', '3']",[],[],[],[],4.69
-02.06. 15:00,Bittoun C.,2,6,6,,,,2,0,66%,69% (29/42),55% (12/22),60% (3/5),38% (12/32),58% (22/38),40% (4/10),12,64% (41/64),49% (34/70),56% (75/134),4,80% (8/10),44% (4/9),63% (12/19),"['2', '0', '4', '4', '6', '4']","['5', '3']",[],[],[],1.17
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
-ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
-14.09.2023,Lanik T.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
-14.09.2023,La Vela G.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
-13.09.2023,Lanik T.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.66
-13.09.2023,Flores J.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.12
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-31.08.2023,Lanik T.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.65
-31.08.2023,Donald M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.13
-29.08.2023,Lanik T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-29.08.2023,Mardjonovic A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
-ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
-ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
-CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
-11.06.2023,Lanik T.,1,6,3,6^3,,,8,9,60%,75% (46/61),48% (19/40),67% (4/6),29% (20/70),48% (25/52),15% (2/13),7,64% (65/101),37% (45/122),49% (110/223),3,87% (13/15),13% (2/15),50% (15/30),"['3', '1']",[],"['3', '1']",[],[],5.76
-11.06.2023,Vrbensky M.,2,3,6,7^7,,,5,7,57%,71% (50/70),52% (27/52),85% (11/13),25% (15/61),53% (21/40),33% (2/6),5,63% (77/122),36% (36/101),51% (113/223),3,87% (13/15),13% (2/15),50% (15/30),[],"['2', '0']","['4', '5']",[],[],1.12
-ITF MEN - SINGLES :  M15 Sarajevo (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M15 Krsko (Slovenia),clay,header
-18.05.2023,Lanik T.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
-18.05.2023,Steiner M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
-ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M25 Szabolcsveresmart (Hungary),clay,header
-ITF MEN - SINGLES :  M25 Poznan (Poland),clay,header
-CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
-14.08.2022,Lanik T.,1,2,7^7,3,,,19,3,64%,78% (39/50),57% (16/28),50% (3/6),21% (16/75),52% (15/29),0% (0/7),5,71% (55/78),30% (31/104),47% (86/182),1,79% (11/14),0% (0/15),38% (11/29),[],[],[],[],[],7.70
-14.08.2022,Setkic A.,2,6,6^5,6,,,4,8,72%,79% (59/75),48% (14/29),100% (7/7),22% (11/50),43% (12/28),50% (3/6),4,70% (73/104),29% (23/78),53% (96/182),5,100% (15/15),21% (3/14),62% (18/29),"['2', '1', '4', '1']",[],"['4', '2']",[],[],1.07
-ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-06.04.2022,Lanik T.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.64
-06.04.2022,Kawakami R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Bratislava 3 (Slovakia),clay,header
-EXHIBITION - MEN :  Zilina Open (Slovakia),clay,header
-30.07.2020,Lanik T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],0
-30.07.2020,Gombos N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '4']","['1', '0', '4', '1']",[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+27.10. 18:40,Lanik T.,1,7^8,6^3,6^4,,,12,4,54%,72% (52/72),61% (38/62),100% (4/4),24% (19/79),20% (7/35),0% (0/3),67% (90/134),23% (26/114),47% (116/248),4,1,100% (18/18),0% (0/18),50% (18/36),[],[],[],[],[],10.20
+27.10. 18:40,Monteiro T.,2,6^6,7^7,7^7,,,10,2,69%,76% (60/79),80% (28/35),100% (3/3),28% (20/72),39% (24/62),0% (0/4),77% (88/114),33% (44/134),53% (132/248),6,0,100% (18/18),0% (0/18),50% (18/36),[],[],[],[],[],1.03
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+CHALLENGER MEN - SINGLES :  Prostejov (Czech Republic) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+
+CHALLENGER MEN - SINGLES :  Prostejov (Czech Republic) - Qualification,clay,header
+
+02.06. 15:00,Lanik T.,0,4,3,,,,4,4,46%,63% (20/32),42% (16/38),60% (6/10),31% (13/42),45% (10/22),40% (2/5),51% (36/70),36% (23/64),44% (59/134),56% (5/9),20% (2/10),37% (7/19),"['1', '2', '4', '3']",[],[],[],[],4.69
+
+02.06. 15:00,Bittoun C.,2,6,6,,,,2,0,66%,69% (29/42),55% (12/22),60% (3/5),38% (12/32),58% (22/38),40% (4/10),64% (41/64),49% (34/70),56% (75/134),80% (8/10),44% (4/9),63% (12/19),"['2', '0', '4', '4', '6', '4']","['5', '3']",[],[],[],1.17
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+
+ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
+
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+
+ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
+
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Kayseri (Turkey),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+
+
+
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+
+
+
+
+
+
+
+02.10. 19:05,Lanik T.,0,4,2,,,,[],"['2', '0']",[],[],[],2.89
+
+
+
+
+
+
+
+02.10. 19:05,Massard L.,2,6,6,,,,"['2', '1']","['1', '2', '3', '2', '5', '2']",[],[],[],1.37
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+
+
+
+
+
+
+
+25.09. 16:30,Lanik T.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']",[],[],[],2.47
+
+
+
+
+
+
+
+25.09. 16:30,Michnev P.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['1', '0']",[],[],1.49
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+
+
+
+
+
+
+
+27.08. 16:00,Lanik T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.58
+
+
+
+
+
+
+
+27.08. 16:00,Oberleitner N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.09
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+
+
+
+
+
+
+
+14.08. 14:30,Lanik T.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.86
+
+
+
+
+
+
+
+14.08. 14:30,Sorger S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['2', '1', '5', '2']",[],[],[],1.23
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+
+
+
+
+
+
+
+26.07. 13:30,Lanik T.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.95
+
+
+
+
+
+
+
+26.07. 13:30,Karol M.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.77
+
+
+
+
+
+
+
+25.07. 13:40,Lanik T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['4', '3', '6', '3']",[],[],[],1.45
+
+
+
+
+
+
+
+25.07. 13:40,Nad P.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.62
+
+
+
+
+
+
+
+24.07. 15:45,Lanik T.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '3']",[],"['2', '0', '4', '0', '6', '0']",[],[],1.08
+
+
+
+
+
+
+
+24.07. 15:45,Baranec D.,1,3,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '4']",[],[],[],6.69
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+
+
+
+
+
+
+
+28.06. 14:40,Lanik T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '3']",[],[],[],3.86
+
+
+
+
+
+
+
+28.06. 14:40,Gulin S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '3', '0', '6', '3']",[],[],[],1.23
+
+
+
+
+
+
+
+27.06. 14:10,Lanik T.,2,6^2,7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '0', '3', '3', '7', '5']","['4', '4', '7', '5']",[],[],1.25
+
+
+
+
+
+
+
+27.06. 14:10,Basel V.,1,7^7,5,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '2', '3', '2']","['3', '2']",[],[],3.69
+
+
+
+
+
+
+
+25.06. 14:10,Lanik T.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '6', '4']","['3', '1', '5', '1']",[],[],1.67
+
+
+
+
+
+
+
+25.06. 14:10,Prechtel S.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '4']",[],[],[],2.11
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Prostejov (Czech Republic) - Qualification,clay,header
+
+
+
+
+
+
+
+02.06. 15:00,Lanik T.,0,4,3,,,,4,4,46%,63% (20/32),42% (16/38),60% (6/10),31% (13/42),45% (10/22),40% (2/5),5,51% (36/70),36% (23/64),44% (59/134),2,56% (5/9),20% (2/10),37% (7/19),"['1', '2', '4', '3']",[],[],[],[],4.69
+
+
+
+
+
+
+
+02.06. 15:00,Bittoun C.,2,6,6,,,,2,0,66%,69% (29/42),55% (12/22),60% (3/5),38% (12/32),58% (22/38),40% (4/10),12,64% (41/64),49% (34/70),56% (75/134),4,80% (8/10),44% (4/9),63% (12/19),"['2', '0', '4', '4', '6', '4']","['5', '3']",[],[],[],1.17
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
+
+
+
+
+
+
+
+14.09.2023,Lanik T.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
+
+
+
+
+
+
+
+14.09.2023,La Vela G.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
+
+
+
+
+
+
+
+13.09.2023,Lanik T.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.66
+
+
+
+
+
+
+
+13.09.2023,Flores J.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.12
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+
+
+
+
+
+
+
+31.08.2023,Lanik T.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.65
+
+
+
+
+
+
+
+31.08.2023,Donald M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.13
+
+
+
+
+
+
+
+29.08.2023,Lanik T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
+
+
+
+
+
+
+
+29.08.2023,Mardjonovic A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.43
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
+
+
+
+
+
+
+
+11.06.2023,Lanik T.,1,6,3,6^3,,,8,9,60%,75% (46/61),48% (19/40),67% (4/6),29% (20/70),48% (25/52),15% (2/13),7,64% (65/101),37% (45/122),49% (110/223),3,87% (13/15),13% (2/15),50% (15/30),"['3', '1']",[],"['3', '1']",[],[],5.76
+
+
+
+
+
+
+
+11.06.2023,Vrbensky M.,2,3,6,7^7,,,5,7,57%,71% (50/70),52% (27/52),85% (11/13),25% (15/61),53% (21/40),33% (2/6),5,63% (77/122),36% (36/101),51% (113/223),3,87% (13/15),13% (2/15),50% (15/30),[],"['2', '0']","['4', '5']",[],[],1.12
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sarajevo (Bosnia and Herzegovina),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Krsko (Slovenia),clay,header
+
+
+
+
+
+
+
+18.05.2023,Lanik T.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
+
+
+
+
+
+
+
+18.05.2023,Steiner M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Monastir 16 (Tunisia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Szabolcsveresmart (Hungary),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Poznan (Poland),clay,header
+
+
+
+
+
+
+
+CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
+
+
+
+
+
+
+
+14.08.2022,Lanik T.,1,2,7^7,3,,,19,3,64%,78% (39/50),57% (16/28),50% (3/6),21% (16/75),52% (15/29),0% (0/7),5,71% (55/78),30% (31/104),47% (86/182),1,79% (11/14),0% (0/15),38% (11/29),[],[],[],[],[],7.70
+
+
+
+
+
+
+
+14.08.2022,Setkic A.,2,6,6^5,6,,,4,8,72%,79% (59/75),48% (14/29),100% (7/7),22% (11/50),43% (12/28),50% (3/6),4,70% (73/104),29% (23/78),53% (96/182),5,100% (15/15),21% (3/14),62% (18/29),"['2', '1', '4', '1']",[],"['4', '2']",[],[],1.07
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Poprad (Slovakia),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+
+
+
+
+
+
+
+06.04.2022,Lanik T.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.64
+
+
+
+
+
+
+
+06.04.2022,Kawakami R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+
+
+
+
+
+
+
+ITF MEN - SINGLES :  M15 Bratislava 3 (Slovakia),clay,header
+
+
+
+
+
+
+
+EXHIBITION - MEN :  Zilina Open (Slovakia),clay,header
+
+
+
+
+
+
+
+30.07.2020,Lanik T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],0
+
+
+
+
+
+
+
+30.07.2020,Gombos N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '4']","['1', '0', '4', '1']",[],[],[],0
+
+
+
+
+
+
+

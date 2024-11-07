@@ -1,11 +1,7 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W50 Guiyang (China),hard,header
-11.09. 09:00,Li Y.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']",[],[],[],[],8.25
-11.09. 09:00,Laskevich E.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['1', '0', '6', '3']","['4', '2']",[],[],1.05
 ITF WOMEN - SINGLES :  W35 Luzhou (China),hard,header
 ITF WOMEN - SINGLES :  W50 Anning (China),clay,header
-15.05. 10:25,Li Y.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.32
-15.05. 10:25,Wang J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.19
 ITF WOMEN - SINGLES :  W35 Solarino 2 (Italy),hard,header
 ITF WOMEN - SINGLES :  W40 Anning (China),clay,header
 ITF WOMEN - SINGLES :  W25 Tainan (Taiwan),clay,header
@@ -23,18 +19,8 @@ ITF WOMEN - SINGLES :  W15 Antalya 21 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
 GIRLS - SINGLES :  US Open (USA) - Qualification,hard,header
-02.09.2022,Li Y.,1,1,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '4', '2', '5', '3']","['3', '5', '4', '5']",[],[],0
-02.09.2022,Hamilton A.,2,6,3,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['2', '3', '3', '4']","['2', '0', '5', '2', '6', '4', '7', '4', '10', '5']",[],[],0
 WTA - SINGLES :  Billie Jean King Cup - Group II (World),-,header
-11.08.2022,Li Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '4']","['2', '0', '5', '1']",[],[],[],0
-11.08.2022,Huynh S.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],0
 GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
-06.07.2022,Li Y.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']",[],[],[],[],0
-06.07.2022,Seidel E.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '5']","['2', '1']",[],[],[],0
-04.07.2022,Li Y.,2,7^7,6^3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['2', '1']","['2', '0', '3', '1']",[],[],0
-04.07.2022,Preston T.,1,6^5,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['5', '5']","['1', '2']",[],[],0
-03.07.2022,Li Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],0
-03.07.2022,Klugman H.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],0
 GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
 ITF WOMEN - SINGLES :  W15 Catez Ob Savi (Slovenia),clay,header
 GIRLS - SINGLES :  Australian Open (Australia),hard,header

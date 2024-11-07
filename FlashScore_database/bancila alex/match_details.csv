@@ -1,13 +1,8 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Bloomfield Hills (USA) - Qualification,hard,header
-30.06. 19:35,Bancila A.,0,3,4,,,,0,4,57%,79% (22/28),43% (9/21),50% (2/4),7% (2/28),47% (15/32),0% (0/1),5,63% (31/49),28% (17/60),44% (48/109),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],7.65
-30.06. 19:35,Langmo C.,2,6,6,,,,4,3,47%,93% (26/28),53% (17/32),100% (1/1),21% (6/28),57% (12/21),50% (2/4),5,72% (43/60),37% (18/49),56% (61/109),3,100% (10/10),22% (2/9),63% (12/19),"['3', '1']","['4', '3']",[],[],[],1.07
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-16.11.2023,Bancila A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],3.64
-16.11.2023,Banerjee S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['2', '1', '4', '1', '6', '3']",[],[],[],1.25
-16.11.2023,Bancila A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.23
-16.11.2023,Muller C.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],3.83
-ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
-26.07.2023,Bancila A.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '5', '4']",[],[],[],2.38
-26.07.2023,Flores J.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['4', '4', '5', '5', '7', '5']",[],[],[],1.53
-ITF MEN - SINGLES :  M15 Rochester,clay,header
+CHALLENGER MEN - SINGLES :  Bloomfield Hills (USA) - Qualification,hard,header
+30.06. 19:35,Bancila A.,0,3,4,,,,0,4,57%,79% (22/28),43% (9/21),50% (2/4),7% (2/28),47% (15/32),0% (0/1),63% (31/49),28% (17/60),44% (48/109),5,2,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],7.65
+30.06. 19:35,Langmo C.,2,6,6,,,,4,3,47%,93% (26/28),53% (17/32),100% (1/1),21% (6/28),57% (12/21),50% (2/4),72% (43/60),37% (18/49),56% (61/109),5,0,100% (10/10),22% (2/9),63% (12/19),"['3', '1']","['4', '3']",[],[],[],1.07
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
