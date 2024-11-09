@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
 ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
 ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
@@ -20,178 +20,64 @@ ITF WOMEN - SINGLES :  Saguenay (Canada),hard,header
 WTA - SINGLES :  Toronto (Canada) - Qualification,hard,header
 ITF WOMEN - SINGLES :  Granby (Canada),hard,header
 ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
-ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
-ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
-ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
-ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
-ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W60 Macon,hard,header
-ITF WOMEN - SINGLES :  W25 Wichita,hard,header
-ITF WOMEN - SINGLES :  W25 Sumter,hard,header
-ITF WOMEN - SINGLES :  W60 Pelham,clay,header
-ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header
-ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  Saguenay (Canada),hard,header
-WTA - SINGLES :  Toronto (Canada) - Qualification,hard,header
-ITF WOMEN - SINGLES :  Granby (Canada),hard,header
-ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
-ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
-
-ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
-
-ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-
-ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-
-
-
-ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
-
-
-
-12.09. 20:30,Arseneault A.,0,1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '0', '3', '2', '4', '3', '6', '5']",[],[],[],1.72
-
-
-
-12.09. 20:30,Pfeifer L.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '2', '3', '3', '4', '4', '6', '6']",[],[],[],2.02
-
-
-
-11.09. 22:50,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4', '4', '4', '6', '4']","['2', '0', '5', '1']",[],[],[],0
-
-
-
-11.09. 22:50,Higuita Barraza M. I.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1']",[],[],[],[],0
-
-
-
-ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
-
-
-
-03.09. 20:00,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['2', '0', '4', '4', '6', '4']",[],[],[],1.04
-
-
-
-03.09. 20:00,Dean J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '2', '3', '2']",[],[],[],8.80
-
-
-
-ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
-
-
-
-24.08. 02:15,Arseneault A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.36
-
-
-
-24.08. 02:15,Cross K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.54
-
-
-
-21.08. 23:30,Arseneault A.,2,6^2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '0', '3', '2', '5', '2']","['4', '3', '6', '3']",[],[],1.37
-
-
-
-21.08. 23:30,Robinson J.,1,7^7,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '5']","['1', '1']",[],[],[],2.99
-
-
-
-19.08. 21:40,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '3', '5', '3']",[],[],[],1.09
-
-
-
-19.08. 21:40,Dean J.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],6.41
-
-
-
-ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
-
-
-
-16.07. 19:35,Arseneault A.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']",[],"['3', '5']",[],[],3.69
-
-
-
-16.07. 19:35,Liang E. S.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '5', '2']","['1', '0', '3', '0']",[],[],1.25
-
-
-
-ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
-
-
-
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-
-
-
-25.10.2023,Arseneault A.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2']","['2', '1']",[],[],7.14
-
-
-
-25.10.2023,Fett J.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0']","['3', '3', '5', '3']",[],[],1.07
-
-
-
-ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
-
-
-
-27.10.2022,Arseneault A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '1']",[],[],[],3.82
-
-
-
-27.10.2022,Fung S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],1.24
-
-
-
-ITF WOMEN - SINGLES :  W60 Macon,hard,header
-
-
-
-20.10.2022,Arseneault A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '1', '3', '3']",[],[],[],0
-
-
-
-20.10.2022,Podoroska N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2']","['1', '0', '2', '1', '4', '3', '6', '3']",[],[],[],14.00
-
-
-
-19.10.2022,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '2', '5', '2']",[],[],[],1.95
-
-
-
-19.10.2022,Ansari C.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
-
-
-
-ITF WOMEN - SINGLES :  W25 Wichita,hard,header
-
-
-
-ITF WOMEN - SINGLES :  W25 Sumter,hard,header
-
-
-
-ITF WOMEN - SINGLES :  W60 Pelham,clay,header
-
-
-
-18.05.2022,Arseneault A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],7.90
-
-
-
-18.05.2022,Scott K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.07
-
-
-
-ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header
-
-
-
+ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Macon,hard,header
+ITF WOMEN - SINGLES :  W25 Wichita,hard,header
+ITF WOMEN - SINGLES :  W25 Sumter,hard,header
+ITF WOMEN - SINGLES :  W60 Pelham,clay,header
+ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  Saguenay (Canada),hard,header
+WTA - SINGLES :  Toronto (Canada) - Qualification,hard,header
+ITF WOMEN - SINGLES :  Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+12.09. 20:30,Arseneault A.,0,1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '0', '3', '2', '4', '3', '6', '5']",[],[],[],1.72
+12.09. 20:30,Pfeifer L.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '2', '3', '3', '4', '4', '6', '6']",[],[],[],2.02
+11.09. 22:50,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4', '4', '4', '6', '4']","['2', '0', '5', '1']",[],[],[],0
+11.09. 22:50,Higuita Barraza M. I.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1']",[],[],[],[],0
+ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
+03.09. 20:00,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['2', '0', '4', '4', '6', '4']",[],[],[],1.04
+03.09. 20:00,Dean J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '2', '3', '2']",[],[],[],8.80
+ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
+24.08. 02:15,Arseneault A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.36
+24.08. 02:15,Cross K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.54
+21.08. 23:30,Arseneault A.,2,6^2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['1', '0', '3', '2', '5', '2']","['4', '3', '6', '3']",[],[],1.37
+21.08. 23:30,Robinson J.,1,7^7,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '5']","['1', '1']",[],[],[],2.99
+19.08. 21:40,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['3', '3', '5', '3']",[],[],[],1.09
+19.08. 21:40,Dean J.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],6.41
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+16.07. 19:35,Arseneault A.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']",[],"['3', '5']",[],[],3.69
+16.07. 19:35,Liang E. S.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '5', '2']","['1', '0', '3', '0']",[],[],1.25
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+25.10.2023,Arseneault A.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2']","['2', '1']",[],[],7.14
+25.10.2023,Fett J.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0']","['3', '3', '5', '3']",[],[],1.07
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+27.10.2022,Arseneault A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '1']",[],[],[],3.82
+27.10.2022,Fung S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],1.24
+ITF WOMEN - SINGLES :  W60 Macon,hard,header
+20.10.2022,Arseneault A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '1', '3', '3']",[],[],[],0
+20.10.2022,Podoroska N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2']","['1', '0', '2', '1', '4', '3', '6', '3']",[],[],[],14.00
+19.10.2022,Arseneault A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '2', '5', '2']",[],[],[],1.95
+19.10.2022,Ansari C.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
+ITF WOMEN - SINGLES :  W25 Wichita,hard,header
+ITF WOMEN - SINGLES :  W25 Sumter,hard,header
+ITF WOMEN - SINGLES :  W60 Pelham,clay,header
+18.05.2022,Arseneault A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1']",[],[],[],7.90
+18.05.2022,Scott K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.07
+ITF WOMEN - SINGLES :  W15 Cancun 8 (Mexico),hard,header

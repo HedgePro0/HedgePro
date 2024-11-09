@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Sanxenxo (Spain),hard,header
 ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
 CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
@@ -17,42 +17,24 @@ ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
 ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
 ITF MEN - SINGLES :  M15 Tay Ninh (Vietnam),hard,header
 ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
-ITF MEN - SINGLES :  M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
-CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Sanxenxo (Spain),hard,header
-
-ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
-
-CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
-
-28.01. 07:25,Sorensen L.,1,3,6,0,,,2,4,61%,63% (34/54),40% (14/35),50% (5/10),23% (11/47),56% (18/32),40% (2/5),54% (48/89),37% (29/79),46% (77/168),58% (7/12),15% (2/13),36% (9/25),[],"['3', '1', '6', '4']",[],[],[],5.54
-
-28.01. 07:25,Marinkov P.,2,6,4,6,,,7,5,59%,77% (36/47),44% (14/32),60% (3/5),37% (20/54),60% (21/35),50% (5/10),63% (50/79),46% (41/89),54% (91/168),85% (11/13),42% (5/12),64% (16/25),"['3', '1']","['4', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.13
-
-ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Davangere (India),hard,header
-
-ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
-
-ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Jakarta 4 (Indonesia),hard,header
-
-ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
-
-ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
-
-ITF MEN - SINGLES :  M15 Tay Ninh (Vietnam),hard,header
-
-ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
-
+ITF MEN - SINGLES :  M15 Sanxenxo (Spain),hard,header
+ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Sanxenxo (Spain),hard,header
+ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
+28.01. 07:25,Sorensen L.,1,3,6,0,,,2,4,61%,63% (34/54),40% (14/35),50% (5/10),23% (11/47),56% (18/32),40% (2/5),54% (48/89),37% (29/79),46% (77/168),58% (7/12),15% (2/13),36% (9/25),[],"['3', '1', '6', '4']",[],[],[],5.54
+28.01. 07:25,Marinkov P.,2,6,4,6,,,7,5,59%,77% (36/47),44% (14/32),60% (3/5),37% (20/54),60% (21/35),50% (5/10),63% (50/79),46% (41/89),54% (91/168),85% (11/13),42% (5/12),64% (16/25),"['3', '1']","['4', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.13
+ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
+ITF MEN - SINGLES :  M15 Davangere (India),hard,header
+ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
+ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
+ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
+ITF MEN - SINGLES :  M15 Jakarta 4 (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
+ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Tay Ninh (Vietnam),hard,header
+ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header

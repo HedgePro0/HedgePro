@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Luan (China),hard,header
 ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
 CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
@@ -39,650 +39,110 @@ ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
-
-17.10.2023,Wang X.,0,3,4,,,,2,3,41%,89% (17/19),52% (14/27),0% (0/2),15% (5/33),40% (10/25),0% (0/3),67% (31/46),26% (15/58),44% (46/104),78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],5.60
-
-17.10.2023,Zhukayev B.,2,6,6,,,,11,4,57%,85% (28/33),60% (15/25),100% (3/3),11% (2/19),48% (13/27),100% (2/2),74% (43/58),33% (15/46),56% (58/104),100% (10/10),22% (2/9),63% (12/19),"['5', '3']","['3', '2']",[],[],[],1.12
-
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-
-CHALLENGER MEN - SINGLES :  Shanghai (China) - Qualification,hard,header
-
-CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
-
-CHALLENGER MEN - SINGLES :  Zhuhai (China),hard,header
-
-22.08.2023,Wang X.,0,6^4,0,,,,6,2,65%,72% (23/32),41% (7/17),25% (1/4),24% (9/38),42% (11/26),0% (0/6),61% (30/49),31% (20/64),44% (50/113),67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],2.27
-
-22.08.2023,Sakellaridis S.,2,7^7,6,,,,5,4,59%,76% (29/38),58% (15/26),100% (6/6),28% (9/32),59% (10/17),75% (3/4),69% (44/64),39% (19/49),56% (63/113),100% (9/9),33% (3/9),67% (12/18),[],"['1', '0', '3', '0', '5', '0']",[],[],[],1.59
-
-CHALLENGER MEN - SINGLES :  Zhuhai (China) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
-
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-
-ITF MEN - SINGLES :  M25 Fuzhou (China),hard,header
-
-ITF MEN - SINGLES :  M15 Shanghai (China),hard,header
-
-ITF MEN - SINGLES :  M15 Tianjin 4 (China),hard,header
-
-ITF MEN - SINGLES :  M15 Tianjin 3 (China),hard,header
-
-ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
-
-ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
-
-
-
-
-
-
-
-08.11.2023,Wang X.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
-
-
-
-
-
-
-
-08.11.2023,Lavizzari M.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.48
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
-
-
-
-
-
-
-
-17.10.2023,Wang X.,0,3,4,,,,2,3,41%,89% (17/19),52% (14/27),0% (0/2),15% (5/33),40% (10/25),0% (0/3),5,67% (31/46),26% (15/58),44% (46/104),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],5.60
-
-
-
-
-
-
-
-17.10.2023,Zhukayev B.,2,6,6,,,,11,4,57%,85% (28/33),60% (15/25),100% (3/3),11% (2/19),48% (13/27),100% (2/2),6,74% (43/58),33% (15/46),56% (58/104),3,100% (10/10),22% (2/9),63% (12/19),"['5', '3']","['3', '2']",[],[],[],1.12
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-
-
-
-
-
-
-
-10.10.2023,Wang X.,0,1,4,,,,1,1,67%,59% (20/34),41% (7/17),0% (0/3),8% (2/26),33% (6/18),0% (0/0),4,53% (27/51),18% (8/44),37% (35/95),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],3.49
-
-
-
-
-
-
-
-10.10.2023,Li Z.,2,6,6,,,,4,3,59%,92% (24/26),67% (12/18),0% (0/0),41% (14/34),59% (10/17),100% (3/3),6,82% (36/44),47% (24/51),63% (60/95),5,100% (9/9),38% (3/8),71% (12/17),"['3', '1', '5', '1']","['4', '3']",[],[],[],1.28
-
-
-
-
-
-
-
-09.10.2023,Wang X.,2,6,7,,,,6,1,66%,67% (28/42),55% (12/22),50% (2/4),59% (13/22),55% (17/31),56% (5/9),10,63% (40/64),57% (30/53),60% (70/117),5,80% (8/10),56% (5/9),68% (13/19),"['2', '0', '4', '0']","['3', '4', '4', '5', '6', '5']",[],[],[],2.99
-
-
-
-
-
-
-
-09.10.2023,Li H.,0,1,5,,,,0,4,42%,41% (9/22),45% (14/31),44% (4/9),33% (14/42),45% (10/22),50% (2/4),6,43% (23/53),38% (24/64),40% (47/117),3,44% (4/9),20% (2/10),32% (6/19),[],"['3', '1', '5', '3']",[],[],[],1.37
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Shanghai (China) - Qualification,hard,header
-
-
-
-
-
-
-
-03.09.2023,Wang X.,1,4,6,6^5,,,13,2,68%,72% (47/65),55% (17/31),50% (2/4),23% (14/60),50% (16/32),40% (2/5),6,67% (64/96),33% (30/92),50% (94/188),3,88% (14/16),13% (2/15),52% (16/31),[],"['5', '3']","['3', '4']",[],[],1.88
-
-
-
-
-
-
-
-03.09.2023,Kadhe A.,2,6,3,7^7,,,8,3,65%,77% (46/60),50% (16/32),60% (3/5),28% (18/65),45% (14/31),50% (2/4),11,67% (62/92),33% (32/96),50% (94/188),3,87% (13/15),13% (2/16),48% (15/31),"['3', '2']",[],"['3', '1']",[],[],1.85
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
-
-
-
-
-
-
-
-27.08.2023,Wang X.,0,4,3,,,,5,3,50%,64% (16/25),44% (11/25),33% (2/6),31% (10/32),38% (11/29),100% (2/2),6,54% (27/50),34% (21/61),43% (48/111),2,56% (5/9),20% (2/10),37% (7/19),"['1', '2']","['2', '5']",[],[],[],1.22
-
-
-
-
-
-
-
-27.08.2023,Sheyngezikht L.,2,6,6,,,,1,2,52%,69% (22/32),62% (18/29),0% (0/2),36% (9/25),56% (14/25),67% (4/6),6,66% (40/61),46% (23/50),57% (63/111),5,80% (8/10),44% (4/9),63% (12/19),"['2', '0', '6', '4']","['2', '0', '5', '1']",[],[],[],4.02
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Zhuhai (China),hard,header
-
-
-
-
-
-
-
-22.08.2023,Wang X.,0,6^4,0,,,,6,2,65%,72% (23/32),41% (7/17),25% (1/4),24% (9/38),42% (11/26),0% (0/6),7,61% (30/49),31% (20/64),44% (50/113),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],2.27
-
-
-
-
-
-
-
-22.08.2023,Sakellaridis S.,2,7^7,6,,,,5,4,59%,76% (29/38),58% (15/26),100% (6/6),28% (9/32),59% (10/17),75% (3/4),9,69% (44/64),39% (19/49),56% (63/113),7,100% (9/9),33% (3/9),67% (12/18),[],"['1', '0', '3', '0', '5', '0']",[],[],[],1.59
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Zhuhai (China) - Qualification,hard,header
-
-
-
-
-
-
-
-21.08.2023,Wang X.,2,6,6,,,,7,1,75%,86% (31/36),42% (5/12),83% (5/6),45% (17/38),52% (12/23),67% (4/6),10,75% (36/48),48% (29/61),60% (65/109),5,89% (8/9),44% (4/9),67% (12/18),"['3', '2', '5', '4']","['1', '0', '4', '1']",[],[],[],1.06
-
-
-
-
-
-
-
-21.08.2023,Dong J.,0,4,2,,,,0,4,62%,55% (21/38),48% (11/23),33% (2/6),14% (5/36),58% (7/12),17% (1/6),6,52% (32/61),25% (12/48),40% (44/109),2,56% (5/9),11% (1/9),33% (6/18),"['3', '3']",[],[],[],[],7.75
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Fuzhou (China),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Shanghai (China),hard,header
-
-
-
-
-
-
-
-12.07.2023,Wang X.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.11
-
-
-
-
-
-
-
-12.07.2023,Zhang C.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.79
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin 4 (China),hard,header
-
-
-
-
-
-
-
-05.07.2023,Wang X.,1,7^7,6^5,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
-
-
-
-
-
-
-
-05.07.2023,Wang C.,2,6^3,7^7,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin 3 (China),hard,header
-
-
-
-
-
-
-
-28.06.2023,Wang X.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
-
-
-
-
-
-
-
-28.06.2023,Pan Y.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.64
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
-
-
-
-
-
-
-
-15.06.2023,Wang X.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-
-
-
-
-
-
-
-15.06.2023,Dong Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.31
-
-
-
-
-
-
-
-13.06.2023,Wang X.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
-
-
-
-
-
-
-
-13.06.2023,Zheng Z.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.10
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cancun 10 (Mexico),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 2 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
+17.10.2023,Wang X.,0,3,4,,,,2,3,41%,89% (17/19),52% (14/27),0% (0/2),15% (5/33),40% (10/25),0% (0/3),67% (31/46),26% (15/58),44% (46/104),78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],5.60
+17.10.2023,Zhukayev B.,2,6,6,,,,11,4,57%,85% (28/33),60% (15/25),100% (3/3),11% (2/19),48% (13/27),100% (2/2),74% (43/58),33% (15/46),56% (58/104),100% (10/10),22% (2/9),63% (12/19),"['5', '3']","['3', '2']",[],[],[],1.12
+CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Shanghai (China) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Zhuhai (China),hard,header
+22.08.2023,Wang X.,0,6^4,0,,,,6,2,65%,72% (23/32),41% (7/17),25% (1/4),24% (9/38),42% (11/26),0% (0/6),61% (30/49),31% (20/64),44% (50/113),67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],2.27
+22.08.2023,Sakellaridis S.,2,7^7,6,,,,5,4,59%,76% (29/38),58% (15/26),100% (6/6),28% (9/32),59% (10/17),75% (3/4),69% (44/64),39% (19/49),56% (63/113),100% (9/9),33% (3/9),67% (12/18),[],"['1', '0', '3', '0', '5', '0']",[],[],[],1.59
+CHALLENGER MEN - SINGLES :  Zhuhai (China) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+ITF MEN - SINGLES :  M25 Fuzhou (China),hard,header
+ITF MEN - SINGLES :  M15 Shanghai (China),hard,header
+ITF MEN - SINGLES :  M15 Tianjin 4 (China),hard,header
+ITF MEN - SINGLES :  M15 Tianjin 3 (China),hard,header
+ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
+ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
+ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Hua Hin (Thailand),hard,header
+08.11.2023,Wang X.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
+08.11.2023,Lavizzari M.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.48
+CHALLENGER MEN - SINGLES :  Shenzhen 3 (China),hard,header
+17.10.2023,Wang X.,0,3,4,,,,2,3,41%,89% (17/19),52% (14/27),0% (0/2),15% (5/33),40% (10/25),0% (0/3),5,67% (31/46),26% (15/58),44% (46/104),1,78% (7/9),0% (0/10),37% (7/19),[],[],[],[],[],5.60
+17.10.2023,Zhukayev B.,2,6,6,,,,11,4,57%,85% (28/33),60% (15/25),100% (3/3),11% (2/19),48% (13/27),100% (2/2),6,74% (43/58),33% (15/46),56% (58/104),3,100% (10/10),22% (2/9),63% (12/19),"['5', '3']","['3', '2']",[],[],[],1.12
+CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
+10.10.2023,Wang X.,0,1,4,,,,1,1,67%,59% (20/34),41% (7/17),0% (0/3),8% (2/26),33% (6/18),0% (0/0),4,53% (27/51),18% (8/44),37% (35/95),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],3.49
+10.10.2023,Li Z.,2,6,6,,,,4,3,59%,92% (24/26),67% (12/18),0% (0/0),41% (14/34),59% (10/17),100% (3/3),6,82% (36/44),47% (24/51),63% (60/95),5,100% (9/9),38% (3/8),71% (12/17),"['3', '1', '5', '1']","['4', '3']",[],[],[],1.28
+09.10.2023,Wang X.,2,6,7,,,,6,1,66%,67% (28/42),55% (12/22),50% (2/4),59% (13/22),55% (17/31),56% (5/9),10,63% (40/64),57% (30/53),60% (70/117),5,80% (8/10),56% (5/9),68% (13/19),"['2', '0', '4', '0']","['3', '4', '4', '5', '6', '5']",[],[],[],2.99
+09.10.2023,Li H.,0,1,5,,,,0,4,42%,41% (9/22),45% (14/31),44% (4/9),33% (14/42),45% (10/22),50% (2/4),6,43% (23/53),38% (24/64),40% (47/117),3,44% (4/9),20% (2/10),32% (6/19),[],"['3', '1', '5', '3']",[],[],[],1.37
+CHALLENGER MEN - SINGLES :  Shanghai (China) - Qualification,hard,header
+03.09.2023,Wang X.,1,4,6,6^5,,,13,2,68%,72% (47/65),55% (17/31),50% (2/4),23% (14/60),50% (16/32),40% (2/5),6,67% (64/96),33% (30/92),50% (94/188),3,88% (14/16),13% (2/15),52% (16/31),[],"['5', '3']","['3', '4']",[],[],1.88
+03.09.2023,Kadhe A.,2,6,3,7^7,,,8,3,65%,77% (46/60),50% (16/32),60% (3/5),28% (18/65),45% (14/31),50% (2/4),11,67% (62/92),33% (32/96),50% (94/188),3,87% (13/15),13% (2/16),48% (15/31),"['3', '2']",[],"['3', '1']",[],[],1.85
+CHALLENGER MEN - SINGLES :  Zhangjiagang (China) - Qualification,hard,header
+27.08.2023,Wang X.,0,4,3,,,,5,3,50%,64% (16/25),44% (11/25),33% (2/6),31% (10/32),38% (11/29),100% (2/2),6,54% (27/50),34% (21/61),43% (48/111),2,56% (5/9),20% (2/10),37% (7/19),"['1', '2']","['2', '5']",[],[],[],1.22
+27.08.2023,Sheyngezikht L.,2,6,6,,,,1,2,52%,69% (22/32),62% (18/29),0% (0/2),36% (9/25),56% (14/25),67% (4/6),6,66% (40/61),46% (23/50),57% (63/111),5,80% (8/10),44% (4/9),63% (12/19),"['2', '0', '6', '4']","['2', '0', '5', '1']",[],[],[],4.02
+CHALLENGER MEN - SINGLES :  Zhuhai (China),hard,header
+22.08.2023,Wang X.,0,6^4,0,,,,6,2,65%,72% (23/32),41% (7/17),25% (1/4),24% (9/38),42% (11/26),0% (0/6),7,61% (30/49),31% (20/64),44% (50/113),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],2.27
+22.08.2023,Sakellaridis S.,2,7^7,6,,,,5,4,59%,76% (29/38),58% (15/26),100% (6/6),28% (9/32),59% (10/17),75% (3/4),9,69% (44/64),39% (19/49),56% (63/113),7,100% (9/9),33% (3/9),67% (12/18),[],"['1', '0', '3', '0', '5', '0']",[],[],[],1.59
+CHALLENGER MEN - SINGLES :  Zhuhai (China) - Qualification,hard,header
+21.08.2023,Wang X.,2,6,6,,,,7,1,75%,86% (31/36),42% (5/12),83% (5/6),45% (17/38),52% (12/23),67% (4/6),10,75% (36/48),48% (29/61),60% (65/109),5,89% (8/9),44% (4/9),67% (12/18),"['3', '2', '5', '4']","['1', '0', '4', '1']",[],[],[],1.06
+21.08.2023,Dong J.,0,4,2,,,,0,4,62%,55% (21/38),48% (11/23),33% (2/6),14% (5/36),58% (7/12),17% (1/6),6,52% (32/61),25% (12/48),40% (44/109),2,56% (5/9),11% (1/9),33% (6/18),"['3', '3']",[],[],[],[],7.75
+ITF MEN - SINGLES :  M25 Yinchuan (China),hard,header
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+ITF MEN - SINGLES :  M25 Fuzhou (China),hard,header
+ITF MEN - SINGLES :  M15 Shanghai (China),hard,header
+12.07.2023,Wang X.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.11
+12.07.2023,Zhang C.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.79
+ITF MEN - SINGLES :  M15 Tianjin 4 (China),hard,header
+05.07.2023,Wang X.,1,7^7,6^5,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
+05.07.2023,Wang C.,2,6^3,7^7,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
+ITF MEN - SINGLES :  M15 Tianjin 3 (China),hard,header
+28.06.2023,Wang X.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
+28.06.2023,Pan Y.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.64
+ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
+15.06.2023,Wang X.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+15.06.2023,Dong Z.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.31
+13.06.2023,Wang X.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
+13.06.2023,Zheng Z.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.10
+ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
+ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cancun 10 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 17 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header

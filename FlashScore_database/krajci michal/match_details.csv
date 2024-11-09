@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Szabolcsveresmart 2 (Hungary),hard,header
 ITF MEN - SINGLES :  M15 Szabolcsveresmart (Hungary),hard,header
 ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
@@ -19,534 +19,115 @@ ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
 CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Szabolcsveresmart 2 (Hungary),hard,header
-ITF MEN - SINGLES :  M15 Szabolcsveresmart (Hungary),hard,header
-ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
-ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
-ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-08.10.2023,Krajci M.,0,3,4,,,,3,1,56%,53% (16/30),63% (15/24),40% (2/5),27% (15/56),58% (11/19),17% (1/6),57% (31/54),35% (26/75),44% (57/129),67% (6/9),10% (1/10),37% (7/19),[],"['2', '2']",[],[],[],3.82
-08.10.2023,Valkusz M.,2,6,6,,,,2,1,75%,73% (41/56),42% (8/19),83% (5/6),47% (14/30),38% (9/24),60% (3/5),65% (49/75),43% (23/54),56% (72/129),90% (9/10),33% (3/9),63% (12/19),"['4', '2']","['2', '1', '4', '3']",[],[],[],1.24
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
-ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
-
-ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
-
-12.06.2023,Krajci M.,1,6,3,2,,,3,5,64%,71% (37/52),38% (11/29),67% (8/12),24% (11/45),44% (18/41),25% (2/8),59% (48/81),34% (29/86),46% (77/167),69% (9/13),15% (2/13),42% (11/26),"['3', '1', '5', '3']",[],[],[],[],8.10
-
-12.06.2023,Melzer G.,2,3,6,6,,,5,1,52%,76% (34/45),56% (23/41),75% (6/8),29% (15/52),62% (18/29),33% (4/12),66% (57/86),41% (33/81),54% (90/167),85% (11/13),31% (4/13),58% (15/26),"['3', '4']","['5', '3']","['3', '2', '5', '2']",[],[],1.06
-
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-
-CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-
-06.11.2022,Krajci M.,1,2,6,3,,,4,2,65%,62% (33/53),50% (14/28),60% (6/10),12% (5/41),52% (14/27),100% (2/2),58% (47/81),28% (19/68),44% (66/149),69% (9/13),15% (2/13),42% (11/26),[],"['5', '3']","['2', '3']",[],[],9.20
-
-06.11.2022,Travaglia S.,2,6,3,6,,,10,2,60%,88% (36/41),48% (13/27),0% (0/2),38% (20/53),50% (14/28),40% (4/10),72% (49/68),42% (34/81),56% (83/149),85% (11/13),31% (4/13),58% (15/26),"['2', '1', '5', '2']",[],"['3', '1', '4', '2']",[],[],1.04
-
-ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
-
-
-
-
-
-
-
-01.10. 19:00,Krajci M.,0,4,0,,,,[],[],[],[],[],2.33
-
-
-
-
-
-
-
-01.10. 19:00,Rottoli L.,2,6,6,,,,"['2', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.55
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-06.09. 15:15,Krajci M.,1,7^10,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '5', '3']",[],[],[],[],2.62
-
-
-
-
-
-
-
-06.09. 15:15,Stice T.,2,6^8,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '4', '5']","['5', '3']","['4', '3', '6', '3']",[],[],1.45
-
-
-
-
-
-
-
-05.09. 16:55,Krajci M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3']","['3', '2', '5', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-05.09. 16:55,Boros A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],1.86
-
-
-
-
-
-
-
-03.09. 17:20,Krajci M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '5', '2']",[],[],[],1.90
-
-
-
-
-
-
-
-03.09. 17:20,Donald M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-
-
-
-
-
-
-29.08. 17:20,Krajci M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],5.51
-
-
-
-
-
-
-
-29.08. 17:20,Snitari I.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0']",[],[],[],1.12
-
-
-
-
-
-
-
-28.08. 15:35,Krajci M.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '0', '5', '3']",[],[],[],1.55
-
-
-
-
-
-
-
-28.08. 15:35,Hornung G.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['1', '2']",[],[],[],2.34
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
-
-
-
-
-
-
-
-20.08. 15:30,Krajci M.,1,2,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '1', '4', '1']","['2', '3', '4', '3']",[],[],2.47
-
-
-
-
-
-
-
-20.08. 15:30,De Vincentis M.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '4']","['3', '1', '5', '5']",[],[],1.50
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
-
-
-
-
-
-
-
-13.08. 20:10,Krajci M.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']",[],"['2', '0', '4', '2']",[],[],1.74
-
-
-
-
-
-
-
-13.08. 20:10,Kobierski J.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']","['1', '2', '3', '4', '5', '4']",[],[],1.99
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
-
-
-
-
-
-
-
-24.07. 15:20,Hess S.,0,3,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.60
-
-
-
-
-
-
-
-24.07. 15:20,Krajci M.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.24
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-
-
-
-
-
-
-
-08.10.2023,Krajci M.,0,3,4,,,,3,1,56%,53% (16/30),63% (15/24),40% (2/5),27% (15/56),58% (11/19),17% (1/6),7,57% (31/54),35% (26/75),44% (57/129),2,67% (6/9),10% (1/10),37% (7/19),[],"['2', '2']",[],[],[],3.82
-
-
-
-
-
-
-
-08.10.2023,Valkusz M.,2,6,6,,,,2,1,75%,73% (41/56),42% (8/19),83% (5/6),47% (14/30),38% (9/24),60% (3/5),8,65% (49/75),43% (23/54),56% (72/129),3,90% (9/10),33% (3/9),63% (12/19),"['4', '2']","['2', '1', '4', '3']",[],[],[],1.24
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-06.09.2023,Krajci M.,0,5,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
-
-
-
-
-
-
-
-06.09.2023,Tkemaladze Z.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
-
-
-
-
-
-
-
-12.06.2023,Krajci M.,1,6,3,2,,,3,5,64%,71% (37/52),38% (11/29),67% (8/12),24% (11/45),44% (18/41),25% (2/8),5,59% (48/81),34% (29/86),46% (77/167),3,69% (9/13),15% (2/13),42% (11/26),"['3', '1', '5', '3']",[],[],[],[],8.10
-
-
-
-
-
-
-
-12.06.2023,Melzer G.,2,3,6,6,,,5,1,52%,76% (34/45),56% (23/41),75% (6/8),29% (15/52),62% (18/29),33% (4/12),7,66% (57/86),41% (33/81),54% (90/167),5,85% (11/13),31% (4/13),58% (15/26),"['3', '4']","['5', '3']","['3', '2', '5', '2']",[],[],1.06
-
-
-
-
-
-
-
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
-
-
-
-
-
-
-
-07.12.2022,Krajci M.,0,2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.14
-
-
-
-
-
-
-
-07.12.2022,Rincon D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
-
-
-
-
-
-
-
-06.11.2022,Krajci M.,1,2,6,3,,,4,2,65%,62% (33/53),50% (14/28),60% (6/10),12% (5/41),52% (14/27),100% (2/2),5,58% (47/81),28% (19/68),44% (66/149),3,69% (9/13),15% (2/13),42% (11/26),[],"['5', '3']","['2', '3']",[],[],9.20
-
-
-
-
-
-
-
-06.11.2022,Travaglia S.,2,6,3,6,,,10,2,60%,88% (36/41),48% (13/27),0% (0/2),38% (20/53),50% (14/28),40% (4/10),7,72% (49/68),42% (34/81),56% (83/149),3,85% (11/13),31% (4/13),58% (15/26),"['2', '1', '5', '2']",[],"['3', '1', '4', '2']",[],[],1.04
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Szabolcsveresmart 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Szabolcsveresmart (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+08.10.2023,Krajci M.,0,3,4,,,,3,1,56%,53% (16/30),63% (15/24),40% (2/5),27% (15/56),58% (11/19),17% (1/6),57% (31/54),35% (26/75),44% (57/129),67% (6/9),10% (1/10),37% (7/19),[],"['2', '2']",[],[],[],3.82
+08.10.2023,Valkusz M.,2,6,6,,,,2,1,75%,73% (41/56),42% (8/19),83% (5/6),47% (14/30),38% (9/24),60% (3/5),65% (49/75),43% (23/54),56% (72/129),90% (9/10),33% (3/9),63% (12/19),"['4', '2']","['2', '1', '4', '3']",[],[],[],1.24
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
+12.06.2023,Krajci M.,1,6,3,2,,,3,5,64%,71% (37/52),38% (11/29),67% (8/12),24% (11/45),44% (18/41),25% (2/8),59% (48/81),34% (29/86),46% (77/167),69% (9/13),15% (2/13),42% (11/26),"['3', '1', '5', '3']",[],[],[],[],8.10
+12.06.2023,Melzer G.,2,3,6,6,,,5,1,52%,76% (34/45),56% (23/41),75% (6/8),29% (15/52),62% (18/29),33% (4/12),66% (57/86),41% (33/81),54% (90/167),85% (11/13),31% (4/13),58% (15/26),"['3', '4']","['5', '3']","['3', '2', '5', '2']",[],[],1.06
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+06.11.2022,Krajci M.,1,2,6,3,,,4,2,65%,62% (33/53),50% (14/28),60% (6/10),12% (5/41),52% (14/27),100% (2/2),58% (47/81),28% (19/68),44% (66/149),69% (9/13),15% (2/13),42% (11/26),[],"['5', '3']","['2', '3']",[],[],9.20
+06.11.2022,Travaglia S.,2,6,3,6,,,10,2,60%,88% (36/41),48% (13/27),0% (0/2),38% (20/53),50% (14/28),40% (4/10),72% (49/68),42% (34/81),56% (83/149),85% (11/13),31% (4/13),58% (15/26),"['2', '1', '5', '2']",[],"['3', '1', '4', '2']",[],[],1.04
+ITF MEN - SINGLES :  M25 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+01.10. 19:00,Krajci M.,0,4,0,,,,[],[],[],[],[],2.33
+01.10. 19:00,Rottoli L.,2,6,6,,,,"['2', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.55
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+06.09. 15:15,Krajci M.,1,7^10,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '5', '3']",[],[],[],[],2.62
+06.09. 15:15,Stice T.,2,6^8,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '4', '5']","['5', '3']","['4', '3', '6', '3']",[],[],1.45
+05.09. 16:55,Krajci M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3']","['3', '2', '5', '2']",[],[],[],1.86
+05.09. 16:55,Boros A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],1.86
+03.09. 17:20,Krajci M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '5', '2']",[],[],[],1.90
+03.09. 17:20,Donald M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+29.08. 17:20,Krajci M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],5.51
+29.08. 17:20,Snitari I.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0']",[],[],[],1.12
+28.08. 15:35,Krajci M.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '0', '5', '3']",[],[],[],1.55
+28.08. 15:35,Hornung G.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['1', '2']",[],[],[],2.34
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+20.08. 15:30,Krajci M.,1,2,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '1', '4', '1']","['2', '3', '4', '3']",[],[],2.47
+20.08. 15:30,De Vincentis M.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '4']","['3', '1', '5', '5']",[],[],1.50
+ITF MEN - SINGLES :  M15 Ollersbach (Austria),clay,header
+13.08. 20:10,Krajci M.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']",[],"['2', '0', '4', '2']",[],[],1.74
+13.08. 20:10,Kobierski J.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']","['1', '2', '3', '4', '5', '4']",[],[],1.99
+ITF MEN - SINGLES :  M15 Poprad (Slovakia),clay,header
+24.07. 15:20,Hess S.,0,3,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],1.60
+24.07. 15:20,Krajci M.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.24
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+08.10.2023,Krajci M.,0,3,4,,,,3,1,56%,53% (16/30),63% (15/24),40% (2/5),27% (15/56),58% (11/19),17% (1/6),7,57% (31/54),35% (26/75),44% (57/129),2,67% (6/9),10% (1/10),37% (7/19),[],"['2', '2']",[],[],[],3.82
+08.10.2023,Valkusz M.,2,6,6,,,,2,1,75%,73% (41/56),42% (8/19),83% (5/6),47% (14/30),38% (9/24),60% (3/5),8,65% (49/75),43% (23/54),56% (72/129),3,90% (9/10),33% (3/9),63% (12/19),"['4', '2']","['2', '1', '4', '3']",[],[],[],1.24
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+06.09.2023,Krajci M.,0,5,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
+06.09.2023,Tkemaladze Z.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava (Slovakia) - Qualification,clay,header
+12.06.2023,Krajci M.,1,6,3,2,,,3,5,64%,71% (37/52),38% (11/29),67% (8/12),24% (11/45),44% (18/41),25% (2/8),5,59% (48/81),34% (29/86),46% (77/167),3,69% (9/13),15% (2/13),42% (11/26),"['3', '1', '5', '3']",[],[],[],[],8.10
+12.06.2023,Melzer G.,2,3,6,6,,,5,1,52%,76% (34/45),56% (23/41),75% (6/8),29% (15/52),62% (18/29),33% (4/12),7,66% (57/86),41% (33/81),54% (90/167),5,85% (11/13),31% (4/13),58% (15/26),"['3', '4']","['5', '3']","['3', '2', '5', '2']",[],[],1.06
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+07.12.2022,Krajci M.,0,2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.14
+07.12.2022,Rincon D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+CHALLENGER MEN - SINGLES :  Bratislava 2 (Slovakia) - Qualification,hard,header
+06.11.2022,Krajci M.,1,2,6,3,,,4,2,65%,62% (33/53),50% (14/28),60% (6/10),12% (5/41),52% (14/27),100% (2/2),5,58% (47/81),28% (19/68),44% (66/149),3,69% (9/13),15% (2/13),42% (11/26),[],"['5', '3']","['2', '3']",[],[],9.20
+06.11.2022,Travaglia S.,2,6,3,6,,,10,2,60%,88% (36/41),48% (13/27),0% (0/2),38% (20/53),50% (14/28),40% (4/10),7,72% (49/68),42% (34/81),56% (83/149),3,85% (11/13),31% (4/13),58% (15/26),"['2', '1', '5', '2']",[],"['3', '1', '4', '2']",[],[],1.04

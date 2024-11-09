@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
 ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
@@ -22,2256 +22,330 @@ ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
 ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
 ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
 ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
-ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
-ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
-
-ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
-
-ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
-
-
-
-
-
-
-
-09.11.2023,Tenti F.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.57
-
-
-
-
-
-
-
-09.11.2023,Rodriguez L. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.46
-
-
-
-
-
-
-
-07.11.2023,Tenti F.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-07.11.2023,Aboian L.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-21.09.2023,Tenti F.,0,1,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-
-
-
-
-
-
-
-21.09.2023,Kuzuhara B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-
-
-
-
-
-
-
-19.09.2023,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '3']",[],[],[],1.43
-
-
-
-
-
-
-
-19.09.2023,Ratti L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
-
-
-
-
-
-
-
-06.09.2023,Tenti F.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-06.09.2023,Lehmann N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
-
-
-
-
-
-
-
-31.08.2023,Tenti F.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-
-
-
-
-
-
-
-31.08.2023,Vallejo D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-
-
-
-
-
-
-
-30.08.2023,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
-
-
-
-
-
-
-
-30.08.2023,De Dios F.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.33
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Lima (Peru) - Qualification,clay,header
-
-
-
-
-
-
-
-21.08.2023,Tenti F.,0,2,5,,,,0,0,69%,43% (15/35),44% (7/16),25% (2/8),28% (11/39),65% (13/20),50% (3/6),5,43% (22/51),41% (24/59),42% (46/110),3,40% (4/10),30% (3/10),35% (7/20),"['2', '2']","['1', '3', '4', '4']",[],[],[],2.64
-
-
-
-
-
-
-
-21.08.2023,Lilov V.,2,6,7,,,,1,0,66%,72% (28/39),35% (7/20),50% (3/6),57% (20/35),56% (9/16),75% (6/8),7,59% (35/59),57% (29/51),58% (64/110),7,70% (7/10),60% (6/10),65% (13/20),"['2', '1', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '5']",[],[],[],1.45
-
-
-
-
-
-
-
-20.08.2023,Tenti F.,2,6,1,7^10,,,0,3,85%,65% (51/79),43% (6/14),57% (4/7),33% (22/66),37% (10/27),20% (2/10),5,61% (57/93),34% (32/93),48% (89/186),3,79% (11/14),14% (2/14),46% (13/28),"['3', '1']",[],"['2', '2']",[],[],3.09
-
-
-
-
-
-
-
-20.08.2023,Soto M.,1,3,6,6^8,,,7,1,71%,67% (44/66),63% (17/27),80% (8/10),35% (28/79),57% (8/14),43% (3/7),6,66% (61/93),39% (36/93),52% (97/186),5,86% (12/14),21% (3/14),54% (15/28),[],"['2', '0', '5', '1']","['1', '0']",[],[],1.34
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Trujillo (Peru),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Arequipa (Peru),clay,header
-
-
-
-
-
-
-
-08.08.2023,Tenti F.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.17
-
-
-
-
-
-
-
-08.08.2023,La Serna J. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Salinas (Ecuador) - Qualification,hard,header
-
-
-
-
-
-
-
-23.07.2023,Tenti F.,1,6,2,1,,,1,1,72%,52% (28/54),38% (8/21),33% (3/9),35% (20/57),44% (12/27),29% (2/7),4,48% (36/75),38% (32/84),43% (68/159),2,54% (7/13),17% (2/12),36% (9/25),"['4', '2', '6', '4']",[],[],[],[],2.08
-
-
-
-
-
-
-
-23.07.2023,Gomez J. S.,2,4,6,6,,,0,2,68%,65% (37/57),56% (15/27),71% (5/7),48% (26/54),62% (13/21),67% (6/9),11,62% (52/84),52% (39/75),57% (91/159),4,83% (10/12),46% (6/13),64% (16/25),"['3', '4']","['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.70
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Santa Fe (Argentina),clay,header
-
-
-
-
-
-
-
-04.07.2023,Tenti F.,1,7^7,4,3,,,0,5,67%,60% (41/68),47% (16/34),58% (7/12),27% (17/62),55% (27/49),30% (3/10),5,56% (57/102),40% (44/111),47% (101/213),2,67% (10/15),19% (3/16),42% (13/31),"['2', '2']","['4', '5']","['2', '3']",[],[],2.54
-
-
-
-
-
-
-
-04.07.2023,Farjat T.,2,6^5,6,6,,,8,2,56%,73% (45/62),45% (22/49),70% (7/10),40% (27/68),53% (18/34),42% (5/12),7,60% (67/111),44% (45/102),53% (112/213),3,81% (13/16),33% (5/15),58% (18/31),"['2', '1']","['3', '1', '6', '4']","['3', '1', '5', '3']",[],[],1.48
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Rosario-Santa Fe (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 La Nucia (Spain),clay,header
-
-
-
-
-
-
-
-01.06.2023,Tenti F.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5']","['2', '4', '4', '4']",[],[],[],3.96
-
-
-
-
-
-
-
-01.06.2023,Juarez F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '4', '1', '5', '4']",[],[],[],1.23
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pazardzhik 2 (Bulgaria),clay,header
-
-
-
-
-
-
-
-24.05.2023,Tenti F.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
-
-
-
-
-
-
-
-24.05.2023,Fuele M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pazardzhik (Bulgaria),clay,header
-
-
-
-
-
-
-
-16.05.2023,Tenti F.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.81
-
-
-
-
-
-
-
-16.05.2023,Dancu V. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 11 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Tucuman (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tucuman (Argentina),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Sao Leopoldo (Brazil) - Qualification,clay,header
-
-
-
-
-
-
-
-15.11.2022,Tenti F.,0,3,4,,,,0,10,73%,55% (30/55),25% (5/20),45% (5/11),33% (11/33),57% (12/21),43% (3/7),4,47% (35/75),43% (23/54),45% (58/129),2,40% (4/10),33% (3/9),37% (7/19),"['3', '3']","['2', '3', '4', '5']",[],[],[],8.00
-
-
-
-
-
-
-
-15.11.2022,Houkes M.,2,6,6,,,,2,5,61%,67% (22/33),43% (9/21),57% (4/7),45% (25/55),75% (15/20),55% (6/11),5,57% (31/54),53% (40/75),55% (71/129),4,67% (6/9),60% (6/10),63% (12/19),"['2', '1', '4', '3', '6', '3']","['3', '1', '4', '2', '6', '4']",[],[],[],1.06
-
-
-
-
-
-
-
-13.11.2022,Tenti F.,1,6,2,,,,0,0,77%,79% (19/24),43% (3/7),100% (2/2),48% (10/21),71% (5/7),100% (3/3),12,71% (22/31),54% (15/28),63% (37/59),4,100% (5/5),60% (3/5),80% (8/10),"['2', '0', '6', '2']","['2', '0']",[],[],[],1.35
-
-
-
-
-
-
-
-13.11.2022,Roveri Sidney G.,0,2,0,,,,0,1,75%,52% (11/21),29% (2/7),0% (0/3),21% (5/24),57% (4/7),0% (0/2),4,46% (13/28),29% (9/31),37% (22/59),1,40% (2/5),0% (0/5),20% (2/10),[],[],[],[],[],3.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lima (Peru),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile),clay,header
-
-
-
-
-
-
-
-19.10.2022,Tenti F.,0,5,0,,,,0,2,76%,50% (31/62),20% (4/20),56% (9/16),37% (13/35),58% (14/24),38% (3/8),5,43% (35/82),46% (27/59),44% (62/141),3,22% (2/9),33% (3/9),28% (5/18),"['1', '1', '3', '5', '5', '5']",[],[],[],[],6.55
-
-
-
-
-
-
-
-19.10.2022,Agamenone F.,2,7,6,,,,2,4,59%,63% (22/35),42% (10/24),63% (5/8),50% (31/62),80% (16/20),44% (7/16),5,54% (32/59),57% (47/82),56% (79/141),8,67% (6/9),78% (7/9),72% (13/18),"['1', '0', '3', '2', '5', '2', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.09
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile) - Qualification,clay,header
-
-
-
-
-
-
-
-17.10.2022,Tenti F.,2,6,4,6,,,0,0,84%,72% (44/61),50% (6/12),33% (1/3),41% (18/44),51% (21/41),45% (5/11),8,68% (50/73),46% (39/85),56% (89/158),5,85% (11/13),42% (5/12),64% (16/25),"['2', '0', '4', '0']","['4', '3']","['1', '0', '5', '2']",[],[],1.37
-
-
-
-
-
-
-
-17.10.2022,Cigarran T.,1,1,6,2,,,0,2,52%,59% (26/44),49% (20/41),55% (6/11),28% (17/61),50% (6/12),67% (2/3),5,54% (46/85),32% (23/73),44% (69/158),3,58% (7/12),15% (2/13),36% (9/25),[],"['4', '4', '6', '4']",[],[],[],2.94
-
-
-
-
-
-
-
-16.10.2022,Tenti F.,2,6,6,,,,1,3,62%,77% (30/39),38% (9/24),50% (2/4),65% (15/23),51% (18/35),45% (5/11),12,62% (38/61),57% (33/58),60% (71/119),3,78% (7/9),56% (5/9),67% (12/18),"['1', '1', '3', '3', '6', '4']","['3', '1', '6', '2']",[],[],[],1.56
-
-
-
-
-
-
-
-16.10.2022,Matuszewski P.,0,4,2,,,,1,1,40%,35% (8/23),49% (17/35),55% (6/11),23% (9/39),63% (15/24),50% (2/4),6,43% (25/58),38% (23/61),40% (48/119),2,44% (4/9),22% (2/9),33% (6/18),"['1', '0', '2', '1']",[],[],[],[],2.32
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villa Carlos Paz (Argentina),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Buenos Aires 2 (Argentina) - Qualification,clay,header
-
-
-
-
-
-
-
-25.09.2022,Tenti F.,0,2,3,,,,0,4,65%,50% (18/36),32% (6/19),62% (8/13),36% (13/36),46% (12/26),20% (2/10),6,44% (24/55),40% (25/62),42% (49/117),2,38% (3/8),22% (2/9),29% (5/17),"['2', '1']","['2', '3']",[],[],[],5.60
-
-
-
-
-
-
-
-25.09.2022,Seyboth Wild T.,2,6,6,,,,6,4,58%,64% (23/36),54% (14/26),80% (8/10),50% (18/36),68% (13/19),38% (5/13),7,60% (37/62),56% (31/55),58% (68/117),6,78% (7/9),63% (5/8),71% (12/17),"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '3']",[],[],[],1.12
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca 4 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca 3 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 10 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
-
-
-
-
-
-
-
-07.08.2022,Tenti F.,2,7,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.05
-
-
-
-
-
-
-
-07.08.2022,Kasnikowski M.,1,5,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.12
-
-
-
-
-
-
-
-06.08.2022,Tenti F.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.73
-
-
-
-
-
-
-
-06.08.2022,Vasa E.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.94
-
-
-
-
-
-
-
-05.08.2022,Tenti F.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
-
-
-
-
-
-
-
-05.08.2022,Seateun N.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
-
-
-
-
-
-
-
-04.08.2022,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
-
-
-
-
-
-
-
-04.08.2022,Marek W.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-03.08.2022,Tenti F.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.71
-
-
-
-
-
-
-
-03.08.2022,Gentzsch T.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Innsbruck (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina),clay,header
-
-
-
-
-
-
-
-21.06.2022,Tenti F.,0,1,1,,,,0,1,73%,38% (12/32),17% (2/12),14% (1/7),14% (3/21),50% (8/16),100% (1/1),3,32% (14/44),30% (11/37),31% (25/81),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '5']",[],[],[],6.85
-
-
-
-
-
-
-
-21.06.2022,Hardt N.,2,6,6,,,,1,3,57%,86% (18/21),50% (8/16),0% (0/1),63% (20/32),83% (10/12),86% (6/7),8,70% (26/37),68% (30/44),68% (55/81),8,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.09
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina) - Qualification,clay,header
-
-
-
-
-
-
-
-20.06.2022,Tenti F.,2,6,6,,,,2,3,77%,70% (23/33),60% (6/10),50% (1/2),68% (17/25),60% (12/20),75% (6/8),9,67% (29/43),64% (29/45),66% (58/88),5,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '4', '0']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.13
-
-
-
-
-
-
-
-20.06.2022,Franco T.,0,1,1,,,,0,2,56%,32% (8/25),40% (8/20),25% (2/8),30% (10/33),40% (4/10),50% (1/2),3,36% (16/45),33% (14/43),34% (30/88),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '1']",[],[],[],5.65
-
-
-
-
-
-
-
-20.06.2022,Tenti F.,2,6,6,,,,0,6,72%,61% (28/46),50% (9/18),71% (5/7),50% (15/30),73% (16/22),86% (6/7),8,58% (37/64),60% (31/52),59% (68/116),5,75% (6/8),75% (6/8),75% (12/16),"['1', '0', '3', '0', '4', '1', '5', '2']","['2', '1', '4', '1']",[],[],[],1.19
-
-
-
-
-
-
-
-20.06.2022,Justo G. I.,0,2,2,,,,0,6,58%,50% (15/30),27% (6/22),14% (1/7),39% (18/46),50% (9/18),29% (2/7),5,40% (21/52),42% (27/64),41% (48/116),1,25% (2/8),25% (2/8),25% (4/16),"['1', '3', '2', '4']",[],[],[],[],3.94
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Corrientes (Argentina),clay,header
-
-
-
-
-
-
-
-13.06.2022,Tenti F.,0,2,5,,,,1,5,70%,46% (18/39),29% (5/17),25% (2/8),33% (11/33),45% (14/31),60% (3/5),4,41% (23/56),39% (25/64),40% (48/120),2,40% (4/10),30% (3/10),35% (7/20),"['1', '3', '2', '4']","['5', '3']",[],[],[],7.40
-
-
-
-
-
-
-
-13.06.2022,Hardt N.,2,6,7,,,,0,5,52%,67% (22/33),55% (17/31),40% (2/5),54% (21/39),71% (12/17),75% (6/8),13,61% (39/64),59% (33/56),60% (72/120),4,70% (7/10),60% (6/10),65% (13/20),"['1', '0', '3', '0', '4', '1', '5', '2']","['4', '5', '6', '5']",[],[],[],1.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-
-
-
-
-
-
-
-18.05.2022,Tenti F.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.66
-
-
-
-
-
-
-
-18.05.2022,Llanes F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 6 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairo 2 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 4 (Egypt),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Murcia (Spain) - Qualification,clay,header
-
-
-
-
-
-
-
-03.04.2022,Tenti F.,0,3,2,,,,0,3,64%,53% (18/34),37% (7/19),25% (2/8),43% (23/53),29% (5/17),20% (2/10),6,47% (25/53),40% (28/70),43% (53/123),2,33% (3/9),25% (2/8),29% (5/17),"['2', '4']","['2', '3']",[],[],[],0
-
-
-
-
-
-
-
-03.04.2022,Lopez Montagud C.,2,6,6,,,,2,1,76%,57% (30/53),71% (12/17),80% (8/10),47% (16/34),63% (12/19),75% (6/8),10,60% (42/70),53% (28/53),57% (70/123),4,75% (6/8),67% (6/9),71% (12/17),"['2', '1', '4', '1', '6', '3']","['3', '1', '4', '2', '6', '2']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 18 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 17 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 32 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 31 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Girona (Spain),clay,header
-
-
-
-
-
-
-
-21.10.2021,Tenti F.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '4', '4']",[],[],[],2.69
-
-
-
-
-
-
-
-21.10.2021,Kasnikowski M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '3', '0', '5', '4']",[],[],[],1.45
-
-
-
-
-
-
-
-20.10.2021,Tenti F.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']",[],"['2', '0', '4', '2']",[],[],2.69
-
-
-
-
-
-
-
-20.10.2021,Rodriguez L. J.,1,4,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']","['1', '2', '4', '5']",[],[],1.45
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Platja D'Aro 2 (Spain),clay,header
-
-
-
-
-
-
-
-13.10.2021,Tenti F.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '4', '2']",[],[],[],2.64
-
-
-
-
-
-
-
-13.10.2021,Den Heijer G.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0']","['2', '0', '4', '0']",[],[],1.47
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Platja D'Aro (Spain),clay,header
-
-
-
-
-
-
-
-06.10.2021,Tenti F.,1,2,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '2']","['1', '2']",[],[],6.35
-
-
-
-
-
-
-
-06.10.2021,Lopez Montagud C.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2', '4', '5']","['2', '0', '4', '2', '6', '2']",[],[],1.11
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 16 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 15 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 14 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 13 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
+ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
+ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Grodzisk Mazowiecki (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Santiago (Chile),clay,header
+ITF MEN - SINGLES :  M15 Bragado 2 (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Cochabamba (Bolivia),clay,header
+ITF MEN - SINGLES :  M15 Rosario (Argentina),clay,header
+09.11.2023,Tenti F.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.57
+09.11.2023,Rodriguez L. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.46
+07.11.2023,Tenti F.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+07.11.2023,Aboian L.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+ITF MEN - SINGLES :  M15 Villa Maria (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lajeado (Brazil),clay,header
+ITF MEN - SINGLES :  M25 Mendoza (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Lujan (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+21.09.2023,Tenti F.,0,1,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
+21.09.2023,Kuzuhara B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+19.09.2023,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '3']",[],[],[],1.43
+19.09.2023,Ratti L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
+ITF MEN - SINGLES :  M15 Olavarria (Argentina),clay,header
+06.09.2023,Tenti F.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+06.09.2023,Lehmann N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+ITF MEN - SINGLES :  M15 Buenos Aires (Argentina),clay,header
+31.08.2023,Tenti F.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
+31.08.2023,Vallejo D.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
+30.08.2023,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.19
+30.08.2023,De Dios F.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.33
+CHALLENGER MEN - SINGLES :  Lima (Peru) - Qualification,clay,header
+21.08.2023,Tenti F.,0,2,5,,,,0,0,69%,43% (15/35),44% (7/16),25% (2/8),28% (11/39),65% (13/20),50% (3/6),5,43% (22/51),41% (24/59),42% (46/110),3,40% (4/10),30% (3/10),35% (7/20),"['2', '2']","['1', '3', '4', '4']",[],[],[],2.64
+21.08.2023,Lilov V.,2,6,7,,,,1,0,66%,72% (28/39),35% (7/20),50% (3/6),57% (20/35),56% (9/16),75% (6/8),7,59% (35/59),57% (29/51),58% (64/110),7,70% (7/10),60% (6/10),65% (13/20),"['2', '1', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '5']",[],[],[],1.45
+20.08.2023,Tenti F.,2,6,1,7^10,,,0,3,85%,65% (51/79),43% (6/14),57% (4/7),33% (22/66),37% (10/27),20% (2/10),5,61% (57/93),34% (32/93),48% (89/186),3,79% (11/14),14% (2/14),46% (13/28),"['3', '1']",[],"['2', '2']",[],[],3.09
+20.08.2023,Soto M.,1,3,6,6^8,,,7,1,71%,67% (44/66),63% (17/27),80% (8/10),35% (28/79),57% (8/14),43% (3/7),6,66% (61/93),39% (36/93),52% (97/186),5,86% (12/14),21% (3/14),54% (15/28),[],"['2', '0', '5', '1']","['1', '0']",[],[],1.34
+ITF MEN - SINGLES :  M25 Trujillo (Peru),clay,header
+ITF MEN - SINGLES :  M15 Arequipa (Peru),clay,header
+08.08.2023,Tenti F.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.17
+08.08.2023,La Serna J. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
+CHALLENGER MEN - SINGLES :  Salinas (Ecuador) - Qualification,hard,header
+23.07.2023,Tenti F.,1,6,2,1,,,1,1,72%,52% (28/54),38% (8/21),33% (3/9),35% (20/57),44% (12/27),29% (2/7),4,48% (36/75),38% (32/84),43% (68/159),2,54% (7/13),17% (2/12),36% (9/25),"['4', '2', '6', '4']",[],[],[],[],2.08
+23.07.2023,Gomez J. S.,2,4,6,6,,,0,2,68%,65% (37/57),56% (15/27),71% (5/7),48% (26/54),62% (13/21),67% (6/9),11,62% (52/84),52% (39/75),57% (91/159),4,83% (10/12),46% (6/13),64% (16/25),"['3', '4']","['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.70
+CHALLENGER MEN - SINGLES :  Santa Fe (Argentina),clay,header
+04.07.2023,Tenti F.,1,7^7,4,3,,,0,5,67%,60% (41/68),47% (16/34),58% (7/12),27% (17/62),55% (27/49),30% (3/10),5,56% (57/102),40% (44/111),47% (101/213),2,67% (10/15),19% (3/16),42% (13/31),"['2', '2']","['4', '5']","['2', '3']",[],[],2.54
+04.07.2023,Farjat T.,2,6^5,6,6,,,8,2,56%,73% (45/62),45% (22/49),70% (7/10),40% (27/68),53% (18/34),42% (5/12),7,60% (67/111),44% (45/102),53% (112/213),3,81% (13/16),33% (5/15),58% (18/31),"['2', '1']","['3', '1', '6', '4']","['3', '1', '5', '3']",[],[],1.48
+ITF MEN - SINGLES :  M25 Rosario-Santa Fe (Argentina),clay,header
+ITF MEN - SINGLES :  M25 La Nucia (Spain),clay,header
+01.06.2023,Tenti F.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5']","['2', '4', '4', '4']",[],[],[],3.96
+01.06.2023,Juarez F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '4', '1', '5', '4']",[],[],[],1.23
+ITF MEN - SINGLES :  M15 Pazardzhik 2 (Bulgaria),clay,header
+24.05.2023,Tenti F.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.80
+24.05.2023,Fuele M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.91
+ITF MEN - SINGLES :  M15 Pazardzhik (Bulgaria),clay,header
+16.05.2023,Tenti F.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.81
+16.05.2023,Dancu V. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 11 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
+ITF MEN - SINGLES :  M25 Tucuman (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Tucuman (Argentina),clay,header
+CHALLENGER MEN - SINGLES :  Sao Leopoldo (Brazil) - Qualification,clay,header
+15.11.2022,Tenti F.,0,3,4,,,,0,10,73%,55% (30/55),25% (5/20),45% (5/11),33% (11/33),57% (12/21),43% (3/7),4,47% (35/75),43% (23/54),45% (58/129),2,40% (4/10),33% (3/9),37% (7/19),"['3', '3']","['2', '3', '4', '5']",[],[],[],8.00
+15.11.2022,Houkes M.,2,6,6,,,,2,5,61%,67% (22/33),43% (9/21),57% (4/7),45% (25/55),75% (15/20),55% (6/11),5,57% (31/54),53% (40/75),55% (71/129),4,67% (6/9),60% (6/10),63% (12/19),"['2', '1', '4', '3', '6', '3']","['3', '1', '4', '2', '6', '4']",[],[],[],1.06
+13.11.2022,Tenti F.,1,6,2,,,,0,0,77%,79% (19/24),43% (3/7),100% (2/2),48% (10/21),71% (5/7),100% (3/3),12,71% (22/31),54% (15/28),63% (37/59),4,100% (5/5),60% (3/5),80% (8/10),"['2', '0', '6', '2']","['2', '0']",[],[],[],1.35
+13.11.2022,Roveri Sidney G.,0,2,0,,,,0,1,75%,52% (11/21),29% (2/7),0% (0/3),21% (5/24),57% (4/7),0% (0/2),4,46% (13/28),29% (9/31),37% (22/59),1,40% (2/5),0% (0/5),20% (2/10),[],[],[],[],[],3.04
+ITF MEN - SINGLES :  M15 Lima (Peru),clay,header
+ITF MEN - SINGLES :  M15 Santa Cruz 2 (Bolivia),clay,header
+CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile),clay,header
+19.10.2022,Tenti F.,0,5,0,,,,0,2,76%,50% (31/62),20% (4/20),56% (9/16),37% (13/35),58% (14/24),38% (3/8),5,43% (35/82),46% (27/59),44% (62/141),3,22% (2/9),33% (3/9),28% (5/18),"['1', '1', '3', '5', '5', '5']",[],[],[],[],6.55
+19.10.2022,Agamenone F.,2,7,6,,,,2,4,59%,63% (22/35),42% (10/24),63% (5/8),50% (31/62),80% (16/20),44% (7/16),5,54% (32/59),57% (47/82),56% (79/141),8,67% (6/9),78% (7/9),72% (13/18),"['1', '0', '3', '2', '5', '2', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.09
+CHALLENGER MEN - SINGLES :  Coquimbo 2 (Chile) - Qualification,clay,header
+17.10.2022,Tenti F.,2,6,4,6,,,0,0,84%,72% (44/61),50% (6/12),33% (1/3),41% (18/44),51% (21/41),45% (5/11),8,68% (50/73),46% (39/85),56% (89/158),5,85% (11/13),42% (5/12),64% (16/25),"['2', '0', '4', '0']","['4', '3']","['1', '0', '5', '2']",[],[],1.37
+17.10.2022,Cigarran T.,1,1,6,2,,,0,2,52%,59% (26/44),49% (20/41),55% (6/11),28% (17/61),50% (6/12),67% (2/3),5,54% (46/85),32% (23/73),44% (69/158),3,58% (7/12),15% (2/13),36% (9/25),[],"['4', '4', '6', '4']",[],[],[],2.94
+16.10.2022,Tenti F.,2,6,6,,,,1,3,62%,77% (30/39),38% (9/24),50% (2/4),65% (15/23),51% (18/35),45% (5/11),12,62% (38/61),57% (33/58),60% (71/119),3,78% (7/9),56% (5/9),67% (12/18),"['1', '1', '3', '3', '6', '4']","['3', '1', '6', '2']",[],[],[],1.56
+16.10.2022,Matuszewski P.,0,4,2,,,,1,1,40%,35% (8/23),49% (17/35),55% (6/11),23% (9/39),63% (15/24),50% (2/4),6,43% (25/58),38% (23/61),40% (48/119),2,44% (4/9),22% (2/9),33% (6/18),"['1', '0', '2', '1']",[],[],[],[],2.32
+ITF MEN - SINGLES :  M25 Rio Cuarto (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Villa Carlos Paz (Argentina),clay,header
+CHALLENGER MEN - SINGLES :  Buenos Aires 2 (Argentina) - Qualification,clay,header
+25.09.2022,Tenti F.,0,2,3,,,,0,4,65%,50% (18/36),32% (6/19),62% (8/13),36% (13/36),46% (12/26),20% (2/10),6,44% (24/55),40% (25/62),42% (49/117),2,38% (3/8),22% (2/9),29% (5/17),"['2', '1']","['2', '3']",[],[],[],5.60
+25.09.2022,Seyboth Wild T.,2,6,6,,,,6,4,58%,64% (23/36),54% (14/26),80% (8/10),50% (18/36),68% (13/19),38% (5/13),7,60% (37/62),56% (31/55),58% (68/117),6,78% (7/9),63% (5/8),71% (12/17),"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '3']",[],[],[],1.12
+ITF MEN - SINGLES :  M15 Casablanca 4 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca 3 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 10 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+07.08.2022,Tenti F.,2,7,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.05
+07.08.2022,Kasnikowski M.,1,5,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.12
+06.08.2022,Tenti F.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.73
+06.08.2022,Vasa E.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.94
+05.08.2022,Tenti F.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
+05.08.2022,Seateun N.,1,4,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
+04.08.2022,Tenti F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
+04.08.2022,Marek W.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+03.08.2022,Tenti F.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.71
+03.08.2022,Gentzsch T.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.04
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Innsbruck (Austria),clay,header
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina),clay,header
+21.06.2022,Tenti F.,0,1,1,,,,0,1,73%,38% (12/32),17% (2/12),14% (1/7),14% (3/21),50% (8/16),100% (1/1),3,32% (14/44),30% (11/37),31% (25/81),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '5']",[],[],[],6.85
+21.06.2022,Hardt N.,2,6,6,,,,1,3,57%,86% (18/21),50% (8/16),0% (0/1),63% (20/32),83% (10/12),86% (6/7),8,70% (26/37),68% (30/44),68% (55/81),8,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.09
+CHALLENGER MEN - SINGLES :  Buenos Aires (Argentina) - Qualification,clay,header
+20.06.2022,Tenti F.,2,6,6,,,,2,3,77%,70% (23/33),60% (6/10),50% (1/2),68% (17/25),60% (12/20),75% (6/8),9,67% (29/43),64% (29/45),66% (58/88),5,86% (6/7),86% (6/7),86% (12/14),"['2', '0', '4', '0']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.13
+20.06.2022,Franco T.,0,1,1,,,,0,2,56%,32% (8/25),40% (8/20),25% (2/8),30% (10/33),40% (4/10),50% (1/2),3,36% (16/45),33% (14/43),34% (30/88),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '1']",[],[],[],5.65
+20.06.2022,Tenti F.,2,6,6,,,,0,6,72%,61% (28/46),50% (9/18),71% (5/7),50% (15/30),73% (16/22),86% (6/7),8,58% (37/64),60% (31/52),59% (68/116),5,75% (6/8),75% (6/8),75% (12/16),"['1', '0', '3', '0', '4', '1', '5', '2']","['2', '1', '4', '1']",[],[],[],1.19
+20.06.2022,Justo G. I.,0,2,2,,,,0,6,58%,50% (15/30),27% (6/22),14% (1/7),39% (18/46),50% (9/18),29% (2/7),5,40% (21/52),42% (27/64),41% (48/116),1,25% (2/8),25% (2/8),25% (4/16),"['1', '3', '2', '4']",[],[],[],[],3.94
+CHALLENGER MEN - SINGLES :  Corrientes (Argentina),clay,header
+13.06.2022,Tenti F.,0,2,5,,,,1,5,70%,46% (18/39),29% (5/17),25% (2/8),33% (11/33),45% (14/31),60% (3/5),4,41% (23/56),39% (25/64),40% (48/120),2,40% (4/10),30% (3/10),35% (7/20),"['1', '3', '2', '4']","['5', '3']",[],[],[],7.40
+13.06.2022,Hardt N.,2,6,7,,,,0,5,52%,67% (22/33),55% (17/31),40% (2/5),54% (21/39),71% (12/17),75% (6/8),13,61% (39/64),59% (33/56),60% (72/120),4,70% (7/10),60% (6/10),65% (13/20),"['1', '0', '3', '0', '4', '1', '5', '2']","['4', '5', '6', '5']",[],[],[],1.08
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+18.05.2022,Tenti F.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.66
+18.05.2022,Llanes F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 6 (Egypt),clay,header
+ITF MEN - SINGLES :  M25 Cairo 2 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 5 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 4 (Egypt),clay,header
+CHALLENGER MEN - SINGLES :  Murcia (Spain) - Qualification,clay,header
+03.04.2022,Tenti F.,0,3,2,,,,0,3,64%,53% (18/34),37% (7/19),25% (2/8),43% (23/53),29% (5/17),20% (2/10),6,47% (25/53),40% (28/70),43% (53/123),2,33% (3/9),25% (2/8),29% (5/17),"['2', '4']","['2', '3']",[],[],[],0
+03.04.2022,Lopez Montagud C.,2,6,6,,,,2,1,76%,57% (30/53),71% (12/17),80% (8/10),47% (16/34),63% (12/19),75% (6/8),10,60% (42/70),53% (28/53),57% (70/123),4,75% (6/8),67% (6/9),71% (12/17),"['2', '1', '4', '1', '6', '3']","['3', '1', '4', '2', '6', '2']",[],[],[],0
+ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 18 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 17 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 32 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 31 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Girona (Spain),clay,header
+21.10.2021,Tenti F.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3', '4', '4']",[],[],[],2.69
+21.10.2021,Kasnikowski M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '3', '0', '5', '4']",[],[],[],1.45
+20.10.2021,Tenti F.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']",[],"['2', '0', '4', '2']",[],[],2.69
+20.10.2021,Rodriguez L. J.,1,4,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']","['1', '2', '4', '5']",[],[],1.45
+ITF MEN - SINGLES :  M15 Platja D'Aro 2 (Spain),clay,header
+13.10.2021,Tenti F.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '4', '2']",[],[],[],2.64
+13.10.2021,Den Heijer G.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['1', '0']","['2', '0', '4', '0']",[],[],1.47
+ITF MEN - SINGLES :  M15 Platja D'Aro (Spain),clay,header
+06.10.2021,Tenti F.,1,2,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '2']","['1', '2']",[],[],6.35
+06.10.2021,Lopez Montagud C.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2', '4', '5']","['2', '0', '4', '2', '6', '2']",[],[],1.11
+ITF MEN - SINGLES :  M15 Cairo 16 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 15 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 14 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 13 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header

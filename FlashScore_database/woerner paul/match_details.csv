@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
@@ -27,1615 +27,259 @@ ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
 ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
 ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-29.08.2023,Woerner P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.67
-
-
-
-
-
-
-
-29.08.2023,Mikrut L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.16
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-
-
-
-
-
-
-
-13.06.2023,Woerner P.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.51
-
-
-
-
-
-
-
-13.06.2023,Carou I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.48
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-08.06.2023,Woerner P.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
-
-
-
-
-
-
-
-08.06.2023,Giunta M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.62
-
-
-
-
-
-
-
-07.06.2023,Woerner P.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
-
-
-
-
-
-
-
-07.06.2023,Roncadelli F.,1,6,2,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-
-
-
-
-
-
-
-11.05.2023,Woerner P.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.90
-
-
-
-
-
-
-
-11.05.2023,Andaloro F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
-
-
-
-
-
-
-
-10.05.2023,Woerner P.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-10.05.2023,Badini S.,1,6,5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-
-
-
-
-
-
-04.05.2023,Woerner P.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.30
-
-
-
-
-
-
-
-04.05.2023,Fajta P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
-
-
-
-
-
-
-
-03.05.2023,Woerner P.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.21
-
-
-
-
-
-
-
-03.05.2023,Schinas S.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rovinj (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
-
-
-
-
-
-
-
-21.09.2022,Woerner P.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.64
-
-
-
-
-
-
-
-21.09.2022,Martinez M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.45
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Innsbruck (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Velenje (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-05.02.2022,Woerner P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-05.02.2022,Tiurnev E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-04.02.2022,Woerner P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-04.02.2022,Pennaforti G.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-
-
-
-
-
-
-
-28.01.2022,Woerner P.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-28.01.2022,Kirkin E.,2,4,6,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 36 (Turkey),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bol (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 18 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Doha 3 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Doha 2 (Qatar),hard,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+29.08.2023,Woerner P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.67
+29.08.2023,Mikrut L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.16
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+13.06.2023,Woerner P.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.51
+13.06.2023,Carou I.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.48
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+08.06.2023,Woerner P.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
+08.06.2023,Giunta M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.62
+07.06.2023,Woerner P.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.40
+07.06.2023,Roncadelli F.,1,6,2,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.28
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 3 (Cyprus),clay,header
+11.05.2023,Woerner P.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.90
+11.05.2023,Andaloro F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
+10.05.2023,Woerner P.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+10.05.2023,Badini S.,1,6,5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+04.05.2023,Woerner P.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.30
+04.05.2023,Fajta P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.13
+03.05.2023,Woerner P.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.21
+03.05.2023,Schinas S.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.08
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Rovinj (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 17 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+21.09.2022,Woerner P.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.64
+21.09.2022,Martinez M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.45
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Innsbruck (Austria),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Velenje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Marrakech 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Marrakech (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+05.02.2022,Woerner P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+05.02.2022,Tiurnev E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+04.02.2022,Woerner P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+04.02.2022,Pennaforti G.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+28.01.2022,Woerner P.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+28.01.2022,Kirkin E.,2,4,6,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 36 (Turkey),clay,header

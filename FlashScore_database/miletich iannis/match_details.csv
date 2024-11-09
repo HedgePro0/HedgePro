@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 12 (Italy),clay,header
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
@@ -22,57 +22,34 @@ ITF MEN - SINGLES :  M15 Madrid 3 (Spain),clay,header
 ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
 BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
 ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 12 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 12 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
-
-CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
-
-12.08. 16:25,Miletich I.,0,3,2,,,,2,4,48%,65% (13/20),45% (10/22),25% (1/4),0 km/h,0 km/h,0% (0/18),22% (5/23),0% (0/0),55% (23/42),12% (5/41),34% (28/83),1,0,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],5.22
-
-12.08. 16:25,Glinka D.,2,6,6,,,,3,3,44%,100% (18/18),78% (18/23),0% (0/0),0 km/h,0 km/h,35% (7/20),55% (12/22),75% (3/4),88% (36/41),45% (19/42),66% (55/83),9,0,100% (9/9),38% (3/8),71% (12/17),"['2', '0']","['1', '0', '5', '2']",[],[],[],1.14
-
-11.08. 19:40,Miletich I.,2,7^9,7,,,,6,3,54%,78% (29/37),74% (23/31),0% (0/1),0 km/h,0 km/h,24% (9/38),46% (19/41),50% (2/4),76% (52/68),35% (28/79),54% (80/147),8,0,92% (11/12),17% (2/12),54% (13/24),"['3', '3']","['6', '5']",[],[],[],2.24
-
-11.08. 19:40,Statham J. R.,0,6^7,5,,,,6,4,48%,76% (29/38),54% (22/41),50% (2/4),0 km/h,0 km/h,22% (8/37),26% (8/31),100% (1/1),65% (51/79),24% (16/68),46% (67/147),2,0,83% (10/12),8% (1/12),46% (11/24),"['1', '0']",[],[],[],[],1.61
-
-ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
-
-ITF MEN - SINGLES :  M25 Kassel (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Madrid 3 (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
-
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 12 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 12 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 18 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+CHALLENGER MEN - SINGLES :  Grodzisk Mazowiecki (Poland) - Qualification,hard,header
+12.08. 16:25,Miletich I.,0,3,2,,,,2,4,48%,65% (13/20),45% (10/22),25% (1/4),0 km/h,0 km/h,0% (0/18),22% (5/23),0% (0/0),55% (23/42),12% (5/41),34% (28/83),1,0,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],5.22
+12.08. 16:25,Glinka D.,2,6,6,,,,3,3,44%,100% (18/18),78% (18/23),0% (0/0),0 km/h,0 km/h,35% (7/20),55% (12/22),75% (3/4),88% (36/41),45% (19/42),66% (55/83),9,0,100% (9/9),38% (3/8),71% (12/17),"['2', '0']","['1', '0', '5', '2']",[],[],[],1.14
+11.08. 19:40,Miletich I.,2,7^9,7,,,,6,3,54%,78% (29/37),74% (23/31),0% (0/1),0 km/h,0 km/h,24% (9/38),46% (19/41),50% (2/4),76% (52/68),35% (28/79),54% (80/147),8,0,92% (11/12),17% (2/12),54% (13/24),"['3', '3']","['6', '5']",[],[],[],2.24
+11.08. 19:40,Statham J. R.,0,6^7,5,,,,6,4,48%,76% (29/38),54% (22/41),50% (2/4),0 km/h,0 km/h,22% (8/37),26% (8/31),100% (1/1),65% (51/79),24% (16/68),46% (67/147),2,0,83% (10/12),8% (1/12),46% (11/24),"['1', '0']",[],[],[],[],1.61
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M25 Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Madrid 3 (Spain),clay,header
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header

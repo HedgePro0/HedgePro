@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Norman (USA),hard,header
 ITF MEN - SINGLES :  M25 Southaven,hard,header
 ITF MEN - SINGLES :  M25 East Lansing,hard,header
@@ -19,519 +19,94 @@ CHALLENGER MEN - SINGLES :  Nottingham 2 (United Kingdom) - Qualification,grass,
 BOYS - SINGLES :  French Open (France),clay,header
 EXHIBITION - MEN :  Others matches (World),-,header
 BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-ITF MEN - SINGLES :  M25 Norman (USA),hard,header
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-ITF MEN - SINGLES :  M25 East Lansing,hard,header
-ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
-ITF MEN - SINGLES :  M25 Wichita,hard,header
-ITF MEN - SINGLES :  M15 Irvine,hard,header
-ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
-ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
-ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
-BOYS - SINGLES :  US Open (USA),hard,header
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
-ITF MEN - SINGLES :  M25 Norman (USA),hard,header
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-ITF MEN - SINGLES :  M25 East Lansing,hard,header
-
-ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
-
-ITF MEN - SINGLES :  M25 Wichita,hard,header
-
-ITF MEN - SINGLES :  M15 Irvine,hard,header
-
-ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
-
-ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
-
-ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
-
-BOYS - SINGLES :  US Open (USA),hard,header
-
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-
-ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
-
-19.06.2021,Maxted L.,0,4,6^4,,,,5,3,64%,70% (40/57),44% (14/32),85% (11/13),14% (6/44),52% (13/25),25% (1/4),61% (54/89),28% (19/69),46% (73/158),82% (9/11),9% (1/11),45% (10/22),[],"['2', '0']",[],[],[],12.50
-
-19.06.2021,Gombos N.,2,6,7^7,,,,7,3,64%,86% (38/44),48% (12/25),75% (3/4),30% (17/57),56% (18/32),15% (2/13),72% (50/69),39% (35/89),54% (85/158),91% (10/11),18% (2/11),55% (12/22),"['2', '1']","['2', '3']",[],[],[],1.03
-
-CHALLENGER MEN - SINGLES :  Nottingham 2 (United Kingdom) - Qualification,grass,header
-
-13.06.2021,Maxted L.,0,2,1,,,,3,3,60%,50% (14/28),32% (6/19),44% (4/9),23% (7/30),13% (1/8),0% (0/1),43% (20/47),21% (8/38),33% (28/85),38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.02
-
-13.06.2021,Zuk K.,2,6,6,,,,7,0,79%,77% (23/30),88% (7/8),100% (1/1),50% (14/28),53% (10/19),56% (5/9),79% (30/38),57% (27/47),67% (57/85),100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.17
-
-BOYS - SINGLES :  French Open (France),clay,header
-
-EXHIBITION - MEN :  Others matches (World),-,header
-
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-
-ITF MEN - SINGLES :  M25 Norman (USA),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-
-
-
-
-
-
-09.08. 01:30,Maxted L.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.79
-
-
-
-
-
-
-
-09.08. 01:30,Ilagan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['3', '2', '5', '2']",[],[],[],1.40
-
-
-
-
-
-
-
-08.08. 00:35,Maxted L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '5', '7', '5']","['4', '2', '6', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-08.08. 00:35,Mitsui S.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']",[],[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 East Lansing,hard,header
-
-
-
-
-
-
-
-19.07. 00:40,Maxted L.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '4']",[],[],[],3.18
-
-
-
-
-
-
-
-19.07. 00:40,Monday J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['4', '3', '5', '4']",[],[],[],1.32
-
-
-
-
-
-
-
-18.07. 03:15,Maxted L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3', '6', '5']","['2', '0', '6', '2']",[],[],[],1.28
-
-
-
-
-
-
-
-18.07. 03:15,Saye D.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '6', '6']",[],[],[],[],3.43
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Wichita,hard,header
-
-
-
-
-
-
-
-14.06. 22:45,Maxted L.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '2', '6', '4']","['2', '4']",[],[],2.83
-
-
-
-
-
-
-
-14.06. 22:45,Gorzny S.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['4', '5']","['1', '0', '3', '0', '6', '3']",[],[],1.39
-
-
-
-
-
-
-
-13.06. 22:25,Maxted L.,2,6,6^2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['2', '2', '4', '2']",[],[],3.12
-
-
-
-
-
-
-
-13.06. 22:25,Vandecasteele Q.,1,2,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],1.33
-
-
-
-
-
-
-
-12.06. 20:35,Maxted L.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['1', '2', '4', '5']",[],[],[],3.24
-
-
-
-
-
-
-
-12.06. 20:35,Sinclair C.,0,4,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0', '3', '1']",[],[],[],1.31
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Irvine,hard,header
-
-
-
-
-
-
-
-29.06.2023,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '3', '3', '4']",[],[],[],3.93
-
-
-
-
-
-
-
-29.06.2023,Boyer T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '4', '2', '5', '3']",[],[],[],1.22
-
-
-
-
-
-
-
-29.06.2023,Maxted L.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '1', '5', '1']",[],[],[],1.72
-
-
-
-
-
-
-
-29.06.2023,Nordquist A.,0,6^6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.01
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
-
-
-
-
-
-
-
-03.08.2022,Maxted L.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.25
-
-
-
-
-
-
-
-03.08.2022,Gray A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['6', '5']",[],[],[],1.10
-
-
-
-
-
-
-
-02.08.2022,Maxted L.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']",[],"['2', '0', '4', '0']",[],[],1.81
-
-
-
-
-
-
-
-02.08.2022,Murphy B.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['5', '3']",[],[],[],1.95
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
-
-
-
-
-
-
-
-26.07.2022,Maxted L.,0,1,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.84
-
-
-
-
-
-
-
-26.07.2022,Added D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']",[],[],[],[],1.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
-
-
-
-
-
-
-
-12.07.2022,Maxted L.,0,4,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
-
-
-
-
-
-
-
-12.07.2022,Story J.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],1.74
-
-
-
-
-
-
-
-BOYS - SINGLES :  US Open (USA),hard,header
-
-
-
-
-
-
-
-07.09.2021,Maxted L.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3']",[],[],[],0
-
-
-
-
-
-
-
-07.09.2021,Kim A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '6', '4']",[],[],[],0
-
-
-
-
-
-
-
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-
-
-
-
-
-
-
-08.07.2021,Maxted L.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
-
-
-
-
-
-
-
-08.07.2021,Boscardin Dias P.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['6', '4']",[],[],0
-
-
-
-
-
-
-
-05.07.2021,Maxted L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],0
-
-
-
-
-
-
-
-05.07.2021,Nesterov P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
-
-
-
-
-
-
-
-19.06.2021,Maxted L.,0,4,6^4,,,,5,3,64%,70% (40/57),44% (14/32),85% (11/13),14% (6/44),52% (13/25),25% (1/4),5,61% (54/89),28% (19/69),46% (73/158),3,82% (9/11),9% (1/11),45% (10/22),[],"['2', '0']",[],[],[],12.50
-
-
-
-
-
-
-
-19.06.2021,Gombos N.,2,6,7^7,,,,7,3,64%,86% (38/44),48% (12/25),75% (3/4),30% (17/57),56% (18/32),15% (2/13),7,72% (50/69),39% (35/89),54% (85/158),3,91% (10/11),18% (2/11),55% (12/22),"['2', '1']","['2', '3']",[],[],[],1.03
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nottingham 2 (United Kingdom) - Qualification,grass,header
-
-
-
-
-
-
-
-13.06.2021,Maxted L.,0,2,1,,,,3,3,60%,50% (14/28),32% (6/19),44% (4/9),23% (7/30),13% (1/8),0% (0/1),3,43% (20/47),21% (8/38),33% (28/85),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.02
-
-
-
-
-
-
-
-13.06.2021,Zuk K.,2,6,6,,,,7,0,79%,77% (23/30),88% (7/8),100% (1/1),50% (14/28),53% (10/19),56% (5/9),12,79% (30/38),57% (27/47),67% (57/85),9,100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.17
-
-
-
-
-
-
-
-BOYS - SINGLES :  French Open (France),clay,header
-
-
-
-
-
-
-
-06.06.2021,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],0
-
-
-
-
-
-
-
-06.06.2021,Cuenin S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '4']","['3', '1']",[],[],[],0
-
-
-
-
-
-
-
-EXHIBITION - MEN :  Others matches (World),-,header
-
-
-
-
-
-
-
-05.09.2020,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],[],[],[],0
-
-
-
-
-
-
-
-05.09.2020,Canter A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['5', '3']",[],[],[],0
-
-
-
-
-
-
-
-04.09.2020,Maxted L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']","['2', '0', '4', '0']",[],[],[],0
-
-
-
-
-
-
-
-04.09.2020,Stoute I.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],0
-
-
-
-
-
-
-
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M25 East Lansing,hard,header
+ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
+ITF MEN - SINGLES :  M25 Wichita,hard,header
+ITF MEN - SINGLES :  M15 Irvine,hard,header
+ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M25 East Lansing,hard,header
+ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
+ITF MEN - SINGLES :  M25 Wichita,hard,header
+ITF MEN - SINGLES :  M15 Irvine,hard,header
+ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
+ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
+BOYS - SINGLES :  US Open (USA),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
+19.06.2021,Maxted L.,0,4,6^4,,,,5,3,64%,70% (40/57),44% (14/32),85% (11/13),14% (6/44),52% (13/25),25% (1/4),61% (54/89),28% (19/69),46% (73/158),82% (9/11),9% (1/11),45% (10/22),[],"['2', '0']",[],[],[],12.50
+19.06.2021,Gombos N.,2,6,7^7,,,,7,3,64%,86% (38/44),48% (12/25),75% (3/4),30% (17/57),56% (18/32),15% (2/13),72% (50/69),39% (35/89),54% (85/158),91% (10/11),18% (2/11),55% (12/22),"['2', '1']","['2', '3']",[],[],[],1.03
+CHALLENGER MEN - SINGLES :  Nottingham 2 (United Kingdom) - Qualification,grass,header
+13.06.2021,Maxted L.,0,2,1,,,,3,3,60%,50% (14/28),32% (6/19),44% (4/9),23% (7/30),13% (1/8),0% (0/1),43% (20/47),21% (8/38),33% (28/85),38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.02
+13.06.2021,Zuk K.,2,6,6,,,,7,0,79%,77% (23/30),88% (7/8),100% (1/1),50% (14/28),53% (10/19),56% (5/9),79% (30/38),57% (27/47),67% (57/85),100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.17
+BOYS - SINGLES :  French Open (France),clay,header
+EXHIBITION - MEN :  Others matches (World),-,header
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+09.08. 01:30,Maxted L.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.79
+09.08. 01:30,Ilagan A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['3', '2', '5', '2']",[],[],[],1.40
+08.08. 00:35,Maxted L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '5', '7', '5']","['4', '2', '6', '2']",[],[],[],1.86
+08.08. 00:35,Mitsui S.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']",[],[],[],[],1.86
+ITF MEN - SINGLES :  M25 East Lansing,hard,header
+19.07. 00:40,Maxted L.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '4']",[],[],[],3.18
+19.07. 00:40,Monday J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['4', '3', '5', '4']",[],[],[],1.32
+18.07. 03:15,Maxted L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3', '6', '5']","['2', '0', '6', '2']",[],[],[],1.28
+18.07. 03:15,Saye D.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '6', '6']",[],[],[],[],3.43
+ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
+ITF MEN - SINGLES :  M25 Wichita,hard,header
+14.06. 22:45,Maxted L.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '2', '6', '4']","['2', '4']",[],[],2.83
+14.06. 22:45,Gorzny S.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['4', '5']","['1', '0', '3', '0', '6', '3']",[],[],1.39
+13.06. 22:25,Maxted L.,2,6,6^2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['2', '2', '4', '2']",[],[],3.12
+13.06. 22:25,Vandecasteele Q.,1,2,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '0']",[],[],1.33
+12.06. 20:35,Maxted L.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['1', '2', '4', '5']",[],[],[],3.24
+12.06. 20:35,Sinclair C.,0,4,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '0', '3', '1']",[],[],[],1.31
+ITF MEN - SINGLES :  M15 Irvine,hard,header
+29.06.2023,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '3', '3', '4']",[],[],[],3.93
+29.06.2023,Boyer T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '4', '2', '5', '3']",[],[],[],1.22
+29.06.2023,Maxted L.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '1', '5', '1']",[],[],[],1.72
+29.06.2023,Nordquist A.,0,6^6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.01
+ITF MEN - SINGLES :  M25 Nottingham 6 (United Kingdom),grass,header
+03.08.2022,Maxted L.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.25
+03.08.2022,Gray A.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['6', '5']",[],[],[],1.10
+02.08.2022,Maxted L.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']",[],"['2', '0', '4', '0']",[],[],1.81
+02.08.2022,Murphy B.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['5', '3']",[],[],[],1.95
+ITF MEN - SINGLES :  M25 Nottingham 5 (United Kingdom),grass,header
+26.07.2022,Maxted L.,0,1,6^0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.84
+26.07.2022,Added D.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']",[],[],[],[],1.25
+ITF MEN - SINGLES :  M25 Roehampton (United Kingdom),grass,header
+12.07.2022,Maxted L.,0,4,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
+12.07.2022,Story J.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],1.74
+BOYS - SINGLES :  US Open (USA),hard,header
+07.09.2021,Maxted L.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '3']",[],[],[],0
+07.09.2021,Kim A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '6', '4']",[],[],[],0
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+08.07.2021,Maxted L.,1,3,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
+08.07.2021,Boscardin Dias P.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],"['6', '4']",[],[],0
+05.07.2021,Maxted L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],0
+05.07.2021,Nesterov P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ATP - SINGLES :  Eastbourne (United Kingdom) - Qualification,grass,header
+19.06.2021,Maxted L.,0,4,6^4,,,,5,3,64%,70% (40/57),44% (14/32),85% (11/13),14% (6/44),52% (13/25),25% (1/4),5,61% (54/89),28% (19/69),46% (73/158),3,82% (9/11),9% (1/11),45% (10/22),[],"['2', '0']",[],[],[],12.50
+19.06.2021,Gombos N.,2,6,7^7,,,,7,3,64%,86% (38/44),48% (12/25),75% (3/4),30% (17/57),56% (18/32),15% (2/13),7,72% (50/69),39% (35/89),54% (85/158),3,91% (10/11),18% (2/11),55% (12/22),"['2', '1']","['2', '3']",[],[],[],1.03
+CHALLENGER MEN - SINGLES :  Nottingham 2 (United Kingdom) - Qualification,grass,header
+13.06.2021,Maxted L.,0,2,1,,,,3,3,60%,50% (14/28),32% (6/19),44% (4/9),23% (7/30),13% (1/8),0% (0/1),3,43% (20/47),21% (8/38),33% (28/85),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],5.02
+13.06.2021,Zuk K.,2,6,6,,,,7,0,79%,77% (23/30),88% (7/8),100% (1/1),50% (14/28),53% (10/19),56% (5/9),12,79% (30/38),57% (27/47),67% (57/85),9,100% (7/7),63% (5/8),80% (12/15),"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.17
+BOYS - SINGLES :  French Open (France),clay,header
+06.06.2021,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],0
+06.06.2021,Cuenin S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '4']","['3', '1']",[],[],[],0
+EXHIBITION - MEN :  Others matches (World),-,header
+05.09.2020,Maxted L.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],[],[],[],0
+05.09.2020,Canter A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['5', '3']",[],[],[],0
+04.09.2020,Maxted L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2', '6', '2']","['2', '0', '4', '0']",[],[],[],0
+04.09.2020,Stoute I.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],0
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header

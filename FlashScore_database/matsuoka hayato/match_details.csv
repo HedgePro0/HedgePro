@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
 27.10. 08:30,Matsuoka H.,0,2,4,,,,2,6,53%,69% (20/29),27% (7/26),55% (6/11),30% (9/30),31% (5/16),67% (2/3),49% (27/55),30% (14/46),41% (41/101),4,3,44% (4/9),22% (2/9),33% (6/18),"['2', '3']","['2', '3']",[],[],[],2.66
 27.10. 08:30,Tkemaladze Z.,2,6,6,,,,3,2,65%,70% (21/30),69% (11/16),33% (1/3),31% (9/29),73% (19/26),45% (5/11),70% (32/46),51% (28/55),59% (60/101),6,0,78% (7/9),56% (5/9),67% (12/18),"['3', '1', '4', '2', '6', '2']","['3', '1', '6', '4']",[],[],[],1.44
@@ -30,604 +30,84 @@ ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
 ITF MEN - SINGLES :  M15 Kuching (Malaysia),hard,header
 ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
 ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
-
-27.10. 08:30,Matsuoka H.,0,2,4,,,,2,6,53%,69% (20/29),27% (7/26),55% (6/11),30% (9/30),31% (5/16),67% (2/3),49% (27/55),30% (14/46),41% (41/101),3,3,44% (4/9),22% (2/9),33% (6/18),"['2', '3']","['2', '3']",[],[],[],2.66
-
-27.10. 08:30,Tkemaladze Z.,2,6,6,,,,3,2,65%,70% (21/30),69% (11/16),33% (1/3),31% (9/29),73% (19/26),45% (5/11),70% (32/46),51% (28/55),59% (60/101),7,0,78% (7/9),56% (5/9),67% (12/18),"['3', '1', '4', '2', '6', '2']","['3', '1', '6', '4']",[],[],[],1.44
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-
-
-20.10. 05:10,Matsuoka H.,1,6,4,2,,,"['3', '3', '5', '3']",[],"['2', '1']",[],[],3.54
-
-
-
-20.10. 05:10,Hudd E.,2,3,6,6,,,"['2', '1']","['6', '4']","['2', '2', '4', '2', '6', '2']",[],[],1.27
-
-
-
-ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
-
-
-
-17.09. 06:30,Matsuoka H.,1,7^7,0,5,,,"['3', '3', '5', '5']",[],"['3', '4', '5', '4']",[],[],1.85
-
-
-
-
-
-
-
-17.09. 06:30,Kawahashi Y.,2,6^4,6,7,,,"['3', '2', '4', '3']","['2', '0', '4', '0', '6', '0']","['2', '0', '5', '5', '7', '5']",[],[],1.87
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-
-
-
-
-
-
-
-10.09. 08:15,Matsuoka H.,0,3,2,,,,"['3', '4']","['1', '1']",[],[],[],1.50
-
-
-
-
-
-
-
-10.09. 08:15,Kikuchi Y.,2,6,6,,,,"['4', '2', '5', '3']","['1', '0', '2', '1', '4', '1']",[],[],[],2.47
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
-
-
-
-
-
-
-
-03.09. 06:40,Matsuoka H.,0,2,4,,,,[],"['3', '3']",[],[],[],3.59
-
-
-
-
-
-
-
-03.09. 06:40,Nakagawa N.,2,6,6,,,,"['2', '1', '5', '2']","['2', '1', '4', '3']",[],[],[],1.26
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-
-
-
-
-
-
-
-15.08. 12:30,Matsuoka H.,0,6^5,5,,,,"['1', '0', '4', '5']","['4', '4', '5', '5']",[],[],[],0
-
-
-
-
-
-
-
-15.08. 12:30,Salazar D.,2,7^7,7,,,,"['2', '2', '5', '3']","['3', '2', '5', '4', '6', '5']",[],[],[],0
-
-
-
-
-
-
-
-14.08. 17:15,Matsuoka H.,2,6,6,,,,"['2', '1', '4', '1', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],1.12
-
-
-
-
-
-
-
-14.08. 17:15,Markovski O.,0,3,1,,,,"['3', '5']","['1', '0']",[],[],[],5.56
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-
-
-
-
-
-
-
-07.08. 15:30,Matsuoka H.,0,3,0,,,,[],[],[],[],[],1.68
-
-
-
-
-
-
-
-07.08. 15:30,Thanos A.,2,6,6,,,,"['1', '0', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],2.10
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
-
-
-
-
-
-
-
-18.07. 14:10,Matsuoka H.,0,1,3,,,,[],[],[],[],[],9.00
-
-
-
-
-
-
-
-18.07. 14:10,Kuhn N.,2,6,6,,,,"['2', '0', '4', '0']","['4', '3', '6', '3']",[],[],[],1.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sabadell (Spain),clay,header
-
-
-
-
-
-
-
-01.05. 12:45,Matsuoka H.,0,4,5,,,,"['2', '2']","['1', '1', '4', '2', '5', '3']",[],[],[],0
-
-
-
-
-
-
-
-01.05. 12:45,Vanshelboim E.,2,6,7,,,,"['1', '0', '4', '3']","['1', '0', '3', '4', '4', '5', '6', '5']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kashiwa (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tsukuba (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hinode (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Manacor 3 (Spain),hard,header
-
-
-
-
-
-
-
-24.01. 15:05,Matsuoka H.,1,6^2,7,2,,,"['3', '1', '5', '5']","['1', '0', '3', '4', '6', '5']","['2', '3']",[],[],3.59
-
-
-
-
-
-
-
-24.01. 15:05,Friberg K.,2,7^7,5,6,,,"['2', '3', '4', '3']","['2', '2', '4', '2']","['3', '1', '4', '2', '6', '2']",[],[],1.26
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-
-
-
-
-
-
-
-29.12.2023,Matsuoka H.,0,1,2,,,,[],[],[],[],[],3.18
-
-
-
-
-
-
-
-29.12.2023,Shin S.,2,6,6,,,,[],[],[],[],[],1.32
-
-
-
-
-
-
-
-28.12.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],1.56
-
-
-
-
-
-
-
-28.12.2023,Liu H.,0,1,3,,,,[],[],[],[],[],2.32
-
-
-
-
-
-
-
-26.12.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],1.06
-
-
-
-
-
-
-
-26.12.2023,Yoshimura D.,0,3,1,,,,[],[],[],[],[],7.60
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
-
-
-
-
-
-
-
-20.12.2023,Matsuoka H.,0,5,2,,,,[],[],[],[],[],1.85
-
-
-
-
-
-
-
-20.12.2023,Watanabe S.,2,7,6,,,,[],[],[],[],[],1.87
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
-
-
-
-
-
-
-
-24.11.2023,Matsuoka H.,0,6^7,0,,,,[],[],[],[],[],1.83
-
-
-
-
-
-
-
-24.11.2023,Kumasaka T.,2,7^9,6,,,,[],[],[],[],[],1.83
-
-
-
-
-
-
-
-23.11.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],0
-
-
-
-
-
-
-
-23.11.2023,M Rifqi F.,0,4,2,,,,[],[],[],[],[],0
-
-
-
-
-
-
-
-23.11.2023,Matsuoka H.,2,7,6,,,,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-23.11.2023,Genier T.,0,5,2,,,,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kuching (Malaysia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-
-
-
-
-
-
-
-BOYS - SINGLES :  US Open (USA),hard,header
-
-
-
-
-
-
-
-04.09.2023,Matsuoka H.,1,6,6^5,4,,,"['2', '1', '4', '1']","['5', '4']",[],[],[],0
-
-
-
-
-
-
-
-04.09.2023,Eriksson S.,2,4,7^7,6,,,"['2', '4']","['5', '5']","['3', '2']",[],[],0
-
-
-
-
-
-
-
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-
-
-
-
-
-
-
-09.07.2023,Matsuoka H.,0,3,3,,,,[],"['3', '5']",[],[],[],0
-
-
-
-
-
-
-
-09.07.2023,Demin Y.,2,6,6,,,,"['5', '3']","['1', '0', '4', '1', '6', '3']",[],[],[],0
-
-
-
-
-
-
-
-BOYS - SINGLES :  French Open (France),clay,header
-
-
-
-
-
-
-
-05.06.2023,Matsuoka H.,0,1,3,,,,[],"['2', '0', '3', '1']",[],[],[],0
-
-
-
-
-
-
-
-05.06.2023,Prizmic D.,2,6,6,,,,"['3', '1', '5', '1']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],[],0
-
-
-
-
-
-
-
-04.06.2023,Matsuoka H.,2,6,6,,,,"['1', '0', '3', '2', '5', '4']","['1', '0', '4', '1']",[],[],[],0
-
-
-
-
-
-
-
-04.06.2023,Razeghi A.,0,4,4,,,,"['1', '1', '3', '3']","['3', '5']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Rome (Italy),clay,header
-
-
-
-
-
-
-
-30.05.2023,Matsuoka H.,0,1,2,,,,[],[],[],[],[],2.86
-
-
-
-
-
-
-
-30.05.2023,Serafini M.,2,6,6,,,,"['3', '1', '5', '1']","['2', '1', '5', '2']",[],[],[],1.38
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
+CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
+27.10. 08:30,Matsuoka H.,0,2,4,,,,2,6,53%,69% (20/29),27% (7/26),55% (6/11),30% (9/30),31% (5/16),67% (2/3),49% (27/55),30% (14/46),41% (41/101),3,3,44% (4/9),22% (2/9),33% (6/18),"['2', '3']","['2', '3']",[],[],[],2.66
+27.10. 08:30,Tkemaladze Z.,2,6,6,,,,3,2,65%,70% (21/30),69% (11/16),33% (1/3),31% (9/29),73% (19/26),45% (5/11),70% (32/46),51% (28/55),59% (60/101),7,0,78% (7/9),56% (5/9),67% (12/18),"['3', '1', '4', '2', '6', '2']","['3', '1', '6', '4']",[],[],[],1.44
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+20.10. 05:10,Matsuoka H.,1,6,4,2,,,"['3', '3', '5', '3']",[],"['2', '1']",[],[],3.54
+20.10. 05:10,Hudd E.,2,3,6,6,,,"['2', '1']","['6', '4']","['2', '2', '4', '2', '6', '2']",[],[],1.27
+ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+17.09. 06:30,Matsuoka H.,1,7^7,0,5,,,"['3', '3', '5', '5']",[],"['3', '4', '5', '4']",[],[],1.85
+17.09. 06:30,Kawahashi Y.,2,6^4,6,7,,,"['3', '2', '4', '3']","['2', '0', '4', '0', '6', '0']","['2', '0', '5', '5', '7', '5']",[],[],1.87
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+10.09. 08:15,Matsuoka H.,0,3,2,,,,"['3', '4']","['1', '1']",[],[],[],1.50
+10.09. 08:15,Kikuchi Y.,2,6,6,,,,"['4', '2', '5', '3']","['1', '0', '2', '1', '4', '1']",[],[],[],2.47
+ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
+03.09. 06:40,Matsuoka H.,0,2,4,,,,[],"['3', '3']",[],[],[],3.59
+03.09. 06:40,Nakagawa N.,2,6,6,,,,"['2', '1', '5', '2']","['2', '1', '4', '3']",[],[],[],1.26
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+15.08. 12:30,Matsuoka H.,0,6^5,5,,,,"['1', '0', '4', '5']","['4', '4', '5', '5']",[],[],[],0
+15.08. 12:30,Salazar D.,2,7^7,7,,,,"['2', '2', '5', '3']","['3', '2', '5', '4', '6', '5']",[],[],[],0
+14.08. 17:15,Matsuoka H.,2,6,6,,,,"['2', '1', '4', '1', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],1.12
+14.08. 17:15,Markovski O.,0,3,1,,,,"['3', '5']","['1', '0']",[],[],[],5.56
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+07.08. 15:30,Matsuoka H.,0,3,0,,,,[],[],[],[],[],1.68
+07.08. 15:30,Thanos A.,2,6,6,,,,"['1', '0', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],2.10
+ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
+18.07. 14:10,Matsuoka H.,0,1,3,,,,[],[],[],[],[],9.00
+18.07. 14:10,Kuhn N.,2,6,6,,,,"['2', '0', '4', '0']","['4', '3', '6', '3']",[],[],[],1.04
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 5 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 4 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sabadell (Spain),clay,header
+01.05. 12:45,Matsuoka H.,0,4,5,,,,"['2', '2']","['1', '1', '4', '2', '5', '3']",[],[],[],0
+01.05. 12:45,Vanshelboim E.,2,6,7,,,,"['1', '0', '4', '3']","['1', '0', '3', '4', '4', '5', '6', '5']",[],[],[],0
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+ITF MEN - SINGLES :  M15 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Tsukuba (Japan),hard,header
+ITF MEN - SINGLES :  M15 Hinode (Japan),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Manacor 3 (Spain),hard,header
+24.01. 15:05,Matsuoka H.,1,6^2,7,2,,,"['3', '1', '5', '5']","['1', '0', '3', '4', '6', '5']","['2', '3']",[],[],3.59
+24.01. 15:05,Friberg K.,2,7^7,5,6,,,"['2', '3', '4', '3']","['2', '2', '4', '2']","['3', '1', '4', '2', '6', '2']",[],[],1.26
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+29.12.2023,Matsuoka H.,0,1,2,,,,[],[],[],[],[],3.18
+29.12.2023,Shin S.,2,6,6,,,,[],[],[],[],[],1.32
+28.12.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],1.56
+28.12.2023,Liu H.,0,1,3,,,,[],[],[],[],[],2.32
+26.12.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],1.06
+26.12.2023,Yoshimura D.,0,3,1,,,,[],[],[],[],[],7.60
+ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
+20.12.2023,Matsuoka H.,0,5,2,,,,[],[],[],[],[],1.85
+20.12.2023,Watanabe S.,2,7,6,,,,[],[],[],[],[],1.87
+ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
+24.11.2023,Matsuoka H.,0,6^7,0,,,,[],[],[],[],[],1.83
+24.11.2023,Kumasaka T.,2,7^9,6,,,,[],[],[],[],[],1.83
+23.11.2023,Matsuoka H.,2,6,6,,,,[],[],[],[],[],0
+23.11.2023,M Rifqi F.,0,4,2,,,,[],[],[],[],[],0
+23.11.2023,Matsuoka H.,2,7,6,,,,[],[],[],[],[],1.34
+23.11.2023,Genier T.,0,5,2,,,,[],[],[],[],[],3.04
+ITF MEN - SINGLES :  M15 Kuching (Malaysia),hard,header
+ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+04.09.2023,Matsuoka H.,1,6,6^5,4,,,"['2', '1', '4', '1']","['5', '4']",[],[],[],0
+04.09.2023,Eriksson S.,2,4,7^7,6,,,"['2', '4']","['5', '5']","['3', '2']",[],[],0
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+09.07.2023,Matsuoka H.,0,3,3,,,,[],"['3', '5']",[],[],[],0
+09.07.2023,Demin Y.,2,6,6,,,,"['5', '3']","['1', '0', '4', '1', '6', '3']",[],[],[],0
+BOYS - SINGLES :  French Open (France),clay,header
+05.06.2023,Matsuoka H.,0,1,3,,,,[],"['2', '0', '3', '1']",[],[],[],0
+05.06.2023,Prizmic D.,2,6,6,,,,"['3', '1', '5', '1']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],[],0
+04.06.2023,Matsuoka H.,2,6,6,,,,"['1', '0', '3', '2', '5', '4']","['1', '0', '4', '1']",[],[],[],0
+04.06.2023,Razeghi A.,0,4,4,,,,"['1', '1', '3', '3']","['3', '5']",[],[],[],0
+ITF MEN - SINGLES :  M25 Rome (Italy),clay,header
+30.05.2023,Matsuoka H.,0,1,2,,,,[],[],[],[],[],2.86
+30.05.2023,Serafini M.,2,6,6,,,,"['3', '1', '5', '1']","['2', '1', '5', '2']",[],[],[],1.38
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header

@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
 ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
 BOYS - SINGLES :  US Open (USA),hard,header
@@ -10,29 +10,18 @@ ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
 BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
 BOYS - SINGLES :  French Open (France),clay,header
 ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-BOYS - SINGLES :  US Open (USA),hard,header
-CHALLENGER MEN - SINGLES :  Mallorca (Spain) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-BOYS - SINGLES :  US Open (USA),hard,header
-
-CHALLENGER MEN - SINGLES :  Mallorca (Spain) - Qualification,hard,header
-
-26.08. 16:35,Trouve N.,1,6,1,2,,,3,7,62%,65% (33/51),39% (12/31),67% (8/12),0 km/h,0 km/h,28% (13/47),37% (10/27),33% (1/3),55% (45/82),31% (23/74),44% (68/156),3,2,67% (8/12),8% (1/12),38% (9/24),"['4', '2']",[],[],[],[],3.19
-
-26.08. 16:35,Barroso Campos A.,2,3,6,6,,,1,2,64%,72% (34/47),63% (17/27),67% (2/3),0 km/h,0 km/h,35% (18/51),61% (19/31),33% (4/12),69% (51/74),45% (37/82),56% (88/156),7,0,92% (11/12),33% (4/12),63% (15/24),[],"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],1.33
-
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-
-BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-
-BOYS - SINGLES :  French Open (France),clay,header
-
-ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+CHALLENGER MEN - SINGLES :  Mallorca (Spain) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+BOYS - SINGLES :  US Open (USA),hard,header
+CHALLENGER MEN - SINGLES :  Mallorca (Spain) - Qualification,hard,header
+26.08. 16:35,Trouve N.,1,6,1,2,,,3,7,62%,65% (33/51),39% (12/31),67% (8/12),0 km/h,0 km/h,28% (13/47),37% (10/27),33% (1/3),55% (45/82),31% (23/74),44% (68/156),3,2,67% (8/12),8% (1/12),38% (9/24),"['4', '2']",[],[],[],[],3.19
+26.08. 16:35,Barroso Campos A.,2,3,6,6,,,1,2,64%,72% (34/47),63% (17/27),67% (2/3),0 km/h,0 km/h,35% (18/51),61% (19/31),33% (4/12),69% (51/74),45% (37/82),56% (88/156),7,0,92% (11/12),33% (4/12),63% (15/24),[],"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],1.33
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
+BOYS - SINGLES :  French Open (France),clay,header
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header

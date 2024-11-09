@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
 20.10. 09:50,Court J.,0,4,3,,,,11,11,53%,73% (29/40),39% (14/36),63% (5/8),19% (7/37),30% (3/10),0% (0/1),57% (43/76),21% (10/47),43% (53/123),4,2,70% (7/10),0% (0/9),37% (7/19),[],[],[],[],[],2.95
 20.10. 09:50,Tkemaladze Z.,2,6,6,,,,3,1,79%,81% (30/37),70% (7/10),100% (1/1),28% (11/40),61% (22/36),38% (3/8),79% (37/47),43% (33/76),57% (70/123),6,0,100% (9/9),30% (3/10),63% (12/19),"['3', '2']","['2', '1', '6', '3']",[],[],[],1.33
@@ -43,640 +43,118 @@ ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
 ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
 ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-20.10. 09:50,Court J.,0,4,3,,,,11,11,53%,73% (29/40),39% (14/36),63% (5/8),19% (7/37),30% (3/10),0% (0/1),57% (43/76),21% (10/47),43% (53/123),5,2,70% (7/10),0% (0/9),37% (7/19),[],[],[],[],[],2.95
-
-20.10. 09:50,Tkemaladze Z.,2,6,6,,,,3,1,79%,81% (30/37),70% (7/10),100% (1/1),28% (11/40),61% (22/36),38% (3/8),79% (37/47),43% (33/76),57% (70/123),5,0,100% (9/9),30% (3/10),63% (12/19),"['3', '2']","['2', '1', '6', '3']",[],[],[],1.33
-
-ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M25 Swan Hill (Australia),grass,header
-
-ITF MEN - SINGLES :  M25 Mildura (Australia),grass,header
-
-ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
-
-CHALLENGER MEN - SINGLES :  Burnie 2 (Australia) - Qualification,hard,header
-
-04.02. 08:00,Court J.,0,2,2,,,,9,0,79%,61% (20/33),33% (3/9),20% (1/5),29% (10/34),23% (3/13),0% (0/0),55% (23/42),28% (13/47),40% (36/89),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],0
-
-04.02. 08:00,Mochizuki Y.,2,6,6,,,,2,1,72%,71% (24/34),77% (10/13),0% (0/0),39% (13/33),67% (6/9),80% (4/5),72% (34/47),45% (19/42),60% (53/89),100% (8/8),50% (4/8),75% (12/16),"['1', '0', '4', '1']","['3', '2', '5', '2']",[],[],[],0
-
-CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
-
-28.01. 09:50,Court J.,1,3,6,4,,,5,3,57%,76% (31/41),55% (17/31),0% (0/2),29% (18/62),55% (18/33),40% (2/5),67% (48/72),38% (36/95),50% (84/167),85% (11/13),14% (2/14),48% (13/27),[],"['3', '1', '6', '2']",[],[],[],0
-
-28.01. 09:50,Gaal C.,2,6,2,6,,,6,4,65%,71% (44/62),45% (15/33),60% (3/5),24% (10/41),45% (14/31),100% (2/2),62% (59/95),33% (24/72),50% (83/167),86% (12/14),15% (2/13),52% (14/27),"['5', '3']",[],"['2', '1']",[],[],0
-
-ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
-
-ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
-
-ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Brisbane (Australia),hard,header
-
-CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
-
-29.10.2023,Court J.,1,3,6,4,,,13,10,60%,79% (41/52),43% (15/35),67% (6/9),27% (14/51),42% (14/33),40% (2/5),64% (56/87),33% (28/84),49% (84/171),79% (11/14),14% (2/14),46% (13/28),[],"['5', '3']","['4', '5']",[],[],3.49
-
-29.10.2023,Moriya H.,2,6,3,6,,,2,3,61%,73% (37/51),58% (19/33),60% (3/5),21% (11/52),57% (20/35),33% (3/9),67% (56/84),36% (31/87),51% (87/171),86% (12/14),21% (3/14),54% (15/28),"['3', '1']",[],"['2', '0', '6', '4']",[],[],1.28
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia),hard,header
-
-24.10.2023,Court J.,0,6^7,3,,,,1,4,68%,74% (35/47),45% (10/22),0% (0/2),26% (14/53),32% (6/19),0% (0/4),65% (45/69),28% (20/72),46% (65/141),82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],6.88
-
-24.10.2023,Hong S. C.,2,7^9,6,,,,8,2,74%,74% (39/53),68% (13/19),100% (4/4),26% (12/47),55% (12/22),100% (2/2),72% (52/72),35% (24/69),54% (76/141),100% (10/10),18% (2/11),57% (12/21),[],"['2', '1', '6', '3']",[],[],[],1.08
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-23.10.2023,Court J.,2,7,7^7,,,,10,6,62%,78% (43/55),41% (14/34),75% (3/4),30% (18/60),59% (13/22),50% (2/4),64% (57/89),38% (31/82),51% (88/171),92% (11/12),17% (2/12),54% (13/24),"['6', '5']","['4', '3']",[],[],[],2.96
-
-23.10.2023,Matsuda K.,0,5,6^5,,,,6,3,73%,70% (42/60),41% (9/22),50% (2/4),22% (12/55),59% (20/34),25% (1/4),62% (51/82),36% (32/89),49% (83/171),83% (10/12),8% (1/12),46% (11/24),[],"['5', '5']",[],[],[],1.37
-
-22.10.2023,Court J.,2,7^7,6,,,,12,5,67%,70% (31/44),59% (13/22),50% (2/4),48% (19/40),48% (15/31),57% (4/7),67% (44/66),48% (34/71),57% (78/137),80% (8/10),40% (4/10),60% (12/20),"['3', '4', '6', '5']","['3', '1', '6', '2']",[],[],[],6.13
-
-22.10.2023,Statham J. R.,0,6^4,2,,,,1,1,56%,53% (21/40),52% (16/31),43% (3/7),30% (13/44),41% (9/22),50% (2/4),52% (37/71),33% (22/66),43% (59/137),60% (6/10),20% (2/10),40% (8/20),"['3', '1', '6', '6']",[],[],[],[],1.10
-
-ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-
-
-
-
-
-
-03.10. 07:00,Court J.,0,6^3,1,,,,"['3', '5', '5', '5']",[],[],[],[],5.00
-
-
-
-
-
-
-
-03.10. 07:00,Moriya H.,2,7^7,6,,,,"['1', '0', '5', '2']","['2', '0', '5', '1']",[],[],[],1.14
-
-
-
-
-
-
-
-02.10. 11:30,Court J.,2,6,2,6,,,"['3', '2']",[],"['5', '4']",[],[],3.04
-
-
-
-
-
-
-
-02.10. 11:30,Jones H.,1,4,6,4,,,[],"['4', '2', '6', '2']",[],[],[],1.34
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
-
-
-
-
-
-
-
-19.09. 11:00,Court J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
-
-
-
-
-
-
-
-19.09. 11:00,Bradshaw J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '2', '6', '3']",[],[],[],1.22
-
-
-
-
-
-
-
-18.09. 11:00,Court J.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']",[],[],[],[],1.35
-
-
-
-
-
-
-
-18.09. 11:00,Storch S.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],3.02
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
-
-
-
-
-
-
-
-11.09. 14:20,Court J.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['5', '4']",[],[],[],1.91
-
-
-
-
-
-
-
-11.09. 14:20,Klintcharov A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['5', '5']",[],[],[],1.81
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-05.09. 10:30,Court J.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-05.09. 10:30,Dzhavakian Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '4', '1']",[],[],[],0
-
-
-
-
-
-
-
-04.09. 09:25,Court J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']","['2', '0', '6', '4']",[],[],1.30
-
-
-
-
-
-
-
-04.09. 09:25,Sootinun-Opart G.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],"['3', '4']",[],[],3.31
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
-
-
-
-
-
-
-
-27.08. 07:45,Court J.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],3.24
-
-
-
-
-
-
-
-27.08. 07:45,Ichikawa T.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']",[],[],[],[],1.31
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
-
-
-
-
-
-
-
-21.08. 10:15,Court J.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
-
-
-
-
-
-
-
-21.08. 10:15,Vardhan V.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '3']",[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Swan Hill (Australia),grass,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Mildura (Australia),grass,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Burnie 2 (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
-04.02. 08:00,Court J.,0,2,2,,,,9,0,79%,61% (20/33),33% (3/9),20% (1/5),29% (10/34),23% (3/13),0% (0/0),4,55% (23/42),28% (13/47),40% (36/89),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.97
-
-
-
-
-
-
-
-04.02. 08:00,Mochizuki Y.,2,6,6,,,,2,1,72%,71% (24/34),77% (10/13),0% (0/0),39% (13/33),67% (6/9),80% (4/5),5,72% (34/47),45% (19/42),60% (53/89),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '4', '1']","['3', '2', '5', '2']",[],[],[],1.37
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
-28.01. 09:50,Court J.,1,3,6,4,,,5,3,57%,76% (31/41),55% (17/31),0% (0/2),29% (18/62),55% (18/33),40% (2/5),7,67% (48/72),38% (36/95),50% (84/167),3,85% (11/13),14% (2/14),48% (13/27),[],"['3', '1', '6', '2']",[],[],[],1.57
-
-
-
-
-
-
-
-28.01. 09:50,Gaal C.,2,6,2,6,,,6,4,65%,71% (44/62),45% (15/33),60% (3/5),24% (10/41),45% (14/31),100% (2/2),8,62% (59/95),33% (24/72),50% (83/167),3,86% (12/14),15% (2/13),52% (14/27),"['5', '3']",[],"['2', '1']",[],[],2.33
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
-
-
-
-
-
-
-
-19.12.2023,Court J.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
-
-
-
-
-
-
-
-19.12.2023,Crowther C.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.45
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Brisbane (Australia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
-29.10.2023,Court J.,1,3,6,4,,,13,10,60%,79% (41/52),43% (15/35),67% (6/9),27% (14/51),42% (14/33),40% (2/5),4,64% (56/87),33% (28/84),49% (84/171),3,79% (11/14),14% (2/14),46% (13/28),[],"['5', '3']","['4', '5']",[],[],3.49
-
-
-
-
-
-
-
-29.10.2023,Moriya H.,2,6,3,6,,,2,3,61%,73% (37/51),58% (19/33),60% (3/5),21% (11/52),57% (20/35),33% (3/9),5,67% (56/84),36% (31/87),51% (87/171),3,86% (12/14),21% (3/14),54% (15/28),"['3', '1']",[],"['2', '0', '6', '4']",[],[],1.28
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia),hard,header
-
-
-
-
-
-
-
-24.10.2023,Court J.,0,6^7,3,,,,1,4,68%,74% (35/47),45% (10/22),0% (0/2),26% (14/53),32% (6/19),0% (0/4),6,65% (45/69),28% (20/72),46% (65/141),1,82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],6.88
-
-
-
-
-
-
-
-24.10.2023,Hong S. C.,2,7^9,6,,,,8,2,74%,74% (39/53),68% (13/19),100% (4/4),26% (12/47),55% (12/22),100% (2/2),5,72% (52/72),35% (24/69),54% (76/141),3,100% (10/10),18% (2/11),57% (12/21),[],"['2', '1', '6', '3']",[],[],[],1.08
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
-23.10.2023,Court J.,2,7,7^7,,,,10,6,62%,78% (43/55),41% (14/34),75% (3/4),30% (18/60),59% (13/22),50% (2/4),5,64% (57/89),38% (31/82),51% (88/171),3,92% (11/12),17% (2/12),54% (13/24),"['6', '5']","['4', '3']",[],[],[],2.96
-
-
-
-
-
-
-
-23.10.2023,Matsuda K.,0,5,6^5,,,,6,3,73%,70% (42/60),41% (9/22),50% (2/4),22% (12/55),59% (20/34),25% (1/4),4,62% (51/82),36% (32/89),49% (83/171),3,83% (10/12),8% (1/12),46% (11/24),[],"['5', '5']",[],[],[],1.37
-
-
-
-
-
-
-
-22.10.2023,Court J.,2,7^7,6,,,,12,5,67%,70% (31/44),59% (13/22),50% (2/4),48% (19/40),48% (15/31),57% (4/7),8,67% (44/66),48% (34/71),57% (78/137),3,80% (8/10),40% (4/10),60% (12/20),"['3', '4', '6', '5']","['3', '1', '6', '2']",[],[],[],6.13
-
-
-
-
-
-
-
-22.10.2023,Statham J. R.,0,6^4,2,,,,1,1,56%,53% (21/40),52% (16/31),43% (3/7),30% (13/44),41% (9/22),50% (2/4),5,52% (37/71),33% (22/66),43% (59/137),3,60% (6/10),20% (2/10),40% (8/20),"['3', '1', '6', '6']",[],[],[],[],1.10
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Bendigo 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Canberra (Australia),hard,header
-
-
-
-
-
-
-
-EXHIBITION - MEN :  UTR Pro Match Series (World),hard,header
-
-
-
-
-
-
-
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+20.10. 09:50,Court J.,0,4,3,,,,11,11,53%,73% (29/40),39% (14/36),63% (5/8),19% (7/37),30% (3/10),0% (0/1),57% (43/76),21% (10/47),43% (53/123),5,2,70% (7/10),0% (0/9),37% (7/19),[],[],[],[],[],2.95
+20.10. 09:50,Tkemaladze Z.,2,6,6,,,,3,1,79%,81% (30/37),70% (7/10),100% (1/1),28% (11/40),61% (22/36),38% (3/8),79% (37/47),43% (33/76),57% (70/123),5,0,100% (9/9),30% (3/10),63% (12/19),"['3', '2']","['2', '1', '6', '3']",[],[],[],1.33
+ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Swan Hill (Australia),grass,header
+ITF MEN - SINGLES :  M25 Mildura (Australia),grass,header
+ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Burnie 2 (Australia) - Qualification,hard,header
+04.02. 08:00,Court J.,0,2,2,,,,9,0,79%,61% (20/33),33% (3/9),20% (1/5),29% (10/34),23% (3/13),0% (0/0),55% (23/42),28% (13/47),40% (36/89),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],0
+04.02. 08:00,Mochizuki Y.,2,6,6,,,,2,1,72%,71% (24/34),77% (10/13),0% (0/0),39% (13/33),67% (6/9),80% (4/5),72% (34/47),45% (19/42),60% (53/89),100% (8/8),50% (4/8),75% (12/16),"['1', '0', '4', '1']","['3', '2', '5', '2']",[],[],[],0
+CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
+28.01. 09:50,Court J.,1,3,6,4,,,5,3,57%,76% (31/41),55% (17/31),0% (0/2),29% (18/62),55% (18/33),40% (2/5),67% (48/72),38% (36/95),50% (84/167),85% (11/13),14% (2/14),48% (13/27),[],"['3', '1', '6', '2']",[],[],[],0
+28.01. 09:50,Gaal C.,2,6,2,6,,,6,4,65%,71% (44/62),45% (15/33),60% (3/5),24% (10/41),45% (14/31),100% (2/2),62% (59/95),33% (24/72),50% (83/167),86% (12/14),15% (2/13),52% (14/27),"['5', '3']",[],"['2', '1']",[],[],0
+ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
+ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
+ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
+ITF MEN - SINGLES :  M25 Brisbane (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
+29.10.2023,Court J.,1,3,6,4,,,13,10,60%,79% (41/52),43% (15/35),67% (6/9),27% (14/51),42% (14/33),40% (2/5),64% (56/87),33% (28/84),49% (84/171),79% (11/14),14% (2/14),46% (13/28),[],"['5', '3']","['4', '5']",[],[],3.49
+29.10.2023,Moriya H.,2,6,3,6,,,2,3,61%,73% (37/51),58% (19/33),60% (3/5),21% (11/52),57% (20/35),33% (3/9),67% (56/84),36% (31/87),51% (87/171),86% (12/14),21% (3/14),54% (15/28),"['3', '1']",[],"['2', '0', '6', '4']",[],[],1.28
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia),hard,header
+24.10.2023,Court J.,0,6^7,3,,,,1,4,68%,74% (35/47),45% (10/22),0% (0/2),26% (14/53),32% (6/19),0% (0/4),65% (45/69),28% (20/72),46% (65/141),82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],6.88
+24.10.2023,Hong S. C.,2,7^9,6,,,,8,2,74%,74% (39/53),68% (13/19),100% (4/4),26% (12/47),55% (12/22),100% (2/2),72% (52/72),35% (24/69),54% (76/141),100% (10/10),18% (2/11),57% (12/21),[],"['2', '1', '6', '3']",[],[],[],1.08
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+23.10.2023,Court J.,2,7,7^7,,,,10,6,62%,78% (43/55),41% (14/34),75% (3/4),30% (18/60),59% (13/22),50% (2/4),64% (57/89),38% (31/82),51% (88/171),92% (11/12),17% (2/12),54% (13/24),"['6', '5']","['4', '3']",[],[],[],2.96
+23.10.2023,Matsuda K.,0,5,6^5,,,,6,3,73%,70% (42/60),41% (9/22),50% (2/4),22% (12/55),59% (20/34),25% (1/4),62% (51/82),36% (32/89),49% (83/171),83% (10/12),8% (1/12),46% (11/24),[],"['5', '5']",[],[],[],1.37
+22.10.2023,Court J.,2,7^7,6,,,,12,5,67%,70% (31/44),59% (13/22),50% (2/4),48% (19/40),48% (15/31),57% (4/7),67% (44/66),48% (34/71),57% (78/137),80% (8/10),40% (4/10),60% (12/20),"['3', '4', '6', '5']","['3', '1', '6', '2']",[],[],[],6.13
+22.10.2023,Statham J. R.,0,6^4,2,,,,1,1,56%,53% (21/40),52% (16/31),43% (3/7),30% (13/44),41% (9/22),50% (2/4),52% (37/71),33% (22/66),43% (59/137),60% (6/10),20% (2/10),40% (8/20),"['3', '1', '6', '6']",[],[],[],[],1.10
+ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+03.10. 07:00,Court J.,0,6^3,1,,,,"['3', '5', '5', '5']",[],[],[],[],5.00
+03.10. 07:00,Moriya H.,2,7^7,6,,,,"['1', '0', '5', '2']","['2', '0', '5', '1']",[],[],[],1.14
+02.10. 11:30,Court J.,2,6,2,6,,,"['3', '2']",[],"['5', '4']",[],[],3.04
+02.10. 11:30,Jones H.,1,4,6,4,,,[],"['4', '2', '6', '2']",[],[],[],1.34
+ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
+19.09. 11:00,Court J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
+19.09. 11:00,Bradshaw J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '2', '6', '3']",[],[],[],1.22
+18.09. 11:00,Court J.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']",[],[],[],[],1.35
+18.09. 11:00,Storch S.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],3.02
+ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
+11.09. 14:20,Court J.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']","['5', '4']",[],[],[],1.91
+11.09. 14:20,Klintcharov A.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']","['5', '5']",[],[],[],1.81
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat 2 (Thailand),hard,header
+05.09. 10:30,Court J.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+05.09. 10:30,Dzhavakian Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['1', '0', '4', '1']",[],[],[],0
+04.09. 09:25,Court J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2', '6', '2']","['2', '0', '6', '4']",[],[],1.30
+04.09. 09:25,Sootinun-Opart G.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],"['3', '4']",[],[],3.31
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
+27.08. 07:45,Court J.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],3.24
+27.08. 07:45,Ichikawa T.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']",[],[],[],[],1.31
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
+21.08. 10:15,Court J.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
+21.08. 10:15,Vardhan V.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '3']",[],[],[],1.86
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Swan Hill (Australia),grass,header
+ITF MEN - SINGLES :  M25 Mildura (Australia),grass,header
+ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Traralgon (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Burnie 2 (Australia) - Qualification,hard,header
+04.02. 08:00,Court J.,0,2,2,,,,9,0,79%,61% (20/33),33% (3/9),20% (1/5),29% (10/34),23% (3/13),0% (0/0),4,55% (23/42),28% (13/47),40% (36/89),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.97
+04.02. 08:00,Mochizuki Y.,2,6,6,,,,2,1,72%,71% (24/34),77% (10/13),0% (0/0),39% (13/33),67% (6/9),80% (4/5),5,72% (34/47),45% (19/42),60% (53/89),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '4', '1']","['3', '2', '5', '2']",[],[],[],1.37
+CHALLENGER MEN - SINGLES :  Burnie (Australia) - Qualification,hard,header
+28.01. 09:50,Court J.,1,3,6,4,,,5,3,57%,76% (31/41),55% (17/31),0% (0/2),29% (18/62),55% (18/33),40% (2/5),7,67% (48/72),38% (36/95),50% (84/167),3,85% (11/13),14% (2/14),48% (13/27),[],"['3', '1', '6', '2']",[],[],[],1.57
+28.01. 09:50,Gaal C.,2,6,2,6,,,6,4,65%,71% (44/62),45% (15/33),60% (3/5),24% (10/41),45% (14/31),100% (2/2),8,62% (59/95),33% (24/72),50% (83/167),3,86% (12/14),15% (2/13),52% (14/27),"['5', '3']",[],"['2', '1']",[],[],2.33
+ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
+19.12.2023,Court J.,1,6,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.51
+19.12.2023,Crowther C.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.45
+ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
+ITF MEN - SINGLES :  M25 Gold Coast (Australia),hard,header
+ITF MEN - SINGLES :  M25 Brisbane (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Sydney (Australia) - Qualification,hard,header
+29.10.2023,Court J.,1,3,6,4,,,13,10,60%,79% (41/52),43% (15/35),67% (6/9),27% (14/51),42% (14/33),40% (2/5),4,64% (56/87),33% (28/84),49% (84/171),3,79% (11/14),14% (2/14),46% (13/28),[],"['5', '3']","['4', '5']",[],[],3.49
+29.10.2023,Moriya H.,2,6,3,6,,,2,3,61%,73% (37/51),58% (19/33),60% (3/5),21% (11/52),57% (20/35),33% (3/9),5,67% (56/84),36% (31/87),51% (87/171),3,86% (12/14),21% (3/14),54% (15/28),"['3', '1']",[],"['2', '0', '6', '4']",[],[],1.28
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia),hard,header
+24.10.2023,Court J.,0,6^7,3,,,,1,4,68%,74% (35/47),45% (10/22),0% (0/2),26% (14/53),32% (6/19),0% (0/4),6,65% (45/69),28% (20/72),46% (65/141),1,82% (9/11),0% (0/10),43% (9/21),[],[],[],[],[],6.88
+24.10.2023,Hong S. C.,2,7^9,6,,,,8,2,74%,74% (39/53),68% (13/19),100% (4/4),26% (12/47),55% (12/22),100% (2/2),5,72% (52/72),35% (24/69),54% (76/141),3,100% (10/10),18% (2/11),57% (12/21),[],"['2', '1', '6', '3']",[],[],[],1.08
+CHALLENGER MEN - SINGLES :  Playford 2 (Australia) - Qualification,hard,header
+23.10.2023,Court J.,2,7,7^7,,,,10,6,62%,78% (43/55),41% (14/34),75% (3/4),30% (18/60),59% (13/22),50% (2/4),5,64% (57/89),38% (31/82),51% (88/171),3,92% (11/12),17% (2/12),54% (13/24),"['6', '5']","['4', '3']",[],[],[],2.96
+23.10.2023,Matsuda K.,0,5,6^5,,,,6,3,73%,70% (42/60),41% (9/22),50% (2/4),22% (12/55),59% (20/34),25% (1/4),4,62% (51/82),36% (32/89),49% (83/171),3,83% (10/12),8% (1/12),46% (11/24),[],"['5', '5']",[],[],[],1.37
+22.10.2023,Court J.,2,7^7,6,,,,12,5,67%,70% (31/44),59% (13/22),50% (2/4),48% (19/40),48% (15/31),57% (4/7),8,67% (44/66),48% (34/71),57% (78/137),3,80% (8/10),40% (4/10),60% (12/20),"['3', '4', '6', '5']","['3', '1', '6', '2']",[],[],[],6.13
+22.10.2023,Statham J. R.,0,6^4,2,,,,1,1,56%,53% (21/40),52% (16/31),43% (3/7),30% (13/44),41% (9/22),50% (2/4),5,52% (37/71),33% (22/66),43% (59/137),3,60% (6/10),20% (2/10),40% (8/20),"['3', '1', '6', '6']",[],[],[],[],1.10
+ITF MEN - SINGLES :  M25 Cairns 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Cairns (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Darwin (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
+ITF MEN - SINGLES :  M25 Bendigo 2 (Australia),hard,header
+ITF MEN - SINGLES :  M25 Canberra (Australia),hard,header
+EXHIBITION - MEN :  UTR Pro Match Series (World),hard,header

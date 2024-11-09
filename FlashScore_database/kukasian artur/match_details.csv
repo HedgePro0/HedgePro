@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
@@ -24,359 +24,88 @@ ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
 BOYS - SINGLES :  Australian Open (Australia),hard,header
-ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
-
-ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-
-ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-04.09. 13:40,Kukasian A.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
-
-
-
-
-
-
-
-04.09. 13:40,Tessa L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.60
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-
-
-
-
-
-
-
-28.08. 14:30,Kukasian A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5']","['1', '2']",[],[],[],1.49
-
-
-
-
-
-
-
-28.08. 14:30,Dinev D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3', '6', '4']","['2', '0', '3', '1']",[],[],[],2.50
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
-
-
-
-
-
-
-
-14.08. 12:40,Kukasian A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '3', '4']",[],[],[],[],2.75
-
-
-
-
-
-
-
-14.08. 12:40,Compagnucci T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.41
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-
-
-
-
-
-
-
-06.08. 18:10,Kukasian A.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '0', '5', '2']","['2', '5']",[],[],2.26
-
-
-
-
-
-
-
-06.08. 18:10,Radjenovic V.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']",[],"['2', '0', '4', '0', '6', '2']",[],[],1.59
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-
-
-
-
-
-
-
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-
-
-
-
-
-
-
-22.01.2022,Kukasian A.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '3']","['2', '5']",[],[],0
-
-
-
-
-
-
-
-22.01.2022,Poljicak M.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '4']","['3', '1', '5', '1']",[],[],0
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor 2 (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+04.09. 13:40,Kukasian A.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
+04.09. 13:40,Tessa L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.60
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+28.08. 14:30,Kukasian A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '5']","['1', '2']",[],[],[],1.49
+28.08. 14:30,Dinev D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3', '6', '4']","['2', '0', '3', '1']",[],[],[],2.50
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+14.08. 12:40,Kukasian A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '3', '4']",[],[],[],[],2.75
+14.08. 12:40,Compagnucci T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.41
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+06.08. 18:10,Kukasian A.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '0', '5', '2']","['2', '5']",[],[],2.26
+06.08. 18:10,Radjenovic V.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']",[],"['2', '0', '4', '0', '6', '2']",[],[],1.59
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 11 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 52 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+22.01.2022,Kukasian A.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '3']","['2', '5']",[],[],0
+22.01.2022,Poljicak M.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '4']","['3', '1', '5', '1']",[],[],0

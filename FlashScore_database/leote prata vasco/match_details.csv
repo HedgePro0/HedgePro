@@ -1,111 +1,23 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
-28.07. 20:10,Leote Prata V.,0,2,6^9,,,,2,2,58%,64% (29/45),41% (13/32),67% (8/12),29% (12/42),41% (11/27),67% (2/3),55% (42/77),33% (23/69),45% (65/146),4,3,60% (6/10),20% (2/10),40% (8/20),[],"['3', '2', '5', '4']",[],[],[],3.43
-28.07. 20:10,Olivo R.,2,6,7^11,,,,3,4,61%,71% (30/42),59% (16/27),33% (1/3),36% (16/45),59% (19/32),33% (4/12),67% (46/69),45% (35/77),55% (81/146),6,0,80% (8/10),40% (4/10),60% (12/20),"['3', '1', '6', '2']","['4', '4', '5', '5']",[],[],[],1.29
-ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Elvas (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Setubal (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
-CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
-
-CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
-
-
-
-28.07. 20:10,Leote Prata V.,0,2,6^9,,,,2,2,58%,64% (29/45),41% (13/32),67% (8/12),29% (12/42),41% (11/27),67% (2/3),6,55% (42/77),33% (23/69),45% (65/146),3,60% (6/10),20% (2/10),40% (8/20),[],"['3', '2', '5', '4']",[],[],[],3.43
-
-
-
-
-
-
-
-28.07. 20:10,Olivo R.,2,6,7^11,,,,3,4,61%,71% (30/42),59% (16/27),33% (1/3),36% (16/45),59% (19/32),33% (4/12),9,67% (46/69),45% (35/77),55% (81/146),3,80% (8/10),40% (4/10),60% (12/20),"['3', '1', '6', '2']","['4', '4', '5', '5']",[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
-
-
-
-
-
-
-
-26.07. 20:35,Leote Prata V.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1', '4', '4']",[],[],[],5.29
-
-
-
-
-
-
-
-26.07. 20:35,Araujo P.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '2', '1', '6', '5']",[],[],[],1.13
-
-
-
-
-
-
-
-25.07. 16:30,Leote Prata V.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '1', '3', '1']","['1', '0', '5', '4']",[],[],6.09
-
-
-
-
-
-
-
-25.07. 16:30,Gengel M.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '0']","['4', '4']",[],[],1.10
-
-
-
-
-
-
-
-23.07. 19:30,Leote Prata V.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],"['2', '2', '6', '4']",[],[],4.13
-
-
-
-
-
-
-
-23.07. 19:30,Berkieta T.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '0']",[],[],1.21
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Elvas (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Setubal (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
-
-
-
-
-
-
-
+CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
+28.07. 20:10,Leote Prata V.,0,2,6^9,,,,2,2,58%,64% (29/45),41% (13/32),67% (8/12),29% (12/42),41% (11/27),67% (2/3),55% (42/77),33% (23/69),45% (65/146),4,3,60% (6/10),20% (2/10),40% (8/20),[],"['3', '2', '5', '4']",[],[],[],3.43
+28.07. 20:10,Olivo R.,2,6,7^11,,,,3,4,61%,71% (30/42),59% (16/27),33% (1/3),36% (16/45),59% (19/32),33% (4/12),67% (46/69),45% (35/77),55% (81/146),6,0,80% (8/10),40% (4/10),60% (12/20),"['3', '1', '6', '2']","['4', '4', '5', '5']",[],[],[],1.29
+ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Elvas (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Setubal (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Porto (Portugal) - Qualification,hard,header
+28.07. 20:10,Leote Prata V.,0,2,6^9,,,,2,2,58%,64% (29/45),41% (13/32),67% (8/12),29% (12/42),41% (11/27),67% (2/3),6,55% (42/77),33% (23/69),45% (65/146),3,60% (6/10),20% (2/10),40% (8/20),[],"['3', '2', '5', '4']",[],[],[],3.43
+28.07. 20:10,Olivo R.,2,6,7^11,,,,3,4,61%,71% (30/42),59% (16/27),33% (1/3),36% (16/45),59% (19/32),33% (4/12),9,67% (46/69),45% (35/77),55% (81/146),3,80% (8/10),40% (4/10),60% (12/20),"['3', '1', '6', '2']","['4', '4', '5', '5']",[],[],[],1.29
+ITF MEN - SINGLES :  M25 Porto (Portugal),hard,header
+26.07. 20:35,Leote Prata V.,0,1,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1', '4', '4']",[],[],[],5.29
+26.07. 20:35,Araujo P.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['1', '0', '2', '1', '6', '5']",[],[],[],1.13
+25.07. 16:30,Leote Prata V.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '1', '3', '1']","['1', '0', '5', '4']",[],[],6.09
+25.07. 16:30,Gengel M.,1,6,3,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['1', '0']","['4', '4']",[],[],1.10
+23.07. 19:30,Leote Prata V.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],"['2', '2', '6', '4']",[],[],4.13
+23.07. 19:30,Berkieta T.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '0']",[],[],1.21
+ITF MEN - SINGLES :  M25 Elvas (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Setubal (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Idanha-a-Nova 2 (Portugal),hard,header

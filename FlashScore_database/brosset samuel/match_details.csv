@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
 ITF MEN - SINGLES :  M25 Nevers (France),hard,header
 ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
@@ -26,485 +26,90 @@ ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
 ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
 ITF MEN - SINGLES :  M15 Bagnoles-de-l'Orne (France),clay,header
 CHALLENGER MEN - SINGLES :  Blois (France),clay,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
-
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
-
-31.12.2023,Brosset S.,1,7,6^2,2,,,10,6,57%,69% (40/58),49% (21/43),60% (6/10),34% (24/71),37% (11/30),25% (3/12),60% (61/101),35% (35/101),48% (96/202),75% (12/16),19% (3/16),47% (15/32),"['2', '2', '5', '5', '7', '5']",[],[],[],[],2.21
-
-31.12.2023,Delaney Ja.,2,5,7^7,6,,,2,3,70%,66% (47/71),63% (19/30),75% (9/12),31% (18/58),51% (22/43),40% (4/10),65% (66/101),40% (40/101),52% (106/202),81% (13/16),25% (4/16),53% (17/32),"['1', '0', '3', '2']",[],"['3', '1', '6', '2']",[],[],1.63
-
-ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
-
-ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
-
-ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
-
-ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
-
-CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Girona (Spain),clay,header
-
-CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-
-ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Bagnoles-de-l'Orne (France),clay,header
-
-CHALLENGER MEN - SINGLES :  Blois (France),clay,header
-
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-
-
-
-
-03.10. 14:30,Brosset S.,0,4,5,,,,[],[],[],[],[],2.66
-
-
-
-
-
-
-
-03.10. 14:30,Visker N.,2,6,7,,,,"['1', '0']","['6', '5']",[],[],[],1.43
-
-
-
-
-
-
-
-01.10. 14:30,Brosset S.,2,6,6,,,,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.59
-
-
-
-
-
-
-
-01.10. 14:30,Pierre H.,0,3,0,,,,[],[],[],[],[],2.24
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
-
-
-
-
-
-
-
-25.09. 15:45,Brosset S.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '1']",[],[],[],2.81
-
-
-
-
-
-
-
-25.09. 15:45,Radulov I.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.39
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-
-
-
-
-
-
-10.09. 16:40,Brosset S.,1,6,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']",[],"['5', '4']",[],[],2.65
-
-
-
-
-
-
-
-10.09. 16:40,Hoang A.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['6', '4']","['5', '5', '7', '5']",[],[],1.44
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
-
-
-
-
-
-
-
-31.12.2023,Brosset S.,1,7,6^2,2,,,10,6,57%,69% (40/58),49% (21/43),60% (6/10),34% (24/71),37% (11/30),25% (3/12),5,60% (61/101),35% (35/101),48% (96/202),5,75% (12/16),19% (3/16),47% (15/32),"['2', '2', '5', '5', '7', '5']",[],[],[],[],2.21
-
-
-
-
-
-
-
-31.12.2023,Delaney Ja.,2,5,7^7,6,,,2,3,70%,66% (47/71),63% (19/30),75% (9/12),31% (18/58),51% (22/43),40% (4/10),7,65% (66/101),40% (40/101),52% (106/202),3,81% (13/16),25% (4/16),53% (17/32),"['1', '0', '3', '2']",[],"['3', '1', '6', '2']",[],[],1.63
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
-
-
-
-
-
-
-
-19.12.2023,Brosset S.,1,6,3,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
-
-
-
-
-
-
-
-19.12.2023,Hudd E.,2,3,6,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
-
-
-
-
-
-
-
-05.10.2023,Brosset S.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],7.60
-
-
-
-
-
-
-
-05.10.2023,Erhard M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['3', '3', '7', '5']",[],[],[],1.06
-
-
-
-
-
-
-
-03.10.2023,Brosset S.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0', '3', '2']",[],[],[],2.27
-
-
-
-
-
-
-
-03.10.2023,Melero K. A.,0,3,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '1', '4', '4']",[],[],[],1.58
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
-
-
-
-
-
-
-
-24.09.2023,Brosset S.,0,3,3,,,,0,3,55%,59% (29/49),45% (18/40),60% (6/10),36% (14/39),29% (5/17),20% (1/5),9,53% (47/89),34% (19/56),46% (66/145),2,56% (5/9),11% (1/9),33% (6/18),"['2', '0']",[],[],[],[],8.20
-
-
-
-
-
-
-
-24.09.2023,Ymer E.,2,6,6,,,,4,2,70%,64% (25/39),71% (12/17),80% (4/5),41% (20/49),55% (22/40),40% (4/10),6,66% (37/56),47% (42/89),54% (79/145),4,89% (8/9),44% (4/9),67% (12/18),"['1', '2', '3', '2', '6', '3']","['3', '1']",[],[],[],1.06
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
-
-
-
-
-
-
-
-18.06.2023,Brosset S.,0,3,3,,,,0,1,69%,53% (18/34),67% (10/15),0% (0/4),26% (10/39),50% (10/20),13% (1/8),5,57% (28/49),34% (20/59),44% (48/108),3,56% (5/9),11% (1/9),33% (6/18),"['2', '4']",[],[],[],[],4.02
-
-
-
-
-
-
-
-18.06.2023,Jacquet K.,2,6,6,,,,4,3,66%,74% (29/39),50% (10/20),88% (7/8),47% (16/34),33% (5/15),100% (4/4),8,66% (39/59),43% (21/49),56% (60/108),4,89% (8/9),44% (4/9),67% (12/18),"['1', '0', '3', '0', '6', '3']","['5', '3']",[],[],[],1.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Girona (Spain),clay,header
-
-
-
-
-
-
-
-19.10.2022,Brosset S.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2']",[],[],[],2.76
-
-
-
-
-
-
-
-19.10.2022,Lopez Morillo I.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']","['2', '1']",[],[],[],1.41
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
-
-
-
-
-
-
-
-25.09.2022,Brosset S.,1,2,6,2,,,0,3,57%,54% (26/48),39% (14/36),22% (2/9),22% (7/32),52% (17/33),100% (4/4),5,48% (40/84),37% (24/65),43% (64/149),3,46% (6/13),31% (4/13),38% (10/26),[],"['1', '0', '2', '1', '4', '1', '5', '4']",[],[],[],6.80
-
-
-
-
-
-
-
-25.09.2022,Cazaux A.,2,6,4,6,,,8,1,49%,78% (25/32),48% (16/33),0% (0/4),46% (22/48),61% (22/36),78% (7/9),6,63% (41/65),52% (44/84),57% (85/149),4,69% (9/13),54% (7/13),62% (16/26),"['4', '2', '6', '2']","['1', '1', '2', '4', '4', '4']","['3', '1', '6', '2']",[],[],1.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-
-
-
-
-
-
-
-16.03.2022,Brosset S.,0,3,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.07
-
-
-
-
-
-
-
-16.03.2022,Smith R.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.72
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bagnoles-de-l'Orne (France),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Blois (France),clay,header
-
-
-
-
-
-
-
-17.06.2019,Brosset S.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],4.36
-
-
-
-
-
-
-
-17.06.2019,Roca Batalla O.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['2', '1', '4', '1']",[],[],[],1.18
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
+31.12.2023,Brosset S.,1,7,6^2,2,,,10,6,57%,69% (40/58),49% (21/43),60% (6/10),34% (24/71),37% (11/30),25% (3/12),60% (61/101),35% (35/101),48% (96/202),75% (12/16),19% (3/16),47% (15/32),"['2', '2', '5', '5', '7', '5']",[],[],[],[],2.21
+31.12.2023,Delaney Ja.,2,5,7^7,6,,,2,3,70%,66% (47/71),63% (19/30),75% (9/12),31% (18/58),51% (22/43),40% (4/10),65% (66/101),40% (40/101),52% (106/202),81% (13/16),25% (4/16),53% (17/32),"['1', '0', '3', '2']",[],"['3', '1', '6', '2']",[],[],1.63
+ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
+ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Girona (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Bagnoles-de-l'Orne (France),clay,header
+CHALLENGER MEN - SINGLES :  Blois (France),clay,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+03.10. 14:30,Brosset S.,0,4,5,,,,[],[],[],[],[],2.66
+03.10. 14:30,Visker N.,2,6,7,,,,"['1', '0']","['6', '5']",[],[],[],1.43
+01.10. 14:30,Brosset S.,2,6,6,,,,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.59
+01.10. 14:30,Pierre H.,0,3,0,,,,[],[],[],[],[],2.24
+ITF MEN - SINGLES :  M25 Sabadell 2 (Spain),clay,header
+25.09. 15:45,Brosset S.,0,5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '1']",[],[],[],2.81
+25.09. 15:45,Radulov I.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.39
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+10.09. 16:40,Brosset S.,1,6,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1']",[],"['5', '4']",[],[],2.65
+10.09. 16:40,Hoang A.,2,2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['6', '4']","['5', '5', '7', '5']",[],[],1.44
+ITF MEN - SINGLES :  M15 Azay-le-Rideau (France),hard,header
+ITF MEN - SINGLES :  M25 Saint Dizier (France),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+CHALLENGER MEN - SINGLES :  Noumea (New Caledonia) - Qualification,hard,header
+31.12.2023,Brosset S.,1,7,6^2,2,,,10,6,57%,69% (40/58),49% (21/43),60% (6/10),34% (24/71),37% (11/30),25% (3/12),5,60% (61/101),35% (35/101),48% (96/202),5,75% (12/16),19% (3/16),47% (15/32),"['2', '2', '5', '5', '7', '5']",[],[],[],[],2.21
+31.12.2023,Delaney Ja.,2,5,7^7,6,,,2,3,70%,66% (47/71),63% (19/30),75% (9/12),31% (18/58),51% (22/43),40% (4/10),7,65% (66/101),40% (40/101),52% (106/202),3,81% (13/16),25% (4/16),53% (17/32),"['1', '0', '3', '2']",[],"['3', '1', '6', '2']",[],[],1.63
+ITF MEN - SINGLES :  M15 Papamoa (New Zealand),hard,header
+19.12.2023,Brosset S.,1,6,3,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.24
+19.12.2023,Hudd E.,2,3,6,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
+ITF MEN - SINGLES :  M15 Wellington (New Zealand),hard,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
+05.10.2023,Brosset S.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],7.60
+05.10.2023,Erhard M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '6', '2']","['3', '3', '7', '5']",[],[],[],1.06
+03.10.2023,Brosset S.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0', '3', '2']",[],[],[],2.27
+03.10.2023,Melero K. A.,0,3,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '1', '4', '4']",[],[],[],1.58
+CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
+24.09.2023,Brosset S.,0,3,3,,,,0,3,55%,59% (29/49),45% (18/40),60% (6/10),36% (14/39),29% (5/17),20% (1/5),9,53% (47/89),34% (19/56),46% (66/145),2,56% (5/9),11% (1/9),33% (6/18),"['2', '0']",[],[],[],[],8.20
+24.09.2023,Ymer E.,2,6,6,,,,4,2,70%,64% (25/39),71% (12/17),80% (4/5),41% (20/49),55% (22/40),40% (4/10),6,66% (37/56),47% (42/89),54% (79/145),4,89% (8/9),44% (4/9),67% (12/18),"['1', '2', '3', '2', '6', '3']","['3', '1']",[],[],[],1.06
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+CHALLENGER MEN - SINGLES :  Blois (France) - Qualification,clay,header
+18.06.2023,Brosset S.,0,3,3,,,,0,1,69%,53% (18/34),67% (10/15),0% (0/4),26% (10/39),50% (10/20),13% (1/8),5,57% (28/49),34% (20/59),44% (48/108),3,56% (5/9),11% (1/9),33% (6/18),"['2', '4']",[],[],[],[],4.02
+18.06.2023,Jacquet K.,2,6,6,,,,4,3,66%,74% (29/39),50% (10/20),88% (7/8),47% (16/34),33% (5/15),100% (4/4),8,66% (39/59),43% (21/49),56% (60/108),4,89% (8/9),44% (4/9),67% (12/18),"['1', '0', '3', '0', '6', '3']","['5', '3']",[],[],[],1.22
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Girona (Spain),clay,header
+19.10.2022,Brosset S.,0,4,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2']",[],[],[],2.76
+19.10.2022,Lopez Morillo I.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2']","['2', '1']",[],[],[],1.41
+CHALLENGER MEN - SINGLES :  Orleans (France) - Qualification,hard,header
+25.09.2022,Brosset S.,1,2,6,2,,,0,3,57%,54% (26/48),39% (14/36),22% (2/9),22% (7/32),52% (17/33),100% (4/4),5,48% (40/84),37% (24/65),43% (64/149),3,46% (6/13),31% (4/13),38% (10/26),[],"['1', '0', '2', '1', '4', '1', '5', '4']",[],[],[],6.80
+25.09.2022,Cazaux A.,2,6,4,6,,,8,1,49%,78% (25/32),48% (16/33),0% (0/4),46% (22/48),61% (22/36),78% (7/9),6,63% (41/65),52% (44/84),57% (85/149),4,69% (9/13),54% (7/13),62% (16/26),"['4', '2', '6', '2']","['1', '1', '2', '4', '4', '4']","['3', '1', '6', '2']",[],[],1.08
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+16.03.2022,Brosset S.,0,3,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.07
+16.03.2022,Smith R.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.72
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Bagnoles-de-l'Orne (France),clay,header
+CHALLENGER MEN - SINGLES :  Blois (France),clay,header
+17.06.2019,Brosset S.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],4.36
+17.06.2019,Roca Batalla O.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['2', '1', '4', '1']",[],[],[],1.18

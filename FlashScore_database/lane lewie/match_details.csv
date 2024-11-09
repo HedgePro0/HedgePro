@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
 CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
@@ -27,914 +27,142 @@ ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
 CHALLENGER MEN - SINGLES :  Braunschweig (Germany) - Qualification,clay,header
 10.07.2023,Lane L.,1,6^3,6,5,,,9,7,53%,68% (42/62),57% (32/56),70% (7/10),30% (21/71),35% (14/40),33% (3/9),63% (74/118),32% (35/111),48% (109/229),82% (14/17),18% (3/17),50% (17/34),"['1', '0', '4', '1']","['6', '4']",[],[],[],2.08
 10.07.2023,Bittoun C.,2,7^7,4,7,,,2,4,64%,70% (50/71),65% (26/40),67% (6/9),32% (20/62),43% (24/56),30% (3/10),68% (76/111),37% (44/118),52% (120/229),82% (14/17),18% (3/17),50% (17/34),"['2', '4', '4', '4']",[],"['6', '5']",[],[],1.70
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-
-08.09. 14:25,Lane L.,0,3,3,,,,3,5,53%,68% (21/31),48% (13/27),71% (5/7),0 km/h,0 km/h,19% (6/31),45% (10/22),0% (0/7),59% (34/58),30% (16/53),45% (50/111),3,75% (6/8),0% (0/8),38% (6/16),[],[],[],[],[],1.83
-
-08.09. 14:25,Romano F.,1,6,4,,,,6,1,58%,81% (25/31),55% (12/22),100% (7/7),0 km/h,0 km/h,32% (10/31),52% (14/27),29% (2/7),70% (37/53),41% (24/58),55% (61/111),7,100% (8/8),25% (2/8),63% (10/16),"['5', '3']","['4', '3']",[],[],[],1.83
-
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
-
-ITF MEN - SINGLES :  M15 Veigy-Foncenex (France),hard,header
-
-ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
-
-ITF MEN - SINGLES :  M15 Cadolzburg (Germany),hard,header
-
-ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
-
-ITF MEN - SINGLES :  M25 Tavira (Portugal),hard,header
-
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
-
-ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
-
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-
-CHALLENGER MEN - SINGLES :  Braunschweig (Germany) - Qualification,clay,header
-
-10.07.2023,Lane L.,1,6^3,6,5,,,9,7,53%,68% (42/62),57% (32/56),70% (7/10),30% (21/71),35% (14/40),33% (3/9),63% (74/118),32% (35/111),48% (109/229),82% (14/17),18% (3/17),50% (17/34),"['1', '0', '4', '1']","['6', '4']",[],[],[],2.08
-
-10.07.2023,Bittoun C.,2,7^7,4,7,,,2,4,64%,70% (50/71),65% (26/40),67% (6/9),32% (20/62),43% (24/56),30% (3/10),68% (76/111),37% (44/118),52% (120/229),82% (14/17),18% (3/17),50% (17/34),"['2', '4', '4', '4']",[],"['6', '5']",[],[],1.70
-
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
-
-
-
-
-
-
-
-08.09. 14:25,Lane L.,0,3,3,,,,3,5,53%,68% (21/31),48% (13/27),71% (5/7),19% (6/31),45% (10/22),0% (0/7),6,59% (34/58),30% (16/53),45% (50/111),1,75% (6/8),0% (0/8),38% (6/16),[],[],[],[],[],1.83
-
-
-
-
-
-
-
-08.09. 14:25,Romano F.,1,6,4,,,,6,1,58%,81% (25/31),55% (12/22),100% (7/7),32% (10/31),52% (14/27),29% (2/7),6,70% (37/53),41% (24/58),55% (61/111),3,100% (8/8),25% (2/8),63% (10/16),"['5', '3']","['4', '3']",[],[],[],1.83
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-
-
-
-
-
-
-
-05.09. 15:50,Lane L.,1,6,1,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']",[],"['6', '6']",[],[],2.22
-
-
-
-
-
-
-
-05.09. 15:50,Marino P.,2,3,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['3', '1', '5', '1']","['6', '5']",[],[],1.61
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
-
-
-
-
-
-
-
-28.08. 12:20,Lane L.,1,2,7^8,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']","['1', '0', '2', '3']",[],[],1.43
-
-
-
-
-
-
-
-28.08. 12:20,Papoe C. G.,2,6,6^6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['3', '2']","['1', '1', '3', '1', '4', '2']",[],[],2.68
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-07.08. 20:45,Lane L.,1,4,7^7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '3', '5', '5']",[],[],[],2.92
-
-
-
-
-
-
-
-07.08. 20:45,Rivet M.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['1', '0', '4', '3']","['2', '0', '4', '0']",[],[],1.37
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
-
-
-
-
-
-
-
-15.02. 15:40,Lane L.,0,6^2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],3.69
-
-
-
-
-
-
-
-15.02. 15:40,Gueymard Wayenburg S.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '2', '5', '4']",[],[],[],1.25
-
-
-
-
-
-
-
-14.02. 17:40,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['4', '3']",[],[],[],1.70
-
-
-
-
-
-
-
-14.02. 17:40,Dedura-Palomero D.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.07
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Veigy-Foncenex (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
-
-
-
-
-
-
-
-24.01. 19:15,Lane L.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],1.33
-
-
-
-
-
-
-
-24.01. 19:15,Skorilas A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3', '6', '3']","['2', '0']",[],[],[],3.12
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cadolzburg (Germany),hard,header
-
-
-
-
-
-
-
-17.01. 17:15,Lane L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],1.98
-
-
-
-
-
-
-
-17.01. 17:15,Welte M.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['1', '0', '6', '5']",[],[],[],1.75
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Tavira (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Forbach (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-
-
-
-
-
-
-10.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
-
-
-
-
-
-
-
-10.09.2023,Kellovsky D.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
-
-
-
-
-
-
-
-09.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-09.09.2023,Juszczak P.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-08.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
-
-
-
-
-
-
-
-08.09.2023,Brunclik P.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
-
-
-
-
-
-
-
-07.09.2023,Lane L.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
-
-
-
-
-
-
-
-07.09.2023,Perruzza V.,1,4,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-
-
-
-
-
-
-
-06.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.40
-
-
-
-
-
-
-
-06.09.2023,Cubelic K.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.78
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
-
-
-
-
-
-
-
-02.09.2023,Lane L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
-
-
-
-
-
-
-
-02.09.2023,Pieczkowski O.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
-
-
-
-
-
-
-
-01.09.2023,Lane L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-
-
-
-
-
-
-
-01.09.2023,Zahraj P.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
-
-
-
-
-
-
-
-31.08.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.49
-
-
-
-
-
-
-
-31.08.2023,Beckley A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.48
-
-
-
-
-
-
-
-30.08.2023,Lane L.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
-
-
-
-
-
-
-
-30.08.2023,Kosinski F.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.50
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Braunschweig (Germany) - Qualification,clay,header
-
-
-
-
-
-
-
-10.07.2023,Lane L.,1,6^3,6,5,,,9,7,53%,68% (42/62),57% (32/56),70% (7/10),30% (21/71),35% (14/40),33% (3/9),5,63% (74/118),32% (35/111),48% (109/229),3,82% (14/17),18% (3/17),50% (17/34),"['1', '0', '4', '1']","['6', '4']",[],[],[],2.08
-
-
-
-
-
-
-
-10.07.2023,Bittoun C.,2,7^7,4,7,,,2,4,64%,70% (50/71),65% (26/40),67% (6/9),32% (20/62),43% (24/56),30% (3/10),7,68% (76/111),37% (44/118),52% (120/229),4,82% (14/17),18% (3/17),50% (17/34),"['2', '4', '4', '4']",[],"['6', '5']",[],[],1.70
-
-
-
-
-
-
-
-09.07.2023,Lane L.,1,6,4,,,,5,1,52%,92% (23/25),52% (12/23),0% (0/1),21% (6/28),74% (14/19),50% (3/6),7,73% (35/48),43% (20/47),58% (55/95),3,88% (7/8),38% (3/8),63% (10/16),"['2', '0', '6', '4']","['3', '1']",[],[],[],4.60
-
-
-
-
-
-
-
-09.07.2023,Squire H.,0,4,2,,,,4,6,60%,79% (22/28),26% (5/19),50% (3/6),8% (2/25),48% (11/23),100% (1/1),5,57% (27/47),27% (13/48),42% (40/95),3,63% (5/8),13% (1/8),38% (6/16),"['3', '4']",[],[],[],[],1.18
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cluj Napoca (Romania),clay,header
-
-
-
-
-
-
-
-20.06.2023,Lane L.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.58
-
-
-
-
-
-
-
-20.06.2023,Perruzza V.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.27
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Risskov/Aarhus (Denmark),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
-
-
-
-
-
-
-
-19.05.2023,Lane L.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.83
-
-
-
-
-
-
-
-19.05.2023,Visker N.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.87
-
-
-
-
-
-
-
-18.05.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
-
-
-
-
-
-
-
-18.05.2023,Kobelt N.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
-
-
-
-
-
-
-
-17.05.2023,Lane L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.61
-
-
-
-
-
-
-
-17.05.2023,Freund S.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.21
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Telde (Spain),clay,header
-
-
-
-
-
-
-
-13.04.2023,Lane L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
-
-
-
-
-
-
-
-13.04.2023,Kravchenko G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.29
-
-
-
-
-
-
-
-12.04.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '2']","['1', '1', '4', '2']",[],[],[],1.10
-
-
-
-
-
-
-
-12.04.2023,Lopez Cherubino N.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '0']",[],[],[],6.05
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Trimbach (Switzerland),hard,header
-
-
-
-
-
-
-
-16.03.2023,Lane L.,1,7^7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.50
-
-
-
-
-
-
-
-16.03.2023,Zuk K.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
-
-
-
-
-
-
-
-15.03.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
-
-
-
-
-
-
-
-15.03.2023,Casanova A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.46
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-
-
-
-
-
-
-
-01.11.2022,Lane L.,0,4,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],1.99
-
-
-
-
-
-
-
-01.11.2022,Zima L.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],1.75
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
-
-
-
-
-
-
-
-ATP - SINGLES :  Hamburg (Germany) - Qualification,clay,header
-
-
-
-
-
-
-
-10.07.2021,Lane L.,0,3,1,,,,3,5,58%,60% (18/30),32% (7/22),44% (4/9),20% (6/30),36% (5/14),50% (1/2),8,48% (25/52),30% (13/44),40% (38/96),2,38% (3/8),13% (1/8),25% (4/16),"['1', '2']",[],[],[],[],13.00
-
-
-
-
-
-
-
-10.07.2021,Nagal S.,2,6,6,,,,2,2,68%,80% (24/30),50% (7/14),50% (1/2),40% (12/30),45% (10/22),56% (5/9),7,70% (31/44),52% (27/52),60% (58/96),5,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
-
-
-
-
-
-
-
-20.10.2020,Lane L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.08
-
-
-
-
-
-
-
-20.10.2020,Squire H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.71
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+08.09. 14:25,Lane L.,0,3,3,,,,3,5,53%,68% (21/31),48% (13/27),71% (5/7),0 km/h,0 km/h,19% (6/31),45% (10/22),0% (0/7),59% (34/58),30% (16/53),45% (50/111),3,75% (6/8),0% (0/8),38% (6/16),[],[],[],[],[],1.83
+08.09. 14:25,Romano F.,1,6,4,,,,6,1,58%,81% (25/31),55% (12/22),100% (7/7),0 km/h,0 km/h,32% (10/31),52% (14/27),29% (2/7),70% (37/53),41% (24/58),55% (61/111),7,100% (8/8),25% (2/8),63% (10/16),"['5', '3']","['4', '3']",[],[],[],1.83
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
+ITF MEN - SINGLES :  M15 Veigy-Foncenex (France),hard,header
+ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  M15 Cadolzburg (Germany),hard,header
+ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Tavira (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+CHALLENGER MEN - SINGLES :  Braunschweig (Germany) - Qualification,clay,header
+10.07.2023,Lane L.,1,6^3,6,5,,,9,7,53%,68% (42/62),57% (32/56),70% (7/10),30% (21/71),35% (14/40),33% (3/9),63% (74/118),32% (35/111),48% (109/229),82% (14/17),18% (3/17),50% (17/34),"['1', '0', '4', '1']","['6', '4']",[],[],[],2.08
+10.07.2023,Bittoun C.,2,7^7,4,7,,,2,4,64%,70% (50/71),65% (26/40),67% (6/9),32% (20/62),43% (24/56),30% (3/10),68% (76/111),37% (44/118),52% (120/229),82% (14/17),18% (3/17),50% (17/34),"['2', '4', '4', '4']",[],"['6', '5']",[],[],1.70
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+CHALLENGER MEN - SINGLES :  Dobrich 2 (Bulgaria) - Qualification,clay,header
+08.09. 14:25,Lane L.,0,3,3,,,,3,5,53%,68% (21/31),48% (13/27),71% (5/7),19% (6/31),45% (10/22),0% (0/7),6,59% (34/58),30% (16/53),45% (50/111),1,75% (6/8),0% (0/8),38% (6/16),[],[],[],[],[],1.83
+08.09. 14:25,Romano F.,1,6,4,,,,6,1,58%,81% (25/31),55% (12/22),100% (7/7),32% (10/31),52% (14/27),29% (2/7),6,70% (37/53),41% (24/58),55% (61/111),3,100% (8/8),25% (2/8),63% (10/16),"['5', '3']","['4', '3']",[],[],[],1.83
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+05.09. 15:50,Lane L.,1,6,1,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']",[],"['6', '6']",[],[],2.22
+05.09. 15:50,Marino P.,2,3,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['3', '1', '5', '1']","['6', '5']",[],[],1.61
+ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
+28.08. 12:20,Lane L.,1,2,7^8,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']","['1', '0', '2', '3']",[],[],1.43
+28.08. 12:20,Papoe C. G.,2,6,6^6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['3', '2']","['1', '1', '3', '1', '4', '2']",[],[],2.68
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+07.08. 20:45,Lane L.,1,4,7^7,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '3', '5', '5']",[],[],[],2.92
+07.08. 20:45,Rivet M.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '5', '4']","['1', '0', '4', '3']","['2', '0', '4', '0']",[],[],1.37
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 8 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
+15.02. 15:40,Lane L.,0,6^2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],3.69
+15.02. 15:40,Gueymard Wayenburg S.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '2', '5', '4']",[],[],[],1.25
+14.02. 17:40,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['4', '3']",[],[],[],1.70
+14.02. 17:40,Dedura-Palomero D.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.07
+ITF MEN - SINGLES :  M15 Veigy-Foncenex (France),hard,header
+ITF MEN - SINGLES :  M25 Nussloch (Germany),hard,header
+24.01. 19:15,Lane L.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],1.33
+24.01. 19:15,Skorilas A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3', '6', '3']","['2', '0']",[],[],[],3.12
+ITF MEN - SINGLES :  M15 Cadolzburg (Germany),hard,header
+17.01. 17:15,Lane L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],1.98
+17.01. 17:15,Welte M.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['1', '0', '6', '5']",[],[],[],1.75
+ITF MEN - SINGLES :  M25 Tavira 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Tavira (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Forbach (France),hard,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+10.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
+10.09.2023,Kellovsky D.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
+09.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+09.09.2023,Juszczak P.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+08.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
+08.09.2023,Brunclik P.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
+07.09.2023,Lane L.,2,6,6^4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
+07.09.2023,Perruzza V.,1,4,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
+06.09.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.40
+06.09.2023,Cubelic K.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.78
+ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
+02.09.2023,Lane L.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.54
+02.09.2023,Pieczkowski O.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.47
+01.09.2023,Lane L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
+01.09.2023,Zahraj P.,1,6,4,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
+31.08.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.49
+31.08.2023,Beckley A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.48
+30.08.2023,Lane L.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
+30.08.2023,Kosinski F.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.50
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Hyvinkaa (Finland),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+CHALLENGER MEN - SINGLES :  Braunschweig (Germany) - Qualification,clay,header
+10.07.2023,Lane L.,1,6^3,6,5,,,9,7,53%,68% (42/62),57% (32/56),70% (7/10),30% (21/71),35% (14/40),33% (3/9),5,63% (74/118),32% (35/111),48% (109/229),3,82% (14/17),18% (3/17),50% (17/34),"['1', '0', '4', '1']","['6', '4']",[],[],[],2.08
+10.07.2023,Bittoun C.,2,7^7,4,7,,,2,4,64%,70% (50/71),65% (26/40),67% (6/9),32% (20/62),43% (24/56),30% (3/10),7,68% (76/111),37% (44/118),52% (120/229),4,82% (14/17),18% (3/17),50% (17/34),"['2', '4', '4', '4']",[],"['6', '5']",[],[],1.70
+09.07.2023,Lane L.,1,6,4,,,,5,1,52%,92% (23/25),52% (12/23),0% (0/1),21% (6/28),74% (14/19),50% (3/6),7,73% (35/48),43% (20/47),58% (55/95),3,88% (7/8),38% (3/8),63% (10/16),"['2', '0', '6', '4']","['3', '1']",[],[],[],4.60
+09.07.2023,Squire H.,0,4,2,,,,4,6,60%,79% (22/28),26% (5/19),50% (3/6),8% (2/25),48% (11/23),100% (1/1),5,57% (27/47),27% (13/48),42% (40/95),3,63% (5/8),13% (1/8),38% (6/16),"['3', '4']",[],[],[],[],1.18
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Cluj Napoca (Romania),clay,header
+20.06.2023,Lane L.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.58
+20.06.2023,Perruzza V.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.27
+ITF MEN - SINGLES :  M25 Risskov/Aarhus (Denmark),clay,header
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+19.05.2023,Lane L.,0,6^6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.83
+19.05.2023,Visker N.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.87
+18.05.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
+18.05.2023,Kobelt N.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
+17.05.2023,Lane L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.61
+17.05.2023,Freund S.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.21
+ITF MEN - SINGLES :  M25 Varnamo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Telde (Spain),clay,header
+13.04.2023,Lane L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+13.04.2023,Kravchenko G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.29
+12.04.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '2']","['1', '1', '4', '2']",[],[],[],1.10
+12.04.2023,Lopez Cherubino N.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '0']",[],[],[],6.05
+ITF MEN - SINGLES :  M25 Toulouse-Balma (France),hard,header
+ITF MEN - SINGLES :  M25 Trimbach (Switzerland),hard,header
+16.03.2023,Lane L.,1,7^7,3,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],10.50
+16.03.2023,Zuk K.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
+15.03.2023,Lane L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
+15.03.2023,Casanova A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.46
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+01.11.2022,Lane L.,0,4,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],1.99
+01.11.2022,Zima L.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],1.75
+ITF MEN - SINGLES :  M15 Parnu 2 (Estonia),hard,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Eindhoven (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
+ITF MEN - SINGLES :  M15 Vejle (Denmark),clay,header
+ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
+ATP - SINGLES :  Hamburg (Germany) - Qualification,clay,header
+10.07.2021,Lane L.,0,3,1,,,,3,5,58%,60% (18/30),32% (7/22),44% (4/9),20% (6/30),36% (5/14),50% (1/2),8,48% (25/52),30% (13/44),40% (38/96),2,38% (3/8),13% (1/8),25% (4/16),"['1', '2']",[],[],[],[],13.00
+10.07.2021,Nagal S.,2,6,6,,,,2,2,68%,80% (24/30),50% (7/14),50% (1/2),40% (12/30),45% (10/22),56% (5/9),7,70% (31/44),52% (27/52),60% (58/96),5,88% (7/8),63% (5/8),75% (12/16),"['2', '0', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.04
+ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
+20.10.2020,Lane L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],2.08
+20.10.2020,Squire H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.71

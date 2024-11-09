@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
 ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
 ITF MEN - SINGLES :  M25 Santander (Spain),clay,header
@@ -8,94 +8,27 @@ ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
 ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
-
-02.10. 15:10,Giraldi C.,0,3,5,,,,"['3', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],8.30
-
-
-
-02.10. 15:10,Demin Y.,2,6,7,,,,"['3', '2', '4', '3', '6', '3']","['2', '2', '3', '5', '5', '5', '7', '5']",[],[],[],1.05
-
-
-
-ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
-
-
-
-27.08. 22:30,Giraldi C.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '4']",[],[],[],2.15
-
-
-
-27.08. 22:30,Camus C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0', '5', '3']",[],[],[],1.59
-
-
-
-ITF MEN - SINGLES :  M25 Santander (Spain),clay,header
-
-
-
-20.08. 13:50,Giraldi C.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],2.79
-
-
-
-20.08. 13:50,Alvarez Sarmiento M. L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.40
-
-
-
-ITF MEN - SINGLES :  M15 Gijon (Spain),clay,header
-
-
-
-14.08. 14:40,Giraldi C.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2']",[],[],[],6.63
-
-
-
-14.08. 14:40,Perez Contri S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2', '5', '2']",[],[],[],1.09
-
-
-
-12.08. 19:40,Giraldi C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],1.44
-
-
-
-12.08. 19:40,De Felipe Garcia S.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.65
-
-
-
-ITF MEN - SINGLES :  M25 Roda de Bara (Spain),hard,header
-
-
-
-10.07. 19:25,Giraldi C.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['1', '5']",[],[],[],7.90
-
-
-
-10.07. 19:25,Fernandez Flores D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.06
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
-
-
-
-21.09.2022,Giraldi C.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-21.09.2022,Alcala Gurri M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],13.50
-
-
-
+ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
+ITF MEN - SINGLES :  M25 Zaragoza (Spain),clay,header
+02.10. 15:10,Giraldi C.,0,3,5,,,,"['3', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],8.30
+02.10. 15:10,Demin Y.,2,6,7,,,,"['3', '2', '4', '3', '6', '3']","['2', '2', '3', '5', '5', '5', '7', '5']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Cap d'Agde (France),clay,header
+27.08. 22:30,Giraldi C.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['3', '4']",[],[],[],2.15
+27.08. 22:30,Camus C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['2', '0', '5', '3']",[],[],[],1.59
+ITF MEN - SINGLES :  M25 Santander (Spain),clay,header
+20.08. 13:50,Giraldi C.,0,0,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '5']",[],[],[],2.79
+20.08. 13:50,Alvarez Sarmiento M. L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.40
+ITF MEN - SINGLES :  M15 Gijon (Spain),clay,header
+14.08. 14:40,Giraldi C.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['2', '2']",[],[],[],6.63
+14.08. 14:40,Perez Contri S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2', '5', '2']",[],[],[],1.09
+12.08. 19:40,Giraldi C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],1.44
+12.08. 19:40,De Felipe Garcia S.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.65
+ITF MEN - SINGLES :  M25 Roda de Bara (Spain),hard,header
+10.07. 19:25,Giraldi C.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['1', '5']",[],[],[],7.90
+10.07. 19:25,Fernandez Flores D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.06
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 6 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+21.09.2022,Giraldi C.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+21.09.2022,Alcala Gurri M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],13.50

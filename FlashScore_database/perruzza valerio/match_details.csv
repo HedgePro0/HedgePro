@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
 ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
 ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
@@ -27,87 +27,59 @@ ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
 ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
 ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
 ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
-ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
-ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
-ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
-ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
-
-ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
-
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
+ITF MEN - SINGLES :  M15 Curtea de Arges (Romania),clay,header
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gyula (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 21 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M15 Satu Mare (Romania),clay,header
+ITF MEN - SINGLES :  M15 Koszalin (Poland),clay,header
+ITF MEN - SINGLES :  M15 Szczawno (Poland),clay,header
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header

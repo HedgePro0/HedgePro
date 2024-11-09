@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Norman (USA),hard,header
 ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
 ITF MEN - SINGLES :  M25 Nottingham 2 (United Kingdom),hard,header
@@ -28,253 +28,68 @@ ITF MEN - SINGLES :  M15 Sharm El Sheikh 17 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
 ITF MEN - SINGLES :  M15 Sharm El Sheikh 10 (Egypt),hard,header
 EXHIBITION - MEN :  Others matches (World),-,header
-ITF MEN - SINGLES :  M25 Norman (USA),hard,header
-ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
-ITF MEN - SINGLES :  M25 Norman (USA),hard,header
-
-ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
-
-06.09. 10:30,Jones A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.56
-
-
-
-06.09. 10:30,Bar Biryukov P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '6', '2']",[],[],[],1.12
-
-
-
-05.09. 12:10,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],2.18
-
-
-
-05.09. 12:10,Khazime D.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
-
-
-
-04.09. 13:25,Jones A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],3.12
-
-
-
-04.09. 13:25,Nasridinov A.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 2 (United Kingdom),hard,header
-
-
-
-30.04. 14:40,Jones A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],7.23
-
-
-
-30.04. 14:40,Searle H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['3', '2', '5', '2']",[],[],[],1.07
-
-
-
-ITF MEN - SINGLES :  M15 Sunrise,clay,header
-
-
-
-07.02. 22:30,Jones A.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.56
-
-
-
-07.02. 22:30,Frusina A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '6', '3']",[],[],[],1.47
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
-
-
-
-17.10.2023,Jones A.,1,5,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2']",[],[],[],3.22
-
-
-
-17.10.2023,Houghton G.,2,7,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['7', '5']",[],[],1.31
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
-
-
-
-16.08.2023,Jones A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],5.68
-
-
-
-16.08.2023,Guerrieri A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.11
-
-
-
-ITF MEN - SINGLES :  M15 San Diego,hard,header
-
-
-
-07.06.2023,Jones A.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.32
-
-
-
-07.06.2023,Eriksson Ziverts J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.18
-
-
-
-ITF MEN - SINGLES :  M25 Bakersfield,hard,header
-
-
-
-18.03.2023,Jones A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],8.60
-
-
-
-18.03.2023,Langmo C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '4', '3', '6', '3']",[],[],[],1.04
-
-
-
-17.03.2023,Jones A.,2,7^8,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['1', '0', '7', '4']",[],[],[],7.80
-
-
-
-17.03.2023,Kumar O.,0,6^6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']",[],[],[],[],1.06
-
-
-
-16.03.2023,Jones A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0']",[],[],[],0
-
-
-
-16.03.2023,Williams C.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '0']",[],[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M25 Bath (United Kingdom),hard,header
-
-
-
-08.02.2023,Jones A.,0,2,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '4', '2']",[],[],[],7.30
-
-
-
-08.02.2023,Martineau M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['2', '3', '4', '5']",[],[],[],1.06
-
-
-
-ITF MEN - SINGLES :  M25 Loughborough (United Kingdom),hard,header
-
-
-
-11.01.2023,Jones A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.70
-
-
-
-11.01.2023,Matusevich A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['3', '2']",[],[],[],1.08
-
-
-
-ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Maputo 2 (Mozambique),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Maputo (Mozambique),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Roehampton 2 (United Kingdom),hard,header
-
-
-
-24.08.2022,Jones A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.05
-
-
-
-24.08.2022,Strombachs R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.14
-
-
-
-ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
-
-
-
-18.08.2022,Jones A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],6.45
-
-
-
-18.08.2022,Strombachs R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '2', '5', '4']",[],[],[],1.09
-
-
-
-16.08.2022,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.96
-
-
-
-16.08.2022,Canter A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.77
-
-
-
-ITF MEN - SINGLES :  M15 Akko (Israel),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),hard,header
-
-
-
-11.05.2022,Jones A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],3.46
-
-
-
-11.05.2022,Whitehouse M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3', '6', '3']","['4', '2']",[],[],[],1.30
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 2 (United Kingdom),hard,header
-
-
-
-21.04.2022,Jones A.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '5']",[],[],[],[],3.30
-
-
-
-21.04.2022,Peliwo F.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '6', '5']","['1', '0']",[],[],[],1.32
-
-
-
-20.04.2022,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0']",[],[],[],8.00
-
-
-
-20.04.2022,Cox D.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.07
-
-
-
-ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header
-
-
-
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
+ITF MEN - SINGLES :  M25 Norman (USA),hard,header
+ITF MEN - SINGLES :  M15 Tashkent 2 (Uzbekistan),hard,header
+06.09. 10:30,Jones A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.56
+06.09. 10:30,Bar Biryukov P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '6', '2']",[],[],[],1.12
+05.09. 12:10,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],2.18
+05.09. 12:10,Khazime D.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.63
+04.09. 13:25,Jones A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],3.12
+04.09. 13:25,Nasridinov A.,0,6^5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.33
+ITF MEN - SINGLES :  M25 Nottingham 2 (United Kingdom),hard,header
+30.04. 14:40,Jones A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '5']",[],[],[],7.23
+30.04. 14:40,Searle H.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['3', '2', '5', '2']",[],[],[],1.07
+ITF MEN - SINGLES :  M15 Sunrise,clay,header
+07.02. 22:30,Jones A.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.56
+07.02. 22:30,Frusina A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '6', '3']",[],[],[],1.47
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
+17.10.2023,Jones A.,1,5,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2']",[],[],[],3.22
+17.10.2023,Houghton G.,2,7,3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']",[],"['7', '5']",[],[],1.31
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
+16.08.2023,Jones A.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],5.68
+16.08.2023,Guerrieri A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.11
+ITF MEN - SINGLES :  M15 San Diego,hard,header
+07.06.2023,Jones A.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.32
+07.06.2023,Eriksson Ziverts J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.18
+ITF MEN - SINGLES :  M25 Bakersfield,hard,header
+18.03.2023,Jones A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],8.60
+18.03.2023,Langmo C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '4', '3', '6', '3']",[],[],[],1.04
+17.03.2023,Jones A.,2,7^8,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '4']","['1', '0', '7', '4']",[],[],[],7.80
+17.03.2023,Kumar O.,0,6^6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3']",[],[],[],[],1.06
+16.03.2023,Jones A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0']",[],[],[],0
+16.03.2023,Williams C.,0,6^4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '0']",[],[],[],[],0
+ITF MEN - SINGLES :  M25 Bath (United Kingdom),hard,header
+08.02.2023,Jones A.,0,2,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '4', '2']",[],[],[],7.30
+08.02.2023,Martineau M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['2', '3', '4', '5']",[],[],[],1.06
+ITF MEN - SINGLES :  M25 Loughborough (United Kingdom),hard,header
+11.01.2023,Jones A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.70
+11.01.2023,Matusevich A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['3', '2']",[],[],[],1.08
+ITF MEN - SINGLES :  M25 Heraklion (Greece),hard,header
+ITF MEN - SINGLES :  M15 Maputo 2 (Mozambique),hard,header
+ITF MEN - SINGLES :  M15 Maputo (Mozambique),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Roehampton 2 (United Kingdom),hard,header
+24.08.2022,Jones A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.05
+24.08.2022,Strombachs R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.14
+ITF MEN - SINGLES :  M25 Aldershot (United Kingdom),hard,header
+18.08.2022,Jones A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],6.45
+18.08.2022,Strombachs R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '2', '5', '4']",[],[],[],1.09
+16.08.2022,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.96
+16.08.2022,Canter A.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.77
+ITF MEN - SINGLES :  M15 Akko (Israel),hard,header
+ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),hard,header
+11.05.2022,Jones A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],3.46
+11.05.2022,Whitehouse M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3', '6', '3']","['4', '2']",[],[],[],1.30
+ITF MEN - SINGLES :  M25 Nottingham 2 (United Kingdom),hard,header
+21.04.2022,Jones A.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '5']",[],[],[],[],3.30
+21.04.2022,Peliwo F.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '6', '5']","['1', '0']",[],[],[],1.32
+20.04.2022,Jones A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '3', '0']",[],[],[],8.00
+20.04.2022,Cox D.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.07
+ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 9 (Greece),hard,header

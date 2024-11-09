@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
@@ -21,1495 +21,229 @@ ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
 ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
 ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
 CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
-15.01. 14:15,Jones M.,0,2,1,,,,4,2,60%,52% (14/27),33% (6/18),29% (2/7),29% (9/31),38% (5/13),0% (0/3),44% (20/45),32% (14/44),38% (34/89),4,0,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],3.19
-15.01. 14:15,Jung J.,2,6,6,,,,4,1,70%,71% (22/31),62% (8/13),100% (3/3),48% (13/27),67% (12/18),71% (5/7),68% (30/44),56% (25/45),62% (55/89),6,0,100% (7/7),63% (5/8),80% (12/15),"['5', '2', '6', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.33
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-
-ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
-
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-
-ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
-
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-
-CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-03.10. 14:05,Jones M.,1,4,6,3,,,[],"['2', '0']",[],[],[],2.77
-
-
-
-
-
-
-
-03.10. 14:05,Binda A.,2,6,3,6,,,"['3', '2']",[],"['4', '2']",[],[],1.40
-
-
-
-
-
-
-
-02.10. 14:15,Jones M.,2,6,6,,,,[],"['2', '0', '6', '4']",[],[],[],1.23
-
-
-
-
-
-
-
-02.10. 14:15,Fondriest M.,0,0,4,,,,[],"['1', '2']",[],[],[],3.81
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-
-
-
-
-
-
-11.09. 14:00,Jones M.,1,4,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['4', '3']",[],[],2.03
-
-
-
-
-
-
-
-11.09. 14:00,Lumsden E.,2,6,1,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],"['4', '4', '7', '5']",[],[],1.71
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-06.09. 13:30,Jones M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],1.73
-
-
-
-
-
-
-
-06.09. 13:30,Hamza Reguig S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5', '6', '5']","['2', '1']",[],[],[],2.01
-
-
-
-
-
-
-
-04.09. 17:25,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.21
-
-
-
-
-
-
-
-04.09. 17:25,Schold T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
-
-
-
-
-
-
-
-31.08. 13:40,Jones M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
-
-
-
-
-
-
-
-31.08. 13:40,Demin Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '5', '2']",[],[],[],1.41
-
-
-
-
-
-
-
-30.08. 15:20,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '3']",[],[],[],1.24
-
-
-
-
-
-
-
-30.08. 15:20,Hsieh W.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.77
-
-
-
-
-
-
-
-29.08. 13:40,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
-
-
-
-
-
-
-
-29.08. 13:40,Campese C.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.46
-
-
-
-
-
-
-
-28.08. 13:45,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '2', '1', '4', '1']",[],[],[],1.14
-
-
-
-
-
-
-
-28.08. 13:45,Drayton T.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '1']",[],[],[],5.09
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
-
-
-
-
-
-
-
-15.06. 19:10,Jones M.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
-
-
-
-
-
-
-
-15.06. 19:10,Alhogbani A. F.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0']",[],[],[],3.58
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-
-
-
-
-
-
-
-13.06. 20:10,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['4', '2']",[],[],[],1.47
-
-
-
-
-
-
-
-13.06. 20:10,Alkotop M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.59
-
-
-
-
-
-
-
-12.06. 19:15,Jones M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '2', '6', '5']",[],[],[],1.17
-
-
-
-
-
-
-
-12.06. 19:15,Yazdani A.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],4.83
-
-
-
-
-
-
-
-11.06. 19:20,Jones M.,1,6,6^5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '6', '3']","['5', '5', '6', '6']",[],[],[],4.16
-
-
-
-
-
-
-
-11.06. 19:20,Naw H.,2,3,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '5']","['3', '1', '5', '1']",[],[],1.21
-
-
-
-
-
-
-
-10.06. 18:45,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],0
-
-
-
-
-
-
-
-10.06. 18:45,Kelley H.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Baotou (China),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
-
-
-
-
-
-
-
-20.03. 19:40,Jones M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.24
-
-
-
-
-
-
-
-20.03. 19:40,Bonsach G. K.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['4', '5', '6', '5']",[],[],[],1.59
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
-
-
-
-
-
-
-
-14.03. 16:40,Jones M.,1,6,0,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],1.62
-
-
-
-
-
-
-
-14.03. 16:40,Melero K. A.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],2.20
-
-
-
-
-
-
-
-13.03. 18:05,Jones M.,2,5,7^7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['5', '5']","['2', '3', '4', '5', '6', '5']",[],[],0
-
-
-
-
-
-
-
-13.03. 18:05,Pujol Navarro B.,1,7,6^4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '6', '5']","['5', '4']","['3', '1', '5', '3']",[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
-
-
-
-
-
-
-
-03.02. 20:50,Jones M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],3.66
-
-
-
-
-
-
-
-03.02. 20:50,Prado Angelo J. C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']","['4', '2', '6', '2']",[],[],[],1.26
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
-
-
-
-
-
-
-
-15.01. 14:15,Jones M.,0,2,1,,,,4,2,60%,52% (14/27),33% (6/18),29% (2/7),29% (9/31),38% (5/13),0% (0/3),4,44% (20/45),32% (14/44),38% (34/89),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],3.19
-
-
-
-
-
-
-
-15.01. 14:15,Jung J.,2,6,6,,,,4,1,70%,71% (22/31),62% (8/13),100% (3/3),48% (13/27),67% (12/18),71% (5/7),6,68% (30/44),56% (25/45),62% (55/89),6,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.33
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi 2 (Thailand),hard,header
-
-
-
-
-
-
-
-10.01. 10:10,Jones M.,1,6,3,2,,,5,2,57%,77% (34/44),36% (12/33),75% (9/12),33% (13/40),48% (11/23),67% (2/3),7,60% (46/77),32% (20/63),47% (66/140),3,75% (9/12),17% (2/12),46% (11/24),"['2', '0', '5', '1']",[],[],[],[],3.37
-
-
-
-
-
-
-
-10.01. 10:10,Noguchi R.,2,1,6,6,,,3,1,63%,78% (31/40),52% (12/23),33% (1/3),23% (10/44),64% (21/33),25% (3/12),5,68% (43/63),40% (31/77),53% (74/140),7,83% (10/12),25% (3/12),54% (13/24),[],"['5', '3']","['1', '0', '3', '0']",[],[],1.30
-
-
-
-
-
-
-
-09.01. 09:55,Jones M.,2,2,6,6,,,4,4,57%,70% (33/47),56% (20/36),71% (5/7),33% (14/42),50% (16/32),50% (4/8),9,64% (53/83),41% (30/74),53% (83/157),4,83% (10/12),33% (4/12),58% (14/24),[],"['3', '1']","['1', '0', '4', '1', '6', '1']",[],[],3.43
-
-
-
-
-
-
-
-09.01. 09:55,Donskoy E.,1,6,3,1,,,6,2,57%,67% (28/42),50% (16/32),50% (4/8),30% (14/47),44% (16/36),29% (2/7),9,59% (44/74),36% (30/83),47% (74/157),5,67% (8/12),17% (2/12),42% (10/24),"['3', '2', '5', '2']",[],[],[],[],1.29
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi (Thailand),hard,header
-
-
-
-
-
-
-
-03.01. 10:25,Jones M.,0,4,0,,,,2,2,73%,51% (18/35),38% (5/13),0% (0/4),5% (1/19),36% (9/25),0% (0/0),3,48% (23/48),23% (10/44),36% (33/92),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],5.96
-
-
-
-
-
-
-
-03.01. 10:25,Pouille L.,2,6,6,,,,6,2,43%,95% (18/19),64% (16/25),0% (0/0),49% (17/35),62% (8/13),100% (4/4),9,77% (34/44),52% (25/48),64% (59/92),7,100% (8/8),50% (4/8),75% (12/16),"['4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.11
-
-
-
-
-
-
-
-01.01. 12:30,Jones M.,2,7,6,,,,1,2,62%,84% (32/38),52% (12/23),0% (0/1),32% (11/34),47% (16/34),43% (3/7),7,72% (44/61),40% (27/68),55% (71/129),5,91% (10/11),27% (3/11),59% (13/22),"['5', '5', '7', '5']","['6', '4']",[],[],[],2.76
-
-
-
-
-
-
-
-01.01. 12:30,Cecchinato M.,0,5,4,,,,1,2,50%,68% (23/34),53% (18/34),57% (4/7),16% (6/38),48% (11/23),100% (1/1),4,60% (41/68),28% (17/61),45% (58/129),2,73% (8/11),9% (1/11),41% (9/22),"['1', '0']",[],[],[],[],1.42
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 51 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 49 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 10 (Tunisia),hard,header
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - World Group II (World),-,header
-
-
-
-
-
-
-
-16.09.2023,Jones M.,2,6,3,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['2', '0', '3', '0', '6', '4', '7', '4', '10', '8']",[],[],0
-
-
-
-
-
-
-
-16.09.2023,Becroft I.,1,3,6,8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '4', '4', '4', '5', '8', '8', '9']",[],[],0
-
-
-
-
-
-
-
-15.09.2023,Jones M.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.85
-
-
-
-
-
-
-
-15.09.2023,Rai A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['4', '3', '6', '3']",[],[],[],1.88
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 8 (Thailand),hard,header
-
-
-
-
-
-
-
-08.09.2023,Jones M.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-08.09.2023,Lomakin G.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-07.09.2023,Jones M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.10
-
-
-
-
-
-
-
-07.09.2023,Crowther C.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.95
-
-
-
-
-
-
-
-06.09.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
-
-
-
-
-
-
-
-06.09.2023,Lee J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.80
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
-
-
-
-
-
-
-
-03.09.2023,Jones M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.37
-
-
-
-
-
-
-
-03.09.2023,Dzhavakian Y.,0,6^3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.99
-
-
-
-
-
-
-
-02.09.2023,Jones M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-02.09.2023,Bouzige M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-01.09.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
-
-
-
-
-
-
-
-01.09.2023,Pearson K.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
-
-
-
-
-
-
-
-31.08.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.62
-
-
-
-
-
-
-
-31.08.2023,Suksumrarn T.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
-
-
-
-
-
-
-
-29.08.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
-
-
-
-
-
-
-
-29.08.2023,Chaiyarin C.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.50
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-
-
-
-
-
-
-
-25.08.2023,Jones M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.60
-
-
-
-
-
-
-
-25.08.2023,Samrej K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
-
-
-
-
-
-
-
-24.08.2023,Jones M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-24.08.2023,Wattanakul P.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-23.08.2023,Jones M.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-23.08.2023,Ferguson C.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Jakarta 7 (Indonesia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Jakarta 6 (Indonesia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-
-
-
-
-
-
-
-12.07.2023,Jones M.,0,6^1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
-
-
-
-
-
-
-
-12.07.2023,Takahashi Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
-
-
-
-
-
-
-
-08.07.2023,Jones M.,2,6^4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.32
-
-
-
-
-
-
-
-08.07.2023,Samrej K.,1,7^7,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.30
-
-
-
-
-
-
-
-07.07.2023,Jones M.,2,6,6^3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
-
-
-
-
-
-
-
-07.07.2023,Sekiguchi S.,1,4,7^7,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-
-
-
-
-
-
-
-06.07.2023,Jones M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.92
-
-
-
-
-
-
-
-06.07.2023,Singh D.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.79
-
-
-
-
-
-
-
-05.07.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.03
-
-
-
-
-
-
-
-05.07.2023,Singh K.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.70
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-
-
-
-
-
-
-
-09.06.2023,Jones M.,2,6,6^6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.72
-
-
-
-
-
-
-
-09.06.2023,Samrej K.,1,1,7^8,6^2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.24
-
-
-
-
-
-
-
-08.06.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-08.06.2023,Sumizawa D.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
-
-
-
-
-
-
-
-31.05.2023,Jones M.,1,6,6^5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-31.05.2023,Kunsuwan N.,1,1,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand) - Qualification,hard,header
-
-
-
-
-
-
-
-15.01.2023,Jones M.,0,3,3,,,,4,4,55%,79% (22/28),35% (8/23),40% (2/5),19% (7/36),40% (6/15),0% (0/0),4,59% (30/51),25% (13/51),42% (43/102),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],4.26
-
-
-
-
-
-
-
-15.01.2023,Ochi M.,2,6,6,,,,3,0,71%,81% (29/36),60% (9/15),0% (0/0),21% (6/28),65% (15/23),60% (3/5),8,75% (38/51),41% (21/51),58% (59/102),3,100% (9/9),33% (3/9),67% (12/18),"['3', '2', '6', '3']","['4', '2']",[],[],[],1.21
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi 2 (Thailand) - Qualification,hard,header
-
-
-
-
-
-
-
-08.01.2023,Jones M.,2,3,7^7,6,,,4,5,61%,71% (42/59),62% (23/37),67% (4/6),15% (8/55),55% (21/38),25% (2/8),6,68% (65/96),31% (29/93),50% (94/189),3,87% (13/15),13% (2/16),48% (15/31),"['2', '5']",[],"['2', '1']",[],[],5.15
-
-
-
-
-
-
-
-08.01.2023,Vrbensky M.,1,6,6^5,4,,,7,3,59%,85% (47/55),45% (17/38),75% (6/8),29% (17/59),38% (14/37),33% (2/6),5,69% (64/93),32% (31/96),50% (95/189),4,88% (14/16),13% (2/15),52% (16/31),"['3', '1', '5', '1']",[],[],[],[],1.14
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Nonthaburi (Thailand),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 33 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 27 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
-
-
-
-
-
-
-
-18.05.2022,Jones M.,1,7^7,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.99
-
-
-
-
-
-
-
-18.05.2022,Noce G. M.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 6 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairo 2 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 4 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Cairo (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
-
-
-
-
-
-
-
-20.01.2022,Jones M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.90
-
-
-
-
-
-
-
-20.01.2022,Michalski D.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
-
-
-
-
-
-
-
-19.01.2022,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.86
-
-
-
-
-
-
-
-19.01.2022,Nagy P.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
+ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
+15.01. 14:15,Jones M.,0,2,1,,,,4,2,60%,52% (14/27),33% (6/18),29% (2/7),29% (9/31),38% (5/13),0% (0/3),44% (20/45),32% (14/44),38% (34/89),4,0,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],3.19
+15.01. 14:15,Jung J.,2,6,6,,,,4,1,70%,71% (22/31),62% (8/13),100% (3/3),48% (13/27),67% (12/18),71% (5/7),68% (30/44),56% (25/45),62% (55/89),6,0,100% (7/7),63% (5/8),80% (12/15),"['5', '2', '6', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.33
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
+ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+03.10. 14:05,Jones M.,1,4,6,3,,,[],"['2', '0']",[],[],[],2.77
+03.10. 14:05,Binda A.,2,6,3,6,,,"['3', '2']",[],"['4', '2']",[],[],1.40
+02.10. 14:15,Jones M.,2,6,6,,,,[],"['2', '0', '6', '4']",[],[],[],1.23
+02.10. 14:15,Fondriest M.,0,0,4,,,,[],"['1', '2']",[],[],[],3.81
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+11.09. 14:00,Jones M.,1,4,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['4', '3']",[],[],2.03
+11.09. 14:00,Lumsden E.,2,6,1,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']",[],"['4', '4', '7', '5']",[],[],1.71
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+06.09. 13:30,Jones M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],[],[],[],1.73
+06.09. 13:30,Hamza Reguig S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5', '6', '5']","['2', '1']",[],[],[],2.01
+04.09. 17:25,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.21
+04.09. 17:25,Schold T.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.12
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+31.08. 13:40,Jones M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
+31.08. 13:40,Demin Y.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '5', '2']",[],[],[],1.41
+30.08. 15:20,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '3']",[],[],[],1.24
+30.08. 15:20,Hsieh W.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.77
+29.08. 13:40,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
+29.08. 13:40,Campese C.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.46
+28.08. 13:45,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '2', '1', '4', '1']",[],[],[],1.14
+28.08. 13:45,Drayton T.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '1']",[],[],[],5.09
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
+15.06. 19:10,Jones M.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.27
+15.06. 19:10,Alhogbani A. F.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0']",[],[],[],3.58
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+13.06. 20:10,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '3']","['4', '2']",[],[],[],1.47
+13.06. 20:10,Alkotop M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.59
+12.06. 19:15,Jones M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '2', '6', '5']",[],[],[],1.17
+12.06. 19:15,Yazdani A.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '5']",[],[],[],4.83
+11.06. 19:20,Jones M.,1,6,6^5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '6', '3']","['5', '5', '6', '6']",[],[],[],4.16
+11.06. 19:20,Naw H.,2,3,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['2', '1', '6', '5']","['3', '1', '5', '1']",[],[],1.21
+10.06. 18:45,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],0
+10.06. 18:45,Kelley H.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],0
+ITF MEN - SINGLES :  M25 Baotou (China),clay,header
+ITF MEN - SINGLES :  M25 Anning (China),clay,header
+ITF MEN - SINGLES :  M25 Luan (China),hard,header
+ITF MEN - SINGLES :  M25 Badalona (Spain),clay,header
+20.03. 19:40,Jones M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.24
+20.03. 19:40,Bonsach G. K.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['4', '5', '6', '5']",[],[],[],1.59
+ITF MEN - SINGLES :  M15 Les Franqueses del Valles (Spain),hard,header
+14.03. 16:40,Jones M.,1,6,0,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],1.62
+14.03. 16:40,Melero K. A.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],2.20
+13.03. 18:05,Jones M.,2,5,7^7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['5', '5']","['2', '3', '4', '5', '6', '5']",[],[],0
+13.03. 18:05,Pujol Navarro B.,1,7,6^4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '6', '5']","['5', '4']","['3', '1', '5', '3']",[],[],0
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+03.02. 20:50,Jones M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],3.66
+03.02. 20:50,Prado Angelo J. C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3', '6', '3']","['4', '2', '6', '2']",[],[],[],1.26
+CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand),hard,header
+15.01. 14:15,Jones M.,0,2,1,,,,4,2,60%,52% (14/27),33% (6/18),29% (2/7),29% (9/31),38% (5/13),0% (0/3),4,44% (20/45),32% (14/44),38% (34/89),1,38% (3/8),0% (0/7),20% (3/15),[],[],[],[],[],3.19
+15.01. 14:15,Jung J.,2,6,6,,,,4,1,70%,71% (22/31),62% (8/13),100% (3/3),48% (13/27),67% (12/18),71% (5/7),6,68% (30/44),56% (25/45),62% (55/89),6,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.33
+CHALLENGER MEN - SINGLES :  Nonthaburi 2 (Thailand),hard,header
+10.01. 10:10,Jones M.,1,6,3,2,,,5,2,57%,77% (34/44),36% (12/33),75% (9/12),33% (13/40),48% (11/23),67% (2/3),7,60% (46/77),32% (20/63),47% (66/140),3,75% (9/12),17% (2/12),46% (11/24),"['2', '0', '5', '1']",[],[],[],[],3.37
+10.01. 10:10,Noguchi R.,2,1,6,6,,,3,1,63%,78% (31/40),52% (12/23),33% (1/3),23% (10/44),64% (21/33),25% (3/12),5,68% (43/63),40% (31/77),53% (74/140),7,83% (10/12),25% (3/12),54% (13/24),[],"['5', '3']","['1', '0', '3', '0']",[],[],1.30
+09.01. 09:55,Jones M.,2,2,6,6,,,4,4,57%,70% (33/47),56% (20/36),71% (5/7),33% (14/42),50% (16/32),50% (4/8),9,64% (53/83),41% (30/74),53% (83/157),4,83% (10/12),33% (4/12),58% (14/24),[],"['3', '1']","['1', '0', '4', '1', '6', '1']",[],[],3.43
+09.01. 09:55,Donskoy E.,1,6,3,1,,,6,2,57%,67% (28/42),50% (16/32),50% (4/8),30% (14/47),44% (16/36),29% (2/7),9,59% (44/74),36% (30/83),47% (74/157),5,67% (8/12),17% (2/12),42% (10/24),"['3', '2', '5', '2']",[],[],[],[],1.29
+CHALLENGER MEN - SINGLES :  Nonthaburi (Thailand),hard,header
+03.01. 10:25,Jones M.,0,4,0,,,,2,2,73%,51% (18/35),38% (5/13),0% (0/4),5% (1/19),36% (9/25),0% (0/0),3,48% (23/48),23% (10/44),36% (33/92),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],5.96
+03.01. 10:25,Pouille L.,2,6,6,,,,6,2,43%,95% (18/19),64% (16/25),0% (0/0),49% (17/35),62% (8/13),100% (4/4),9,77% (34/44),52% (25/48),64% (59/92),7,100% (8/8),50% (4/8),75% (12/16),"['4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.11
+01.01. 12:30,Jones M.,2,7,6,,,,1,2,62%,84% (32/38),52% (12/23),0% (0/1),32% (11/34),47% (16/34),43% (3/7),7,72% (44/61),40% (27/68),55% (71/129),5,91% (10/11),27% (3/11),59% (13/22),"['5', '5', '7', '5']","['6', '4']",[],[],[],2.76
+01.01. 12:30,Cecchinato M.,0,5,4,,,,1,2,50%,68% (23/34),53% (18/34),57% (4/7),16% (6/38),48% (11/23),100% (1/1),4,60% (41/68),28% (17/61),45% (58/129),2,73% (8/11),9% (1/11),41% (9/22),"['1', '0']",[],[],[],[],1.42
+ITF MEN - SINGLES :  M15 Monastir 51 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 49 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 10 (Tunisia),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+16.09.2023,Jones M.,2,6,3,10,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']",[],"['2', '0', '3', '0', '6', '4', '7', '4', '10', '8']",[],[],0
+16.09.2023,Becroft I.,1,3,6,8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '4', '4', '4', '5', '8', '8', '9']",[],[],0
+15.09.2023,Jones M.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.85
+15.09.2023,Rai A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['4', '3', '6', '3']",[],[],[],1.88
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 8 (Thailand),hard,header
+08.09.2023,Jones M.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+08.09.2023,Lomakin G.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+07.09.2023,Jones M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.10
+07.09.2023,Crowther C.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.95
+06.09.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
+06.09.2023,Lee J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.80
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
+03.09.2023,Jones M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.37
+03.09.2023,Dzhavakian Y.,0,6^3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.99
+02.09.2023,Jones M.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+02.09.2023,Bouzige M.,0,3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+01.09.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
+01.09.2023,Pearson K.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
+31.08.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.62
+31.08.2023,Suksumrarn T.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.19
+29.08.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.05
+29.08.2023,Chaiyarin C.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.50
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+25.08.2023,Jones M.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.60
+25.08.2023,Samrej K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.45
+24.08.2023,Jones M.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+24.08.2023,Wattanakul P.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+23.08.2023,Jones M.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+23.08.2023,Ferguson C.,1,2,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.04
+ITF MEN - SINGLES :  M25 Jakarta 7 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 6 (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
+12.07.2023,Jones M.,0,6^1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.25
+12.07.2023,Takahashi Y.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
+08.07.2023,Jones M.,2,6^4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.32
+08.07.2023,Samrej K.,1,7^7,4,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.30
+07.07.2023,Jones M.,2,6,6^3,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
+07.07.2023,Sekiguchi S.,1,4,7^7,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
+06.07.2023,Jones M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.92
+06.07.2023,Singh D.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.79
+05.07.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.03
+05.07.2023,Singh K.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.70
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+09.06.2023,Jones M.,2,6,6^6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.72
+09.06.2023,Samrej K.,1,1,7^8,6^2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.24
+08.06.2023,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+08.06.2023,Sumizawa D.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
+31.05.2023,Jones M.,1,6,6^5,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+31.05.2023,Kunsuwan N.,1,1,7^7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
+CHALLENGER MEN - SINGLES :  Nonthaburi 3 (Thailand) - Qualification,hard,header
+15.01.2023,Jones M.,0,3,3,,,,4,4,55%,79% (22/28),35% (8/23),40% (2/5),19% (7/36),40% (6/15),0% (0/0),4,59% (30/51),25% (13/51),42% (43/102),1,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],4.26
+15.01.2023,Ochi M.,2,6,6,,,,3,0,71%,81% (29/36),60% (9/15),0% (0/0),21% (6/28),65% (15/23),60% (3/5),8,75% (38/51),41% (21/51),58% (59/102),3,100% (9/9),33% (3/9),67% (12/18),"['3', '2', '6', '3']","['4', '2']",[],[],[],1.21
+CHALLENGER MEN - SINGLES :  Nonthaburi 2 (Thailand) - Qualification,hard,header
+08.01.2023,Jones M.,2,3,7^7,6,,,4,5,61%,71% (42/59),62% (23/37),67% (4/6),15% (8/55),55% (21/38),25% (2/8),6,68% (65/96),31% (29/93),50% (94/189),3,87% (13/15),13% (2/16),48% (15/31),"['2', '5']",[],"['2', '1']",[],[],5.15
+08.01.2023,Vrbensky M.,1,6,6^5,4,,,7,3,59%,85% (47/55),45% (17/38),75% (6/8),29% (17/59),38% (14/37),33% (2/6),5,69% (64/93),32% (31/96),50% (95/189),4,88% (14/16),13% (2/15),52% (16/31),"['3', '1', '5', '1']",[],[],[],[],1.14
+CHALLENGER MEN - SINGLES :  Nonthaburi (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 46 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 43 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 33 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 27 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 26 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+18.05.2022,Jones M.,1,7^7,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.99
+18.05.2022,Noce G. M.,2,6^5,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.78
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 6 (Egypt),clay,header
+ITF MEN - SINGLES :  M25 Cairo 2 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 4 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Cairo (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
+20.01.2022,Jones M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.90
+20.01.2022,Michalski D.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.06
+19.01.2022,Jones M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.86
+19.01.2022,Nagy P.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
+ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header

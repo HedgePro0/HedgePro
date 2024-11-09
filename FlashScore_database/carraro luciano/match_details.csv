@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
 ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
@@ -23,919 +23,158 @@ ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
 ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
 ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
 ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
-ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
-
-ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-
-
-
-
-27.08. 21:35,Carraro L.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-
-
-
-
-
-
-
-27.08. 21:35,Sciahbasi L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['4', '2', '6', '2']",[],[],[],2.19
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
-
-
-
-
-
-
-
-06.08. 13:30,Carraro L.,1,3,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0', '4', '1']",[],[],[],0
-
-
-
-
-
-
-
-06.08. 13:30,Vatutin A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']","['1', '3']","['2', '0', '5', '1']",[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-
-
-
-
-
-
-24.07. 22:15,Carraro L.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],1.34
-
-
-
-
-
-
-
-24.07. 22:15,Spadola A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],3.23
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-
-
-
-
-
-
-
-18.07. 21:45,Carraro L.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']",[],[],[],0
-
-
-
-
-
-
-
-18.07. 21:45,Simundza J.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],"['4', '2']",[],[],0
-
-
-
-
-
-
-
-16.07. 16:45,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2']","['1', '0', '3', '0', '5', '2']",[],[],[],0
-
-
-
-
-
-
-
-16.07. 16:45,Martin Manzano J. C.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['1', '3']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-
-
-
-
-
-
-
-27.06. 14:40,Carraro L.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.24
-
-
-
-
-
-
-
-27.06. 14:40,Cadenasso G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '3', '5', '4']",[],[],[],1.59
-
-
-
-
-
-
-
-25.06. 20:10,Carraro L.,2,6^6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '4']","['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],0
-
-
-
-
-
-
-
-25.06. 20:10,Borrelli L.,1,7^8,0,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '4', '4', '5', '5']",[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
-
-
-
-
-
-
-
-11.06. 18:30,Carraro L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['3', '1', '5', '5']",[],[],[],0
-
-
-
-
-
-
-
-11.06. 18:30,Ovcharenko O.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '5', '6', '5']","['3', '4', '5', '4', '6', '5']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-
-
-
-
-
-
-
-24.05. 19:40,Carraro L.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']",[],[],[],[],1.73
-
-
-
-
-
-
-
-24.05. 19:40,Buldorini P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],2.00
-
-
-
-
-
-
-
-23.05. 15:45,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],2.50
-
-
-
-
-
-
-
-23.05. 15:45,Compagnucci T.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.51
-
-
-
-
-
-
-
-22.05. 15:05,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '6', '4']",[],[],[],0
-
-
-
-
-
-
-
-22.05. 15:05,De Giorgio P.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '4']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
-
-
-
-
-
-
-
-17.05. 14:30,Carraro L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
-
-
-
-
-
-
-
-17.05. 14:30,Picchione A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.21
-
-
-
-
-
-
-
-14.05. 15:10,Carraro L.,2,4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['2', '0', '6', '2']","['4', '4']",[],[],0
-
-
-
-
-
-
-
-14.05. 15:10,Pieri S.,1,6,2,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['1', '0']",[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
-
-
-
-
-
-
-
-14.12.2023,Carraro L.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
-
-
-
-
-
-
-
-14.12.2023,Becerra Otarola I. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.55
-
-
-
-
-
-
-
-13.12.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
-
-
-
-
-
-
-
-13.12.2023,Bruna N.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.43
-
-
-
-
-
-
-
-11.12.2023,Carraro L.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.65
-
-
-
-
-
-
-
-11.12.2023,La Serna J. M.,1,3,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
-
-
-
-
-
-
-
-07.12.2023,Carraro L.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.51
-
-
-
-
-
-
-
-07.12.2023,Rodriguez L. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-
-
-
-
-
-
-
-05.12.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.41
-
-
-
-
-
-
-
-05.12.2023,Becerra Otarola I. A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-
-
-
-
-
-
-28.10.2023,Carraro L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-28.10.2023,Michalski D.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],[],0
-
-
-
-
-
-
-
-28.10.2023,Carraro L.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '3', '6', '4']","['4', '2', '6', '4']",[],[],5.91
-
-
-
-
-
-
-
-28.10.2023,Fatic N.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['3', '4', '4', '5']","['3', '4']",[],[],1.08
-
-
-
-
-
-
-
-25.10.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '6', '2']","['2', '0', '3', '1', '5', '1']",[],[],[],1.54
-
-
-
-
-
-
-
-25.10.2023,Gola A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5']","['1', '2', '2', '5']",[],[],[],2.25
-
-
-
-
-
-
-
-24.10.2023,Carraro L.,2,6,3,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['3', '4']","['2', '2', '4', '2', '6', '6']",[],[],0
-
-
-
-
-
-
-
-24.10.2023,Zekic M.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['2', '0', '5', '3']","['2', '1', '3', '4', '6', '5']",[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-
-
-
-
-
-
-18.10.2023,Carraro L.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '5']",[],[],[],0
-
-
-
-
-
-
-
-18.10.2023,Fonio G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['2', '0', '5', '1', '6', '2']",[],[],[],0
-
-
-
-
-
-
-
-17.10.2023,Carraro L.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']",[],"['2', '0', '4', '0', '5', '3', '6', '4']",[],[],2.72
-
-
-
-
-
-
-
-17.10.2023,Potenza L.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['1', '0', '4', '1']","['1', '4', '3', '4', '4', '5']",[],[],1.38
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-
-
-
-
-
-
-
-19.09.2023,Carraro L.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']",[],"['2', '5']",[],[],4.49
-
-
-
-
-
-
-
-19.09.2023,Oradini G.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1', '6', '2']",[],[],1.15
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-13.09.2023,Carraro L.,0,1,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['2', '1', '6', '5']",[],[],[],0
-
-
-
-
-
-
-
-13.09.2023,Di Nicola G.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['3', '3', '6', '6']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-
-
-
-
-
-
-12.08.2023,Carraro L.,1,2,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '1', '2', '2', '4', '2']","['1', '0']",[],[],2.01
-
-
-
-
-
-
-
-12.08.2023,Castagnola L.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1']","['1', '1', '3', '1', '5', '1']",[],[],1.72
-
-
-
-
-
-
-
-11.08.2023,Carraro L.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['1', '1', '4', '2', '6', '4']","['1', '1', '3', '1', '5', '1']",[],[],1.49
-
-
-
-
-
-
-
-11.08.2023,Buldorini P.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['1', '0', '3', '4']","['1', '0']",[],[],2.38
-
-
-
-
-
-
-
-10.08.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],3.23
-
-
-
-
-
-
-
-10.08.2023,Juarez F.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
-
-
-
-
-
-
-
-09.08.2023,Carraro L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '0']","['1', '0']",[],[],2.52
-
-
-
-
-
-
-
-09.08.2023,Nidunjianzan F.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']",[],[],[],[],1.44
-
-
-
-
-
-
-
-08.08.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],0
-
-
-
-
-
-
-
-08.08.2023,Simonit E.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-
-
-
-
-
-
-26.07.2023,Carraro L.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '0']",[],[],[],4.62
-
-
-
-
-
-
-
-26.07.2023,Piraino G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '2', '3', '2', '5', '2']",[],[],[],1.17
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-
-
-
-
-
-
-
-28.06.2023,Carraro L.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.33
-
-
-
-
-
-
-
-28.06.2023,Rossi L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['1', '0', '4', '1']",[],[],[],1.55
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-
-
-
-
-
-
-30.08.2022,Carraro L.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['4', '4', '5', '5', '6', '6']",[],[],[],3.70
-
-
-
-
-
-
-
-30.08.2022,Malla B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '5', '4', '6', '5']",[],[],[],1.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Aprilia (Italy),clay,header
-
-
-
-
-
-
-
-15.07.2022,Carraro L.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.41
-
-
-
-
-
-
-
-15.07.2022,Dalla Valle E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.58
-
-
-
-
-
-
-
-14.07.2022,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '1']",[],[],[],2.98
-
-
-
-
-
-
-
-14.07.2022,Guerrieri A.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],1.38
-
-
-
-
-
-
-
-12.07.2022,Carraro L.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '5', '4', '6', '5']",[],[],[],1.51
-
-
-
-
-
-
-
-12.07.2022,Ciavarella N.,0,1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '5', '5', '6', '6']",[],[],[],2.50
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Tigre (Argentina) - Qualification,clay,header
-
-
-
-
-
-
-
-02.01.2022,Carraro L.,0,2,4,,,,1,4,64%,46% (18/39),50% (11/22),50% (5/10),26% (8/31),23% (3/13),100% (2/2),5,48% (29/61),30% (13/44),40% (42/105),2,44% (4/9),22% (2/9),33% (6/18),[],"['1', '3', '2', '4']",[],[],[],2.76
-
-
-
-
-
-
-
-02.01.2022,Carou I.,2,6,6,,,,1,2,70%,74% (23/31),62% (8/13),0% (0/2),54% (21/39),32% (7/22),50% (5/10),10,70% (31/44),52% (32/61),60% (63/105),8,78% (7/9),56% (5/9),67% (12/18),"['3', '2', '5', '2']","['1', '0', '3', '0', '4', '1']",[],[],[],1.41
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
+ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
+ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+27.08. 21:35,Carraro L.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+27.08. 21:35,Sciahbasi L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['4', '2', '6', '2']",[],[],[],2.19
+ITF MEN - SINGLES :  M25 Montesilvano (Italy),clay,header
+06.08. 13:30,Carraro L.,1,3,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0', '4', '1']",[],[],[],0
+06.08. 13:30,Vatutin A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']","['1', '3']","['2', '0', '5', '1']",[],[],0
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+24.07. 22:15,Carraro L.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],1.34
+24.07. 22:15,Spadola A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],3.23
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+18.07. 21:45,Carraro L.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']",[],[],[],0
+18.07. 21:45,Simundza J.,2,6,1,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],"['4', '2']",[],[],0
+16.07. 16:45,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '2']","['1', '0', '3', '0', '5', '2']",[],[],[],0
+16.07. 16:45,Martin Manzano J. C.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['1', '3']",[],[],[],0
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+27.06. 14:40,Carraro L.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],2.24
+27.06. 14:40,Cadenasso G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '3', '5', '4']",[],[],[],1.59
+25.06. 20:10,Carraro L.,2,6^6,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '4']","['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],0
+25.06. 20:10,Borrelli L.,1,7^8,0,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '4', '4', '5', '5']",[],[],[],[],0
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+11.06. 18:30,Carraro L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['3', '1', '5', '5']",[],[],[],0
+11.06. 18:30,Ovcharenko O.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '5', '6', '5']","['3', '4', '5', '4', '6', '5']",[],[],[],0
+ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
+24.05. 19:40,Carraro L.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '3', '3']",[],[],[],[],1.73
+24.05. 19:40,Buldorini P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '2', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],2.00
+23.05. 15:45,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],2.50
+23.05. 15:45,Compagnucci T.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.51
+22.05. 15:05,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '6', '4']",[],[],[],0
+22.05. 15:05,De Giorgio P.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['3', '4']",[],[],[],0
+ITF MEN - SINGLES :  M25 Reggio Emilia (Italy),clay,header
+17.05. 14:30,Carraro L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.28
+17.05. 14:30,Picchione A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.21
+14.05. 15:10,Carraro L.,2,4,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['2', '0', '6', '2']","['4', '4']",[],[],0
+14.05. 15:10,Pieri S.,1,6,2,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],"['1', '0']",[],[],0
+ITF MEN - SINGLES :  M15 Bragado (Argentina),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este 2 (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Punta del Este (Uruguay),clay,header
+ITF MEN - SINGLES :  M15 Concepcion 2 (Chile),clay,header
+14.12.2023,Carraro L.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.23
+14.12.2023,Becerra Otarola I. A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.55
+13.12.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.25
+13.12.2023,Bruna N.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.43
+11.12.2023,Carraro L.,2,6,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.65
+11.12.2023,La Serna J. M.,1,3,7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
+ITF MEN - SINGLES :  M15 Concepcion (Chile),clay,header
+07.12.2023,Carraro L.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.51
+07.12.2023,Rodriguez L. J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
+05.12.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.41
+05.12.2023,Becerra Otarola I. A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+28.10.2023,Carraro L.,0,0,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+28.10.2023,Michalski D.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],[],0
+28.10.2023,Carraro L.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '3', '6', '4']","['4', '2', '6', '4']",[],[],5.91
+28.10.2023,Fatic N.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['3', '4', '4', '5']","['3', '4']",[],[],1.08
+25.10.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1', '6', '2']","['2', '0', '3', '1', '5', '1']",[],[],[],1.54
+25.10.2023,Gola A.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '5']","['1', '2', '2', '5']",[],[],[],2.25
+24.10.2023,Carraro L.,2,6,3,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['3', '4']","['2', '2', '4', '2', '6', '6']",[],[],0
+24.10.2023,Zekic M.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['2', '0', '5', '3']","['2', '1', '3', '4', '6', '5']",[],[],0
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+18.10.2023,Carraro L.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '5']",[],[],[],0
+18.10.2023,Fonio G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['2', '0', '5', '1', '6', '2']",[],[],[],0
+17.10.2023,Carraro L.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '4', '6', '4']",[],"['2', '0', '4', '0', '5', '3', '6', '4']",[],[],2.72
+17.10.2023,Potenza L.,1,4,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['1', '0', '4', '1']","['1', '4', '3', '4', '4', '5']",[],[],1.38
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+19.09.2023,Carraro L.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']",[],"['2', '5']",[],[],4.49
+19.09.2023,Oradini G.,2,0,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1', '6', '2']",[],[],1.15
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+13.09.2023,Carraro L.,0,1,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['2', '1', '6', '5']",[],[],[],0
+13.09.2023,Di Nicola G.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0', '6', '1']","['3', '3', '6', '6']",[],[],[],0
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+12.08.2023,Carraro L.,1,2,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '5']","['1', '1', '2', '2', '4', '2']","['1', '0']",[],[],2.01
+12.08.2023,Castagnola L.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1']","['1', '1', '3', '1', '5', '1']",[],[],1.72
+11.08.2023,Carraro L.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['1', '1', '4', '2', '6', '4']","['1', '1', '3', '1', '5', '1']",[],[],1.49
+11.08.2023,Buldorini P.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3']","['1', '0', '3', '4']","['1', '0']",[],[],2.38
+10.08.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],3.23
+10.08.2023,Juarez F.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.34
+09.08.2023,Carraro L.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['1', '0']","['1', '0']",[],[],2.52
+09.08.2023,Nidunjianzan F.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']",[],[],[],[],1.44
+08.08.2023,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],0
+08.08.2023,Simonit E.,0,3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+26.07.2023,Carraro L.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '0']",[],[],[],4.62
+26.07.2023,Piraino G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '2', '3', '2', '5', '2']",[],[],[],1.17
+ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
+28.06.2023,Carraro L.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.33
+28.06.2023,Rossi L.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['1', '0', '4', '1']",[],[],[],1.55
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+30.08.2022,Carraro L.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']","['4', '4', '5', '5', '6', '6']",[],[],[],3.70
+30.08.2022,Malla B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '5', '4', '6', '5']",[],[],[],1.25
+ITF MEN - SINGLES :  M15 Novi Sad 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Aprilia (Italy),clay,header
+15.07.2022,Carraro L.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.41
+15.07.2022,Dalla Valle E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.58
+14.07.2022,Carraro L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '1']",[],[],[],2.98
+14.07.2022,Guerrieri A.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],1.38
+12.07.2022,Carraro L.,2,6,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '5', '4', '6', '5']",[],[],[],1.51
+12.07.2022,Ciavarella N.,0,1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '5', '5', '6', '6']",[],[],[],2.50
+CHALLENGER MEN - SINGLES :  Tigre (Argentina) - Qualification,clay,header
+02.01.2022,Carraro L.,0,2,4,,,,1,4,64%,46% (18/39),50% (11/22),50% (5/10),26% (8/31),23% (3/13),100% (2/2),5,48% (29/61),30% (13/44),40% (42/105),2,44% (4/9),22% (2/9),33% (6/18),[],"['1', '3', '2', '4']",[],[],[],2.76
+02.01.2022,Carou I.,2,6,6,,,,1,2,70%,74% (23/31),62% (8/13),0% (0/2),54% (21/39),32% (7/22),50% (5/10),10,70% (31/44),52% (32/61),60% (63/105),8,78% (7/9),56% (5/9),67% (12/18),"['3', '2', '5', '2']","['1', '0', '3', '0', '4', '1']",[],[],[],1.41
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header

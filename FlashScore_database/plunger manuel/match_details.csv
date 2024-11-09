@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Kampala (Uganda),clay,header
 ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
 ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
@@ -16,274 +16,85 @@ ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
 ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
 ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES :  M15 Kampala (Uganda),clay,header
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-ITF MEN - SINGLES :  M15 Überlingen (Germany),clay,header
-ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
-ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES :  M15 Kampala (Uganda),clay,header
-
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
-
-
-
-04.10. 13:40,Plunger M.,0,3,2,,,,[],[],[],[],[],3.72
-
-
-
-04.10. 13:40,Neuchrist M.,2,6,6,,,,"['4', '3', '6', '3']","['4', '2', '6', '2']",[],[],[],1.24
-
-
-
-03.10. 13:25,Plunger M.,2,4,7,6,,,[],"['5', '5', '7', '5']","['2', '2', '5', '3']",[],[],1.60
-
-
-
-03.10. 13:25,Alujas R.,1,6,5,3,,,"['5', '4']","['5', '4']","['1', '0']",[],[],2.22
-
-
-
-02.10. 13:30,Plunger M.,2,6,7^7,,,,"['1', '0']","['1', '0']",[],[],[],0
-
-
-
-02.10. 13:30,Singh K.,0,4,6^1,,,,[],"['5', '5']",[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
-
-
-
-27.09. 14:00,Plunger M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-27.09. 14:00,Kalyanpur A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],2.69
-
-
-
-26.09. 13:30,Plunger M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['3', '2']",[],[],[],5.96
-
-
-
-26.09. 13:30,Safwat M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.10
-
-
-
-24.09. 15:10,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '5', '1']",[],[],[],1.12
-
-
-
-24.09. 15:10,Ymer R.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '4']",[],[],[],5.37
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-28.08. 19:00,Plunger M.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0']",[],[],[],1.75
-
-
-
-28.08. 19:00,Ragazzi A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']",[],[],[],[],1.98
-
-
-
-ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-
-
-
-22.08. 22:45,Plunger M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.66
-
-
-
-22.08. 22:45,Handel T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['4', '3']",[],[],[],1.10
-
-
-
-21.08. 20:55,Plunger M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],2.08
-
-
-
-21.08. 20:55,Campana F.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '4', '3', '5', '5', '5']",[],[],[],1.69
-
-
-
-ITF MEN - SINGLES :  M15 Ãœberlingen (Germany),clay,header
-
-
-
-15.08. 15:00,Plunger M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']",[],[],[],[],3.43
-
-
-
-15.08. 15:00,Egea F. E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '6', '4']","['3', '1']",[],[],[],1.28
-
-
-
-14.08. 15:40,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.86
-
-
-
-14.08. 15:40,Iamachkine P.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
-
-
-
-ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-
-
-
-30.07. 20:40,Plunger M.,0,3,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '4', '4']",[],[],[],2.13
-
-
-
-30.07. 20:40,Di Natale G. M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2', '4', '3']",[],[],[],1.66
-
-
-
-ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
-
-
-
-20.09.2023,Plunger M.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.40
-
-
-
-20.09.2023,Oradini G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '5', '1']",[],[],[],1.05
-
-
-
-19.09.2023,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.39
-
-
-
-19.09.2023,Mishkin K.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.82
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-31.08.2023,Plunger M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.76
-
-
-
-31.08.2023,Picchione A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.08
-
-
-
-30.08.2023,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.43
-
-
-
-30.08.2023,Angelini L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
-
-
-
-29.08.2023,Plunger M.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '5', '4']",[],[],[],[],7.19
-
-
-
-29.08.2023,Potenza L.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']",[],[],[],[],1.07
-
-
-
-ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
-
-
-
-01.08.2023,Plunger M.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],8.80
-
-
-
-01.08.2023,Tabacco G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '5', '3']",[],[],[],1.04
-
-
-
-ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
-
-
-
-27.07.2023,Plunger M.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.00
-
-
-
-27.07.2023,Wehnelt K.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-
-
-
-01.11.2022,Plunger M.,0,6^8,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-01.11.2022,Veldheer M.,2,7^10,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],0
-
-
-
+ITF MEN - SINGLES :  M15 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Überlingen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
+ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+ITF MEN - SINGLES :  M15 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+ITF MEN - SINGLES :  M25 Kampala (Uganda),clay,header
+ITF MEN - SINGLES :  M25 Kigali 2 (Rwanda),clay,header
+04.10. 13:40,Plunger M.,0,3,2,,,,[],[],[],[],[],3.72
+04.10. 13:40,Neuchrist M.,2,6,6,,,,"['4', '3', '6', '3']","['4', '2', '6', '2']",[],[],[],1.24
+03.10. 13:25,Plunger M.,2,4,7,6,,,[],"['5', '5', '7', '5']","['2', '2', '5', '3']",[],[],1.60
+03.10. 13:25,Alujas R.,1,6,5,3,,,"['5', '4']","['5', '4']","['1', '0']",[],[],2.22
+02.10. 13:30,Plunger M.,2,6,7^7,,,,"['1', '0']","['1', '0']",[],[],[],0
+02.10. 13:30,Singh K.,0,4,6^1,,,,[],"['5', '5']",[],[],[],0
+ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
+27.09. 14:00,Plunger M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+27.09. 14:00,Kalyanpur A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],2.69
+26.09. 13:30,Plunger M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['3', '2']",[],[],[],5.96
+26.09. 13:30,Safwat M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.10
+24.09. 15:10,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '5', '1']",[],[],[],1.12
+24.09. 15:10,Ymer R.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '4']",[],[],[],5.37
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+28.08. 19:00,Plunger M.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0']",[],[],[],1.75
+28.08. 19:00,Ragazzi A.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']",[],[],[],[],1.98
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+22.08. 22:45,Plunger M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.66
+22.08. 22:45,Handel T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['4', '3']",[],[],[],1.10
+21.08. 20:55,Plunger M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],2.08
+21.08. 20:55,Campana F.,0,3,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '4', '3', '5', '5', '5']",[],[],[],1.69
+ITF MEN - SINGLES :  M15 Ãœberlingen (Germany),clay,header
+15.08. 15:00,Plunger M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '5']",[],[],[],[],3.43
+15.08. 15:00,Egea F. E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '6', '4']","['3', '1']",[],[],[],1.28
+14.08. 15:40,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.86
+14.08. 15:40,Iamachkine P.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+30.07. 20:40,Plunger M.,0,3,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '4', '4']",[],[],[],2.13
+30.07. 20:40,Di Natale G. M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2', '4', '3']",[],[],[],1.66
+ITF MEN - SINGLES :  M25 Telfs (Austria),clay,header
+ITF MEN - SINGLES :  M15 Villach (Austria),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 6 (Italy),clay,header
+20.09.2023,Plunger M.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],8.40
+20.09.2023,Oradini G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['2', '0', '5', '1']",[],[],[],1.05
+19.09.2023,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.39
+19.09.2023,Mishkin K.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],2.82
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+31.08.2023,Plunger M.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],6.76
+31.08.2023,Picchione A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.08
+30.08.2023,Plunger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.43
+30.08.2023,Angelini L.,0,1,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
+29.08.2023,Plunger M.,1,6,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '5', '4']",[],[],[],[],7.19
+29.08.2023,Potenza L.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']",[],[],[],[],1.07
+ITF MEN - SINGLES :  M25 Bolzano (Italy),clay,header
+01.08.2023,Plunger M.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],8.80
+01.08.2023,Tabacco G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '5', '3']",[],[],[],1.04
+ITF MEN - SINGLES :  M25 Kramsach (Austria),clay,header
+27.07.2023,Plunger M.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],11.00
+27.07.2023,Wehnelt K.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.02
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+01.11.2022,Plunger M.,0,6^8,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+01.11.2022,Veldheer M.,2,7^10,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '2']",[],[],[],0

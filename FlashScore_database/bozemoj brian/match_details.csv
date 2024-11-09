@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
@@ -22,2088 +22,303 @@ ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
 ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
-
-
-
-
-
-
-
-06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
-
-
-
-
-
-
-
-04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
-
-
-
-
-
-
-
-27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
-
-
-
-
-
-
-
-15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
-
-
-
-
-
-
-
-14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
-
-
-
-
-
-
-
-14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-
-
-
-
-
-
-
-10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
-
-
-
-
-
-
-
-10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
-
-
-
-
-
-
-
-09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
-
-
-
-
-
-
-
-07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
-
-
-
-
-
-
-
-07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-
-
-
-
-
-
-
-30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
-
-
-
-
-
-
-
-30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-
-
-
-
-
-
-
-29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-
-
-
-
-
-
-
-24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
-
-
-
-
-
-
-
-24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
-
-
-
-
-
-
-
-23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-
-
-
-
-
-
-
-22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
-
-
-
-
-
-
-
-04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
-
-
-
-
-
-
-
-06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
-
-
-
-
-
-
-
-04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
-
-
-
-
-
-
-
-27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
-
-
-
-
-
-
-
-15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
-
-
-
-
-
-
-
-14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
-
-
-
-
-
-
-
-14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-
-
-
-
-
-
-
-10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
-
-
-
-
-
-
-
-10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
-
-
-
-
-
-
-
-09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
-
-
-
-
-
-
-
-07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
-
-
-
-
-
-
-
-07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-
-
-
-
-
-
-
-30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
-
-
-
-
-
-
-
-30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-
-
-
-
-
-
-
-29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-
-
-
-
-
-
-
-24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
-
-
-
-
-
-
-
-24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
-
-
-
-
-
-
-
-23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-
-
-
-
-
-
-
-22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
-
-
-
-
-
-
-
-04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
-
-
-
-
-
-
-
-06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
-
-
-
-
-
-
-
-04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
-
-
-
-
-
-
-
-27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
-
-
-
-
-
-
-
-15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
-
-
-
-
-
-
-
-14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
-
-
-
-
-
-
-
-14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-
-
-
-
-
-
-
-10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
-
-
-
-
-
-
-
-10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
-
-
-
-
-
-
-
-09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
-
-
-
-
-
-
-
-07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
-
-
-
-
-
-
-
-07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-
-
-
-
-
-
-
-30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
-
-
-
-
-
-
-
-30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-
-
-
-
-
-
-
-29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-
-
-
-
-
-
-
-24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
-
-
-
-
-
-
-
-24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
-
-
-
-
-
-
-
-23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-
-
-
-
-
-
-
-22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
-
-
-
-
-
-
-
-04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
-
-
-
-
-
-
-
-06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
-
-
-
-
-
-
-
-04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
-
-
-
-
-
-
-
-04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
-
-
-
-
-
-
-
-27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
-
-
-
-
-
-
-
-15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
-
-
-
-
-
-
-
-15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
-
-
-
-
-
-
-
-14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
-
-
-
-
-
-
-
-14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
-
-
-
-
-
-
-
-10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
-
-
-
-
-
-
-
-10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
-
-
-
-
-
-
-
-09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
-
-
-
-
-
-
-
-08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
-
-
-
-
-
-
-
-07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
-
-
-
-
-
-
-
-07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
-
-
-
-
-
-
-
-30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
-
-
-
-
-
-
-
-30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
-
-
-
-
-
-
-
-29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
-
-
-
-
-
-
-
-29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
-
-
-
-
-
-
-
-24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
-
-
-
-
-
-
-
-24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
-
-
-
-
-
-
-
-23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
-
-
-
-
-
-
-
-23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
-
-
-
-
-
-
-
-22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
-
-
-
-
-
-
-
-22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
-
-
-
-
-
-
-
-04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
-
-
-
-
-
-
-
-04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
+06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
+04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
+04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
+27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
+15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
+14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
+14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
+10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
+09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
+09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
+08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
+08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
+07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
+07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
+30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
+24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
+23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
+22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
+06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
+04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
+04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
+27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
+15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
+14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
+14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
+10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
+09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
+09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
+08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
+08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
+07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
+07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
+30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
+24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
+23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
+22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
+06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
+04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
+04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
+27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
+15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
+14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
+14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
+10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
+09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
+09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
+08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
+08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
+07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
+07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
+30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
+24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
+23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
+22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+06.09. 16:05,Bozemoj B.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],3.86
+06.09. 16:05,Gentzsch T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.23
+04.09. 13:40,Bozemoj B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '3', '3', '5', '5', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],1.86
+04.09. 13:40,Van Tilburg R.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '3']","['1', '0']",[],[],[],1.86
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+27.08. 17:20,Bozemoj B.,1,7^7,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '1', '3', '3']","['2', '4', '3', '5']",[],[],2.76
+27.08. 17:20,Raynel A.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0', '5', '2', '6', '3']",[],[],1.46
+ITF MEN - SINGLES :  M15 Ystad (Sweden),clay,header
+15.08. 17:05,Bozemoj B.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '4', '2', '5']",[],[],[],[],2.05
+15.08. 17:05,Hjorth P.,1,6,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
+14.08. 19:10,Bozemoj B.,2,2,6,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '3', '3', '6', '4']","['4', '4', '6', '6']",[],[],1.61
+14.08. 19:10,Bol J.,1,6,4,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2']","['2', '1', '6', '5']",[],[],2.22
+ITF MEN - SINGLES :  M15 Dublin (Ireland),hard,header
+10.08. 14:30,Bozemoj B.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '4']",[],[],[],2.88
+10.08. 14:30,Pieczonka F.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['3', '1']",[],[],[],1.38
+09.08. 16:50,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.87
+09.08. 16:50,Bass F.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
+08.08. 17:55,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.38
+08.08. 17:55,Murray F.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],2.88
+07.08. 16:05,Bozemoj B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['2', '1']",[],[],[],1.04
+07.08. 16:05,Maguire C.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.00
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Amstelveen (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca 2 (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+ITF MEN - SINGLES :  M15 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya 4 (Turkey),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Limassol 2 (Cyprus),hard,header
+30.11.2023,Bozemoj B.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.15
+30.11.2023,Dahlin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.64
+29.11.2023,Bozemoj B.,2,6^2,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.82
+29.11.2023,Hjorth P.,1,7^7,1,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.89
+ITF MEN - SINGLES :  M15 Limassol (Cyprus),hard,header
+24.11.2023,Bozemoj B.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.94
+24.11.2023,Nicod J.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.15
+23.11.2023,Bozemoj B.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.42
+23.11.2023,Bol J.,1,6,1,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.70
+22.11.2023,Bozemoj B.,2,6,7^9,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.07
+22.11.2023,Photiades P.,0,3,6^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.25
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette 2 (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 Esch/Alzette (Luxembourg),clay,header
+ITF MEN - SINGLES :  M25 The Hague (Netherlands),clay,header
+04.07.2023,Bozemoj B.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.34
+04.07.2023,Vanshelboim E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header

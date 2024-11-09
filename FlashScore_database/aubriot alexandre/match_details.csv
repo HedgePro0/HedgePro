@@ -1,1074 +1,183 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
 ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
 CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-15.09. 13:35,Aubriot A.,0,2,2,,,,4,3,62%,59% (23/39),42% (10/24),64% (7/11),0 km/h,0 km/h,4% (1/24),25% (3/12),0% (0/0),52% (33/63),11% (4/36),37% (37/99),4,0,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.69
-15.09. 13:35,Gautier A.,2,6,6,,,,7,1,67%,96% (23/24),75% (9/12),0% (0/0),0 km/h,0 km/h,41% (16/39),58% (14/24),36% (4/11),89% (32/36),48% (30/63),63% (62/99),6,0,100% (8/8),50% (4/8),75% (12/16),"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.44
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Rognac (France),hard,header
-ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
-ITF MEN - SINGLES :  M25 Uriage (France),clay,header
-ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-ITF MEN - SINGLES :  M25 Montauban (France),clay,header
-ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
-ITF MEN - SINGLES :  M25 Deauville (France),clay,header
-ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Creteil (France),hard,header
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-
-ITF MEN - SINGLES :  M15 Rognac (France),hard,header
-
-ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
-
-ITF MEN - SINGLES :  M25 Uriage (France),clay,header
-
-ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-ITF MEN - SINGLES :  M25 Montauban (France),clay,header
-
-ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
-
-ITF MEN - SINGLES :  M25 Deauville (France),clay,header
-
-ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Creteil (France),hard,header
-
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-
-CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
-
-11.02. 17:45,Aubriot A.,0,3,2,,,,2,3,69%,67% (18/27),50% (6/12),25% (1/4),14% (4/29),27% (4/15),0% (0/0),62% (24/39),18% (8/44),39% (32/83),63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],6.65
-
-11.02. 17:45,Trotter J. K.,2,6,6,,,,5,2,66%,86% (25/29),73% (11/15),0% (0/0),33% (9/27),50% (6/12),75% (3/4),82% (36/44),38% (15/39),61% (51/83),100% (9/9),38% (3/8),71% (12/17),"['4', '2']","['1', '0', '3', '0']",[],[],[],1.09
-
-CHALLENGER MEN - SINGLES :  Quimper (France) - Qualification,hard,header
-
-23.01. 01:15,Aubriot A.,2,7^7,6,,,,7,2,68%,76% (35/46),50% (11/22),75% (3/4),23% (9/40),66% (19/29),100% (3/3),68% (46/68),41% (28/69),54% (74/137),90% (9/10),27% (3/11),57% (12/21),"['5', '5']","['1', '0', '6', '3']",[],[],[],5.92
-
-23.01. 01:15,Janvier M.,0,6^4,3,,,,12,11,58%,78% (31/40),34% (10/29),0% (0/3),24% (11/46),50% (11/22),25% (1/4),59% (41/69),32% (22/68),46% (63/137),73% (8/11),10% (1/10),43% (9/21),"['3', '2']",[],[],[],[],1.11
-
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-
-
-
-
-04.10. 14:10,Aubriot A.,0,6^6,3,,,,"['2', '2']",[],[],[],[],7.85
-
-
-
-
-
-
-
-04.10. 14:10,Rodesch C.,2,7^8,6,,,,"['2', '1']","['2', '0']",[],[],[],1.05
-
-
-
-
-
-
-
-03.10. 16:05,Aubriot A.,2,6,6,,,,"['2', '0', '5', '1']","['3', '2']",[],[],[],1.66
-
-
-
-
-
-
-
-03.10. 16:05,Chepelev A.,0,1,4,,,,[],[],[],[],[],2.11
-
-
-
-
-
-
-
-02.10. 18:10,Aubriot A.,2,6,6,,,,"['2', '3', '4', '3', '5', '4']","['3', '2']",[],[],[],2.20
-
-
-
-
-
-
-
-02.10. 18:10,Hamza Reguig S.,0,4,4,,,,"['2', '0', '4', '4']",[],[],[],[],1.61
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-
-
-
-
-
-
-
-15.09. 13:35,Aubriot A.,0,2,2,,,,4,3,62%,59% (23/39),42% (10/24),64% (7/11),4% (1/24),25% (3/12),0% (0/0),4,52% (33/63),11% (4/36),37% (37/99),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.69
-
-
-
-
-
-
-
-15.09. 13:35,Gautier A.,2,6,6,,,,7,1,67%,96% (23/24),75% (9/12),0% (0/0),41% (16/39),58% (14/24),36% (4/11),5,89% (32/36),48% (30/63),63% (62/99),9,100% (8/8),50% (4/8),75% (12/16),"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.44
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-
-
-
-
-
-
-11.09. 21:10,Aubriot A.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.17
-
-
-
-
-
-
-
-11.09. 21:10,Tessa L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '1', '6', '1']",[],[],[],1.64
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-
-
-
-
-
-
-
-13.08. 18:10,Aubriot A.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-13.08. 18:10,Binda A.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.87
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rognac (France),hard,header
-
-
-
-
-
-
-
-27.07. 23:55,Aubriot A.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
-
-
-
-
-
-
-
-27.07. 23:55,Legout T.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2']",[],[],[],1.22
-
-
-
-
-
-
-
-26.07. 18:45,Aubriot A.,2,6^4,6,7^9,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '0']",[],[],1.49
-
-
-
-
-
-
-
-26.07. 18:45,Alimli M.,1,7^7,3,6^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '1']",[],[],2.50
-
-
-
-
-
-
-
-25.07. 21:30,Aubriot A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1', '4', '1']",[],[],[],1.55
-
-
-
-
-
-
-
-25.07. 21:30,Camus C.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.34
-
-
-
-
-
-
-
-24.07. 18:40,Aubriot A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '3', '5', '3']",[],[],[],1.13
-
-
-
-
-
-
-
-24.07. 18:40,Respaut C.,0,6^4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1']",[],[],[],5.40
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
-
-
-
-
-
-
-
-16.07. 21:00,Aubriot A.,0,6^3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-16.07. 21:00,Bilardo J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.37
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Uriage (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Montauban (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Deauville (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Creteil (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
-
-
-
-
-
-
-
-11.02. 17:45,Aubriot A.,0,3,2,,,,2,3,69%,67% (18/27),50% (6/12),25% (1/4),14% (4/29),27% (4/15),0% (0/0),4,62% (24/39),18% (8/44),39% (32/83),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],6.65
-
-
-
-
-
-
-
-11.02. 17:45,Trotter J. K.,2,6,6,,,,5,2,66%,86% (25/29),73% (11/15),0% (0/0),33% (9/27),50% (6/12),75% (3/4),7,82% (36/44),38% (15/39),61% (51/83),5,100% (9/9),38% (3/8),71% (12/17),"['4', '2']","['1', '0', '3', '0']",[],[],[],1.09
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Quimper (France) - Qualification,hard,header
-
-
-
-
-
-
-
-23.01. 16:05,Aubriot A.,0,5,3,,,,6,3,55%,72% (26/36),52% (15/29),60% (3/5),27% (12/45),35% (9/26),0% (0/3),5,63% (41/65),30% (21/71),46% (62/136),1,80% (8/10),0% (0/11),38% (8/21),[],[],[],[],[],5.90
-
-
-
-
-
-
-
-23.01. 16:05,Added D.,2,7,6,,,,11,1,63%,73% (33/45),65% (17/26),100% (3/3),28% (10/36),48% (14/29),40% (2/5),6,70% (50/71),37% (24/65),54% (74/136),3,100% (11/11),20% (2/10),62% (13/21),"['7', '5']","['5', '3']",[],[],[],1.12
-
-
-
-
-
-
-
-23.01. 01:15,Aubriot A.,2,7^7,6,,,,7,2,68%,76% (35/46),50% (11/22),75% (3/4),23% (9/40),66% (19/29),100% (3/3),5,68% (46/68),41% (28/69),54% (74/137),3,90% (9/10),27% (3/11),57% (12/21),"['5', '5']","['1', '0', '6', '3']",[],[],[],5.92
-
-
-
-
-
-
-
-23.01. 01:15,Janvier M.,0,6^4,3,,,,12,11,58%,78% (31/40),34% (10/29),0% (0/3),24% (11/46),50% (11/22),25% (1/4),6,59% (41/69),32% (22/68),46% (63/137),3,73% (8/11),10% (1/10),43% (9/21),"['3', '2']",[],[],[],[],1.11
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
-
-
-
-
-
-
-
-09.01. 19:10,Aubriot A.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.34
-
-
-
-
-
-
-
-09.01. 19:10,De Krom M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.55
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Maia (Portugal) - Qualification,clay,header
-
-
-
-
-
-
-
-27.11.2023,Aubriot A.,1,6,2,0,,,7,1,72%,56% (35/63),40% (10/25),54% (7/13),33% (18/54),47% (7/15),22% (2/9),5,51% (45/88),36% (25/69),45% (70/157),3,50% (6/12),18% (2/11),35% (8/23),"['2', '0', '4', '2']",[],[],[],[],2.82
-
-
-
-
-
-
-
-27.11.2023,Guerrieri A.,2,3,6,6,,,1,1,78%,67% (36/54),53% (8/15),78% (7/9),44% (28/63),60% (15/25),46% (6/13),7,64% (44/69),49% (43/88),55% (87/157),8,82% (9/11),50% (6/12),65% (15/23),"['2', '3']","['2', '0', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.40
-
-
-
-
-
-
-
-26.11.2023,Aubriot A.,2,6,6,,,,2,0,83%,74% (32/43),78% (7/9),50% (1/2),38% (16/42),50% (13/26),27% (3/11),6,75% (39/52),43% (29/68),57% (68/120),3,90% (9/10),33% (3/9),63% (12/19),"['2', '0']","['3', '2', '5', '4']",[],[],[],4.02
-
-
-
-
-
-
-
-26.11.2023,Nijboer R.,0,3,4,,,,9,5,62%,62% (26/42),50% (13/26),73% (8/11),26% (11/43),22% (2/9),50% (1/2),5,57% (39/68),25% (13/52),43% (52/120),2,67% (6/9),10% (1/10),37% (7/19),[],"['3', '3']",[],[],[],1.22
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-
-
-
-
-
-
-
-17.09.2023,Aubriot A.,0,6^5,3,,,,1,1,61%,63% (34/54),50% (17/34),86% (6/7),22% (8/37),37% (10/27),0% (0/0),4,59% (51/86),27% (17/64),45% (68/150),1,90% (9/10),0% (0/11),43% (9/21),[],[],[],[],[],5.76
-
-
-
-
-
-
-
-17.09.2023,Gojowczyk P.,2,7^7,6,,,,9,6,58%,81% (30/37),63% (17/27),0% (0/0),39% (21/54),50% (17/34),14% (1/7),7,73% (47/64),41% (35/86),56% (84/150),3,100% (11/11),10% (1/10),57% (12/21),[],"['5', '3']",[],[],[],1.12
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 5 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Uriage (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Montauban (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Grasse (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vero Beach,clay,header
-
-
-
-
-
-
-
-26.04.2023,Aubriot A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],1.32
-
-
-
-
-
-
-
-26.04.2023,Brown T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],3.15
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Tallahassee (USA) - Qualification,clay,header
-
-
-
-
-
-
-
-17.04.2023,Aubriot A.,0,4,3,,,,4,6,54%,65% (24/37),35% (11/31),67% (8/12),21% (8/38),61% (11/18),33% (2/6),3,51% (35/68),34% (19/56),44% (54/124),2,56% (5/9),20% (2/10),37% (7/19),"['1', '0']","['2', '5']",[],[],[],3.80
-
-
-
-
-
-
-
-17.04.2023,Jacquet K.,2,6,6,,,,1,1,68%,79% (30/38),39% (7/18),67% (4/6),35% (13/37),65% (20/31),33% (4/12),11,66% (37/56),49% (33/68),56% (70/124),5,80% (8/10),44% (4/9),63% (12/19),"['2', '2', '6', '4']","['2', '0', '5', '1']",[],[],[],1.24
-
-
-
-
-
-
-
-17.04.2023,Aubriot A.,2,7^8,6,,,,7,6,57%,76% (39/51),53% (20/38),100% (5/5),25% (8/32),33% (9/27),100% (1/1),5,66% (59/89),29% (17/59),51% (76/148),5,100% (11/11),10% (1/10),57% (12/21),[],"['2', '0']",[],[],[],3.62
-
-
-
-
-
-
-
-17.04.2023,Pecotic M.,0,6^6,3,,,,4,3,54%,75% (24/32),67% (18/27),0% (0/1),24% (12/51),47% (18/38),0% (0/5),4,71% (42/59),34% (30/89),49% (72/148),1,90% (9/10),0% (0/11),43% (9/21),[],[],[],[],[],1.26
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sunrise,clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 3 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
-
-
-
-
-
-
-
-10.10.2022,Aubriot A.,0,2,2,,,,1,4,65%,60% (18/30),38% (6/16),56% (5/9),15% (4/27),37% (7/19),0% (0/3),4,52% (24/46),24% (11/46),38% (35/92),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],7.30
-
-
-
-
-
-
-
-10.10.2022,Bellucci M.,2,6,6,,,,4,2,59%,85% (23/27),63% (12/19),100% (3/3),40% (12/30),63% (10/16),44% (4/9),7,76% (35/46),48% (22/46),62% (57/92),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '3', '0']","['3', '2', '5', '2']",[],[],[],1.07
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Helsinki (Finland),hard,header
-
-
-
-
-
-
-
-12.08.2022,Aubriot A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
-
-
-
-
-
-
-
-12.08.2022,Scaglia M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-
-
-
-
-
-
-
-11.08.2022,Aubriot A.,2,7^7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
-
-
-
-
-
-
-
-11.08.2022,Jones B.,0,6^1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
-
-
-
-
-
-
-
-10.08.2022,Aubriot A.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.84
-
-
-
-
-
-
-
-10.08.2022,Carr S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.24
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ulcinj 3 (Montenegro),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
+15.09. 13:35,Aubriot A.,0,2,2,,,,4,3,62%,59% (23/39),42% (10/24),64% (7/11),0 km/h,0 km/h,4% (1/24),25% (3/12),0% (0/0),52% (33/63),11% (4/36),37% (37/99),4,0,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.69
+15.09. 13:35,Gautier A.,2,6,6,,,,7,1,67%,96% (23/24),75% (9/12),0% (0/0),0 km/h,0 km/h,41% (16/39),58% (14/24),36% (4/11),89% (32/36),48% (30/63),63% (62/99),6,0,100% (8/8),50% (4/8),75% (12/16),"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.44
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Rognac (France),hard,header
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Montauban (France),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
+ITF MEN - SINGLES :  M25 Deauville (France),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Rognac (France),hard,header
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Montauban (France),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
+ITF MEN - SINGLES :  M25 Deauville (France),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
+11.02. 17:45,Aubriot A.,0,3,2,,,,2,3,69%,67% (18/27),50% (6/12),25% (1/4),14% (4/29),27% (4/15),0% (0/0),62% (24/39),18% (8/44),39% (32/83),63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],6.65
+11.02. 17:45,Trotter J. K.,2,6,6,,,,5,2,66%,86% (25/29),73% (11/15),0% (0/0),33% (9/27),50% (6/12),75% (3/4),82% (36/44),38% (15/39),61% (51/83),100% (9/9),38% (3/8),71% (12/17),"['4', '2']","['1', '0', '3', '0']",[],[],[],1.09
+CHALLENGER MEN - SINGLES :  Quimper (France) - Qualification,hard,header
+23.01. 01:15,Aubriot A.,2,7^7,6,,,,7,2,68%,76% (35/46),50% (11/22),75% (3/4),23% (9/40),66% (19/29),100% (3/3),68% (46/68),41% (28/69),54% (74/137),90% (9/10),27% (3/11),57% (12/21),"['5', '5']","['1', '0', '6', '3']",[],[],[],5.92
+23.01. 01:15,Janvier M.,0,6^4,3,,,,12,11,58%,78% (31/40),34% (10/29),0% (0/3),24% (11/46),50% (11/22),25% (1/4),59% (41/69),32% (22/68),46% (63/137),73% (8/11),10% (1/10),43% (9/21),"['3', '2']",[],[],[],[],1.11
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+04.10. 14:10,Aubriot A.,0,6^6,3,,,,"['2', '2']",[],[],[],[],7.85
+04.10. 14:10,Rodesch C.,2,7^8,6,,,,"['2', '1']","['2', '0']",[],[],[],1.05
+03.10. 16:05,Aubriot A.,2,6,6,,,,"['2', '0', '5', '1']","['3', '2']",[],[],[],1.66
+03.10. 16:05,Chepelev A.,0,1,4,,,,[],[],[],[],[],2.11
+02.10. 18:10,Aubriot A.,2,6,6,,,,"['2', '3', '4', '3', '5', '4']","['3', '2']",[],[],[],2.20
+02.10. 18:10,Hamza Reguig S.,0,4,4,,,,"['2', '0', '4', '4']",[],[],[],[],1.61
+CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
+15.09. 13:35,Aubriot A.,0,2,2,,,,4,3,62%,59% (23/39),42% (10/24),64% (7/11),4% (1/24),25% (3/12),0% (0/0),4,52% (33/63),11% (4/36),37% (37/99),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],2.69
+15.09. 13:35,Gautier A.,2,6,6,,,,7,1,67%,96% (23/24),75% (9/12),0% (0/0),41% (16/39),58% (14/24),36% (4/11),5,89% (32/36),48% (30/63),63% (62/99),9,100% (8/8),50% (4/8),75% (12/16),"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.44
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+11.09. 21:10,Aubriot A.,0,6^5,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.17
+11.09. 21:10,Tessa L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '1', '6', '1']",[],[],[],1.64
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+13.08. 18:10,Aubriot A.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '4']",[],[],[],1.85
+13.08. 18:10,Binda A.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.87
+ITF MEN - SINGLES :  M15 Rognac (France),hard,header
+27.07. 23:55,Aubriot A.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
+27.07. 23:55,Legout T.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '2']",[],[],[],1.22
+26.07. 18:45,Aubriot A.,2,6^4,6,7^9,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']","['1', '0']",[],[],1.49
+26.07. 18:45,Alimli M.,1,7^7,3,6^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['1', '1']",[],[],2.50
+25.07. 21:30,Aubriot A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1', '4', '1']",[],[],[],1.55
+25.07. 21:30,Camus C.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.34
+24.07. 18:40,Aubriot A.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '3', '5', '3']",[],[],[],1.13
+24.07. 18:40,Respaut C.,0,6^4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1']",[],[],[],5.40
+ITF MEN - SINGLES :  M15+H Bastia-Lucciana (France),clay,header
+16.07. 21:00,Aubriot A.,0,6^3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.29
+16.07. 21:00,Bilardo J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.37
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Ajaccio+H (France),hard,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Montauban (France),clay,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza (Hungary),clay,header
+ITF MEN - SINGLES :  M25 Deauville (France),clay,header
+ITF MEN - SINGLES :  M15 Kalmar (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Monastir 15 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Creteil (France),hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+CHALLENGER MEN - SINGLES :  Cherbourg (France) - Qualification,hard,header
+11.02. 17:45,Aubriot A.,0,3,2,,,,2,3,69%,67% (18/27),50% (6/12),25% (1/4),14% (4/29),27% (4/15),0% (0/0),4,62% (24/39),18% (8/44),39% (32/83),1,63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],6.65
+11.02. 17:45,Trotter J. K.,2,6,6,,,,5,2,66%,86% (25/29),73% (11/15),0% (0/0),33% (9/27),50% (6/12),75% (3/4),7,82% (36/44),38% (15/39),61% (51/83),5,100% (9/9),38% (3/8),71% (12/17),"['4', '2']","['1', '0', '3', '0']",[],[],[],1.09
+CHALLENGER MEN - SINGLES :  Quimper (France) - Qualification,hard,header
+23.01. 16:05,Aubriot A.,0,5,3,,,,6,3,55%,72% (26/36),52% (15/29),60% (3/5),27% (12/45),35% (9/26),0% (0/3),5,63% (41/65),30% (21/71),46% (62/136),1,80% (8/10),0% (0/11),38% (8/21),[],[],[],[],[],5.90
+23.01. 16:05,Added D.,2,7,6,,,,11,1,63%,73% (33/45),65% (17/26),100% (3/3),28% (10/36),48% (14/29),40% (2/5),6,70% (50/71),37% (24/65),54% (74/136),3,100% (11/11),20% (2/10),62% (13/21),"['7', '5']","['5', '3']",[],[],[],1.12
+23.01. 01:15,Aubriot A.,2,7^7,6,,,,7,2,68%,76% (35/46),50% (11/22),75% (3/4),23% (9/40),66% (19/29),100% (3/3),5,68% (46/68),41% (28/69),54% (74/137),3,90% (9/10),27% (3/11),57% (12/21),"['5', '5']","['1', '0', '6', '3']",[],[],[],5.92
+23.01. 01:15,Janvier M.,0,6^4,3,,,,12,11,58%,78% (31/40),34% (10/29),0% (0/3),24% (11/46),50% (11/22),25% (1/4),6,59% (41/69),32% (22/68),46% (63/137),3,73% (8/11),10% (1/10),43% (9/21),"['3', '2']",[],[],[],[],1.11
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Manacor (Spain),hard,header
+09.01. 19:10,Aubriot A.,0,0,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.34
+09.01. 19:10,De Krom M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.55
+ITF MEN - SINGLES :  M15 Monastir 50 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Maia (Portugal) - Qualification,clay,header
+27.11.2023,Aubriot A.,1,6,2,0,,,7,1,72%,56% (35/63),40% (10/25),54% (7/13),33% (18/54),47% (7/15),22% (2/9),5,51% (45/88),36% (25/69),45% (70/157),3,50% (6/12),18% (2/11),35% (8/23),"['2', '0', '4', '2']",[],[],[],[],2.82
+27.11.2023,Guerrieri A.,2,3,6,6,,,1,1,78%,67% (36/54),53% (8/15),78% (7/9),44% (28/63),60% (15/25),46% (6/13),7,64% (44/69),49% (43/88),55% (87/157),8,82% (9/11),50% (6/12),65% (15/23),"['2', '3']","['2', '0', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.40
+26.11.2023,Aubriot A.,2,6,6,,,,2,0,83%,74% (32/43),78% (7/9),50% (1/2),38% (16/42),50% (13/26),27% (3/11),6,75% (39/52),43% (29/68),57% (68/120),3,90% (9/10),33% (3/9),63% (12/19),"['2', '0']","['3', '2', '5', '4']",[],[],[],4.02
+26.11.2023,Nijboer R.,0,3,4,,,,9,5,62%,62% (26/42),50% (13/26),73% (8/11),26% (11/43),22% (2/9),50% (1/2),5,57% (39/68),25% (13/52),43% (52/120),2,67% (6/9),10% (1/10),37% (7/19),[],"['3', '3']",[],[],[],1.22
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
+17.09.2023,Aubriot A.,0,6^5,3,,,,1,1,61%,63% (34/54),50% (17/34),86% (6/7),22% (8/37),37% (10/27),0% (0/0),4,59% (51/86),27% (17/64),45% (68/150),1,90% (9/10),0% (0/11),43% (9/21),[],[],[],[],[],5.76
+17.09.2023,Gojowczyk P.,2,7^7,6,,,,9,6,58%,81% (30/37),63% (17/27),0% (0/0),39% (21/54),50% (17/34),14% (1/7),7,73% (47/64),41% (35/86),56% (84/150),3,100% (11/11),10% (1/10),57% (12/21),[],"['5', '3']",[],[],[],1.12
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M25 Montauban (France),clay,header
+ITF MEN - SINGLES :  M25 Grasse (France),clay,header
+ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+26.04.2023,Aubriot A.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],1.32
+26.04.2023,Brown T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],3.15
+CHALLENGER MEN - SINGLES :  Tallahassee (USA) - Qualification,clay,header
+17.04.2023,Aubriot A.,0,4,3,,,,4,6,54%,65% (24/37),35% (11/31),67% (8/12),21% (8/38),61% (11/18),33% (2/6),3,51% (35/68),34% (19/56),44% (54/124),2,56% (5/9),20% (2/10),37% (7/19),"['1', '0']","['2', '5']",[],[],[],3.80
+17.04.2023,Jacquet K.,2,6,6,,,,1,1,68%,79% (30/38),39% (7/18),67% (4/6),35% (13/37),65% (20/31),33% (4/12),11,66% (37/56),49% (33/68),56% (70/124),5,80% (8/10),44% (4/9),63% (12/19),"['2', '2', '6', '4']","['2', '0', '5', '1']",[],[],[],1.24
+17.04.2023,Aubriot A.,2,7^8,6,,,,7,6,57%,76% (39/51),53% (20/38),100% (5/5),25% (8/32),33% (9/27),100% (1/1),5,66% (59/89),29% (17/59),51% (76/148),5,100% (11/11),10% (1/10),57% (12/21),[],"['2', '0']",[],[],[],3.62
+17.04.2023,Pecotic M.,0,6^6,3,,,,4,3,54%,75% (24/32),67% (18/27),0% (0/1),24% (12/51),47% (18/38),0% (0/5),4,71% (42/59),34% (30/89),49% (72/148),1,90% (9/10),0% (0/11),43% (9/21),[],[],[],[],[],1.26
+ITF MEN - SINGLES :  M15 Sunrise,clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Poitiers (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Monastir 3 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Villers-les-Nancy (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  St. Tropez (France) - Qualification,hard,header
+10.10.2022,Aubriot A.,0,2,2,,,,1,4,65%,60% (18/30),38% (6/16),56% (5/9),15% (4/27),37% (7/19),0% (0/3),4,52% (24/46),24% (11/46),38% (35/92),1,50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],7.30
+10.10.2022,Bellucci M.,2,6,6,,,,4,2,59%,85% (23/27),63% (12/19),100% (3/3),40% (12/30),63% (10/16),44% (4/9),7,76% (35/46),48% (22/46),62% (57/92),5,100% (8/8),50% (4/8),75% (12/16),"['1', '0', '3', '0']","['3', '2', '5', '2']",[],[],[],1.07
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Helsinki (Finland),hard,header
+12.08.2022,Aubriot A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.75
+12.08.2022,Scaglia M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
+11.08.2022,Aubriot A.,2,7^7,7^8,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.67
+11.08.2022,Jones B.,0,6^1,6^6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.10
+10.08.2022,Aubriot A.,1,6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.84
+10.08.2022,Carr S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.24
+ITF MEN - SINGLES :  M15 Frederiksberg (Denmark),clay,header
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Alkmaar (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 3 (Montenegro),clay,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Bourg-en-Bresse (France),clay,header

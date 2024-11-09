@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
 ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
@@ -24,174 +24,47 @@ ITF MEN - SINGLES :  Fountain Valley (USA),hard,header
 ITF MEN - SINGLES :  Laguna Niguel (USA),hard,header
 ITF MEN - SINGLES :  Cuneo (Italy),clay,header
 ITF MEN - SINGLES :  Napoli (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
-
-24.04. 15:00,Bolla A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],12.50
-
-
-
-24.04. 15:00,Lopez Montagud C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.01
-
-
-
-23.04. 19:35,Bolla A.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2', '6', '2']","['2', '0', '6', '4']",[],[],8.15
-
-
-
-23.04. 19:35,Klizan M.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '1']","['4', '5']",[],[],1.05
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-
-
-
-30.10.2023,Bolla A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],3.56
-
-
-
-30.10.2023,Rottoli L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '0', '5', '4']",[],[],[],1.26
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
-
-
-
-24.10.2023,Bolla A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '1']",[],[],[],8.15
-
-
-
-24.10.2023,Caruso S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0', '2', '1', '4', '1']",[],[],[],1.05
-
-
-
-ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-28.08.2023,Bolla A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.05
-
-
-
-28.08.2023,Giacomini L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['4', '3', '6', '3']",[],[],[],1.04
-
-
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-
-
-09.08.2023,Bolla A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.23
-
-
-
-09.08.2023,Gramaticopolo B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['5', '3']",[],[],[],3.96
-
-
-
-ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
-
-
-
-04.08.2023,Bolla A.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['2', '1']",[],[],[],7.09
-
-
-
-04.08.2023,Lopez Montagud C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5', '5', '5', '7', '5']","['4', '4', '6', '4']",[],[],[],1.07
-
-
-
-03.08.2023,Bolla A.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '2', '1', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],2.89
-
-
-
-03.08.2023,Johns G.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '1', '2', '4']",[],[],[],1.37
-
-
-
-02.08.2023,Bolla A.,2,3,7^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['2', '1', '4', '1']",[],[],1.41
-
-
-
-02.08.2023,Martinez M.,1,6,6^6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.74
-
-
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-
-
-26.07.2023,Bolla A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],2.91
-
-
-
-26.07.2023,Tomasetto L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['2', '3', '4', '3', '6', '3']",[],[],[],1.37
-
-
-
-ITF MEN - SINGLES :  M25 Biella (Italy),clay,header
-
-
-
-04.07.2023,Bolla A.,0,6^6,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '2']",[],[],[],2.48
-
-
-
-04.07.2023,Castagnola L.,2,7^8,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '6', '5']",[],[],[],1.49
-
-
-
-ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
-
-
-
-14.06.2023,Bolla A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],3.10
-
-
-
-14.06.2023,Pieri S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '2', '5', '4']",[],[],[],1.33
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 24 (Turkey),clay,header
-
-
-
-14.12.2022,Bolla A.,1,5,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-14.12.2022,Moraing O.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-EXHIBITION - MEN :  Italian Championship (Italy) - Qualification,clay,header
-
-
-
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
+24.04. 15:00,Bolla A.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],12.50
+24.04. 15:00,Lopez Montagud C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.01
+23.04. 19:35,Bolla A.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2', '4', '2', '6', '2']","['2', '0', '6', '4']",[],[],8.15
+23.04. 19:35,Klizan M.,1,6,2,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['2', '1']","['4', '5']",[],[],1.05
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+30.10.2023,Bolla A.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],3.56
+30.10.2023,Rottoli L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['1', '0', '5', '4']",[],[],[],1.26
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+24.10.2023,Bolla A.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['1', '1']",[],[],[],8.15
+24.10.2023,Caruso S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2']","['1', '0', '2', '1', '4', '1']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Haren (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+28.08.2023,Bolla A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],9.05
+28.08.2023,Giacomini L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['4', '3', '6', '3']",[],[],[],1.04
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+09.08.2023,Bolla A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],1.23
+09.08.2023,Gramaticopolo B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['5', '3']",[],[],[],3.96
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+04.08.2023,Bolla A.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['2', '1']",[],[],[],7.09
+04.08.2023,Lopez Montagud C.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5', '5', '5', '7', '5']","['4', '4', '6', '4']",[],[],[],1.07
+03.08.2023,Bolla A.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '2', '1', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],2.89
+03.08.2023,Johns G.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '1', '2', '4']",[],[],[],1.37
+02.08.2023,Bolla A.,2,3,7^8,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['2', '1', '4', '1']",[],[],1.41
+02.08.2023,Martinez M.,1,6,6^6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.74
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+26.07.2023,Bolla A.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],2.91
+26.07.2023,Tomasetto L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4']","['2', '3', '4', '3', '6', '3']",[],[],[],1.37
+ITF MEN - SINGLES :  M25 Biella (Italy),clay,header
+04.07.2023,Bolla A.,0,6^6,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['2', '2']",[],[],[],2.48
+04.07.2023,Castagnola L.,2,7^8,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '0', '6', '5']",[],[],[],1.49
+ITF MEN - SINGLES :  M15 Chieti (Italy),clay,header
+14.06.2023,Bolla A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],3.10
+14.06.2023,Pieri S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '2', '5', '4']",[],[],[],1.33
+ITF MEN - SINGLES :  M15 Monastir 8 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 24 (Turkey),clay,header
+14.12.2022,Bolla A.,1,5,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+14.12.2022,Moraing O.,2,7,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+EXHIBITION - MEN :  Italian Championship (Italy) - Qualification,clay,header

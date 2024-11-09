@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
 ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
 ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
@@ -25,531 +25,93 @@ ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
 ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
-ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
-ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES :  M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
-ITF MEN - SINGLES :  M15 Bucharest 3 (Romania),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 7 (Tunisia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
-
-
-
-13.09. 16:40,De Vincentis M.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2', '3', '2']",[],[],[],2.36
-
-
-
-
-
-
-
-13.09. 16:40,Chirita I. A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '5', '5', '7', '5']","['2', '0', '3', '3', '5', '3']",[],[],[],1.54
-
-
-
-
-
-
-
-12.09. 14:40,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '3', '6', '3']",[],[],[],1.06
-
-
-
-
-
-
-
-12.09. 14:40,Grosu R.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],8.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-
-
-
-
-
-
-
-06.09. 12:30,De Vincentis M.,1,6,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],4.47
-
-
-
-
-
-
-
-06.09. 12:30,Palosi S.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['7', '5']","['3', '1', '6', '2']",[],[],1.18
-
-
-
-
-
-
-
-05.09. 12:35,De Vincentis M.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['5', '3']",[],[],[],1.62
-
-
-
-
-
-
-
-05.09. 12:35,Zielinski M.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']",[],[],[],[],2.20
-
-
-
-
-
-
-
-04.09. 16:45,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '1', '3', '1', '5', '1']",[],[],[],1.37
-
-
-
-
-
-
-
-04.09. 16:45,Papoe C. G.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.92
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
-
-
-
-
-
-
-
-21.08. 12:45,De Vincentis M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['2', '0', '4', '0']",[],[],1.88
-
-
-
-
-
-
-
-21.08. 12:45,Stirbu C. T.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],1.83
-
-
-
-
-
-
-
-20.08. 15:30,De Vincentis M.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '4']","['3', '1', '5', '5']",[],[],1.50
-
-
-
-
-
-
-
-20.08. 15:30,Krajci M.,1,2,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '1', '4', '1']","['2', '3', '4', '3']",[],[],2.47
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
-
-
-
-
-
-
-
-15.08. 14:15,De Vincentis M.,1,3,7^9,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['5', '3']",[],[],[],1.45
-
-
-
-
-
-
-
-15.08. 14:15,Stirbu C. T.,2,6,6^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['4', '5']","['2', '0', '4', '0']",[],[],2.61
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
-
-
-
-
-
-
-
-07.08. 14:50,De Vincentis M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['2', '1']",[],[],[],1.58
-
-
-
-
-
-
-
-07.08. 14:50,Habib A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5', '5', '5', '7', '5']","['3', '3', '6', '4']",[],[],[],2.28
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
-
-
-
-
-
-
-
-26.07. 22:30,De Vincentis M.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['2', '1', '3', '2', '4', '3', '5', '4']","['1', '0', '2', '1']",[],[],3.86
-
-
-
-
-
-
-
-26.07. 22:30,Juarez F.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['2', '2', '3', '3', '4', '4']","['1', '1', '3', '3', '5', '3']",[],[],1.23
-
-
-
-
-
-
-
-25.07. 20:25,De Vincentis M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']","['5', '5']",[],[],[],3.96
-
-
-
-
-
-
-
-25.07. 20:25,Benchetrit E.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0']",[],[],[],1.22
-
-
-
-
-
-
-
-24.07. 19:10,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],[],0
-
-
-
-
-
-
-
-24.07. 19:10,Simonit E.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '3', '1']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
-
-
-
-
-
-
-
-19.07. 18:45,De Vincentis M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '5']",[],[],[],5.14
-
-
-
-
-
-
-
-19.07. 18:45,Pennaforti G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['3', '3', '5', '3', '7', '5']",[],[],[],1.14
-
-
-
-
-
-
-
-18.07. 16:15,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],1.51
-
-
-
-
-
-
-
-18.07. 16:15,Bacaloni A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3']",[],[],[],2.50
-
-
-
-
-
-
-
-17.07. 16:40,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '6', '4']","['3', '3', '5', '3']",[],[],[],2.34
-
-
-
-
-
-
-
-17.07. 16:40,Alvarez N.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['3', '2']",[],[],[],1.55
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Store (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bucharest 3 (Romania),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 7 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
-
-
-
-
-
-
-
-06.09.2023,De Vincentis M.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.52
-
-
-
-
-
-
-
-06.09.2023,Palosi S.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
-
-
-
-
-
-
-
-30.08.2022,De Vincentis M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '2', '2']",[],[],[],1.41
-
-
-
-
-
-
-
-30.08.2022,Sciahbasi L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],2.77
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
-
-
-
-
-
-
-
-19.01.2022,De Vincentis M.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
-
-
-
-
-
-
-
-19.01.2022,Bosio G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M15 Store (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest 3 (Romania),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 7 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+ITF MEN - SINGLES :  M15 Buzau (Romania),clay,header
+13.09. 16:40,De Vincentis M.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '1']","['1', '2', '3', '2']",[],[],[],2.36
+13.09. 16:40,Chirita I. A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '5', '5', '7', '5']","['2', '0', '3', '3', '5', '3']",[],[],[],1.54
+12.09. 14:40,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '3', '6', '3']",[],[],[],1.06
+12.09. 14:40,Grosu R.,0,0,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],8.25
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+06.09. 12:30,De Vincentis M.,1,6,5,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],4.47
+06.09. 12:30,Palosi S.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['7', '5']","['3', '1', '6', '2']",[],[],1.18
+05.09. 12:35,De Vincentis M.,2,7^9,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['5', '3']",[],[],[],1.62
+05.09. 12:35,Zielinski M.,0,6^7,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4']",[],[],[],[],2.20
+04.09. 16:45,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['1', '1', '3', '1', '5', '1']",[],[],[],1.37
+04.09. 16:45,Papoe C. G.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],2.92
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+21.08. 12:45,De Vincentis M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],"['2', '0', '4', '0']",[],[],1.88
+21.08. 12:45,Stirbu C. T.,1,4,6,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0']",[],[],[],1.83
+20.08. 15:30,De Vincentis M.,2,6,4,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '6', '2']","['2', '4']","['3', '1', '5', '5']",[],[],1.50
+20.08. 15:30,Krajci M.,1,2,6,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '1', '4', '1']","['2', '3', '4', '3']",[],[],2.47
+ITF MEN - SINGLES :  M15 Targu Jiu (Romania),clay,header
+15.08. 14:15,De Vincentis M.,1,3,7^9,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['5', '3']",[],[],[],1.45
+15.08. 14:15,Stirbu C. T.,2,6,6^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['4', '5']","['2', '0', '4', '0']",[],[],2.61
+ITF MEN - SINGLES :  M15 Vaasa (Finland),hard,header
+07.08. 14:50,De Vincentis M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['2', '1']",[],[],[],1.58
+07.08. 14:50,Habib A.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5', '5', '5', '7', '5']","['3', '3', '6', '4']",[],[],[],2.28
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+26.07. 22:30,De Vincentis M.,1,3,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['2', '1', '3', '2', '4', '3', '5', '4']","['1', '0', '2', '1']",[],[],3.86
+26.07. 22:30,Juarez F.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['2', '2', '3', '3', '4', '4']","['1', '1', '3', '3', '5', '3']",[],[],1.23
+25.07. 20:25,De Vincentis M.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '6', '4']","['5', '5']",[],[],[],3.96
+25.07. 20:25,Benchetrit E.,0,4,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0']",[],[],[],1.22
+24.07. 19:10,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],[],0
+24.07. 19:10,Simonit E.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '3', '1']",[],[],[],0
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+19.07. 18:45,De Vincentis M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '4', '5']",[],[],[],5.14
+19.07. 18:45,Pennaforti G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '2']","['3', '3', '5', '3', '7', '5']",[],[],[],1.14
+18.07. 16:15,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],1.51
+18.07. 16:15,Bacaloni A.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3']",[],[],[],2.50
+17.07. 16:40,De Vincentis M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '3', '6', '4']","['3', '3', '5', '3']",[],[],[],2.34
+17.07. 16:40,Alvarez N.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']","['3', '2']",[],[],[],1.55
+ITF MEN - SINGLES :  M15 Store (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Constanta (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest 3 (Romania),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 7 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Constanta 2 (Romania),clay,header
+06.09.2023,De Vincentis M.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.52
+06.09.2023,Palosi S.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.17
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+30.08.2022,De Vincentis M.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '2', '2']",[],[],[],1.41
+30.08.2022,Sciahbasi L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],2.77
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 20 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 14 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 3 (Egypt),clay,header
+19.01.2022,De Vincentis M.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.90
+19.01.2022,Bosio G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.86
+ITF MEN - SINGLES :  M15 Cairo 2 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header

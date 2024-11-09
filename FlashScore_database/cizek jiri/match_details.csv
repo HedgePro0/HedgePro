@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
 ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
 ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
@@ -8,90 +8,26 @@ ITF MEN - SINGLES :  M25 Prague (Czech Republic),clay,header
 ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
 BOYS - SINGLES :  Pardubicka juniorka (Czech Republic),clay,header
 ITF MEN - SINGLES :  M25 Most (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
-
-19.09. 17:00,Cizek J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],11.50
-
-
-
-19.09. 17:00,Kupcic J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '3', '5', '3']",[],[],[],1.02
-
-
-
-18.09. 15:30,Cizek J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['3', '2']",[],[],[],0
-
-
-
-18.09. 15:30,Bien D.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-
-
-14.08. 13:40,Cizek J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '4']",[],[],[],[],6.90
-
-
-
-14.08. 13:40,La Serna J. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.08
-
-
-
-ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
-
-
-
-BOYS - SINGLES :  Pardubicka juniorka (Czech Republic),clay,header
-
-
-
-01.08.2023,Cizek J.,0,6^6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-01.08.2023,Kumstat J.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '3']",[],[],[],0
-
-
-
-31.07.2023,Cizek J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['6', '4']",[],[],[],0
-
-
-
-31.07.2023,Smejkal S.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5']",[],[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M25 Prague (Czech Republic),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
-
-
-
-BOYS - SINGLES :  Pardubicka juniorka (Czech Republic),clay,header
-
-
-
-07.08.2022,Cizek J.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-07.08.2022,Homola P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M25 Most (Czech Republic),clay,header
-
-
-
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+19.09. 17:00,Cizek J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],11.50
+19.09. 17:00,Kupcic J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '3']","['3', '3', '5', '3']",[],[],[],1.02
+18.09. 15:30,Cizek J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['3', '2']",[],[],[],0
+18.09. 15:30,Bien D.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+14.08. 13:40,Cizek J.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '4']",[],[],[],[],6.90
+14.08. 13:40,La Serna J. M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '2', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.08
+ITF MEN - SINGLES :  M15 Umag (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
+BOYS - SINGLES :  Pardubicka juniorka (Czech Republic),clay,header
+01.08.2023,Cizek J.,0,6^6,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+01.08.2023,Kumstat J.,2,7^8,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '3', '6', '3']",[],[],[],0
+31.07.2023,Cizek J.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']","['6', '4']",[],[],[],0
+31.07.2023,Smejkal S.,0,6^4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '5']",[],[],[],[],0
+ITF MEN - SINGLES :  M25 Prague (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Alaminos-Larnaca (Cyprus),clay,header
+BOYS - SINGLES :  Pardubicka juniorka (Czech Republic),clay,header
+07.08.2022,Cizek J.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+07.08.2022,Homola P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M25 Most (Czech Republic),clay,header

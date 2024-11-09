@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Yanagawa City (Japan),hard,header
 ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
 ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
@@ -7,348 +7,74 @@ ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
 ITF MEN - SINGLES :  M15 Harmon (Guam),hard,header
 ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
 CHALLENGER MEN - SINGLES :  Taipei (Taiwan) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Yanagawa City (Japan),hard,header
-ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
-ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
-ITF MEN - SINGLES :  M15 Harmon (Guam),hard,header
-ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
-CHALLENGER MEN - SINGLES :  Taipei (Taiwan) - Qualification,hard,header
-12.05. 11:40,Suzuki K.,0,1,2,,,,1,0,69%,54% (20/37),29% (5/17),64% (7/11),9% (2/22),33% (6/18),0% (0/0),46% (25/54),20% (8/40),35% (33/94),5,1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],9.15
-12.05. 11:40,Bertola R.,2,6,6,,,,6,2,55%,91% (20/22),67% (12/18),0% (0/0),46% (17/37),71% (12/17),36% (4/11),80% (32/40),54% (29/54),65% (61/94),5,0,100% (8/8),57% (4/7),80% (12/15),"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.05
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
-ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
-ITF MEN - SINGLES :  M25 Tainan (Taiwan),clay,header
-ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
-ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
-ITF MEN - SINGLES :  M25 Tsukuba (Japan),hard,header
-ITF MEN - SINGLES :  M25 Canberra (Australia),clay,header
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
-ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
-ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
-ITF MEN - SINGLES :  M25 Harmon 2 (Guam),hard,header
-ITF MEN - SINGLES :  M25 Harmon (Guam),hard,header
-ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
-ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
-
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-
-ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-
-
-
-11.09. 08:35,Suzuki K.,0,4,1,,,,"['2', '4']",[],[],[],[],3.24
-
-
-
-
-
-
-
-11.09. 08:35,Nakagawa S.,2,6,6,,,,"['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.31
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Harmon (Guam),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Taipei (Taiwan) - Qualification,hard,header
-
-
-
-
-
-
-
-12.05. 11:40,Suzuki K.,0,1,2,,,,1,0,69%,54% (20/37),29% (5/17),64% (7/11),9% (2/22),33% (6/18),0% (0/0),3,46% (25/54),20% (8/40),35% (33/94),1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],9.15
-
-
-
-
-
-
-
-12.05. 11:40,Bertola R.,2,6,6,,,,6,2,55%,91% (20/22),67% (12/18),0% (0/0),46% (17/37),71% (12/17),36% (4/11),12,80% (32/40),54% (29/54),65% (61/94),9,100% (8/8),57% (4/7),80% (12/15),"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.05
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
-
-
-
-
-
-
-
-28.12.2023,Suzuki K.,0,1,2,,,,[],[],[],[],[],3.24
-
-
-
-
-
-
-
-28.12.2023,Lee D. H.,2,6,6,,,,[],[],[],[],[],1.31
-
-
-
-
-
-
-
-27.12.2023,Suzuki K.,2,7^7,6,,,,[],[],[],[],[],2.34
-
-
-
-
-
-
-
-27.12.2023,Miyoshi K.,0,6^3,3,,,,[],[],[],[],[],1.55
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
-
-
-
-
-
-
-
-21.12.2023,Suzuki K.,0,1,4,,,,[],[],[],[],[],3.37
-
-
-
-
-
-
-
-21.12.2023,Shin S.,2,6,6,,,,[],[],[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Tainan (Taiwan),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
-
-
-
-
-
-
-
-01.06.2023,Suzuki K.,1,2,6,5,,,[],[],[],[],[],1.72
-
-
-
-
-
-
-
-01.06.2023,Kawachi K.,2,6,1,7,,,[],[],[],[],[],2.01
-
-
-
-
-
-
-
-31.05.2023,Suzuki K.,2,7,6^6,6,,,[],[],[],[],[],1.88
-
-
-
-
-
-
-
-31.05.2023,Sueoka Y.,1,5,7^8,4,,,[],[],[],[],[],1.83
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Tsukuba (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Canberra (Australia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Harmon 2 (Guam),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Harmon (Guam),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Yanagawa City (Japan),hard,header
+ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Harmon (Guam),hard,header
+ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
+CHALLENGER MEN - SINGLES :  Taipei (Taiwan) - Qualification,hard,header
+12.05. 11:40,Suzuki K.,0,1,2,,,,1,0,69%,54% (20/37),29% (5/17),64% (7/11),9% (2/22),33% (6/18),0% (0/0),46% (25/54),20% (8/40),35% (33/94),5,1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],9.15
+12.05. 11:40,Bertola R.,2,6,6,,,,6,2,55%,91% (20/22),67% (12/18),0% (0/0),46% (17/37),71% (12/17),36% (4/11),80% (32/40),54% (29/54),65% (61/94),5,0,100% (8/8),57% (4/7),80% (12/15),"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
+ITF MEN - SINGLES :  M25 Tainan (Taiwan),clay,header
+ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
+ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
+ITF MEN - SINGLES :  M25 Tsukuba (Japan),hard,header
+ITF MEN - SINGLES :  M25 Canberra (Australia),clay,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
+ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
+ITF MEN - SINGLES :  M25 Harmon 2 (Guam),hard,header
+ITF MEN - SINGLES :  M25 Harmon (Guam),hard,header
+ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
+ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M15 Tanagura (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+11.09. 08:35,Suzuki K.,0,4,1,,,,"['2', '4']",[],[],[],[],3.24
+11.09. 08:35,Nakagawa S.,2,6,6,,,,"['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.31
+ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Harmon (Guam),hard,header
+ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
+CHALLENGER MEN - SINGLES :  Taipei (Taiwan) - Qualification,hard,header
+12.05. 11:40,Suzuki K.,0,1,2,,,,1,0,69%,54% (20/37),29% (5/17),64% (7/11),9% (2/22),33% (6/18),0% (0/0),3,46% (25/54),20% (8/40),35% (33/94),1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],9.15
+12.05. 11:40,Bertola R.,2,6,6,,,,6,2,55%,91% (20/22),67% (12/18),0% (0/0),46% (17/37),71% (12/17),36% (4/11),12,80% (32/40),54% (29/54),65% (61/94),9,100% (8/8),57% (4/7),80% (12/15),"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Yanagawa 2 (Japan),hard,header
+28.12.2023,Suzuki K.,0,1,2,,,,[],[],[],[],[],3.24
+28.12.2023,Lee D. H.,2,6,6,,,,[],[],[],[],[],1.31
+27.12.2023,Suzuki K.,2,7^7,6,,,,[],[],[],[],[],2.34
+27.12.2023,Miyoshi K.,0,6^3,3,,,,[],[],[],[],[],1.55
+ITF MEN - SINGLES :  M15 Yanagawa (Japan),hard,header
+21.12.2023,Suzuki K.,0,1,4,,,,[],[],[],[],[],3.37
+21.12.2023,Shin S.,2,6,6,,,,[],[],[],[],[],1.29
+ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
+ITF MEN - SINGLES :  M25 Tainan (Taiwan),clay,header
+ITF MEN - SINGLES :  M25 Anseong (South Korea),clay,header
+ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
+01.06.2023,Suzuki K.,1,2,6,5,,,[],[],[],[],[],1.72
+01.06.2023,Kawachi K.,2,6,1,7,,,[],[],[],[],[],2.01
+31.05.2023,Suzuki K.,2,7,6^6,6,,,[],[],[],[],[],1.88
+31.05.2023,Sueoka Y.,1,5,7^8,4,,,[],[],[],[],[],1.83
+ITF MEN - SINGLES :  M25 Tsukuba (Japan),hard,header
+ITF MEN - SINGLES :  M25 Canberra (Australia),clay,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo (Japan),hard,header
+ITF MEN - SINGLES :  M15 Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
+ITF MEN - SINGLES :  M25 Harmon 2 (Guam),hard,header
+ITF MEN - SINGLES :  M25 Harmon (Guam),hard,header
+ITF MEN - SINGLES :  M25 Canberra 4 (Australia),clay,header
+ITF MEN - SINGLES :  M25 Canberra 3 (Australia),clay,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header

@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Ann Arbor,hard,header
 ITF MEN - SINGLES :  M15 Tianjin 2 (China),hard,header
 ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
@@ -11,114 +11,32 @@ ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
 BOYS - SINGLES :  Australian Open (Australia),hard,header
 ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
 BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Ann Arbor,hard,header
-ITF MEN - SINGLES :  M15 Ann Arbor,hard,header
-
-02.10. 19:30,Zhang J.,0,4,2,,,,"['1', '4', '3', '4']",[],[],[],[],3.40
-
-
-
-02.10. 19:30,Clark E.,2,6,6,,,,"['2', '0', '4', '0', '6', '4']","['4', '2', '6', '2']",[],[],[],1.28
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin 2 (China),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-
-
-
-16.11.2023,Zhang J.,0,6^8,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '1', '2', '2']",[],[],[],2.67
-
-
-
-16.11.2023,Yunis F.,2,7^10,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '5']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],1.43
-
-
-
-BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
-
-
-
-31.08.2023,Zhang J.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '2']",[],[],[],0
-
-
-
-31.08.2023,Jodar R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2']","['2', '1', '5', '4']",[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
-
-
-
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-
-
-
-21.01.2023,Zhang J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-21.01.2023,Dhamne M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['4', '3', '6', '3']",[],[],[],0
-
-
-
-ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
-
-
-
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-
-
-
+ITF MEN - SINGLES :  M15 Ann Arbor,hard,header
+ITF MEN - SINGLES :  M15 Ann Arbor,hard,header
+02.10. 19:30,Zhang J.,0,4,2,,,,"['1', '4', '3', '4']",[],[],[],[],3.40
+02.10. 19:30,Clark E.,2,6,6,,,,"['2', '0', '4', '0', '6', '4']","['4', '2', '6', '2']",[],[],[],1.28
+ITF MEN - SINGLES :  M15 Tianjin 2 (China),hard,header
+ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Tianjin (China),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong 2 (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+16.11.2023,Zhang J.,0,6^8,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '1', '2', '2']",[],[],[],2.67
+16.11.2023,Yunis F.,2,7^10,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '5', '5']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],1.43
+BOYS - SINGLES :  US Open (USA) - Qualification,hard,header
+31.08.2023,Zhang J.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']","['2', '2']",[],[],[],0
+31.08.2023,Jodar R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2']","['2', '1', '5', '4']",[],[],[],0
+ITF MEN - SINGLES :  M15 Caloundra 2 (Australia),hard,header
+ITF MEN - SINGLES :  M15 Caloundra (Australia),hard,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+21.01.2023,Zhang J.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+21.01.2023,Dhamne M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['4', '3', '6', '3']",[],[],[],0
+ITF MEN - SINGLES :  M25 Traralgon 2 (Australia),hard,header
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header

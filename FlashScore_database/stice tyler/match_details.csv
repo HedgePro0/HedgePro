@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
 ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
 ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
@@ -15,549 +15,98 @@ ITF MEN - SINGLES :  M15 Rochester,clay,header
 ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
 ITF MEN - SINGLES :  M25 Pensacola,clay,header
 ITF MEN - SINGLES :  M25 Decatur,hard,header
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-ITF MEN - SINGLES :  M15 Norman,hard,header
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES :  M25 Pensacola,clay,header
-ITF MEN - SINGLES :  M25 Decatur,hard,header
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-
-ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-
-ITF MEN - SINGLES :  M15 Norman,hard,header
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
-
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-
-ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
-
-ITF MEN - SINGLES :  M25 Pensacola,clay,header
-
-ITF MEN - SINGLES :  M25 Decatur,hard,header
-
-ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-08.09. 13:35,Stice T.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['4', '4', '7', '5']","['4', '4', '6', '4']",[],[],2.53
-
-
-
-
-
-
-
-08.09. 13:35,Rossi L.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '0']","['2', '1']",[],[],1.48
-
-
-
-
-
-
-
-07.09. 13:30,Stice T.,2,3,7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '3', '3', '5', '5', '5', '7', '5']","['7', '5']",[],[],2.26
-
-
-
-
-
-
-
-07.09. 13:30,Jordan P.,1,6,5,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.59
-
-
-
-
-
-
-
-06.09. 15:15,Stice T.,2,6^8,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '4', '5']","['5', '3']","['4', '3', '6', '3']",[],[],1.45
-
-
-
-
-
-
-
-06.09. 15:15,Krajci M.,1,7^10,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '5', '3']",[],[],[],[],2.62
-
-
-
-
-
-
-
-05.09. 13:30,Stice T.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3', '6', '4']","['4', '2', '5', '3']",[],[],2.68
-
-
-
-
-
-
-
-05.09. 13:30,Kimhi O.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '2', '1']","['3', '4']",[],[],1.43
-
-
-
-
-
-
-
-04.09. 15:35,Stice T.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['3', '4', '6', '5']",[],[],[],1.20
-
-
-
-
-
-
-
-04.09. 15:35,Sallay P.,0,5,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['2', '0', '6', '6']",[],[],[],4.17
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
-
-
-
-
-
-
-
-27.08. 18:20,Stice T.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],3.37
-
-
-
-
-
-
-
-27.08. 18:20,Poling K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '5', '3']","['2', '1', '6', '3']",[],[],[],1.29
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-
-
-
-
-
-
-09.08. 01:30,Stice T.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],5.51
-
-
-
-
-
-
-
-09.08. 01:30,Zheng M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']","['2', '0', '3', '1']",[],[],[],1.12
-
-
-
-
-
-
-
-07.08. 04:30,Stice T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '4']","['3', '1', '5', '3', '6', '4']",[],[],[],4.51
-
-
-
-
-
-
-
-07.08. 04:30,Nanda G.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5', '4', '5']","['2', '3', '4', '5']",[],[],[],1.18
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-
-
-
-
-
-
-
-17.07. 23:30,Stice T.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1', '4', '2']",[],[],[],2.99
-
-
-
-
-
-
-
-17.07. 23:30,Grant W.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '0', '3', '4', '6', '5']",[],[],[],1.37
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-
-
-
-
-
-
-
-03.11.2023,Stice T.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],3.04
-
-
-
-
-
-
-
-03.11.2023,Johns G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']","['3', '2', '5', '2']",[],[],[],1.34
-
-
-
-
-
-
-
-02.11.2023,Stice T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['2', '1', '6', '3']",[],[],[],1.69
-
-
-
-
-
-
-
-02.11.2023,Sheehy J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
-
-
-
-
-
-
-
-02.11.2023,Stice T.,2,7^7,6^6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0']","['3', '1', '6', '2']",[],[],1.80
-
-
-
-
-
-
-
-02.11.2023,Alvarez Valdes L. C.,1,6^5,7^8,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '4', '4', '4']",[],[],[],1.91
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Norman,hard,header
-
-
-
-
-
-
-
-25.10.2023,Stice T.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],"['2', '0']",[],[],2.27
-
-
-
-
-
-
-
-25.10.2023,Whitehouse M.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],1.58
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
-
-
-
-
-
-
-
-09.09.2023,Stice T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
-
-
-
-
-
-
-
-09.09.2023,Kaukovalta P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
-
-
-
-
-
-
-
-08.09.2023,Stice T.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
-
-
-
-
-
-
-
-08.09.2023,Summers M.,1,6,5,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
-
-
-
-
-
-
-
-07.09.2023,Stice T.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
-
-
-
-
-
-
-
-07.09.2023,Fuele M.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.43
-
-
-
-
-
-
-
-05.09.2023,Stice T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
-
-
-
-
-
-
-
-05.09.2023,Goldenberg L.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Southaven,hard,header
-
-
-
-
-
-
-
-10.08.2023,Stice T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3']",[],[],[],4.28
-
-
-
-
-
-
-
-10.08.2023,Rodesch C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],1.21
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
-
-
-
-
-
-
-
-27.07.2023,Stice T.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0', '2', '1']",[],[],[],1.59
-
-
-
-
-
-
-
-27.07.2023,Dickerson R.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3', '6', '4']","['2', '0', '5', '1']",[],[],2.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pensacola,clay,header
-
-
-
-
-
-
-
-18.05.2023,Stice T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],3.00
-
-
-
-
-
-
-
-18.05.2023,Kim A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1', '3', '2']",[],[],[],1.35
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Decatur,hard,header
-
-
-
-
-
-
-
-03.08.2022,Stice T.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']",[],[],[],[],0
-
-
-
-
-
-
-
-03.08.2022,Cassone M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4', '6', '4']","['2', '0', '5', '1']",[],[],[],0
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+ITF MEN - SINGLES :  M15 Norman,hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ITF MEN - SINGLES :  M25 Decatur,hard,header
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+ITF MEN - SINGLES :  M15 Norman,hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ITF MEN - SINGLES :  M25 Decatur,hard,header
+ITF MEN - SINGLES :  M25 Sintra 2 (Portugal),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M25 Sintra (Portugal),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+08.09. 13:35,Stice T.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['4', '4', '7', '5']","['4', '4', '6', '4']",[],[],2.53
+08.09. 13:35,Rossi L.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '0']","['2', '1']",[],[],1.48
+07.09. 13:30,Stice T.,2,3,7,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['1', '3', '3', '5', '5', '5', '7', '5']","['7', '5']",[],[],2.26
+07.09. 13:30,Jordan P.,1,6,5,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.59
+06.09. 15:15,Stice T.,2,6^8,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '3', '4', '4', '5']","['5', '3']","['4', '3', '6', '3']",[],[],1.45
+06.09. 15:15,Krajci M.,1,7^10,3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2', '5', '3']",[],[],[],[],2.62
+05.09. 13:30,Stice T.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3', '6', '4']","['4', '2', '5', '3']",[],[],2.68
+05.09. 13:30,Kimhi O.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']","['1', '0', '2', '1']","['3', '4']",[],[],1.43
+04.09. 15:35,Stice T.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '5']","['3', '4', '6', '5']",[],[],[],1.20
+04.09. 15:35,Sallay P.,0,5,6^1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']","['2', '0', '6', '6']",[],[],[],4.17
+ITF MEN - SINGLES :  M15 Budapest (Hungary),hard,header
+27.08. 18:20,Stice T.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1']",[],[],[],[],3.37
+27.08. 18:20,Poling K.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '5', '3']","['2', '1', '6', '3']",[],[],[],1.29
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+09.08. 01:30,Stice T.,0,2,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '2']",[],[],[],5.51
+09.08. 01:30,Zheng M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '2']","['2', '0', '3', '1']",[],[],[],1.12
+07.08. 04:30,Stice T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '4']","['3', '1', '5', '3', '6', '4']",[],[],[],4.51
+07.08. 04:30,Nanda G.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5', '4', '5']","['2', '3', '4', '5']",[],[],[],1.18
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+17.07. 23:30,Stice T.,0,6^5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['1', '1', '4', '2']",[],[],[],2.99
+17.07. 23:30,Grant W.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '0', '3', '4', '6', '5']",[],[],[],1.37
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+03.11.2023,Stice T.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']",[],[],[],[],3.04
+03.11.2023,Johns G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2']","['3', '2', '5', '2']",[],[],[],1.34
+02.11.2023,Stice T.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '5']","['2', '1', '6', '3']",[],[],[],1.69
+02.11.2023,Sheehy J.,0,5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.05
+02.11.2023,Stice T.,2,7^7,6^6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['1', '0', '3', '0']","['3', '1', '6', '2']",[],[],1.80
+02.11.2023,Alvarez Valdes L. C.,1,6^5,7^8,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '4', '4', '4']",[],[],[],1.91
+ITF MEN - SINGLES :  M15 Norman,hard,header
+25.10.2023,Stice T.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],"['2', '0']",[],[],2.27
+25.10.2023,Whitehouse M.,1,1,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1']",[],[],[],1.58
+ITF MEN - SINGLES :  M15 Budapest 2 (Hungary),hard,header
+09.09.2023,Stice T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.63
+09.09.2023,Kaukovalta P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.44
+08.09.2023,Stice T.,2,4,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.54
+08.09.2023,Summers M.,1,6,5,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.36
+07.09.2023,Stice T.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.67
+07.09.2023,Fuele M.,1,6,1,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.43
+05.09.2023,Stice T.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.69
+05.09.2023,Goldenberg L.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.08
+ITF MEN - SINGLES :  M25 Southaven,hard,header
+10.08.2023,Stice T.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '3']",[],[],[],4.28
+10.08.2023,Rodesch C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],1.21
+ITF MEN - SINGLES :  M15 Pittsburgh,clay,header
+27.07.2023,Stice T.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['1', '0', '2', '1']",[],[],[],1.59
+27.07.2023,Dickerson R.,2,2,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3', '6', '4']","['2', '0', '5', '1']",[],[],2.25
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+18.05.2023,Stice T.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '2']",[],[],[],3.00
+18.05.2023,Kim A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['2', '1', '3', '2']",[],[],[],1.35
+ITF MEN - SINGLES :  M25 Decatur,hard,header
+03.08.2022,Stice T.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']",[],[],[],[],0
+03.08.2022,Cassone M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '4', '6', '4']","['2', '0', '5', '1']",[],[],[],0

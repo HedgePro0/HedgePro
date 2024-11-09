@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
 ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
 ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
@@ -13,517 +13,91 @@ ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
 ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
 ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
 ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
-ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
-ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-
-ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
-
-ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
-
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-
-ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
-
-ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
-
-
-
-
-
-
-
-15.08. 13:10,Dedura-Palomero M.,1,7^7,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '4', '4']","['1', '0']",[],[],[],4.22
-
-
-
-
-
-
-
-15.08. 13:10,Agwi M.,0,6^4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']",[],[],[],[],1.20
-
-
-
-
-
-
-
-14.08. 13:35,Dedura-Palomero M.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['6', '4']","['2', '0', '4', '0']",[],[],1.17
-
-
-
-
-
-
-
-14.08. 13:35,Bienkiewicz J.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']",[],[],[],[],4.56
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-
-
-
-
-10.08. 20:35,Dedura-Palomero M.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],1.72
-
-
-
-
-
-
-
-10.08. 20:35,Loge J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],2.02
-
-
-
-
-
-
-
-09.08. 22:40,Dedura-Palomero M.,2,3,7,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '0', '3', '4', '5', '4', '6', '5']","['1', '0', '3', '0']",[],[],2.30
-
-
-
-
-
-
-
-09.08. 22:40,Beaupain S.,1,6,5,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['1', '1', '4', '2', '5', '5']","['1', '3', '5', '5']",[],[],1.57
-
-
-
-
-
-
-
-08.08. 20:10,Dedura-Palomero M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '6', '4']","['1', '1', '3', '1']","['1', '0', '3', '0', '5', '0']",[],[],2.68
-
-
-
-
-
-
-
-08.08. 20:10,Bailly G. A.,1,4,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['1', '0', '2', '3', '4', '3', '6', '3']",[],[],[],1.43
-
-
-
-
-
-
-
-07.08. 16:20,Dedura-Palomero M.,2,7^7,4,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4', '5', '5']","['2', '3', '4', '3']","['2', '1', '5', '4', '6', '5']",[],[],1.18
-
-
-
-
-
-
-
-07.08. 16:20,Merre N.,1,6^2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '4']","['2', '0', '4', '4', '6', '4']","['4', '4', '5', '5']",[],[],4.42
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
-
-
-
-
-
-
-
-31.07. 18:35,Dedura-Palomero M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '5']","['1', '2']",[],[],[],2.18
-
-
-
-
-
-
-
-31.07. 18:35,Negritu Ch.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2', '6', '3']","['2', '0', '4', '2']",[],[],[],1.63
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-
-
-
-
-
-
-
-23.07. 17:50,Dedura-Palomero M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '4', '5']",[],[],[],1.42
-
-
-
-
-
-
-
-23.07. 17:50,Salle F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['3', '3', '5', '3', '7', '5']",[],[],[],2.72
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
-
-
-
-
-
-
-
-17.07. 18:45,Dedura-Palomero M.,1,5,7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '5', '5', '7', '5']",[],[],[],1.58
-
-
-
-
-
-
-
-17.07. 18:45,Hopp M.,2,7,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '5']","['2', '1', '3', '2']","['2', '1', '4', '1']",[],[],2.28
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-
-
-
-
-
-
-
-30.06. 17:35,Dedura-Palomero M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],2.88
-
-
-
-
-
-
-
-30.06. 17:35,Gulin S.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '6', '5']",[],[],[],1.38
-
-
-
-
-
-
-
-29.06. 14:40,Dedura-Palomero M.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4', '6', '5']","['1', '0', '2', '1', '4', '3', '6', '5']",[],[],[],2.65
-
-
-
-
-
-
-
-29.06. 14:40,Gavrielides L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '1', '3', '3', '4', '4']",[],[],[],1.44
-
-
-
-
-
-
-
-28.06. 16:25,Dedura-Palomero M.,2,6^8,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '5', '7', '5']","['4', '4', '6', '4']",[],[],3.69
-
-
-
-
-
-
-
-28.06. 16:25,Engel J.,1,7^10,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '5']","['1', '2', '3', '2']","['1', '0']",[],[],1.25
-
-
-
-
-
-
-
-27.06. 15:40,Dedura-Palomero M.,1,7^7,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '5', '5']",[],[],[],[],3.37
-
-
-
-
-
-
-
-27.06. 15:40,Purtseladze S.,0,6^3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']",[],[],[],[],1.29
-
-
-
-
-
-
-
-26.06. 18:00,Dedura-Palomero M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],2.62
-
-
-
-
-
-
-
-26.06. 18:00,Filip J.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],1.45
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
-
-
-
-
-
-
-
-03.04. 15:40,Dedura-Palomero M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '5']",[],[],[],[],4.42
-
-
-
-
-
-
-
-03.04. 15:40,Privara P. B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3', '6', '4']","['3', '1']",[],[],[],1.18
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
-
-
-
-
-
-
-
-14.02. 15:35,Dedura-Palomero M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],8.35
-
-
-
-
-
-
-
-14.02. 15:35,Rehberg M. H.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '1']",[],[],[],1.05
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
-
-
-
-
-
-
-
-25.07.2023,Dedura-Palomero M.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '4']",[],[],[],3.28
-
-
-
-
-
-
-
-25.07.2023,Florig P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '4', '2', '5', '3']",[],[],[],1.30
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
-
-
-
-
-
-
-
-30.06.2023,Gentzsch T.,0,5,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],[],[],[],1.60
-
-
-
-
-
-
-
-30.06.2023,Dedura-Palomero M.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
-
-
-
-
-
-
-
-29.06.2023,Dedura-Palomero M.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']",[],[],[],[],5.73
-
-
-
-
-
-
-
-29.06.2023,Rosenkranz M.,0,5,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.11
-
-
-
-
-
-
-
-28.06.2023,Dedura-Palomero M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['3', '2', '4', '3']",[],[],[],2.67
-
-
-
-
-
-
-
-28.06.2023,Genov A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['3', '3']",[],[],[],1.43
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
-
-
-
-
-
-
-
-27.04.2023,Dedura-Palomero M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '2', '4', '3']",[],[],[],6.25
-
-
-
-
-
-
-
-27.04.2023,Florig P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '3', '3', '4', '4', '6', '4']",[],[],[],1.09
-
-
-
-
-
-
-
-26.04.2023,Dedura-Palomero M.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['4', '2', '6', '2']","['2', '0', '4', '2', '6', '2']",[],[],1.71
-
-
-
-
-
-
-
-26.04.2023,Salazar D.,1,6,2,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']",[],"['1', '2']",[],[],2.02
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
+ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
+ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+ITF MEN - SINGLES :  M15 Bielsko Biala (Poland),clay,header
+15.08. 13:10,Dedura-Palomero M.,1,7^7,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '4', '4']","['1', '0']",[],[],[],4.22
+15.08. 13:10,Agwi M.,0,6^4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '4', '3']",[],[],[],[],1.20
+14.08. 13:35,Dedura-Palomero M.,2,4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['6', '4']","['2', '0', '4', '0']",[],[],1.17
+14.08. 13:35,Bienkiewicz J.,1,6,4,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']",[],[],[],[],4.56
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+10.08. 20:35,Dedura-Palomero M.,0,4,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],1.72
+10.08. 20:35,Loge J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],2.02
+09.08. 22:40,Dedura-Palomero M.,2,3,7,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['1', '0', '3', '4', '5', '4', '6', '5']","['1', '0', '3', '0']",[],[],2.30
+09.08. 22:40,Beaupain S.,1,6,5,6^5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '3']","['1', '1', '4', '2', '5', '5']","['1', '3', '5', '5']",[],[],1.57
+08.08. 20:10,Dedura-Palomero M.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '4', '2', '6', '4']","['1', '1', '3', '1']","['1', '0', '3', '0', '5', '0']",[],[],2.68
+08.08. 20:10,Bailly G. A.,1,4,6,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4']","['1', '0', '2', '3', '4', '3', '6', '3']",[],[],[],1.43
+07.08. 16:20,Dedura-Palomero M.,2,7^7,4,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '4', '4', '5', '5']","['2', '3', '4', '3']","['2', '1', '5', '4', '6', '5']",[],[],1.18
+07.08. 16:20,Merre N.,1,6^2,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '4']","['2', '0', '4', '4', '6', '4']","['4', '4', '5', '5']",[],[],4.42
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+31.07. 18:35,Dedura-Palomero M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '5']","['1', '2']",[],[],[],2.18
+31.07. 18:35,Negritu Ch.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2', '5', '2', '6', '3']","['2', '0', '4', '2']",[],[],[],1.63
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+23.07. 17:50,Dedura-Palomero M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '4', '5']",[],[],[],1.42
+23.07. 17:50,Salle F.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['3', '3', '5', '3', '7', '5']",[],[],[],2.72
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+17.07. 18:45,Dedura-Palomero M.,1,5,7,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']","['2', '2', '5', '5', '7', '5']",[],[],[],1.58
+17.07. 18:45,Hopp M.,2,7,5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '6', '5']","['2', '1', '3', '2']","['2', '1', '4', '1']",[],[],2.28
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+30.06. 17:35,Dedura-Palomero M.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],2.88
+30.06. 17:35,Gulin S.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['2', '1', '6', '5']",[],[],[],1.38
+29.06. 14:40,Dedura-Palomero M.,2,7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '4', '6', '5']","['1', '0', '2', '1', '4', '3', '6', '5']",[],[],[],2.65
+29.06. 14:40,Gavrielides L.,0,5,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '5']","['1', '1', '3', '3', '4', '4']",[],[],[],1.44
+28.06. 16:25,Dedura-Palomero M.,2,6^8,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '4', '5', '4']","['2', '0', '5', '5', '7', '5']","['4', '4', '6', '4']",[],[],3.69
+28.06. 16:25,Engel J.,1,7^10,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '5']","['1', '2', '3', '2']","['1', '0']",[],[],1.25
+27.06. 15:40,Dedura-Palomero M.,1,7^7,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '5', '5']",[],[],[],[],3.37
+27.06. 15:40,Purtseladze S.,0,6^3,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']",[],[],[],[],1.29
+26.06. 18:00,Dedura-Palomero M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],2.62
+26.06. 18:00,Filip J.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']",[],[],[],[],1.45
+ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
+03.04. 15:40,Dedura-Palomero M.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '4', '5']",[],[],[],[],4.42
+03.04. 15:40,Privara P. B.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3', '5', '3', '6', '4']","['3', '1']",[],[],[],1.18
+ITF MEN - SINGLES :  M15 Oberhaching (Germany),hard,header
+14.02. 15:35,Dedura-Palomero M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],8.35
+14.02. 15:35,Rehberg M. H.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '1']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Metzingen (Germany),clay,header
+25.07.2023,Dedura-Palomero M.,0,1,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '4']",[],[],[],3.28
+25.07.2023,Florig P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '4', '2', '5', '3']",[],[],[],1.30
+ITF MEN - SINGLES :  M15 Kamen (Germany),clay,header
+30.06.2023,Gentzsch T.,0,5,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1']",[],[],[],[],1.60
+30.06.2023,Dedura-Palomero M.,0,1,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
+29.06.2023,Dedura-Palomero M.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['7', '5']",[],[],[],[],5.73
+29.06.2023,Rosenkranz M.,0,5,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.11
+28.06.2023,Dedura-Palomero M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '2']","['3', '2', '4', '3']",[],[],[],2.67
+28.06.2023,Genov A.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3']","['3', '3']",[],[],[],1.43
+ITF MEN - SINGLES :  M25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Meerbusch (Germany),clay,header
+27.04.2023,Dedura-Palomero M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '2', '4', '3']",[],[],[],6.25
+27.04.2023,Florig P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '6', '1']","['2', '2', '3', '3', '4', '4', '6', '4']",[],[],[],1.09
+26.04.2023,Dedura-Palomero M.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']","['4', '2', '6', '2']","['2', '0', '4', '2', '6', '2']",[],[],1.71
+26.04.2023,Salazar D.,1,6,2,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '1']",[],"['1', '2']",[],[],2.02

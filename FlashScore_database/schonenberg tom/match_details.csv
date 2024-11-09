@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
 ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
 ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
@@ -25,81 +25,55 @@ ITF MEN - SINGLES :  Ismaning (Germany),hard,header
 ITF MEN - SINGLES :  Bad Salzdetfurth (Germany),hard,header
 ITF MEN - SINGLES :  Leimen (Germany),hard,header
 ITF MEN - SINGLES :  Hambach (Germany),hard,header
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
-ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-EXHIBITION - MEN :  International Premier League B (Germany),clay,header
-EXHIBITION - MEN :  International Premier League A (Germany),hard,header
-EXHIBITION - MEN :  International Premier League B (Germany),clay,header
-EXHIBITION - MEN :  DTB German Pro Series (Germany) - Second stage - Play Offs,clay,header
-EXHIBITION - MEN :  DTB German Pro Series (Germany),clay,header
-ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
-ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
-ITF MEN - SINGLES :  Kamen (Germany),clay,header
-ITF MEN - SINGLES :  Ueberlingen (Germany),clay,header
-ITF MEN - SINGLES :  Trier (Germany),clay,header
-ITF MEN - SINGLES :  Nussloch (Germany),hard,header
-ITF MEN - SINGLES :  Bath (United Kingdom),hard,header
-ITF MEN - SINGLES :  Ismaning (Germany),hard,header
-ITF MEN - SINGLES :  Bad Salzdetfurth (Germany),hard,header
-ITF MEN - SINGLES :  Leimen (Germany),hard,header
-ITF MEN - SINGLES :  Hambach (Germany),hard,header
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-
-ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
-
-ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
-
-ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
-
-ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
-
-ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
-
-EXHIBITION - MEN :  International Premier League B (Germany),clay,header
-
-EXHIBITION - MEN :  International Premier League A (Germany),hard,header
-
-EXHIBITION - MEN :  International Premier League B (Germany),clay,header
-
-EXHIBITION - MEN :  DTB German Pro Series (Germany) - Second stage - Play Offs,clay,header
-
-EXHIBITION - MEN :  DTB German Pro Series (Germany),clay,header
-
-ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-
-ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
-
-ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
-
-ITF MEN - SINGLES :  Kamen (Germany),clay,header
-
-ITF MEN - SINGLES :  Ueberlingen (Germany),clay,header
-
-ITF MEN - SINGLES :  Trier (Germany),clay,header
-
-ITF MEN - SINGLES :  Nussloch (Germany),hard,header
-
-ITF MEN - SINGLES :  Bath (United Kingdom),hard,header
-
-ITF MEN - SINGLES :  Ismaning (Germany),hard,header
-
-ITF MEN - SINGLES :  Bad Salzdetfurth (Germany),hard,header
-
-ITF MEN - SINGLES :  Leimen (Germany),hard,header
-
-ITF MEN - SINGLES :  Hambach (Germany),hard,header
-
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+EXHIBITION - MEN :  International Premier League B (Germany),clay,header
+EXHIBITION - MEN :  International Premier League A (Germany),hard,header
+EXHIBITION - MEN :  International Premier League B (Germany),clay,header
+EXHIBITION - MEN :  DTB German Pro Series (Germany) - Second stage - Play Offs,clay,header
+EXHIBITION - MEN :  DTB German Pro Series (Germany),clay,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ITF MEN - SINGLES :  Kamen (Germany),clay,header
+ITF MEN - SINGLES :  Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  Trier (Germany),clay,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  Bath (United Kingdom),hard,header
+ITF MEN - SINGLES :  Ismaning (Germany),hard,header
+ITF MEN - SINGLES :  Bad Salzdetfurth (Germany),hard,header
+ITF MEN - SINGLES :  Leimen (Germany),hard,header
+ITF MEN - SINGLES :  Hambach (Germany),hard,header
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M25 Oldenzaal (Netherlands),clay,header
+ITF MEN - SINGLES :  M15 Trier (Germany),clay,header
+ITF MEN - SINGLES :  M25 Villers Les Nancy (France),hard,header
+ITF MEN - SINGLES :  M25 Hamburg (Germany),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 13 (Tunisia),hard,header
+EXHIBITION - MEN :  International Premier League B (Germany),clay,header
+EXHIBITION - MEN :  International Premier League A (Germany),hard,header
+EXHIBITION - MEN :  International Premier League B (Germany),clay,header
+EXHIBITION - MEN :  DTB German Pro Series (Germany) - Second stage - Play Offs,clay,header
+EXHIBITION - MEN :  DTB German Pro Series (Germany),clay,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+ITF MEN - SINGLES :  Oberhaching (Germany),hard,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ITF MEN - SINGLES :  Kamen (Germany),clay,header
+ITF MEN - SINGLES :  Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  Trier (Germany),clay,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  Bath (United Kingdom),hard,header
+ITF MEN - SINGLES :  Ismaning (Germany),hard,header
+ITF MEN - SINGLES :  Bad Salzdetfurth (Germany),hard,header
+ITF MEN - SINGLES :  Leimen (Germany),hard,header
+ITF MEN - SINGLES :  Hambach (Germany),hard,header

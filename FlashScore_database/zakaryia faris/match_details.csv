@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
@@ -26,656 +26,130 @@ ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
-ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
-
-ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
-
-ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
-
-ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-03.10. 14:15,Zakaryia F.,0,2,6^6,,,,[],"['1', '0', '4', '5']",[],[],[],2.30
-
-
-
-
-
-
-
-03.10. 14:15,Kikuchi Y.,2,6,7^8,,,,"['2', '0', '6', '2']","['1', '1', '4', '2']",[],[],[],1.56
-
-
-
-
-
-
-
-02.10. 14:15,Zakaryia F.,2,3,6,6,,,"['1', '4']","['4', '2', '6', '2']","['5', '3']",[],[],1.59
-
-
-
-
-
-
-
-02.10. 14:15,Zhu M.,1,6,2,3,,,"['2', '0', '4', '0']",[],[],[],[],2.24
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-
-
-
-
-
-
-
-27.09. 12:30,Moroni F.,1,6,6^3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']",[],"['2', '0']",[],[],1.43
-
-
-
-
-
-
-
-27.09. 12:30,Zakaryia F.,1,2,7^7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.66
-
-
-
-
-
-
-
-25.09. 14:05,Zakaryia F.,2,4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '5', '2']","['1', '2', '6', '5']",[],[],0
-
-
-
-
-
-
-
-25.09. 14:05,McKennon M.,1,6,2,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '4']","['2', '0']",[],[],0
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-28.08. 17:00,Zakaryia F.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],0
-
-
-
-
-
-
-
-28.08. 17:00,Ejupovic E.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']",[],"['4', '2', '6', '2']",[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
-
-
-
-
-
-
-
-21.08. 17:50,Zakaryia F.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '3']","['1', '3']",[],[],3.59
-
-
-
-
-
-
-
-21.08. 17:50,Wallin O.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '1', '4', '2']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],1.26
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ATP - SINGLES :  Davis Cup - World Group I (World),-,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+ATP - SINGLES :  Davis Cup - World Group I (World),-,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+03.10. 14:15,Zakaryia F.,0,2,6^6,,,,[],"['1', '0', '4', '5']",[],[],[],2.30
+03.10. 14:15,Kikuchi Y.,2,6,7^8,,,,"['2', '0', '6', '2']","['1', '1', '4', '2']",[],[],[],1.56
+02.10. 14:15,Zakaryia F.,2,3,6,6,,,"['1', '4']","['4', '2', '6', '2']","['5', '3']",[],[],1.59
+02.10. 14:15,Zhu M.,1,6,2,3,,,"['2', '0', '4', '0']",[],[],[],[],2.24
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
+27.09. 12:30,Moroni F.,1,6,6^3,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']",[],"['2', '0']",[],[],1.43
+27.09. 12:30,Zakaryia F.,1,2,7^7,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.66
+25.09. 14:05,Zakaryia F.,2,4,6,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '3', '0', '5', '2']","['1', '2', '6', '5']",[],[],0
+25.09. 14:05,McKennon M.,1,6,2,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['6', '4']","['2', '4']","['2', '0']",[],[],0
+ATP - SINGLES :  Davis Cup - World Group I (World),-,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+28.08. 17:00,Zakaryia F.,1,3,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],0
+28.08. 17:00,Ejupovic E.,2,6,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']",[],"['4', '2', '6', '2']",[],[],0
+ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
+21.08. 17:50,Zakaryia F.,1,6,3,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['2', '3']","['1', '3']",[],[],3.59
+21.08. 17:50,Wallin O.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']","['3', '1', '4', '2']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],1.26
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ATP - SINGLES :  Davis Cup - World Group I (World),-,header
+ITF MEN - SINGLES :  M15 Vienna (Austria),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn (Austria),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 8 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 7 (Serbia),clay,header
+ITF MEN - SINGLES :  M25 Sarajevo (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Kiseljak (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header

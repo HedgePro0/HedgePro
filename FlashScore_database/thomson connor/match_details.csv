@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
 CHALLENGER MEN - SINGLES :  Lisbon (Portugal) - Qualification,clay,header
 01.10.2023,Thomson C.,1,4,6,1,,,5,5,60%,71% (32/45),57% (17/30),0% (0/3),11% (4/38),44% (12/27),100% (1/1),65% (49/75),25% (16/65),46% (65/140),77% (10/13),8% (1/13),42% (11/26),[],"['3', '1']",[],[],[],6.18
@@ -11,78 +11,23 @@ BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
 BOYS - SINGLES :  Australian Open (Australia),hard,header
 BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
 BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
-ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
-
-18.10.2023,Thomson C.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],3.48
-
-
-
-18.10.2023,Jubb P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.27
-
-
-
-17.10.2023,Thomson C.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],2.25
-
-
-
-17.10.2023,Oberleitner N.,0,3,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
-
-
-
-CHALLENGER MEN - SINGLES :  Lisbon (Portugal) - Qualification,clay,header
-
-
-
-01.10.2023,Thomson C.,1,4,6,1,,,5,5,60%,71% (32/45),57% (17/30),0% (0/3),11% (4/38),44% (12/27),100% (1/1),4,65% (49/75),25% (16/65),46% (65/140),3,77% (10/13),8% (1/13),42% (11/26),[],"['3', '1']",[],[],[],6.18
-
-
-
-01.10.2023,Squire H.,2,6,3,6,,,5,9,58%,89% (34/38),56% (15/27),0% (0/1),29% (13/45),43% (13/30),100% (3/3),6,75% (49/65),35% (26/75),54% (75/140),3,92% (12/13),23% (3/13),58% (15/26),"['4', '3']",[],"['2', '0', '5', '1']",[],[],1.10
-
-
-
-CHALLENGER MEN - SINGLES :  Cary 2 (USA) - Qualification,hard,header
-
-
-
-10.09.2023,Thomson C.,0,6^3,3,,,,4,2,55%,69% (36/52),40% (17/43),81% (13/16),23% (9/40),29% (6/21),25% (1/4),4,56% (53/95),25% (15/61),44% (68/156),2,73% (8/11),10% (1/10),43% (9/21),"['1', '2']",[],[],[],[],2.78
-
-
-
-10.09.2023,Kirchheimer S.,2,7^7,6,,,,4,1,66%,78% (31/40),71% (15/21),75% (3/4),31% (16/52),60% (26/43),19% (3/16),9,75% (46/61),44% (42/95),56% (88/156),3,90% (9/10),27% (3/11),57% (12/21),"['2', '0']","['2', '1', '6', '3']",[],[],[],1.41
-
-
-
-ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),grass,header
-
-
-
-13.07.2023,Thomson C.,0,1,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3', '6', '6']",[],[],[],4.67
-
-
-
-13.07.2023,Harris B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['4', '5', '6', '5']",[],[],[],1.16
-
-
-
-12.07.2023,Thomson C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['2', '0', '6', '4']",[],[],[],0
-
-
-
-12.07.2023,Hudd E.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']",[],[],[],0
-
-
-
-12.07.2023,Thomson C.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['2', '3', '6', '5']",[],[],[],3.10
-
-
-
-12.07.2023,Hussey G.,0,6^3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '0']",[],[],[],1.33
-
-
-
-BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
-
-
-
+ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
+ITF MEN - SINGLES :  M25 Edgbaston (United Kingdom),hard,header
+18.10.2023,Thomson C.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3']",[],[],[],[],3.48
+18.10.2023,Jubb P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.27
+17.10.2023,Thomson C.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],2.25
+17.10.2023,Oberleitner N.,0,3,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.59
+CHALLENGER MEN - SINGLES :  Lisbon (Portugal) - Qualification,clay,header
+01.10.2023,Thomson C.,1,4,6,1,,,5,5,60%,71% (32/45),57% (17/30),0% (0/3),11% (4/38),44% (12/27),100% (1/1),4,65% (49/75),25% (16/65),46% (65/140),3,77% (10/13),8% (1/13),42% (11/26),[],"['3', '1']",[],[],[],6.18
+01.10.2023,Squire H.,2,6,3,6,,,5,9,58%,89% (34/38),56% (15/27),0% (0/1),29% (13/45),43% (13/30),100% (3/3),6,75% (49/65),35% (26/75),54% (75/140),3,92% (12/13),23% (3/13),58% (15/26),"['4', '3']",[],"['2', '0', '5', '1']",[],[],1.10
+CHALLENGER MEN - SINGLES :  Cary 2 (USA) - Qualification,hard,header
+10.09.2023,Thomson C.,0,6^3,3,,,,4,2,55%,69% (36/52),40% (17/43),81% (13/16),23% (9/40),29% (6/21),25% (1/4),4,56% (53/95),25% (15/61),44% (68/156),2,73% (8/11),10% (1/10),43% (9/21),"['1', '2']",[],[],[],[],2.78
+10.09.2023,Kirchheimer S.,2,7^7,6,,,,4,1,66%,78% (31/40),71% (15/21),75% (3/4),31% (16/52),60% (26/43),19% (3/16),9,75% (46/61),44% (42/95),56% (88/156),3,90% (9/10),27% (3/11),57% (12/21),"['2', '0']","['2', '1', '6', '3']",[],[],[],1.41
+ITF MEN - SINGLES :  M25 Nottingham 4 (United Kingdom),grass,header
+13.07.2023,Thomson C.,0,1,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3', '6', '6']",[],[],[],4.67
+13.07.2023,Harris B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['4', '5', '6', '5']",[],[],[],1.16
+12.07.2023,Thomson C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '6', '3']","['2', '0', '6', '4']",[],[],[],0
+12.07.2023,Hudd E.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']",[],[],[],0
+12.07.2023,Thomson C.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']","['2', '3', '6', '5']",[],[],[],3.10
+12.07.2023,Hussey G.,0,6^3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3']","['2', '0']",[],[],[],1.33
+BOYS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header

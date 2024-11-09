@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
@@ -27,546 +27,115 @@ ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
 ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
 ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
-ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
-ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
-
-ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
-
-ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
-
-ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
-
-ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-
-ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
-
-ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
-
-
-
-
-
-
-
-12.09. 15:00,Verbin P.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],2.18
-
-
-
-
-
-
-
-12.09. 15:00,Paz J. P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['2', '0', '4', '0']",[],[],[],1.63
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
-
-
-
-
-
-
-
-07.09. 13:30,Verbin P.,1,6,6^5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['3', '4']","['3', '3']",[],[],1.60
-
-
-
-
-
-
-
-07.09. 13:30,Latinovic S.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '0']","['3', '2', '5', '4']",[],[],2.24
-
-
-
-
-
-
-
-06.09. 13:30,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['4', '3']",[],[],[],2.28
-
-
-
-
-
-
-
-06.09. 13:30,Pisaric A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],1.58
-
-
-
-
-
-
-
-05.09. 13:10,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3', '6', '3']",[],[],[],1.59
-
-
-
-
-
-
-
-05.09. 13:10,Bellifemine A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.26
-
-
-
-
-
-
-
-04.09. 17:45,Verbin P.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '4']","['2', '0']",[],[],4.42
-
-
-
-
-
-
-
-04.09. 17:45,Popovic S.,1,6,4,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],1.18
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
-
-
-
-
-
-
-
-29.08. 15:55,Verbin P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-29.08. 15:55,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
-
-
-
-
-
-
-
-27.08. 17:05,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['3', '1', '5', '1']",[],[],[],5.83
-
-
-
-
-
-
-
-27.08. 17:05,Paz J. P.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],1.11
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
-
-
-
-
-
-
-
-08.08. 17:55,Verbin P.,0,6^3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.56
-
-
-
-
-
-
-
-08.08. 17:55,Fajta P.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '5']",[],[],[],1.12
-
-
-
-
-
-
-
-06.08. 17:50,Verbin P.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['4', '3', '5', '4']","['2', '1']",[],[],3.69
-
-
-
-
-
-
-
-06.08. 17:50,Stater A.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']","['4', '4']",[],[],[],1.25
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
-
-
-
-
-
-
-
-31.07. 12:30,Verbin P.,0,6^3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.24
-
-
-
-
-
-
-
-31.07. 12:30,Tessa L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['5', '3']",[],[],[],1.60
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
-
-
-
-
-
-
-
-04.05.2023,Verbin P.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
-
-
-
-
-
-
-
-04.05.2023,Oberleitner N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
-
-
-
-
-
-
-
-03.05.2023,Verbin P.,2,7^9,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
-
-
-
-
-
-
-
-03.05.2023,Gaal C.,0,6^7,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-
-
-
-
-
-
-
-19.01.2022,Verbin P.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-19.01.2022,Fufygin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 4 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Sharm El Sheikh 3 (Egypt),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 17 (Serbia),clay,header
+12.09. 15:00,Verbin P.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']",[],[],[],[],2.18
+12.09. 15:00,Paz J. P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '4']","['2', '0', '4', '0']",[],[],[],1.63
+ITF MEN - SINGLES :  M15 Pirot 2 (Serbia),clay,header
+07.09. 13:30,Verbin P.,1,6,6^5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['3', '4']","['3', '3']",[],[],1.60
+07.09. 13:30,Latinovic S.,2,4,7^7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4']","['2', '0']","['3', '2', '5', '4']",[],[],2.24
+06.09. 13:30,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '5', '3']","['4', '3']",[],[],[],2.28
+06.09. 13:30,Pisaric A.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1']",[],[],[],[],1.58
+05.09. 13:10,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['4', '3', '6', '3']",[],[],[],1.59
+05.09. 13:10,Bellifemine A.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.26
+04.09. 17:45,Verbin P.,1,2,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '4']","['2', '0']",[],[],4.42
+04.09. 17:45,Popovic S.,1,6,4,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']",[],[],[],[],1.18
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 16 (Serbia),clay,header
+29.08. 15:55,Verbin P.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+29.08. 15:55,Donev G.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],0
+27.08. 17:05,Verbin P.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1', '5', '1', '6', '2']","['3', '1', '5', '1']",[],[],[],5.83
+27.08. 17:05,Paz J. P.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']",[],[],[],[],1.11
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+08.08. 17:55,Verbin P.,0,6^3,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],5.56
+08.08. 17:55,Fajta P.,2,7^7,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['6', '5']",[],[],[],1.12
+06.08. 17:50,Verbin P.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['4', '3', '5', '4']","['2', '1']",[],[],3.69
+06.08. 17:50,Stater A.,1,6,4,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '3', '6', '3']","['4', '4']",[],[],[],1.25
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 13 (Serbia),clay,header
+31.07. 12:30,Verbin P.,0,6^3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.24
+31.07. 12:30,Tessa L.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '5']","['5', '3']",[],[],[],1.60
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 9 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Aktobe 2 (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Aktobe (Kazakhstan),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 5 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 15 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Novi Sad (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+04.05.2023,Verbin P.,0,1,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],4.22
+04.05.2023,Oberleitner N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.20
+03.05.2023,Verbin P.,2,7^9,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.06
+03.05.2023,Gaal C.,0,6^7,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.68
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Zlatibor (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 12 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 11 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+19.01.2022,Verbin P.,0,3,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+19.01.2022,Fufygin M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Kazan 3 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Antalya 30 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Shymkent 3 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header
+ITF MEN - SINGLES :  M15 Kazan 2 (Russia),hard,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm El Sheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Kazan (Russia),hard,header

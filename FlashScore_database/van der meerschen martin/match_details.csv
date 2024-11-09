@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Antalya 16 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
 ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
@@ -10,157 +10,50 @@ ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
 ITF MEN - SINGLES :  Las Palmas 2 (Spain),clay,header
 ITF MEN - SINGLES :  Las Palmas (Spain),clay,header
 ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-ITF MEN - SINGLES :  M25 Brussels (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES :  Las Palmas 2 (Spain),clay,header
-ITF MEN - SINGLES :  Las Palmas (Spain),clay,header
-ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
-
-ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
-
-ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
-
-
-
-19.09. 15:50,Van Der Meerschen M.,1,4,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],2.47
-
-
-
-19.09. 15:50,Turker M. N.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']",[],"['5', '3']",[],[],1.50
-
-
-
-18.09. 11:00,Van Der Meerschen M.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],1.22
-
-
-
-18.09. 11:00,Panaras A.,1,7^7,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
-
-
-
-ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
-
-
-
-13.09. 16:30,Van Der Meerschen M.,1,6,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.11
-
-
-
-13.09. 16:30,Javia D.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['2', '0']",[],[],1.67
-
-
-
-12.09. 13:45,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '4', '3']",[],[],[],1.19
-
-
-
-12.09. 13:45,Oplustil P.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],4.27
-
-
-
-11.09. 18:15,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['2', '1']",[],[],[],2.47
-
-
-
-11.09. 18:15,Dev S D P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],1.50
-
-
-
-ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
-
-
-
-13.08. 13:30,Van Der Meerschen M.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '3']",[],[],[],6.63
-
-
-
-13.08. 13:30,Den Ouden G.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '7', '5']","['4', '4']",[],[],[],1.09
-
-
-
-ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
-
-
-
-06.08. 14:30,Van Der Meerschen M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['2', '3']",[],[],[],3.77
-
-
-
-06.08. 14:30,Pontjodikromo S.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3', '6', '4']","['2', '0', '7', '5']",[],[],[],1.24
-
-
-
-ITF MEN - SINGLES :  M25 Brussels (Belgium),clay,header
-
-
-
-ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
-
-
-
-ITF MEN - SINGLES :  Las Palmas 2 (Spain),clay,header
-
-
-
-10.05.2019,Van Der Meerschen M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],7.70
-
-
-
-10.05.2019,Meligeni Alves F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']","['4', '2']",[],[],[],1.07
-
-
-
-09.05.2019,Van Der Meerschen M.,2,7^7,1,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '6']","['1', '0']","['1', '1', '2', '2', '3', '3']",[],[],0
-
-
-
-09.05.2019,Pla Malfeito J.,1,6^2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '5']","['1', '1', '3', '1', '5', '1']","['1', '0', '2', '1', '3', '2']",[],[],0
-
-
-
-08.05.2019,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '4', '6', '4']","['3', '1', '6', '2']",[],[],[],1.58
-
-
-
-08.05.2019,Campana F.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2']",[],[],[],[],2.31
-
-
-
-ITF MEN - SINGLES :  Las Palmas (Spain),clay,header
-
-
-
-02.05.2019,Van Der Meerschen M.,1,3,7,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '1', '4', '2', '7', '5']","['3', '3', '4', '4']",[],[],2.64
-
-
-
-02.05.2019,Coppini A.,2,6,5,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '3', '3', '4']","['3', '2', '4', '3', '6', '5']",[],[],1.45
-
-
-
-01.05.2019,Van Der Meerschen M.,2,7,1,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '6', '5']","['1', '0']","['3', '1']",[],[],4.44
-
-
-
-01.05.2019,Chepelev A.,1,5,6,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '1', '3', '1', '5', '1']","['3', '4']",[],[],1.18
-
-
-
-ITF MEN - SINGLES :  Kaarst (Germany),hard,header
-
-
-
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+ITF MEN - SINGLES :  M25 Brussels (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+ITF MEN - SINGLES :  Las Palmas 2 (Spain),clay,header
+ITF MEN - SINGLES :  Las Palmas (Spain),clay,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+ITF MEN - SINGLES :  M15 Tsaghkadzor (Armenia),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+ITF MEN - SINGLES :  M15 Tehran 2 (Iran),clay,header
+19.09. 15:50,Van Der Meerschen M.,1,4,7^7,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],2.47
+19.09. 15:50,Turker M. N.,2,6,6^5,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']",[],"['5', '3']",[],[],1.50
+18.09. 11:00,Van Der Meerschen M.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],1.22
+18.09. 11:00,Panaras A.,1,7^7,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.96
+ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
+ITF MEN - SINGLES :  M15 Tehran (Iran),clay,header
+13.09. 16:30,Van Der Meerschen M.,1,6,2,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']",[],[],[],[],2.11
+13.09. 16:30,Javia D.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '1', '6', '2']","['2', '0']",[],[],1.67
+12.09. 13:45,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '4', '3']",[],[],[],1.19
+12.09. 13:45,Oplustil P.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],4.27
+11.09. 18:15,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1']","['2', '1']",[],[],[],2.47
+11.09. 18:15,Dev S D P.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2']",[],[],[],[],1.50
+ITF MEN - SINGLES :  M25 Koksijde (Belgium),clay,header
+13.08. 13:30,Van Der Meerschen M.,0,5,6^2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '3']",[],[],[],6.63
+13.08. 13:30,Den Ouden G.,2,7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '7', '5']","['4', '4']",[],[],[],1.09
+ITF MEN - SINGLES :  M15 Eupen (Belgium),clay,header
+06.08. 14:30,Van Der Meerschen M.,0,4,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '3', '2']","['2', '3']",[],[],[],3.77
+06.08. 14:30,Pontjodikromo S.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '3', '6', '4']","['2', '0', '7', '5']",[],[],[],1.24
+ITF MEN - SINGLES :  M25 Brussels (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Heraklion 4 (Greece),hard,header
+ITF MEN - SINGLES :  Las Palmas 2 (Spain),clay,header
+10.05.2019,Van Der Meerschen M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],7.70
+10.05.2019,Meligeni Alves F.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']","['4', '2']",[],[],[],1.07
+09.05.2019,Van Der Meerschen M.,2,7^7,1,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4', '6', '6']","['1', '0']","['1', '1', '2', '2', '3', '3']",[],[],0
+09.05.2019,Pla Malfeito J.,1,6^2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '6', '5']","['1', '1', '3', '1', '5', '1']","['1', '0', '2', '1', '3', '2']",[],[],0
+08.05.2019,Van Der Meerschen M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '4', '6', '4']","['3', '1', '6', '2']",[],[],[],1.58
+08.05.2019,Campana F.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '3', '2']",[],[],[],[],2.31
+ITF MEN - SINGLES :  Las Palmas (Spain),clay,header
+02.05.2019,Van Der Meerschen M.,1,3,7,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['3', '1', '4', '2', '7', '5']","['3', '3', '4', '4']",[],[],2.64
+02.05.2019,Coppini A.,2,6,5,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '3']","['2', '3', '3', '4']","['3', '2', '4', '3', '6', '5']",[],[],1.45
+01.05.2019,Van Der Meerschen M.,2,7,1,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '6', '5']","['1', '0']","['3', '1']",[],[],4.44
+01.05.2019,Chepelev A.,1,5,6,6^4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '1', '3', '1', '5', '1']","['3', '4']",[],[],1.18
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header

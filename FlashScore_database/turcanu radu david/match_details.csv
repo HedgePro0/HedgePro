@@ -1,115 +1,27 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
 ITF MEN - SINGLES :  M15 Bucharest 4 (Romania),clay,header
 CHALLENGER MEN - SINGLES :  Iasi (Romania) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
-ITF MEN - SINGLES :  M15 Bucharest 4 (Romania),clay,header
-CHALLENGER MEN - SINGLES :  Iasi (Romania) - Qualification,clay,header
-07.07. 18:35,Turcanu R. D.,0,1,1,,,,1,4,56%,52% (13/25),35% (7/20),38% (3/8),26% (6/23),21% (3/14),0% (0/0),44% (20/45),24% (9/37),35% (29/82),5,0,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.27
-07.07. 18:35,Nesterov P.,2,6,6,,,,0,1,62%,74% (17/23),79% (11/14),0% (0/0),48% (12/25),65% (13/20),63% (5/8),76% (28/37),56% (25/45),65% (53/82),5,0,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.10
-ITF MEN - SINGLES :  M25 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES :  M15 Bucharest (Romania),clay,header
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
-
-ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
-
-
-
-27.08. 16:40,Turcanu R. D.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],3.72
-
-
-
-
-
-
-
-27.08. 16:40,Gima S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.26
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bucharest 4 (Romania),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Iasi (Romania) - Qualification,clay,header
-
-
-
-
-
-
-
-07.07. 18:35,Turcanu R. D.,0,1,1,,,,1,4,56%,52% (13/25),35% (7/20),38% (3/8),26% (6/23),21% (3/14),0% (0/0),5,44% (20/45),24% (9/37),35% (29/82),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.27
-
-
-
-
-
-
-
-07.07. 18:35,Nesterov P.,2,6,6,,,,0,1,62%,74% (17/23),79% (11/14),0% (0/0),48% (12/25),65% (13/20),63% (5/8),7,76% (28/37),56% (25/45),65% (53/82),9,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.10
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Satu Mare (Romania),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bucharest (Romania),clay,header
-
-
-
-
-
-
-
-BOYS - SINGLES :  Australian Open (Australia),hard,header
-
-
-
-
-
-
-
-21.01. 06:35,Turcanu R. D.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-21.01. 06:35,Camus C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '1']",[],[],[],0
-
-
-
-
-
-
-
-BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest 4 (Romania),clay,header
+CHALLENGER MEN - SINGLES :  Iasi (Romania) - Qualification,clay,header
+07.07. 18:35,Turcanu R. D.,0,1,1,,,,1,4,56%,52% (13/25),35% (7/20),38% (3/8),26% (6/23),21% (3/14),0% (0/0),44% (20/45),24% (9/37),35% (29/82),5,0,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.27
+07.07. 18:35,Nesterov P.,2,6,6,,,,0,1,62%,74% (17/23),79% (11/14),0% (0/0),48% (12/25),65% (13/20),63% (5/8),76% (28/37),56% (25/45),65% (53/82),5,0,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.10
+ITF MEN - SINGLES :  M25 Satu Mare (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest (Romania),clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest 5 (Romania),clay,header
+27.08. 16:40,Turcanu R. D.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '4']",[],[],[],[],3.72
+27.08. 16:40,Gima S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.26
+ITF MEN - SINGLES :  M15 Bucharest 4 (Romania),clay,header
+CHALLENGER MEN - SINGLES :  Iasi (Romania) - Qualification,clay,header
+07.07. 18:35,Turcanu R. D.,0,1,1,,,,1,4,56%,52% (13/25),35% (7/20),38% (3/8),26% (6/23),21% (3/14),0% (0/0),5,44% (20/45),24% (9/37),35% (29/82),1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],6.27
+07.07. 18:35,Nesterov P.,2,6,6,,,,0,1,62%,74% (17/23),79% (11/14),0% (0/0),48% (12/25),65% (13/20),63% (5/8),7,76% (28/37),56% (25/45),65% (53/82),9,100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],1.10
+ITF MEN - SINGLES :  M25 Satu Mare (Romania),clay,header
+ITF MEN - SINGLES :  M15 Bucharest (Romania),clay,header
+BOYS - SINGLES :  Australian Open (Australia),hard,header
+21.01. 06:35,Turcanu R. D.,0,3,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+21.01. 06:35,Camus C.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['2', '1']",[],[],[],0
+BOYS - SINGLES :  Australian Open (Australia) - Qualification,hard,header

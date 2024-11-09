@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
 ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
 CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
@@ -30,1060 +30,162 @@ CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
 03.09.2023,Reitano S.,0,4,6^1,,,,1,8,48%,62% (23/37),45% (18/40),50% (4/8),30% (15/50),56% (23/41),23% (3/13),53% (41/77),42% (38/91),47% (79/168),73% (8/11),18% (2/11),45% (10/22),"['1', '0']","['2', '1']",[],[],[],8.65
 03.09.2023,Debru G.,2,6,7^7,,,,4,9,55%,70% (35/50),44% (18/41),77% (10/13),38% (14/37),55% (22/40),50% (4/8),58% (53/91),47% (36/77),53% (89/168),82% (9/11),27% (3/11),55% (12/22),"['1', '1', '6', '4']","['4', '4']",[],[],[],1.05
 ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
-
-01.09. 13:40,Reitano S.,0,5,4,,,,3,3,58%,69% (29/42),45% (14/31),57% (4/7),0 km/h,0 km/h,26% (13/50),47% (7/15),33% (1/3),59% (43/73),31% (20/65),46% (63/138),5,0,73% (8/11),9% (1/11),41% (9/22),[],"['3', '2']",[],[],[],5.45
-
-01.09. 13:40,Oradini G.,2,7,6,,,,5,2,77%,74% (37/50),53% (8/15),67% (2/3),0 km/h,0 km/h,31% (13/42),55% (17/31),43% (3/7),69% (45/65),41% (30/73),54% (75/138),5,0,91% (10/11),27% (3/11),59% (13/22),"['7', '5']","['3', '3', '6', '4']",[],[],[],1.13
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Überlingen (Germany),clay,header
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
-
-ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-
-ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
-
-CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
-
-03.09.2023,Reitano S.,0,4,6^1,,,,1,8,48%,62% (23/37),45% (18/40),50% (4/8),30% (15/50),56% (23/41),23% (3/13),53% (41/77),42% (38/91),47% (79/168),73% (8/11),18% (2/11),45% (10/22),"['1', '0']","['2', '1']",[],[],[],8.65
-
-03.09.2023,Debru G.,2,6,7^7,,,,4,9,55%,70% (35/50),44% (18/41),77% (10/13),38% (14/37),55% (22/40),50% (4/8),58% (53/91),47% (36/77),53% (89/168),82% (9/11),27% (3/11),55% (12/22),"['1', '1', '6', '4']","['4', '4']",[],[],[],1.05
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
-
-
-
-
-
-
-
-13.09. 15:40,Reitano S.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],3.59
-
-
-
-
-
-
-
-13.09. 15:40,Wessels L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '4', '0']",[],[],[],1.26
-
-
-
-
-
-
-
-12.09. 13:30,Reitano S.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']","['3', '1', '5', '3']",[],[],[],1.41
-
-
-
-
-
-
-
-12.09. 13:30,Di Natale G. M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '5']","['2', '3']",[],[],[],2.75
-
-
-
-
-
-
-
-10.09. 18:30,Reitano S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3', '7', '5']","['2', '0', '4', '0', '6', '4']",[],[],[],3.18
-
-
-
-
-
-
-
-10.09. 18:30,Tammaro M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['1', '4', '4', '5']",[],[],[],1.32
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
-
-
-
-
-
-
-
-01.09. 13:40,Reitano S.,0,5,4,,,,3,3,58%,69% (29/42),45% (14/31),57% (4/7),26% (13/50),47% (7/15),33% (1/3),5,59% (43/73),31% (20/65),46% (63/138),2,73% (8/11),9% (1/11),41% (9/22),[],"['3', '2']",[],[],[],5.45
-
-
-
-
-
-
-
-01.09. 13:40,Oradini G.,2,7,6,,,,5,2,77%,74% (37/50),53% (8/15),67% (2/3),31% (13/42),55% (17/31),43% (3/7),5,69% (45/65),41% (30/73),54% (75/138),3,91% (10/11),27% (3/11),59% (13/22),"['7', '5']","['3', '3', '6', '4']",[],[],[],1.13
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-
-
-
-
-28.08. 20:00,Reitano S.,1,2,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '0', '3', '0', '5', '2']","['1', '2', '3', '4']",[],[],2.09
-
-
-
-
-
-
-
-28.08. 20:00,Caniato C. A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '2']","['2', '4']","['2', '0', '3', '1', '6', '4']",[],[],1.69
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
-
-
-
-
-
-
-
-21.08. 15:15,Reitano S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.70
-
-
-
-
-
-
-
-21.08. 15:15,Bertola R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '2', '6', '3']",[],[],[],1.06
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ãœberlingen (Germany),clay,header
-
-
-
-
-
-
-
-14.08. 18:35,Reitano S.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '5']",[],[],[],1.09
-
-
-
-
-
-
-
-14.08. 18:35,Sakellaridis D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],6.47
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
-
-
-
-
-
-
-
-23.04. 15:20,Reitano S.,0,2,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.83
-
-
-
-
-
-
-
-23.04. 15:20,Potenza L.,0,5,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1']",[],[],[],[],1.39
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-
-
-
-
-
-
-
-10.04. 13:40,Reitano S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],2.75
-
-
-
-
-
-
-
-10.04. 13:40,Potenza L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.41
-
-
-
-
-
-
-
-08.04. 16:35,Reitano S.,2,6,1,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']",[],"['2', '0', '5', '1']",[],[],2.68
-
-
-
-
-
-
-
-08.04. 16:35,Kumar O.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['2', '5', '4', '5']",[],[],1.43
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
-
-
-
-
-
-
-
-03.04. 13:10,Reitano S.,1,6,2,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['2', '5']",[],[],[],2.92
-
-
-
-
-
-
-
-03.04. 13:10,Ferrari G.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.37
-
-
-
-
-
-
-
-02.04. 17:15,Reitano S.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']",[],"['2', '1', '4', '1', '6', '3']",[],[],1.49
-
-
-
-
-
-
-
-02.04. 17:15,D'Agostino S.,1,0,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '6', '3']","['3', '5']",[],[],2.50
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
-
-
-
-
-
-
-
-26.03. 19:20,Reitano S.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],7.01
-
-
-
-
-
-
-
-26.03. 19:20,Serdarusic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],1.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
-
-
-
-
-
-
-
-30.11.2023,Reitano S.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],4.71
-
-
-
-
-
-
-
-30.11.2023,Pennaforti G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '6', '5']",[],[],[],1.16
-
-
-
-
-
-
-
-29.11.2023,Reitano S.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['3', '3', '5', '5', '7', '5']","['3', '1', '4', '2', '6', '4']",[],[],2.43
-
-
-
-
-
-
-
-29.11.2023,Tammaro M.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '3']","['2', '1', '4', '3']","['2', '3', '4', '5']",[],[],1.51
-
-
-
-
-
-
-
-28.11.2023,Reitano S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']","['2', '0', '3', '1', '5', '1']",[],[],[],1.34
-
-
-
-
-
-
-
-28.11.2023,Agostini S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '2', '2', '5']",[],[],[],3.08
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
-
-
-
-
-
-
-
-31.10.2023,Reitano S.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],8.70
-
-
-
-
-
-
-
-31.10.2023,Napolitano S.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.04
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
-
-
-
-
-
-
-
-18.10.2023,Reitano S.,0,6^4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5', '5', '5', '6', '6']","['1', '0']",[],[],[],7.41
-
-
-
-
-
-
-
-18.10.2023,Michalski D.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2', '6', '5']","['1', '1', '3', '1', '5', '1']",[],[],[],1.06
-
-
-
-
-
-
-
-17.10.2023,Reitano S.,2,6,0,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']",[],"['1', '2']",[],[],6.06
-
-
-
-
-
-
-
-17.10.2023,Gadamauri B.,1,1,6,6^3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],1.10
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
-
-
-
-
-
-
-
-03.10.2023,Reitano S.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['3', '3']","['3', '5']",[],[],5.41
-
-
-
-
-
-
-
-03.10.2023,Serafini M.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '6', '5']","['2', '1', '4', '1', '6', '3']",[],[],1.13
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
-
-
-
-
-
-
-
-03.09.2023,Reitano S.,0,4,6^1,,,,1,8,48%,62% (23/37),45% (18/40),50% (4/8),30% (15/50),56% (23/41),23% (3/13),6,53% (41/77),42% (38/91),47% (79/168),3,73% (8/11),18% (2/11),45% (10/22),"['1', '0']","['2', '1']",[],[],[],8.65
-
-
-
-
-
-
-
-03.09.2023,Debru G.,2,6,7^7,,,,4,9,55%,70% (35/50),44% (18/41),77% (10/13),38% (14/37),55% (22/40),50% (4/8),6,58% (53/91),47% (36/77),53% (89/168),3,82% (9/11),27% (3/11),55% (12/22),"['1', '1', '6', '4']","['4', '4']",[],[],[],1.05
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
-
-
-
-
-
-
-
-28.08.2023,Reitano S.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.27
-
-
-
-
-
-
-
-28.08.2023,Bosio G.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0']",[],[],[],1.58
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Caslano (Switzerland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Uriage (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
-
-
-
-
-
-
-
-14.06.2023,Reitano S.,1,7^7,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
-
-
-
-
-
-
-
-14.06.2023,Carnevalle L.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
-
-
-
-
-
-
-
-07.06.2023,Reitano S.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.00
-
-
-
-
-
-
-
-07.06.2023,Bittoun C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.35
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
-
-
-
-
-
-
-
-03.04.2023,Reitano S.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
-
-
-
-
-
-
-
-03.04.2023,Sakellaridis S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.32
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Salerno (Italy),hard,header
-
-
-
-
-
-
-
-09.09.2022,Reitano S.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],3.40
-
-
-
-
-
-
-
-09.09.2022,Serafini M.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '6', '4']","['3', '1']",[],[],1.29
-
-
-
-
-
-
-
-07.09.2022,Reitano S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '0', '6', '3']",[],[],[],2.18
-
-
-
-
-
-
-
-07.09.2022,Catini N.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],1.64
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
-
-
-
-
-
-
-
-02.08.2022,Reitano S.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-02.08.2022,Mora M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Ulcinj 2 (Montenegro),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
-
-
-
-
-
-
-
-CHALLENGER MEN - SINGLES :  Turin 2 (Italy) - Qualification,hard,header
-
-
-
-
-
-
-
-27.02.2022,Reitano S.,0,5,6^5,,,,5,7,64%,67% (38/57),47% (15/32),40% (2/5),18% (8/45),18% (5/28),100% (2/2),6,60% (53/89),32% (23/73),47% (76/162),2,75% (9/12),17% (2/12),46% (11/24),"['1', '0']","['1', '2']",[],[],[],5.60
-
-
-
-
-
-
-
-27.02.2022,Smith R.,2,7,7^7,,,,15,10,62%,82% (37/45),46% (13/28),0% (0/2),33% (19/57),31% (10/32),60% (3/5),7,68% (50/73),40% (36/89),53% (86/162),4,83% (10/12),25% (3/12),54% (13/24),"['3', '3', '7', '5']","['2', '0']",[],[],[],1.13
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
+01.09. 13:40,Reitano S.,0,5,4,,,,3,3,58%,69% (29/42),45% (14/31),57% (4/7),0 km/h,0 km/h,26% (13/50),47% (7/15),33% (1/3),59% (43/73),31% (20/65),46% (63/138),5,0,73% (8/11),9% (1/11),41% (9/22),[],"['3', '2']",[],[],[],5.45
+01.09. 13:40,Oradini G.,2,7,6,,,,5,2,77%,74% (37/50),53% (8/15),67% (2/3),0 km/h,0 km/h,31% (13/42),55% (17/31),43% (3/7),69% (45/65),41% (30/73),54% (75/138),5,0,91% (10/11),27% (3/11),59% (13/22),"['7', '5']","['3', '3', '6', '4']",[],[],[],1.13
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Überlingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
+03.09.2023,Reitano S.,0,4,6^1,,,,1,8,48%,62% (23/37),45% (18/40),50% (4/8),30% (15/50),56% (23/41),23% (3/13),53% (41/77),42% (38/91),47% (79/168),73% (8/11),18% (2/11),45% (10/22),"['1', '0']","['2', '1']",[],[],[],8.65
+03.09.2023,Debru G.,2,6,7^7,,,,4,9,55%,70% (35/50),44% (18/41),77% (10/13),38% (14/37),55% (22/40),50% (4/8),58% (53/91),47% (36/77),53% (89/168),82% (9/11),27% (3/11),55% (12/22),"['1', '1', '6', '4']","['4', '4']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+ITF MEN - SINGLES :  M25 Pozzuoli (Italy),hard,header
+13.09. 15:40,Reitano S.,0,4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']",[],[],[],[],3.59
+13.09. 15:40,Wessels L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '6', '4']","['2', '0', '4', '0']",[],[],[],1.26
+12.09. 13:30,Reitano S.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '3', '4', '3']","['3', '1', '5', '3']",[],[],[],1.41
+12.09. 13:30,Di Natale G. M.,0,6^5,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '5']","['2', '3']",[],[],[],2.75
+10.09. 18:30,Reitano S.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2', '5', '3', '7', '5']","['2', '0', '4', '0', '6', '4']",[],[],[],3.18
+10.09. 18:30,Tammaro M.,0,5,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '4', '5']","['1', '4', '4', '5']",[],[],[],1.32
+CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
+01.09. 13:40,Reitano S.,0,5,4,,,,3,3,58%,69% (29/42),45% (14/31),57% (4/7),26% (13/50),47% (7/15),33% (1/3),5,59% (43/73),31% (20/65),46% (63/138),2,73% (8/11),9% (1/11),41% (9/22),[],"['3', '2']",[],[],[],5.45
+01.09. 13:40,Oradini G.,2,7,6,,,,5,2,77%,74% (37/50),53% (8/15),67% (2/3),31% (13/42),55% (17/31),43% (3/7),5,69% (45/65),41% (30/73),54% (75/138),3,91% (10/11),27% (3/11),59% (13/22),"['7', '5']","['3', '3', '6', '4']",[],[],[],1.13
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+28.08. 20:00,Reitano S.,1,2,6,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '5']","['1', '0', '3', '0', '5', '2']","['1', '2', '3', '4']",[],[],2.09
+28.08. 20:00,Caniato C. A.,2,6,2,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1', '6', '2']","['2', '4']","['2', '0', '3', '1', '6', '4']",[],[],1.69
+ITF MEN - SINGLES :  M25 Lesa (Italy),clay,header
+21.08. 15:15,Reitano S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],7.70
+21.08. 15:15,Bertola R.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['3', '2', '6', '3']",[],[],[],1.06
+ITF MEN - SINGLES :  M15 Ãœberlingen (Germany),clay,header
+14.08. 18:35,Reitano S.,0,3,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['1', '5']",[],[],[],1.09
+14.08. 18:35,Sakellaridis D.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],6.47
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 5 (Italy),clay,header
+23.04. 15:20,Reitano S.,0,2,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']",[],[],[],[],2.83
+23.04. 15:20,Potenza L.,0,5,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1']",[],[],[],[],1.39
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+10.04. 13:40,Reitano S.,0,2,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '3']",[],[],[],2.75
+10.04. 13:40,Potenza L.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.41
+08.04. 16:35,Reitano S.,2,6,1,7^8,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '1', '5', '2']",[],"['2', '0', '5', '1']",[],[],2.68
+08.04. 16:35,Kumar O.,1,2,6,6^6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '5', '1']","['2', '5', '4', '5']",[],[],1.43
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
+03.04. 13:10,Reitano S.,1,6,2,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']","['2', '5']",[],[],[],2.92
+03.04. 13:10,Ferrari G.,2,1,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['3', '1', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.37
+02.04. 17:15,Reitano S.,2,6,3,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']",[],"['2', '1', '4', '1', '6', '3']",[],[],1.49
+02.04. 17:15,D'Agostino S.,1,0,6,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '1', '6', '3']","['3', '5']",[],[],2.50
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
+26.03. 19:20,Reitano S.,0,0,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],7.01
+26.03. 19:20,Serdarusic N.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '5', '0']","['1', '0', '5', '4']",[],[],[],1.08
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 11 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+30.11.2023,Reitano S.,0,2,5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],4.71
+30.11.2023,Pennaforti G.,2,6,7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1']","['1', '0', '6', '5']",[],[],[],1.16
+29.11.2023,Reitano S.,2,3,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '2', '3']","['3', '3', '5', '5', '7', '5']","['3', '1', '4', '2', '6', '4']",[],[],2.43
+29.11.2023,Tammaro M.,1,6,5,4,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '3', '1', '5', '3']","['2', '1', '4', '3']","['2', '3', '4', '5']",[],[],1.51
+28.11.2023,Reitano S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '2', '4', '3', '6', '3']","['2', '0', '3', '1', '5', '1']",[],[],[],1.34
+28.11.2023,Agostini S.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']","['1', '2', '2', '5']",[],[],[],3.08
+ITF MEN - SINGLES :  M15 Selva Gardena (Italy),hard,header
+31.10.2023,Reitano S.,0,2,6^4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '4']",[],[],[],8.70
+31.10.2023,Napolitano S.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.04
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+18.10.2023,Reitano S.,0,6^4,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '4', '3', '5', '5', '5', '6', '6']","['1', '0']",[],[],[],7.41
+18.10.2023,Michalski D.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '4', '1', '5', '2', '6', '5']","['1', '1', '3', '1', '5', '1']",[],[],[],1.06
+17.10.2023,Reitano S.,2,6,0,7^7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '3', '1', '5', '1']",[],"['1', '2']",[],[],6.06
+17.10.2023,Gadamauri B.,1,1,6,6^3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],1.10
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
+03.10.2023,Reitano S.,1,6,5,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '6', '1']","['3', '3']","['3', '5']",[],[],5.41
+03.10.2023,Serafini M.,2,1,7,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '6', '5']","['2', '1', '4', '1', '6', '3']",[],[],1.13
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Monastir 6 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Genova (Italy) - Qualification,clay,header
+03.09.2023,Reitano S.,0,4,6^1,,,,1,8,48%,62% (23/37),45% (18/40),50% (4/8),30% (15/50),56% (23/41),23% (3/13),6,53% (41/77),42% (38/91),47% (79/168),3,73% (8/11),18% (2/11),45% (10/22),"['1', '0']","['2', '1']",[],[],[],8.65
+03.09.2023,Debru G.,2,6,7^7,,,,4,9,55%,70% (35/50),44% (18/41),77% (10/13),38% (14/37),55% (22/40),50% (4/8),6,58% (53/91),47% (36/77),53% (89/168),3,82% (9/11),27% (3/11),55% (12/22),"['1', '1', '6', '4']","['4', '4']",[],[],[],1.05
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+28.08.2023,Reitano S.,0,2,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.27
+28.08.2023,Bosio G.,1,6,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0']",[],[],[],1.58
+ITF MEN - SINGLES :  M15 Caslano (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 30 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Uriage (France),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Rabat (Morocco),clay,header
+14.06.2023,Reitano S.,1,7^7,2,1,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.60
+14.06.2023,Carnevalle L.,2,6^4,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],2.23
+ITF MEN - SINGLES :  M15 Tanger (Morocco),clay,header
+07.06.2023,Reitano S.,0,6^5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.00
+07.06.2023,Bittoun C.,2,7^7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],1.35
+ITF MEN - SINGLES :  M15 Brcko (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Prijedor (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 12 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula (Italy),clay,header
+03.04.2023,Reitano S.,0,1,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],3.15
+03.04.2023,Sakellaridis S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.32
+ITF MEN - SINGLES :  M15 Monastir 48 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 41 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Salerno (Italy),hard,header
+09.09.2022,Reitano S.,1,6,4,3,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2']",[],[],[],3.40
+09.09.2022,Serafini M.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3', '6', '4']","['3', '1']",[],[],1.29
+07.09.2022,Reitano S.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '4']","['1', '0', '6', '3']",[],[],[],2.18
+07.09.2022,Catini N.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1']",[],[],[],[],1.64
+ITF MEN - SINGLES :  M15 Bad Waltersdorf 2 (Austria),clay,header
+ITF MEN - SINGLES :  M15 Malmo (Sweden),clay,header
+ITF MEN - SINGLES :  M15 Parnu (Estonia),clay,header
+02.08.2022,Reitano S.,0,5,0,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+02.08.2022,Mora M.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],[],[],[],[],0
+ITF MEN - SINGLES :  M15 Lodz (Poland),clay,header
+ITF MEN - SINGLES :  M15 Monastir 25 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 24 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
+ITF MEN - SINGLES :  M25 Ulcinj 2 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
+CHALLENGER MEN - SINGLES :  Turin 2 (Italy) - Qualification,hard,header
+27.02.2022,Reitano S.,0,5,6^5,,,,5,7,64%,67% (38/57),47% (15/32),40% (2/5),18% (8/45),18% (5/28),100% (2/2),6,60% (53/89),32% (23/73),47% (76/162),2,75% (9/12),17% (2/12),46% (11/24),"['1', '0']","['1', '2']",[],[],[],5.60
+27.02.2022,Smith R.,2,7,7^7,,,,15,10,62%,82% (37/45),46% (13/28),0% (0/2),33% (19/57),31% (10/32),60% (3/5),7,68% (50/73),40% (36/89),53% (86/162),4,83% (10/12),25% (3/12),54% (13/24),"['3', '3', '7', '5']","['2', '0']",[],[],[],1.13
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header

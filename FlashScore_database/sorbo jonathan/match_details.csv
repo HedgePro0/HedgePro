@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 East Lansing,hard,header
 CHALLENGER MEN - SINGLES :  Calgary (Canada) - Qualification,hard,header
 06.11.2023,Sorbo J.,0,1,1,,,,0,7,40%,46% (11/24),31% (11/36),57% (8/14),13% (2/16),40% (8/20),50% (1/2),37% (22/60),28% (10/36),33% (32/96),14% (1/7),14% (1/7),14% (2/14),[],"['1', '4']",[],[],[],12.20
@@ -14,86 +14,25 @@ ITF MEN - SINGLES :  M25 Saint-Augustin (Canada),hard,header
 ITF MEN - SINGLES :  M15 Ithaca,hard,header
 ITF MEN - SINGLES :  M15 Ithaca,hard,header
 ITF MEN - SINGLES :  Norman (USA),hard,header
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-ITF MEN - SINGLES :  M15 East Lansing,hard,header
-
-15.11.2023,Sorbo J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['4', '4']",[],[],[],4.08
-
-
-
-15.11.2023,Schifris J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '1', '5', '4']",[],[],[],1.21
-
-
-
-CHALLENGER MEN - SINGLES :  Calgary (Canada) - Qualification,hard,header
-
-
-
-06.11.2023,Sorbo J.,0,1,1,,,,0,7,40%,46% (11/24),31% (11/36),57% (8/14),13% (2/16),40% (8/20),50% (1/2),3,37% (22/60),28% (10/36),33% (32/96),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '4']",[],[],[],12.20
-
-
-
-06.11.2023,Montes-De La Torre I.,2,6,6,,,,1,5,44%,88% (14/16),60% (12/20),50% (1/2),54% (13/24),69% (25/36),43% (6/14),10,72% (26/36),63% (38/60),67% (64/96),8,86% (6/7),86% (6/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '5', '1']",[],[],[],1.01
-
-
-
-ITF MEN - SINGLES :  M25 Edmonton (Canada),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Saint-Augustin (Canada),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Rochester,clay,header
-
-
-
-ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Tulsa,hard,header
-
-
-
-22.06.2023,Sorbo J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],6.06
-
-
-
-22.06.2023,Kiger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '3', '2', '4', '3', '6', '3']",[],[],[],1.10
-
-
-
-ITF MEN - SINGLES :  M15 Edmond,hard,header
-
-
-
-26.01.2023,Sorbo J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4']",[],[],[],[],2.39
-
-
-
-26.01.2023,Visser A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.51
-
-
-
-ITF MEN - SINGLES :  M25 Columbus,hard,header
-
-
-
-17.11.2022,Sorbo J.,0,0,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '5']",[],[],[],4.02
-
-
-
-17.11.2022,Nakashima B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '5', '3']",[],[],[],1.22
-
-
-
-ITF MEN - SINGLES :  M25 Saint-Augustin (Canada),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Ithaca,hard,header
-
-
-
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+15.11.2023,Sorbo J.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2']","['4', '4']",[],[],[],4.08
+15.11.2023,Schifris J.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '2']","['2', '1', '5', '4']",[],[],[],1.21
+CHALLENGER MEN - SINGLES :  Calgary (Canada) - Qualification,hard,header
+06.11.2023,Sorbo J.,0,1,1,,,,0,7,40%,46% (11/24),31% (11/36),57% (8/14),13% (2/16),40% (8/20),50% (1/2),3,37% (22/60),28% (10/36),33% (32/96),1,14% (1/7),14% (1/7),14% (2/14),[],"['1', '4']",[],[],[],12.20
+06.11.2023,Montes-De La Torre I.,2,6,6,,,,1,5,44%,88% (14/16),60% (12/20),50% (1/2),54% (13/24),69% (25/36),43% (6/14),10,72% (26/36),63% (38/60),67% (64/96),8,86% (6/7),86% (6/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '5', '1']",[],[],[],1.01
+ITF MEN - SINGLES :  M25 Edmonton (Canada),hard,header
+ITF MEN - SINGLES :  M25 Saint-Augustin (Canada),hard,header
+ITF MEN - SINGLES :  M15 Rochester,clay,header
+ITF MEN - SINGLES :  M25 Laval (Canada),hard,header
+ITF MEN - SINGLES :  M25 Tulsa,hard,header
+22.06.2023,Sorbo J.,0,4,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '3', '3']",[],[],[],6.06
+22.06.2023,Kiger M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2']","['1', '0', '3', '2', '4', '3', '6', '3']",[],[],[],1.10
+ITF MEN - SINGLES :  M15 Edmond,hard,header
+26.01.2023,Sorbo J.,0,2,1,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '3', '2', '4']",[],[],[],[],2.39
+26.01.2023,Visser A.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '3', '0', '4', '1', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.51
+ITF MEN - SINGLES :  M25 Columbus,hard,header
+17.11.2022,Sorbo J.,0,0,6^3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0', '4', '5']",[],[],[],4.02
+17.11.2022,Nakashima B.,2,6,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '4', '0', '6', '0']","['1', '1', '5', '3']",[],[],[],1.22
+ITF MEN - SINGLES :  M25 Saint-Augustin (Canada),hard,header
+ITF MEN - SINGLES :  M15 Ithaca,hard,header

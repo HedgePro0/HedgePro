@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Monastir 45 (Tunisia),hard,header
 ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
 ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
@@ -24,583 +24,116 @@ ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
 ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
 ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
 ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
-
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-
-ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
-
-
-
-ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-
-
-
-
-04.10. 15:40,Bertimon M.,1,7^7,1,4,,,[],[],[],[],[],2.53
-
-
-
-
-
-
-
-04.10. 15:40,Visker N.,2,6^3,6,6,,,[],"['2', '0', '5', '1']","['3', '2']",[],[],1.47
-
-
-
-
-
-
-
-03.10. 16:20,Bertimon M.,2,6^7,7^16,6,,,"['2', '3']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.58
-
-
-
-
-
-
-
-03.10. 16:20,Branger L.,1,7^9,6^14,0,,,"['2', '0']","['4', '5']",[],[],[],2.26
-
-
-
-
-
-
-
-01.10. 18:05,Bertimon M.,2,6,7^10,,,,"['5', '3']",[],[],[],[],1.42
-
-
-
-
-
-
-
-01.10. 18:05,Namigandet Tenguere L.,0,3,6^8,,,,[],[],[],[],[],2.69
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
-
-
-
-
-
-
-
-27.09. 15:45,Bertimon M.,0,3,4,,,,"['1', '2']",[],[],[],[],1.85
-
-
-
-
-
-
-
-27.09. 15:45,Hernandez C.,2,6,6,,,,"['2', '0', '4', '2']","['1', '0']",[],[],[],1.85
-
-
-
-
-
-
-
-26.09. 14:30,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],1.85
-
-
-
-
-
-
-
-26.09. 14:30,Rivet M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
-
-
-
-
-
-
-
-25.09. 22:35,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['3', '2', '5', '2']",[],[],[],1.38
-
-
-
-
-
-
-
-25.09. 22:35,Trochu P.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],2.85
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
-
-
-
-
-
-
-
-11.09. 14:00,Bertimon M.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '3', '5', '4']","['2', '1', '3', '2', '5', '4']",[],[],[],1.72
-
-
-
-
-
-
-
-11.09. 14:00,Trouve N.,2,7,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '4', '5', '5', '7', '5']","['2', '2', '4', '4']","['2', '0', '6', '2']",[],[],2.02
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-
-
-
-
-
-
-
-06.09. 14:30,Bertimon M.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.34
-
-
-
-
-
-
-
-06.09. 14:30,Jones B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0', '5', '2']",[],[],[],1.55
-
-
-
-
-
-
-
-05.09. 18:25,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '1', '6', '4']",[],[],[],2.02
-
-
-
-
-
-
-
-05.09. 18:25,Ghazouani Durand Y.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],1.72
-
-
-
-
-
-
-
-03.09. 13:50,Bertimon M.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
-
-
-
-
-
-
-
-03.09. 13:50,Reco A.,0,6^2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']",[],[],[],0
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
-
-
-
-
-
-
-
-23.08. 16:45,Bertimon M.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '2', '2']",[],[],[],1.66
-
-
-
-
-
-
-
-23.08. 16:45,Demanet E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0', '2', '1', '4', '3']",[],[],[],2.13
-
-
-
-
-
-
-
-22.08. 16:50,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '4']","['5', '4']",[],[],[],2.17
-
-
-
-
-
-
-
-22.08. 16:50,Vankan M.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],1.64
-
-
-
-
-
-
-
-21.08. 20:30,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['1', '0', '4', '1', '6', '3']",[],[],[],1.27
-
-
-
-
-
-
-
-21.08. 20:30,Verwerft L. G.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '4']",[],[],[],3.51
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
-
-
-
-
-
-
-
-07.08. 13:50,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '4', '3', '6', '3']",[],[],[],1.39
-
-
-
-
-
-
-
-07.08. 13:50,Alkotop M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],2.83
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
-
-
-
-
-
-
-
-01.08. 13:40,Bertimon M.,1,6^7,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2', '5', '4']","['1', '0']",[],[],0
-
-
-
-
-
-
-
-01.08. 13:40,Bradshaw J.,2,7^9,4,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '4']","['3', '3', '7', '5']",[],[],0
-
-
-
-
-
-
-
-31.07. 13:30,Bertimon M.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],1.54
-
-
-
-
-
-
-
-31.07. 13:30,Efstathiou M.,1,6,0,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],2.36
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Lannion (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M15 Monastir 51 (Tunisia),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Telavi 2 (Georgia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25 Nevers (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
-
-
-
-
-
-
-
-ITF MEN - SINGLES :  Hamburg (Germany),hard,header
-
-
-
-
-
-
-
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sarreguemines (France),hard,header
+ITF MEN - SINGLES :  M15 Winston-Salem,hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+04.10. 15:40,Bertimon M.,1,7^7,1,4,,,[],[],[],[],[],2.53
+04.10. 15:40,Visker N.,2,6^3,6,6,,,[],"['2', '0', '5', '1']","['3', '2']",[],[],1.47
+03.10. 16:20,Bertimon M.,2,6^7,7^16,6,,,"['2', '3']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.58
+03.10. 16:20,Branger L.,1,7^9,6^14,0,,,"['2', '0']","['4', '5']",[],[],[],2.26
+01.10. 18:05,Bertimon M.,2,6,7^10,,,,"['5', '3']",[],[],[],[],1.42
+01.10. 18:05,Namigandet Tenguere L.,0,3,6^8,,,,[],[],[],[],[],2.69
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+27.09. 15:45,Bertimon M.,0,3,4,,,,"['1', '2']",[],[],[],[],1.85
+27.09. 15:45,Hernandez C.,2,6,6,,,,"['2', '0', '4', '2']","['1', '0']",[],[],[],1.85
+26.09. 14:30,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],1.85
+26.09. 14:30,Rivet M.,0,1,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '4']",[],[],[],1.85
+25.09. 22:35,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['3', '2', '5', '2']",[],[],[],1.38
+25.09. 22:35,Trochu P.,0,4,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '5']",[],[],[],[],2.85
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+ITF MEN - SINGLES :  M25+H Plaisir (France),hard,header
+11.09. 14:00,Bertimon M.,1,5,6,2,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '2', '1', '4', '3', '5', '4']","['2', '1', '3', '2', '5', '4']",[],[],[],1.72
+11.09. 14:00,Trouve N.,2,7,4,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '1', '2', '2', '4', '4', '5', '5', '7', '5']","['2', '2', '4', '4']","['2', '0', '6', '2']",[],[],2.02
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+06.09. 14:30,Bertimon M.,0,5,2,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '0']",[],[],[],[],2.34
+06.09. 14:30,Jones B.,2,7,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4', '6', '5']","['1', '0', '5', '2']",[],[],[],1.55
+05.09. 18:25,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '2']","['3', '1', '6', '4']",[],[],[],2.02
+05.09. 18:25,Ghazouani Durand Y.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '0']",[],[],[],1.72
+03.09. 13:50,Bertimon M.,2,7^7,7^7,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['5', '3']",[],[],[],0
+03.09. 13:50,Reco A.,0,6^2,6^5,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['4', '5']",[],[],[],0
+ITF MEN - SINGLES :  M15 Lambermont (Belgium),clay,header
+23.08. 16:45,Bertimon M.,0,2,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['1', '1', '2', '2']",[],[],[],1.66
+23.08. 16:45,Demanet E.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0', '5', '2']","['1', '0', '2', '1', '4', '3']",[],[],[],2.13
+22.08. 16:50,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '2', '5', '4']","['5', '4']",[],[],[],2.17
+22.08. 16:50,Vankan M.,0,4,4,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '3']",[],[],[],[],1.64
+21.08. 20:30,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['2', '2', '4', '2']","['1', '0', '4', '1', '6', '3']",[],[],[],1.27
+21.08. 20:30,Verwerft L. G.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['1', '0']","['2', '4']",[],[],[],3.51
+ITF MEN - SINGLES :  M15 Monastir 32 (Tunisia),hard,header
+07.08. 13:50,Bertimon M.,2,6,6,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '1']","['1', '0', '4', '3', '6', '3']",[],[],[],1.39
+07.08. 13:50,Alkotop M.,0,3,3,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['3', '3']",[],[],[],2.83
+ITF MEN - SINGLES :  M15 Monastir 31 (Tunisia),hard,header
+01.08. 13:40,Bertimon M.,1,6^7,6,5,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['4', '2']","['3', '2', '5', '4']","['1', '0']",[],[],0
+01.08. 13:40,Bradshaw J.,2,7^9,4,7,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['3', '4']","['4', '4']","['3', '3', '7', '5']",[],[],0
+31.07. 13:30,Bertimon M.,2,3,6,6,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,[],"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],1.54
+31.07. 13:30,Efstathiou M.,1,6,0,0,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"['5', '3']",[],[],[],[],2.36
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Rabat (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Monastir 21 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 19 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 18 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 6 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 5 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 Lannion (France),hard,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 2 (Tunisia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet (Tunisia),clay,header
+ITF MEN - SINGLES :  M15+H Bagnoles de l'Orne (France),clay,header
+ITF MEN - SINGLES :  M15 Bressuire (France),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 51 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Telavi 2 (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Nevers (France),hard,header
+ITF MEN - SINGLES :  M25+H Bagneres-de-Bigorre (France),hard,header
+ITF MEN - SINGLES :  Hamburg (Germany),hard,header

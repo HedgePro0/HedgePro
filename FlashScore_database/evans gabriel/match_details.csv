@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
@@ -27,70 +27,42 @@ ITF MEN - SINGLES :  M25 Santo Domingo 3 (Dominican Republic),hard,header
 ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Cancun 4 (Mexico),hard,header
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
-ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES :  M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES :  M15 Ithaca,hard,header
-ATP - SINGLES :  Davis Cup - Group IV (World),-,header
-ATP - SINGLES :  Davis Cup - Group IV (World),-,header
-CHALLENGER MEN - SINGLES :  Palmas Del Mar (Puerto Rico) - Qualification,hard,header
-ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
-
-ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
-
-ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
-
-ATP - SINGLES :  Davis Cup - Group III (World),-,header
-
-ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
-
-ITF MEN - SINGLES :  M15 Santo Domingo 3 (Dominican Republic),hard,header
-
-ITF MEN - SINGLES :  M15 Ithaca,hard,header
-
-ATP - SINGLES :  Davis Cup - Group IV (World),-,header
-
-ATP - SINGLES :  Davis Cup - Group IV (World),-,header
-
-CHALLENGER MEN - SINGLES :  Palmas Del Mar (Puerto Rico) - Qualification,hard,header
-
-12.06.2023,Copil M.,1,5,7^7,3,,,8,2,49%,75% (30/40),59% (24/41),50% (3/6),41% (24/59),47% (18/38),36% (4/11),67% (54/81),43% (42/97),54% (96/178),77% (10/13),29% (4/14),52% (14/27),"['2', '2']","['4', '4']","['1', '0', '3', '0']",[],[],1.06
-
-12.06.2023,Evans G.,1,7,6^3,0,,,3,4,61%,59% (35/59),53% (20/38),64% (7/11),25% (10/40),41% (17/41),50% (3/6),57% (55/97),33% (27/81),46% (82/178),71% (10/14),23% (3/13),48% (13/27),"['1', '0', '6', '5']","['1', '0']",[],[],[],7.75
-
-ITF MEN - SINGLES :  M25 Austin,hard,header
-
-ITF MEN - SINGLES :  M15 Fayetteville,hard,header
-
-ITF MEN - SINGLES :  M25 Harlingen,hard,header
-
-ITF MEN - SINGLES :  M15 Albuquerque,hard,header
-
-ITF MEN - SINGLES :  M15 Lubbock,hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 12 (Mexico),hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 11 (Mexico),hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 10 (Mexico),hard,header
-
-ITF MEN - SINGLES :  M25 Decatur,hard,header
-
-ITF MEN - SINGLES :  M15 Waco,hard,header
-
-ITF MEN - SINGLES :  M25 Santo Domingo 4 (Dominican Republic),hard,header
-
-ITF MEN - SINGLES :  M25 Santo Domingo 3 (Dominican Republic),hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
-
-ITF MEN - SINGLES :  M15 Cancun 4 (Mexico),hard,header
-
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 3 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Ithaca,hard,header
+ATP - SINGLES :  Davis Cup - Group IV (World),-,header
+ATP - SINGLES :  Davis Cup - Group IV (World),-,header
+CHALLENGER MEN - SINGLES :  Palmas Del Mar (Puerto Rico) - Qualification,hard,header
+ITF MEN - SINGLES :  M25 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 42 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Promotion,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 3 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Ithaca,hard,header
+ATP - SINGLES :  Davis Cup - Group IV (World),-,header
+ATP - SINGLES :  Davis Cup - Group IV (World),-,header
+CHALLENGER MEN - SINGLES :  Palmas Del Mar (Puerto Rico) - Qualification,hard,header
+12.06.2023,Copil M.,1,5,7^7,3,,,8,2,49%,75% (30/40),59% (24/41),50% (3/6),41% (24/59),47% (18/38),36% (4/11),67% (54/81),43% (42/97),54% (96/178),77% (10/13),29% (4/14),52% (14/27),"['2', '2']","['4', '4']","['1', '0', '3', '0']",[],[],1.06
+12.06.2023,Evans G.,1,7,6^3,0,,,3,4,61%,59% (35/59),53% (20/38),64% (7/11),25% (10/40),41% (17/41),50% (3/6),57% (55/97),33% (27/81),46% (82/178),71% (10/14),23% (3/13),48% (13/27),"['1', '0', '6', '5']","['1', '0']",[],[],[],7.75
+ITF MEN - SINGLES :  M25 Austin,hard,header
+ITF MEN - SINGLES :  M15 Fayetteville,hard,header
+ITF MEN - SINGLES :  M25 Harlingen,hard,header
+ITF MEN - SINGLES :  M15 Albuquerque,hard,header
+ITF MEN - SINGLES :  M15 Lubbock,hard,header
+ITF MEN - SINGLES :  M15 Cancun 12 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 11 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 10 (Mexico),hard,header
+ITF MEN - SINGLES :  M25 Decatur,hard,header
+ITF MEN - SINGLES :  M15 Waco,hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 4 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 3 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 4 (Mexico),hard,header
