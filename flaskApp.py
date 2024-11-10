@@ -27,7 +27,7 @@ femaleRankedPlayers = []
 # Load Data (Unchanged)
 with open("previousMatchesCounter") as file:
     prevCounter = int(file.read())
-print(prevCounter)
+# print(prevCounter)
     
 if prevCounter > 0:
     for i in range(1, prevCounter+1):
@@ -61,9 +61,9 @@ if prevCounter > 0:
                     prevMatchesData_w[i-1].append([ temp[j], temp[j+1] ])
                     j += 2
 
-for row in prevMatchesData:
-    for elem in row:
-        print(elem)
+# for row in prevMatchesData:
+#     for elem in row:
+#         print(elem)
         
 # Load other files (Unchanged)
 with open('./playerLinks.csv') as file:

@@ -63,7 +63,7 @@
                 </div>
 
                 <div class="player2">
-                    {% for j in range(0,8) %}
+                    {% for j in range(1,9) %}
                     <div>{{row[1][j]}}</div>
                     {% endfor %}
                 </div>
@@ -100,14 +100,14 @@
             <div class="time">{{row[0][0]}}</div>
             <div class="players">
                 <div class="player1">
-                    {% for j in range(1,9) %}
-                    <div>{{row[0][j]}}</div>
+                    {% for row_elem in row[0][1:-2] %}
+                    <div>{{row_elem}}</div>
                     {% endfor %}
                 </div>
 
                 <div class="player2">
-                    {% for j in range(1,9) %}
-                    <div>{{row[1][j]}}</div>
+                    {% for row_elem in row[1][1:-2] %}
+                    <div>{{row_elem}}</div>
                     {% endfor %}
                 </div>
             </div>
@@ -191,7 +191,7 @@
                 </div>
 
                 <div class="player2">
-                    {% for j in range(0,8) %}
+                    {% for j in range(1,9) %}
                     <div>{{row[1][j]}}</div>
                     {% endfor %}
                 </div>
