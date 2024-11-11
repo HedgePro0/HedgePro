@@ -85,7 +85,7 @@ with open("todaysMatches.csv") as file:
             todayMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("todaysMatches_w.csv") as file:
+with open("todaysMatches_w.csv", encoding="latin-1") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
