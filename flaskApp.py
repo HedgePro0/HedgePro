@@ -47,7 +47,7 @@ if prevCounter > 0:
                     j += 2
 
         prevMatchesData_w.append([])
-        with open(f"./Previous_Matches/{i}_w.csv") as file:
+        with open(f"./Previous_Matches/{i}_w.csv", encoding="latin-1") as file:
             csvreader = csv.reader(file)
             temp = []
             for row in csvreader:
@@ -179,7 +179,7 @@ def getData(name):
 
 # Login Required Decorator
 def login_required(func):
-    @wraps(func)  # This preserves the original function name and metadata
+    @wraps(func) 
     def wrapper(*args, **kwargs):
         if 'user' in session:
             return func(*args, **kwargs)
