@@ -1,5 +1,229 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Villeneuve d'Ascq (France),hard,header
+ITF WOMEN - SINGLES :  W35 Joue-les-Tours (France),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W50 Saint Palais sur Mer (France),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Monzon (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet 2 (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi 2 (Kenya),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi (Kenya),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
+ITF WOMEN - SINGLES :  W25 Platja D'Aro (Spain),clay,header
+ITF WOMEN - SINGLES :  W25+H Tossa de Mar (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
+ITF WOMEN - SINGLES :  W60 Grenoble (France),hard,header
+ITF WOMEN - SINGLES :  W40 Porto (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60 Andrezieux-Boutheon (France),hard,header
+ITF WOMEN - SINGLES :  W80+H Valencia (Spain),clay,header
+ITF WOMEN - SINGLES :  W80 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Nantes (France),hard,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Perugia (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Liepaja (Latvia),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W25 Denain (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W60 Brasov (Romania),clay,header
+WTA - SINGLES :  French Open (France) - Qualification,clay,header
+ITF WOMEN - SINGLES :  W35 Villeneuve d'Ascq (France),hard,header
+ITF WOMEN - SINGLES :  W35 Joue-les-Tours (France),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W50 Saint Palais sur Mer (France),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Monzon (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet 2 (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi 2 (Kenya),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi (Kenya),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
+ITF WOMEN - SINGLES :  W25 Platja D'Aro (Spain),clay,header
+ITF WOMEN - SINGLES :  W25+H Tossa de Mar (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
+ITF WOMEN - SINGLES :  W60 Grenoble (France),hard,header
+ITF WOMEN - SINGLES :  W40 Porto (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60 Andrezieux-Boutheon (France),hard,header
+ITF WOMEN - SINGLES :  W80+H Valencia (Spain),clay,header
+ITF WOMEN - SINGLES :  W80 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Nantes (France),hard,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Perugia (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Liepaja (Latvia),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W25 Denain (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W60 Brasov (Romania),clay,header
+WTA - SINGLES :  French Open (France) - Qualification,clay,header
+ITF WOMEN - SINGLES :  W35 Villeneuve d'Ascq (France),hard,header
+ITF WOMEN - SINGLES :  W35 Joue-les-Tours (France),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W50 Saint Palais sur Mer (France),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Monzon (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W35 Nottingham (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W15 Telde 3 (Spain),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet 2 (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Hammamet (Tunisia),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi 2 (Kenya),clay,header
+ITF WOMEN - SINGLES :  W25 Nairobi (Kenya),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 6 (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
+ITF WOMEN - SINGLES :  W25 Platja D'Aro (Spain),clay,header
+ITF WOMEN - SINGLES :  W25+H Tossa de Mar (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Pretoria (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Joue les Tours (France),hard,header
+ITF WOMEN - SINGLES :  W60 Grenoble (France),hard,header
+ITF WOMEN - SINGLES :  W40 Porto (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60 Andrezieux-Boutheon (France),hard,header
+ITF WOMEN - SINGLES :  W80+H Valencia (Spain),clay,header
+ITF WOMEN - SINGLES :  W80 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Nantes (France),hard,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Perugia (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Liepaja (Latvia),clay,header
+ITF WOMEN - SINGLES :  W60 Montpellier (France),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W25 Denain (France),clay,header
+ITF WOMEN - SINGLES :  W60 Biarritz (France),clay,header
+ITF WOMEN - SINGLES :  W60 Brasov (Romania),clay,header
+WTA - SINGLES :  French Open (France) - Qualification,clay,header
+17.05.2022,Nguyen Tan L.,0,0,0,,,,0,1,83%,24% (6/25),0% (0/5),14% (1/7),19% (5/26),53% (8/15),0% (0/3),3,19,20% (6/30),32% (13/41),27% (19/71),0% (0/6),0% (0/6),0% (0/12),[],[],[],[],[],7.20
+17.05.2022,Korpatsch T.,2,6,6,,,,0,4,63%,81% (21/26),47% (7/15),100% (3/3),76% (19/25),100% (5/5),86% (6/7),13,12,68% (28/41),80% (24/30),73% (52/71),100% (6/6),100% (6/6),100% (12/12),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.10
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 5 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 4 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Cairo 2 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W15 Cairo 5 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W25+H Calvi (France),hard,header
+ITF WOMEN - SINGLES :  W25 Le Havre (France),clay,header
+ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
+ITF WOMEN - SINGLES :  W15+H Amiens (France),clay,header
+ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W25 Kiryat Motzkin (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Netanya (Israel),hard,header
+ITF WOMEN - SINGLES :  W25+H Cherbourg-en-Cotentin (France),hard,header
+ITF WOMEN - SINGLES :  W80+H Le Neubourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W25 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W15 Aix-en-Provence (France),clay,header
+ITF WOMEN - SINGLES :  W15 Warmbad-Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Knokke (Belgium),clay,header
+ITF WOMEN - SINGLES :  W15 Amarante (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Almada (Portugal),hard,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+GIRLS - SINGLES :  French Open (France),clay,header
+ITF WOMEN - SINGLES :  W15 Sibenik 2 (Croatia),clay,header
+ITF WOMEN - SINGLES :  W25+H Calvi (France),hard,header
+ITF WOMEN - SINGLES :  W15 Le Havre (France),clay,header
+ITF WOMEN - SINGLES :  W15 Gonesse (France),clay,header
+ITF WOMEN - SINGLES :  W15+H Amiens (France),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm El Sheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Cairo 4 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W15 Cairo 3 (Egypt),clay,header
+GIRLS - SINGLES :  French Open (France),clay,header
+ITF WOMEN - SINGLES :  W15 Saint Palais sur Mer (France),clay,header
+ITF WOMEN - SINGLES :  W15 Amiens (France),clay,header
+GIRLS - SINGLES :  French Open (France),clay,header
 ITF WOMEN - SINGLES :  W35 Joue-les-Tours (France),hard,header
 ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
 ITF WOMEN - SINGLES :  W50 Saint Palais sur Mer (France),clay,header

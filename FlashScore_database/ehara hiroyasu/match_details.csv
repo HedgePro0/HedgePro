@@ -1,5 +1,187 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Cancun 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Gwangju (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Jinan (China),hard,header
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+CHALLENGER MEN - SINGLES :  Yokohama (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Canberra (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Ho Chi Minh City (Vietnam),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Granby (Canada),hard,header
+CHALLENGER MEN - SINGLES :  Gimcheon (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Trier (Germany),clay,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ATP - SINGLES :  Hertogenbosch (Netherlands) - Qualification,grass,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Stuttgart-Stammheim (Germany),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
+ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
+ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
+ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
+ITF MEN - SINGLES :  Kofu (Japan),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti 2 (Turkey),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Oarai (Japan),hard,header
+ITF MEN - SINGLES :  Kashiwa (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+ITF MEN - SINGLES :  Binh Duong 2 (Vietnam),hard,header
+ITF MEN - SINGLES :  Binh Duong (Vietnam),hard,header
+ITF MEN - SINGLES :  Winnipeg (Canada),hard,header
+ITF MEN - SINGLES :  Mississauga (Canada),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),grass,header
+ITF MEN - SINGLES :  Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  Daegu (South Korea),hard,header
+ITF MEN - SINGLES :  Ho Chi Minh City 3 (Vietnam),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Singapore (Singapore),hard,header
+ITF MEN - SINGLES :  Palm Coast (USA),clay,header
+ITF MEN - SINGLES :  Weston (USA),clay,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Cancun 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Gwangju (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Jinan (China),hard,header
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+CHALLENGER MEN - SINGLES :  Yokohama (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Canberra (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Ho Chi Minh City (Vietnam),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Granby (Canada),hard,header
+CHALLENGER MEN - SINGLES :  Gimcheon (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Trier (Germany),clay,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ATP - SINGLES :  Hertogenbosch (Netherlands) - Qualification,grass,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Stuttgart-Stammheim (Germany),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
+ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
+ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
+ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
+ITF MEN - SINGLES :  Kofu (Japan),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti 2 (Turkey),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Oarai (Japan),hard,header
+ITF MEN - SINGLES :  Kashiwa (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+ITF MEN - SINGLES :  Binh Duong 2 (Vietnam),hard,header
+ITF MEN - SINGLES :  Binh Duong (Vietnam),hard,header
+ITF MEN - SINGLES :  Winnipeg (Canada),hard,header
+ITF MEN - SINGLES :  Mississauga (Canada),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),grass,header
+ITF MEN - SINGLES :  Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  Daegu (South Korea),hard,header
+ITF MEN - SINGLES :  Ho Chi Minh City 3 (Vietnam),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Singapore (Singapore),hard,header
+ITF MEN - SINGLES :  Palm Coast (USA),clay,header
+ITF MEN - SINGLES :  Weston (USA),clay,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
+ITF MEN - SINGLES :  M15 Cancun 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Hong Kong (Hong Kong),hard,header
+CHALLENGER MEN - SINGLES :  Kobe (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Gwangju (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Jinan (China),hard,header
+CHALLENGER MEN - SINGLES :  Astana (Kazakhstan),hard,header
+CHALLENGER MEN - SINGLES :  Yokohama (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+ITF MEN - SINGLES :  Kaarst (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Canberra (Australia),hard,header
+CHALLENGER MEN - SINGLES :  Ho Chi Minh City (Vietnam),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Istanbul (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Granby (Canada),hard,header
+CHALLENGER MEN - SINGLES :  Gimcheon (South Korea),hard,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Nussloch (Germany),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Trier (Germany),clay,header
+ITF MEN - SINGLES :  Saarlouis (Germany),clay,header
+ATP - SINGLES :  Hertogenbosch (Netherlands) - Qualification,grass,header
+CHALLENGER MEN - SINGLES :  Kyoto (Japan),hard,header
+ITF MEN - SINGLES :  Stuttgart-Stammheim (Germany),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),hard,header
+ITF MEN - SINGLES :  Karuizawa (Japan),clay,header
+ITF MEN - SINGLES :  Bangkok 3 (Thailand),hard,header
+ITF MEN - SINGLES :  Bangkok 2 (Thailand),hard,header
+ITF MEN - SINGLES :  Kofu (Japan),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+ITF MEN - SINGLES :  Nishi-Tama (Japan),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti 2 (Turkey),hard,header
+ITF MEN - SINGLES :  Antalya-Belconti (Turkey),hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ITF MEN - SINGLES :  Oarai (Japan),hard,header
+ITF MEN - SINGLES :  Kashiwa (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+ITF MEN - SINGLES :  Binh Duong 2 (Vietnam),hard,header
+ITF MEN - SINGLES :  Binh Duong (Vietnam),hard,header
+ITF MEN - SINGLES :  Winnipeg (Canada),hard,header
+ITF MEN - SINGLES :  Mississauga (Canada),hard,header
+ITF MEN - SINGLES :  Sapporo (Japan),clay,header
+ITF MEN - SINGLES :  Tokyo-Akishima (Japan),grass,header
+ITF MEN - SINGLES :  Changwon (South Korea),hard,header
+ITF MEN - SINGLES :  Daegu (South Korea),hard,header
+ITF MEN - SINGLES :  Ho Chi Minh City 3 (Vietnam),hard,header
+ITF MEN - SINGLES :  Nishi Tokyo (Japan),hard,header
+CHALLENGER MEN - SINGLES :  Singapore (Singapore),hard,header
+ITF MEN - SINGLES :  Palm Coast (USA),clay,header
+ITF MEN - SINGLES :  Weston (USA),clay,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
+ATP - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+CHALLENGER MEN - SINGLES :  Toyota (Japan),hard,header
 ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header
 ITF MEN - SINGLES :  M15 Antalya 5 (Turkey),clay,header
 ITF MEN - SINGLES :  M25 Kashiwa (Japan),hard,header

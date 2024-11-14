@@ -1,5 +1,108 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ATP - SINGLES :  Finals - Turin (World),hard,header
+13.11. 01:15,Sinner J.,2,6,6,,,,6,0,59%,77% (30/39),59% (16/27),100% (1/1),21% (8/38),62% (16/26),33% (2/6),21,22,90% (9/10),70% (46/66),38% (24/64),54% (70/130),8,0,100% (10/10),20% (2/10),60% (12/20),"['6', '4']","['6', '4']",[],[],[],1.17
+13.11. 01:15,Fritz T.,0,4,4,,,,7,0,59%,79% (30/38),38% (10/26),67% (4/6),23% (9/39),41% (11/27),0% (0/1),20,31,79% (11/14),63% (40/64),30% (20/66),46% (60/130),2,0,80% (8/10),0% (0/10),40% (8/20),[],[],[],[],[],5.24
+ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Slovenj Gradec (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Opatija (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Rovinj (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ATP - SINGLES :  Finals - Turin (World),hard,header
+ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Slovenj Gradec (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Opatija (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Rovinj (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Prostejov (Czech Republic),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
+ATP - SINGLES :  Finals - Turin (World),hard,header
+11.11. 01:10,Sinner J.,2,6,6,,,,8,1,65%,81% (26/32),76% (13/17),0% (0/1),33% (12/36),63% (12/19),43% (3/7),18,24,86% (12/14),80% (39/49),44% (24/55),61% (63/104),6,0,90% (9/10),33% (3/9),63% (12/19),"['2', '2', '4', '2']","['3', '2']",[],[],[],1.12
+11.11. 01:10,De Minaur A.,0,3,4,,,,3,2,65%,67% (24/36),37% (7/19),57% (4/7),19% (6/32),24% (4/17),100% (1/1),7,28,78% (7/9),56% (31/55),20% (10/49),39% (41/104),4,0,67% (6/9),10% (1/10),37% (7/19),"['2', '1']",[],[],[],[],6.54
 EXHIBITION - MEN :  Six Kings Slam (Saudi Arabia),hard,header
+20.10. 00:25,Sinner J.,2,6^5,6,6,,,5,0,87%,71% (52/73),64% (7/11),0% (0/2),0 km/h,0 km/h,36% (31/85),67% (14/21),38% (5/13),23,14,70% (59/84),42% (45/106),55% (104/190),9,0,87% (13/15),33% (5/15),60% (18/30),"['3', '1']","['2', '1', '4', '3', '6', '3']","['5', '3']",[],[],1.86
+20.10. 00:25,Alcaraz C.,1,7^7,3,3,,,2,2,80%,64% (54/85),33% (7/21),62% (8/13),0 km/h,0 km/h,29% (21/73),36% (4/11),100% (2/2),20,16,58% (61/106),30% (25/84),45% (86/190),1,0,67% (10/15),13% (2/15),40% (12/30),"['3', '4']","['3', '3']",[],[],[],1.97
+ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Trnava 2 (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Pardubice (Czech Republic),clay,header
+ITF MEN - SINGLES :  M15 Slovenj Gradec (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Slovenska Bistrica (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Litija (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Hrastnik (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Vrhnika (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Doboj (Bosnia and Herzegovina),clay,header
+ITF MEN - SINGLES :  M15 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Opatija (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Rovinj (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 44 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Bad Waltersdorf (Austria),clay,header
+ITF MEN - SINGLES :  M15 Arad (Romania),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Osijek (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M25 Trnava (Slovakia),hard,header
+ITF MEN - SINGLES :  M15 Prostejov (Czech Republic),clay,header
+ITF MEN - SINGLES :  M25 Maribor 2 (Slovenia),clay,header
+ITF MEN - SINGLES :  M25 Maribor (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Celje (Slovenia),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 2 (Egypt),hard,header
 17.10. 22:15,Sinner J.,2,6,6^0,6,,,9,7,61%,70% (39/56),50% (18/36),50% (3/6),0 km/h,0 km/h,33% (19/58),59% (22/37),43% (6/14),24,16,62% (57/92),43% (41/95),52% (98/187),7,0,80% (12/15),40% (6/15),60% (18/30),"['2', '0', '6', '2']","['2', '2']","['1', '0', '4', '3', '5', '4']",[],[],1.43
 17.10. 22:15,Djokovic N.,1,2,7^7,4,,,9,2,61%,67% (39/58),41% (15/37),57% (8/14),0 km/h,0 km/h,30% (17/56),50% (18/36),50% (3/6),21,13,57% (54/95),38% (35/92),48% (89/187),3,0,60% (9/15),20% (3/15),40% (12/30),[],"['1', '0']","['1', '1', '4', '4']",[],[],2.88
 16.10. 22:10,Sinner J.,2,6,6,,,,3,0,61%,78% (21/27),65% (11/17),100% (5/5),0 km/h,0 km/h,47% (21/45),70% (14/20),28% (5/18),10,4,73% (32/44),54% (35/65),61% (67/109),6,0,100% (7/7),63% (5/8),80% (12/15),"['1', '0', '3', '0', '5', '0']","['3', '2', '6', '3']",[],[],[],1.34

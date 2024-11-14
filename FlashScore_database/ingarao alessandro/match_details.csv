@@ -1,5 +1,109 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 3 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Benicarlo (Spain),clay,header
+ITF MEN - SINGLES :  M15 Torello (Spain),hard,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 3 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 3 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Benicarlo (Spain),clay,header
+ITF MEN - SINGLES :  M15 Torello (Spain),hard,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 3 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M25 Split (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 3 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 2 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Benicarlo (Spain),clay,header
+ITF MEN - SINGLES :  M15 Torello (Spain),hard,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 3 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Huy (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M25 Telavi (Georgia),clay,header
+ITF MEN - SINGLES :  M15 Cairo 8 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 7 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Shymkent 2 (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Shymkent (Kazakhstan),clay,header
+ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 7 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 6 (Turkey),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Reggio Emilia (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
 ITF MEN - SINGLES :  M25 Hammamet 3 (Tunisia),clay,header
 ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
 ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header

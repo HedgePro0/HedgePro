@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
 ITF MEN - SINGLES :  M15 Pontevedra (Spain),hard,header
 CHALLENGER MEN - SINGLES :  Alicante (Spain) - Qualification,hard,header
@@ -24,3 +24,64 @@ ITF MEN - SINGLES :  M15 Torello (Spain),hard,header
 ITF MEN - SINGLES :  M15 Villena (Spain),hard,header
 ITF MEN - SINGLES :  M15 Ceuta (Spain),hard,header
 ITF MEN - SINGLES :  M15 Madrid 3 (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Maspalomas (Spain) - Qualification,clay,header
+26.11.2023,Manzanera Pertusa A.,0,4,4,,,,1,1,66%,65% (35/54),50% (14/28),80% (8/10),30% (13/44),24% (4/17),0% (0/4),60% (49/82),28% (17/61),46% (66/143),80% (8/10),0% (0/10),40% (8/20),[],[],[],[],[],1.87
+26.11.2023,Vanshelboim E.,2,6,6,,,,3,1,72%,70% (31/44),76% (13/17),100% (4/4),35% (19/54),50% (14/28),20% (2/10),72% (44/61),40% (33/82),54% (77/143),100% (10/10),20% (2/10),60% (12/20),"['3', '2']","['4', '3']",[],[],[],1.86
+ITF MEN - SINGLES :  M15 Valencia (Spain),clay,header
+ITF MEN - SINGLES :  M15 Castellon (Spain),clay,header
+ITF MEN - SINGLES :  M15 Vigo (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Alicante (Spain) - Qualification,hard,header
+01.10.2023,Manzanera Pertusa A.,1,7^7,4,4,,,13,3,58%,67% (41/61),53% (24/45),56% (5/9),21% (12/57),51% (23/45),25% (2/8),61% (65/106),34% (35/102),48% (100/208),75% (12/16),13% (2/16),44% (14/32),"['3', '4', '6', '5']",[],[],[],[],5.40
+01.10.2023,Damm M.,2,6^5,6,6,,,18,9,56%,79% (45/57),49% (22/45),75% (6/8),33% (20/61),47% (21/45),44% (4/9),66% (67/102),39% (41/106),52% (108/208),88% (14/16),25% (4/16),56% (18/32),"['3', '1', '6', '6']","['5', '4']","['5', '4']",[],[],1.13
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M15 Madrid (Spain),clay,header
+ITF MEN - SINGLES :  M15 Casablanca 2 (Morocco),clay,header
+ITF MEN - SINGLES :  M15 Casablanca (Morocco),clay,header
+ITF MEN - SINGLES :  M25 Cordoba (Spain),clay,header
+ITF MEN - SINGLES :  M25 La Nucia (Spain),clay,header
+ITF MEN - SINGLES :  M25 Gurb (Spain),clay,header
+ITF MEN - SINGLES :  M25 Valldoreix (Spain),clay,header
+ITF MEN - SINGLES :  M25 Sabadell (Spain),clay,header
+ITF MEN - SINGLES :  M15 Telde 2 (Spain),clay,header
+ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
+ITF MEN - SINGLES :  M25 Palmanova 2 (Spain),clay,header
+ITF MEN - SINGLES :  M25 Palmanova (Spain),clay,header
+ITF MEN - SINGLES :  M15 Madrid 4 (Spain),clay,header
+ITF MEN - SINGLES :  M15 Madrid 3 (Spain),hard,header
+ITF MEN - SINGLES :  M15 Madrid 2 (Spain),hard,header
+ITF MEN - SINGLES :  M15 Benicarlo (Spain),clay,header
+ITF MEN - SINGLES :  M25 Girona (Spain),clay,header
+CHALLENGER MEN - SINGLES :  Alicante (Spain) - Qualification,hard,header
+03.10.2022,Manzanera Pertusa A.,0,2,4,,,,7,0,58%,67% (20/30),32% (7/22),44% (4/9),28% (8/29),40% (8/20),40% (2/5),52% (27/52),33% (16/49),43% (43/101),44% (4/9),22% (2/9),33% (6/18),[],"['1', '5', '3', '5']",[],[],[],3.30
+03.10.2022,Molleker R.,2,6,6,,,,10,2,59%,72% (21/29),60% (12/20),60% (3/5),33% (10/30),68% (15/22),56% (5/9),67% (33/49),48% (25/52),57% (58/101),78% (7/9),56% (5/9),67% (12/18),"['3', '2', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.30
+02.10.2022,Manzanera Pertusa A.,2,2,6,6,,,9,1,59%,73% (33/45),55% (17/31),75% (6/8),34% (16/47),53% (17/32),33% (3/9),66% (50/76),42% (33/79),54% (83/155),85% (11/13),25% (3/12),56% (14/25),[],"['5', '3']","['2', '1', '4', '1']",[],[],3.34
+02.10.2022,Peliwo F.,1,6,3,2,,,2,4,59%,66% (31/47),47% (15/32),67% (6/9),27% (12/45),45% (14/31),25% (2/8),58% (46/79),34% (26/76),46% (72/155),75% (9/12),15% (2/13),44% (11/25),"['2', '1', '4', '1']",[],[],[],[],1.30
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M15 Madrid (Spain),clay,header
+ITF MEN - SINGLES :  M25 Oviedo (Spain),clay,header
+ITF MEN - SINGLES :  M25 Santander (Spain),clay,header
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+ITF MEN - SINGLES :  M25 Denia (Spain),clay,header
+ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
+ITF MEN - SINGLES :  M25 Getxo (Spain),clay,header
+ITF MEN - SINGLES :  M25 Bakio (Spain),hard,header
+ITF MEN - SINGLES :  M25 Martos (Spain),hard,header
+ITF MEN - SINGLES :  M15 Cordoba (Spain),clay,header
+ITF MEN - SINGLES :  M15 Antalya 13 (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Reus (Spain),clay,header
+ITF MEN - SINGLES :  M15 Palmanova 2 (Spain),clay,header
+ITF MEN - SINGLES :  M15 Palmanova (Spain),clay,header
+ITF MEN - SINGLES :  M15 Torello (Spain),hard,header
+ITF MEN - SINGLES :  M15 Monastir 6 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Villena (Spain),hard,header
+ITF MEN - SINGLES :  M15 Nules (Spain),clay,header
+ITF MEN - SINGLES :  M15 Benicarlo (Spain),clay,header
+ITF MEN - SINGLES :  M15 Girona (Spain),clay,header
+ITF MEN - SINGLES :  M15 Platja D'Aro 2 (Spain),clay,header
+ITF MEN - SINGLES :  M15 Platja D'Aro (Spain),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+BOYS - SINGLES :  US Open (USA),hard,header
+ITF MEN - SINGLES :  M15 Xativa (Spain),clay,header
+ITF MEN - SINGLES :  M25 Gandia (Spain),clay,header
+BOYS - SINGLES :  Wimbledon (United Kingdom),grass,header

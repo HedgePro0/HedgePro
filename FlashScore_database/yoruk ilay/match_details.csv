@@ -1,5 +1,269 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W50 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W35 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 4 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 3 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W50 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W100 Shenzhen (China),hard,header
+ITF WOMEN - SINGLES :  W40 Pazardzhik (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
+ITF WOMEN - SINGLES :  W40 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Parnu (Estonia),clay,header
+ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
+ITF WOMEN - SINGLES :  W60 Bodrum (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 24 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 22 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Cairo 3 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W100 Versmold (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Raanana (Israel),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 36 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 35 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 34 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 33 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 32 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 31 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 30 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 28 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 27 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W50 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W35 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 4 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 3 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W50 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W100 Shenzhen (China),hard,header
+ITF WOMEN - SINGLES :  W40 Pazardzhik (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
+ITF WOMEN - SINGLES :  W40 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Parnu (Estonia),clay,header
+ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
+ITF WOMEN - SINGLES :  W60 Bodrum (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 24 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 22 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Cairo 3 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W100 Versmold (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Raanana (Israel),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 36 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 35 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 34 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 33 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 32 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 31 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 30 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 28 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 27 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W50 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W15 Varna (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W35 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 4 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest 3 (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W50 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W100 Shenzhen (China),hard,header
+ITF WOMEN - SINGLES :  W40 Pazardzhik (Bulgaria),clay,header
+ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
+ITF WOMEN - SINGLES :  W40 Saint-Palais-sur-Mer (France),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Bistrita (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Parnu (Estonia),clay,header
+ITF WOMEN - SINGLES :  W25 Getxo (Spain),clay,header
+ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
+ITF WOMEN - SINGLES :  W60 Bodrum (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 8 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 6 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 24 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 23 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 22 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Loughborough 2 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Sozopol (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W25 Cairo 3 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W25 Vienna (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Agadir (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W100 Versmold (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Raanana (Israel),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Istanbul (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 7 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 36 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 35 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 34 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 33 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 32 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 31 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 30 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 28 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 27 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Kayseri (Turkey),hard,header
 ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
 ITF WOMEN - SINGLES :  W50 Kayseri (Turkey),hard,header

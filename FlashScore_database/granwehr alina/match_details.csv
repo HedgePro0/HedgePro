@@ -1,5 +1,151 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Viserba (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W35 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W75 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W75 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
+ITF WOMEN - SINGLES :  W25 Funchal (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Baza (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Prokuplje (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W60 Montreux (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Viserba (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W35 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W75 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W75 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
+ITF WOMEN - SINGLES :  W25 Funchal (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Baza (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Prokuplje (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W60 Montreux (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Viserba (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Mogyorod (Hungary),clay,header
+ITF WOMEN - SINGLES :  W35 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Madrid (Spain),clay,header
+ITF WOMEN - SINGLES :  W35 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W75 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W75 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W35 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Perigueux (France),clay,header
+ITF WOMEN - SINGLES :  W15 Bucharest (Romania),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Oberpullendorf 2 (Austria),hard,header
+ITF WOMEN - SINGLES :  W25 Funchal (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Baza (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Brasov (Romania),clay,header
+ITF WOMEN - SINGLES :  W15 Prokuplje (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W60 Chiasso (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Bellinzona (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Sozopol 2 (Bulgaria),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W60 Montreux (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Mogyorod (Hungary),clay,header
 ITF WOMEN - SINGLES :  W35 Klosters (Switzerland),clay,header
 ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header

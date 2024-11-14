@@ -1,5 +1,205 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Haren (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W35 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Montemor-o-Novo 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Yecla (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Murska Sobota (Slovenia),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W75 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W35 Le Gosier (France),hard,header
+ITF WOMEN - SINGLES :  W35 Petit-Bourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Fort-de-France (Martinique),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W40 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W80 Poitiers (France),hard,header
+ITF WOMEN - SINGLES :  W40 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W40 Wroclaw (Poland),clay,header
+ITF WOMEN - SINGLES :  W25+H Leipzig (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Troisdorf (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Osijek (Croatia),clay,header
+ITF WOMEN - SINGLES :  W15 Manacor 3 (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Selva Gardena (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Barranquilla (Colombia),hard,header
+ITF WOMEN - SINGLES :  W25 Ibague (Colombia),clay,header
+ITF WOMEN - SINGLES :  W15 Reims (France),hard,header
+ITF WOMEN - SINGLES :  W25 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W15 Vejle (Denmark),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Salinas (Ecuador),hard,header
+ITF WOMEN - SINGLES :  W25 Guayaquil (Ecuador),clay,header
+ITF WOMEN - SINGLES :  W60 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino 2 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Hamburg 2 (Germany),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Don Benito (Spain),grass,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 4 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+GIRLS - SINGLES :  French Open (France),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+GIRLS - SINGLES :  Australian Open (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Haren (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W35 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Montemor-o-Novo 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Yecla (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Murska Sobota (Slovenia),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W75 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W35 Le Gosier (France),hard,header
+ITF WOMEN - SINGLES :  W35 Petit-Bourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Fort-de-France (Martinique),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W40 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W80 Poitiers (France),hard,header
+ITF WOMEN - SINGLES :  W40 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W40 Wroclaw (Poland),clay,header
+ITF WOMEN - SINGLES :  W25+H Leipzig (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Troisdorf (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Osijek (Croatia),clay,header
+ITF WOMEN - SINGLES :  W15 Manacor 3 (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Selva Gardena (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Barranquilla (Colombia),hard,header
+ITF WOMEN - SINGLES :  W25 Ibague (Colombia),clay,header
+ITF WOMEN - SINGLES :  W15 Reims (France),hard,header
+ITF WOMEN - SINGLES :  W25 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W15 Vejle (Denmark),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Salinas (Ecuador),hard,header
+ITF WOMEN - SINGLES :  W25 Guayaquil (Ecuador),clay,header
+ITF WOMEN - SINGLES :  W60 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino 2 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Hamburg 2 (Germany),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Don Benito (Spain),grass,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 4 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+GIRLS - SINGLES :  French Open (France),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+GIRLS - SINGLES :  Australian Open (Australia),hard,header
+ITF WOMEN - SINGLES :  W15 Haren (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W35 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W35 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W50 Montemor-o-Novo 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Yecla (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Murska Sobota (Slovenia),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W75 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W35 Le Gosier (France),hard,header
+ITF WOMEN - SINGLES :  W35 Petit-Bourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Fort-de-France (Martinique),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W40 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W80 Poitiers (France),hard,header
+ITF WOMEN - SINGLES :  W40 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W40 Wroclaw (Poland),clay,header
+ITF WOMEN - SINGLES :  W25+H Leipzig (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Eindhoven (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Darmstadt (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 4 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 3 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Troisdorf (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Osijek (Croatia),clay,header
+ITF WOMEN - SINGLES :  W15 Manacor 3 (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Selva Gardena (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Petange (Luxembourg),hard,header
+ITF WOMEN - SINGLES :  W60 Barranquilla (Colombia),hard,header
+ITF WOMEN - SINGLES :  W25 Ibague (Colombia),clay,header
+ITF WOMEN - SINGLES :  W15 Reims (France),hard,header
+ITF WOMEN - SINGLES :  W25 Braunschweig (Germany),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W15 Vejle (Denmark),clay,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Salinas (Ecuador),hard,header
+ITF WOMEN - SINGLES :  W25 Guayaquil (Ecuador),clay,header
+ITF WOMEN - SINGLES :  W60 Altenkirchen (Germany),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor 2 (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Manacor (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino 2 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Solarino (Italy),hard,header
+ITF WOMEN - SINGLES :  W25 Hamburg 2 (Germany),hard,header
+ITF WOMEN - SINGLES :  W15 Dijon (France),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Don Benito (Spain),grass,header
+ITF WOMEN - SINGLES :  W15 Alkmaar (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 4 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+GIRLS - SINGLES :  French Open (France),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+EXHIBITION - WOMEN :  DTB German Pro Series (Germany),clay,header
+GIRLS - SINGLES :  Australian Open (Australia),hard,header
 ITF WOMEN - SINGLES :  W50 Oldenzaal (Netherlands),clay,header
 ITF WOMEN - SINGLES :  W35 Braunschweig (Germany),clay,header
 ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header

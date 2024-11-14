@@ -1,4 +1,4 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 CHALLENGER MEN - SINGLES :  Seoul (South Korea) - Qualification,hard,header
 CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan),hard,header
 22.10. 10:35,Leong M. W. K.,1,4,6,5,,,11,3,65%,62% (43/69),41% (15/37),63% (10/16),51% (30/59),39% (11/28),50% (6/12),55% (58/106),46% (40/87),51% (98/193),3,0,60% (9/15),43% (6/14),52% (15/29),"['3', '1', '4', '2']","['2', '0', '5', '1']","['2', '1', '4', '3']",[],[],1.78
@@ -46,58 +46,42 @@ ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
 ITF MEN - SINGLES :  M25 Anning (China),clay,header
 ITF MEN - SINGLES :  M25 Luan (China),hard,header
 ITF MEN - SINGLES :  M15 Chandigarh (India),hard,header
-CHALLENGER MEN - SINGLES :  Seoul (South Korea) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan),hard,header
-CHALLENGER MEN - SINGLES :  Seoul (South Korea) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan),hard,header
-22.10. 10:35,Leong M. W. K.,1,4,6,5,,,11,3,65%,62% (43/69),41% (15/37),63% (10/16),51% (30/59),39% (11/28),50% (6/12),55% (58/106),46% (40/87),51% (98/193),3,0,60% (9/15),43% (6/14),52% (15/29),"['3', '1', '4', '2']","['2', '0', '5', '1']","['2', '1', '4', '3']",[],[],1.78
-22.10. 10:35,Lee K.,2,6,1,7,,,1,4,68%,51% (30/59),61% (17/28),50% (6/12),38% (26/69),59% (22/37),38% (6/16),54% (47/87),45% (48/106),49% (95/193),7,0,57% (8/14),40% (6/15),48% (14/29),"['2', '3', '3', '4', '5', '4']",[],"['2', '2', '5', '5', '7', '5']",[],[],1.95
-CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan),hard,header
-CHALLENGER MEN - SINGLES :  Taipei 2 (Taiwan) - Qualification,hard,header
-21.10. 08:40,Leong M. W. K.,2,4,6,6,,,[],"['2', '0', '4', '0', '5', '3']","['1', '0', '4', '1']",[],[],1.32
-21.10. 08:40,King E.,1,6,3,4,,,"['4', '3']","['1', '4', '3', '4']","['3', '5']",[],[],3.20
-20.10. 08:40,Leong M. W. K.,2,6,6,,,,"['2', '0', '4', '0']","['1', '0', '4', '1']",[],[],[],1.06
-20.10. 08:40,Hou C.,0,1,2,,,,[],[],[],[],[],8.00
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China),hard,header
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-CHALLENGER MEN - SINGLES :  Shenzhen 2 (China) - Qualification,hard,header
-14.10. 10:20,Leong M. W. K.,2,6,6,,,,4,2,72%,76% (32/42),44% (7/16),75% (3/4),47% (14/30),52% (12/23),44% (4/9),10,67% (39/58),49% (26/53),59% (65/111),7,89% (8/9),50% (4/8),71% (12/17),"['5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.61
-14.10. 10:20,Masabayashi T.,0,3,2,,,,0,1,57%,53% (16/30),48% (11/23),56% (5/9),24% (10/42),56% (9/16),25% (1/4),5,51% (27/53),33% (19/58),41% (46/111),2,50% (4/8),11% (1/9),29% (5/17),[],"['2', '4']",[],[],[],2.23
-13.10. 13:10,Leong M. W. K.,2,6,6,,,,1,4,66%,79% (26/33),41% (7/17),80% (4/5),48% (15/31),60% (12/20),83% (5/6),5,66% (33/50),53% (27/51),59% (60/101),8,88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['1', '0', '6', '3']",[],[],[],1.08
-13.10. 13:10,Wang Q.,0,1,3,,,,3,4,61%,52% (16/31),40% (8/20),17% (1/6),21% (7/33),59% (10/17),20% (1/5),4,47% (24/51),34% (17/50),41% (41/101),1,38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],6.94
-CHALLENGER MEN - SINGLES :  Nonthaburi 4 (Thailand),hard,header
-25.09. 10:40,Leong M. W. K.,0,1,1,,,,0,1,71%,24% (6/25),10% (1/10),22% (2/9),38% (11/29),57% (8/14),100% (2/2),4,20% (7/35),44% (19/43),33% (26/78),1,0% (0/7),29% (2/7),14% (2/14),"['1', '3']","['1', '2']",[],[],[],6.56
-25.09. 10:40,Svrcina D.,2,6,6,,,,0,3,67%,62% (18/29),43% (6/14),0% (0/2),76% (19/25),90% (9/10),78% (7/9),6,56% (24/43),80% (28/35),67% (52/78),5,71% (5/7),100% (7/7),86% (12/14),"['1', '0', '3', '0', '4', '1', '6', '1']","['2', '0', '3', '1', '5', '1']",[],[],[],1.09
-CHALLENGER MEN - SINGLES :  Nonthaburi 4 (Thailand) - Qualification,hard,header
-24.09. 11:45,Leong M. W. K.,2,6,6,,,,2,5,64%,64% (36/56),45% (14/31),71% (5/7),34% (12/35),65% (13/20),67% (4/6),5,57% (50/87),44% (24/55),52% (74/142),5,80% (8/10),40% (4/10),60% (12/20),"['2', '1', '5', '4']","['2', '1', '4', '1']",[],[],[],2.61
-24.09. 11:45,Ellis B.,0,4,4,,,,7,4,64%,69% (24/35),35% (7/20),33% (2/6),36% (20/56),55% (17/31),29% (2/7),4,56% (31/55),43% (37/87),48% (68/142),3,60% (6/10),20% (2/10),40% (8/20),"['4', '4']","['3', '5']",[],[],[],1.45
-23.09. 11:15,Leong M. W. K.,1,6,,,,,1,0,57%,86% (18/21),13% (2/16),75% (6/8),48% (13/27),88% (7/8),43% (3/7),10,54% (20/37),57% (20/35),56% (40/72),3,60% (3/5),60% (3/5),60% (6/10),"['3', '3', '4', '4', '6', '4']",[],[],[],[],2.38
-23.09. 11:15,Shin S.,0,4,,,,,1,0,77%,52% (14/27),13% (1/8),57% (4/7),14% (3/21),88% (14/16),25% (2/8),6,43% (15/35),46% (17/37),44% (32/72),2,40% (2/5),40% (2/5),40% (4/10),"['1', '0', '4', '3']",[],[],[],[],1.54
-ITF MEN - SINGLES :  M25 Guiyang (China),hard,header
-CHALLENGER MEN - SINGLES :  Guangzhou 2 (China),hard,header
-11.09. 10:10,Leong M. W. K.,1,1,7,3,,,10,4,65%,68% (42/62),39% (13/33),50% (5/10),20% (10/49),49% (19/39),29% (2/7),13,58% (55/95),33% (29/88),46% (84/183),5,64% (9/14),14% (2/14),39% (11/28),[],"['6', '5']","['1', '0']",[],[],7.95
-11.09. 10:10,Atmane T.,2,6,5,6,,,13,10,56%,80% (39/49),51% (20/39),71% (5/7),32% (20/62),61% (20/33),50% (5/10),10,67% (59/88),42% (40/95),54% (99/183),5,86% (12/14),36% (5/14),61% (17/28),"['1', '0', '3', '0', '6', '1']",[],"['3', '3', '5', '3']",[],[],1.06
-10.09. 07:40,Leong M. W. K.,2,4,6,6,,,13,8,64%,84% (43/51),38% (11/29),75% (3/4),28% (15/54),69% (24/35),67% (4/6),6,68% (54/80),44% (39/89),55% (93/169),7,92% (12/13),31% (4/13),62% (16/26),[],"['4', '2', '6', '2']","['2', '0', '6', '2']",[],[],3.24
-10.09. 07:40,Uchida K.,1,6,2,2,,,3,1,61%,72% (39/54),31% (11/35),33% (2/6),16% (8/51),62% (18/29),25% (1/4),7,56% (50/89),33% (26/80),45% (76/169),3,69% (9/13),8% (1/13),38% (10/26),"['3', '2']",[],[],[],[],1.32
-CHALLENGER MEN - SINGLES :  Guangzhou 2 (China) - Qualification,hard,header
-09.09. 09:10,Leong M. W. K.,2,4,6,7,,,6,5,62%,73% (45/62),50% (19/38),82% (9/11),31% (17/54),50% (21/42),44% (4/9),5,64% (64/100),40% (38/96),52% (102/196),4,87% (13/15),27% (4/15),57% (17/30),[],"['2', '0', '6', '2']","['5', '5', '7', '5']",[],[],1.38
-09.09. 09:10,Dong Z.,1,6,2,5,,,5,5,56%,69% (37/54),50% (21/42),56% (5/9),27% (17/62),50% (19/38),18% (2/11),5,60% (58/96),36% (36/100),48% (94/196),3,73% (11/15),13% (2/15),43% (13/30),"['2', '1']",[],"['2', '1']",[],[],2.93
-08.09. 11:40,Leong M. W. K.,2,6,6,,,,2,2,68%,81% (26/32),47% (7/15),50% (1/2),41% (12/29),57% (13/23),50% (4/8),10,70% (33/47),48% (25/52),59% (58/99),5,89% (8/9),50% (4/8),71% (12/17),"['4', '2', '6', '4']","['3', '1', '5', '1']",[],[],[],1.15
-08.09. 11:40,Zheng Z.,0,4,1,,,,0,2,56%,59% (17/29),43% (10/23),50% (4/8),19% (6/32),53% (8/15),50% (1/2),7,52% (27/52),30% (14/47),41% (41/99),2,50% (4/8),11% (1/9),29% (5/17),"['3', '4']",[],[],[],[],5.16
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat 2 (Thailand),hard,header
-ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
-ITF MEN - SINGLES :  M25 Taipei 2 (Taiwan),hard,header
-ITF MEN - SINGLES :  M25 Taipei (Taiwan),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-ITF MEN - SINGLES :  M25 Luzhou (China),hard,header
-ITF MEN - SINGLES :  M15 Anseong (South Korea),clay,header
-ITF MEN - SINGLES :  M15 Daegu (South Korea),hard,header
-ITF MEN - SINGLES :  M15 Karuizawa (Japan),clay,header
-ITF MEN - SINGLES :  M25 Anning (China),clay,header
-ITF MEN - SINGLES :  M25 Luan (China),hard,header
-ITF MEN - SINGLES :  M15 Chandigarh (India),hard,header
 ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
 ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Chennai (India),hard,header
+ITF MEN - SINGLES :  M25 Bhopal (India),hard,header
+ITF MEN - SINGLES :  M25 Mandya (India),hard,header
+ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Ipoh Perak (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Kuching (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Davangere (India),hard,header
+ITF MEN - SINGLES :  M25 Dharwad (India),hard,header
+ITF MEN - SINGLES :  M15 Ahmedabad (India),hard,header
+ITF MEN - SINGLES :  M25 Takasaki (Japan),hard,header
+ITF MEN - SINGLES :  M25 Sapporo 2 (Japan),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 8 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 7 (Thailand),hard,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 6 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 7 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 6 (Indonesia),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World) - Relegation,-,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M15 Nakhon Si Thammarat 5 (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Nakhon Si Thammarat (Thailand),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 5 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 4 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 3 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Mysuru (India),hard,header
+ITF MEN - SINGLES :  M25 New Delhi (India),hard,header
+ITF MEN - SINGLES :  M15 Jakarta 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Jakarta (Indonesia),hard,header
+ITF MEN - SINGLES :  M25 Tay Ninh 2 (Vietnam),hard,header
+ITF MEN - SINGLES :  M25 Tay Ninh (Vietnam),hard,header
+ITF MEN - SINGLES :  M15 Jakarta 2 (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Jakarta (Indonesia),hard,header
+ITF MEN - SINGLES :  M15 Kuala Lumpur (Malaysia),hard,header
+ITF MEN - SINGLES :  M15 Seremban (Malaysia),hard,header

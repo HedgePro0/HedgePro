@@ -1,5 +1,211 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W35 Vigo (Spain),hard,header
+ITF WOMEN - SINGLES :  W50 Ourense (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Tianjin (China),hard,header
+ITF WOMEN - SINGLES :  W35 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W35 Taipei (Taiwan),hard,header
+ITF WOMEN - SINGLES :  W35 Daegu (South Korea),hard,header
+ITF WOMEN - SINGLES :  W35 Changwon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W50 Goyang (South Korea),hard,header
+ITF WOMEN - SINGLES :  W75 Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Shenzhen 2 (China),hard,header
+ITF WOMEN - SINGLES :  W35 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W35 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W50 Nonthaburi 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Hong Kong 2 (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W25 Incheon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Bengaluru (India),hard,header
+ITF WOMEN - SINGLES :  W25 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W60 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Kiryat Motzkin (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Jerusalem (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Gurugram 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Gurugram (India),hard,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Varberg (Sweden),clay,header
+ITF WOMEN - SINGLES :  W25 Bastad (Sweden),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Pune 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Milovice (Czech Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W35 Vigo (Spain),hard,header
+ITF WOMEN - SINGLES :  W50 Ourense (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Tianjin (China),hard,header
+ITF WOMEN - SINGLES :  W35 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W35 Taipei (Taiwan),hard,header
+ITF WOMEN - SINGLES :  W35 Daegu (South Korea),hard,header
+ITF WOMEN - SINGLES :  W35 Changwon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W50 Goyang (South Korea),hard,header
+ITF WOMEN - SINGLES :  W75 Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Shenzhen 2 (China),hard,header
+ITF WOMEN - SINGLES :  W35 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W35 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W50 Nonthaburi 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Hong Kong 2 (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W25 Incheon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Bengaluru (India),hard,header
+ITF WOMEN - SINGLES :  W25 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W60 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Kiryat Motzkin (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Jerusalem (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Gurugram 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Gurugram (India),hard,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Varberg (Sweden),clay,header
+ITF WOMEN - SINGLES :  W25 Bastad (Sweden),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Pune 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Milovice (Czech Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W35 Vigo (Spain),hard,header
+ITF WOMEN - SINGLES :  W50 Ourense (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Tianjin (China),hard,header
+ITF WOMEN - SINGLES :  W35 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W35 Taipei (Taiwan),hard,header
+ITF WOMEN - SINGLES :  W35 Daegu (South Korea),hard,header
+ITF WOMEN - SINGLES :  W35 Changwon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W50 Goyang (South Korea),hard,header
+ITF WOMEN - SINGLES :  W75 Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Shenzhen 2 (China),hard,header
+ITF WOMEN - SINGLES :  W35 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W35 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W50 Nonthaburi 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Solapur (India),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol 2 (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Limassol (Cyprus),hard,header
+ITF WOMEN - SINGLES :  W25 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Nakhon Si Thammarat 3 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W40 Hong Kong 2 (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W25 Incheon (South Korea),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Bengaluru (India),hard,header
+ITF WOMEN - SINGLES :  W25 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W60 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Kiryat Motzkin (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Jerusalem (Israel),hard,header
+ITF WOMEN - SINGLES :  W25 Istanbul (Turkey),hard,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Vrnjacka Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W25 Koksijde (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Eupen (Belgium),clay,header
+ITF WOMEN - SINGLES :  W25 Gurugram 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Gurugram (India),hard,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai 4 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Varberg (Sweden),clay,header
+ITF WOMEN - SINGLES :  W25 Bastad (Sweden),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Navi Mumbai (India),hard,header
+ITF WOMEN - SINGLES :  W25 Pune 2 (India),hard,header
+ITF WOMEN - SINGLES :  W25 Milovice (Czech Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Jablonec nad Nisou (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 16 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 15 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 14 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Perth (Australia),hard,header
+ITF WOMEN - SINGLES :  Kurume (Japan),hard,header
 ITF WOMEN - SINGLES :  W75 Perth (Australia),hard,header
 ITF WOMEN - SINGLES :  W35 Vigo (Spain),hard,header
 ITF WOMEN - SINGLES :  W50 Ourense (Spain),hard,header

@@ -1,5 +1,100 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M15 Duffel (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Caslano (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn 2 (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bern (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 17 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 32 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 27 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M15 Duffel (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Caslano (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn 2 (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bern (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 17 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 32 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 27 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Nyiregyhaza 2 (Hungary),clay,header
+ITF MEN - SINGLES :  M15 East Lansing,hard,header
+ITF MEN - SINGLES :  M15 Champaign,hard,header
+ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header
+ITF MEN - SINGLES :  M25 Wetzlar (Germany),clay,header
+ITF MEN - SINGLES :  M15 Uslar (Germany),clay,header
+ITF MEN - SINGLES :  M25+H Kassel (Germany),clay,header
+ITF MEN - SINGLES :  M15 Duffel (Belgium),clay,header
+ITF MEN - SINGLES :  M15 Monastir 22 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 47 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Al Zahra 2 (Kuwait),hard,header
+ITF MEN - SINGLES :  M15 Monastir 40 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 39 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 38 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Caslano (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Ueberlingen (Germany),clay,header
+ITF MEN - SINGLES :  M15 Kottingbrunn 2 (Austria),clay,header
+ITF MEN - SINGLES :  M15 Bern (Switzerland),clay,header
+ITF MEN - SINGLES :  M25 Klosters (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Bytom (Poland),clay,header
+ITF MEN - SINGLES :  M15 Antalya 10 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 7 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Cairo 19 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Cairo 17 (Egypt),clay,header
+ITF MEN - SINGLES :  M15 Antalya 32 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 27 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Melilla (Spain),clay,header
+ITF MEN - SINGLES :  M25 Sierre (Switzerland),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir (Tunisia),hard,header
 ITF MEN - SINGLES :  M15 East Lansing,hard,header
 ITF MEN - SINGLES :  M15 Champaign,hard,header
 ITF MEN - SINGLES :  M15 Frankfurt am Main (Germany),clay,header

@@ -1,5 +1,205 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W35 Solarino 3 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W75 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Santarem (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Leiria (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Krakow (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Grodzisk Mazowiecki (Poland),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W50 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 17 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 21 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Banja Luka (Bosnia and Herzegovina),clay,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Prague (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 7 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn 2 (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+ITF WOMEN - SINGLES :  W35 Solarino 3 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W75 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Santarem (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Leiria (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Krakow (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Grodzisk Mazowiecki (Poland),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W50 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 17 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 21 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Banja Luka (Bosnia and Herzegovina),clay,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Prague (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 7 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn 2 (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
+ITF WOMEN - SINGLES :  W35 Solarino 3 (Italy),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 16 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
+ITF WOMEN - SINGLES :  W75 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Ceuta (Spain),hard,header
+ITF WOMEN - SINGLES :  W35 Santarem (Portugal),hard,header
+ITF WOMEN - SINGLES :  W35 Leiria (Portugal),hard,header
+ITF WOMEN - SINGLES :  W15 Krakow (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W35 Segovia (Spain),hard,header
+ITF WOMEN - SINGLES :  W15 Grodzisk Mazowiecki (Poland),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W50 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 17 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W35 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 5 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W50 Trnava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 21 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 17 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 13 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 12 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 11 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 23 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 22 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Ricany (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Banja Luka (Bosnia and Herzegovina),clay,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Prague (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 8 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 7 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 6 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 2 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 18 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W60 Bratislava (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W25 Trnava 2 (Slovakia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 10 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 9 (Egypt),hard,header
+ITF WOMEN - SINGLES :  W15 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn 2 (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Kottingbrunn (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Casablanca 2 (Morocco),clay,header
 ITF WOMEN - SINGLES :  W15 Sharm ElSheikh 16 (Egypt),hard,header
 ITF WOMEN - SINGLES :  W35 Kayseri (Turkey),hard,header
 ITF WOMEN - SINGLES :  W75 Bratislava (Slovakia),hard,header

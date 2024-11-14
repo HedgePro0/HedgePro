@@ -1,5 +1,319 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Budapest (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
+ITF MEN - SINGLES :  M25+H Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Cristina val Gardena (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 12 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+ITF MEN - SINGLES :  Gaeta (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Frascati (Italy),clay,header
+ITF MEN - SINGLES :  Vigevano (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Sondrio (Italy),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+ITF MEN - SINGLES :  Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  Padova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Sassuolo (Italy),clay,header
+ITF MEN - SINGLES :  Basilicanova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 17 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Costa Mesa (USA),hard,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+CHALLENGER MEN - SINGLES :  Todi (Italy),clay,header
+ITF MEN - SINGLES :  Parma (Italy),clay,header
+ITF MEN - SINGLES :  Palermo 2 (Italy),clay,header
+ITF MEN - SINGLES :  Palermo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Mantova (Italy),clay,header
+ITF MEN - SINGLES :  Busto Arsizio (Italy),clay,header
+ITF MEN - SINGLES :  Umag (Croatia),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Budapest (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
+ITF MEN - SINGLES :  M25+H Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Cristina val Gardena (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 12 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+ITF MEN - SINGLES :  Gaeta (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Frascati (Italy),clay,header
+ITF MEN - SINGLES :  Vigevano (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Sondrio (Italy),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+ITF MEN - SINGLES :  Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  Padova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Sassuolo (Italy),clay,header
+ITF MEN - SINGLES :  Basilicanova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 17 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Costa Mesa (USA),hard,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+CHALLENGER MEN - SINGLES :  Todi (Italy),clay,header
+ITF MEN - SINGLES :  Parma (Italy),clay,header
+ITF MEN - SINGLES :  Palermo 2 (Italy),clay,header
+ITF MEN - SINGLES :  Palermo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Mantova (Italy),clay,header
+ITF MEN - SINGLES :  Busto Arsizio (Italy),clay,header
+ITF MEN - SINGLES :  Umag (Croatia),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  M15 Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Sofia (Bulgaria),clay,header
+ITF MEN - SINGLES :  M15 Porec (Croatia),clay,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 2 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya (Turkey),clay,header
+ITF MEN - SINGLES :  M25 Budapest (Hungary),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 4 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj 2 (Montenegro),clay,header
+ITF MEN - SINGLES :  M15 Ulcinj (Montenegro),clay,header
+ITF MEN - SINGLES :  M25+H Lesa (Italy),clay,header
+ITF MEN - SINGLES :  M15 Pescara (Italy),clay,header
+ITF MEN - SINGLES :  M15 Monastir 29 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 28 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  M15 Antalya 19 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 15 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Antalya 14 (Turkey),clay,header
+ITF MEN - SINGLES :  M15 Monastir 5 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 4 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 12 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 3 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion 2 (Greece),hard,header
+ITF MEN - SINGLES :  M15 Heraklion (Greece),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Cristina val Gardena (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  M25 Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 12 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 9 (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+ITF MEN - SINGLES :  Gaeta (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Frascati (Italy),clay,header
+ITF MEN - SINGLES :  Vigevano (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Sondrio (Italy),hard,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 6 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+ITF MEN - SINGLES :  Casinalbo (Italy),clay,header
+ITF MEN - SINGLES :  Albinea (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Caltanissetta (Italy),clay,header
+ITF MEN - SINGLES :  Padova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 2 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 11 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  Bolzano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Sassuolo (Italy),clay,header
+ITF MEN - SINGLES :  Basilicanova (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 17 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 16 (Italy),clay,header
+ITF MEN - SINGLES :  Costa Mesa (USA),hard,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Pontedera (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Recanati (Italy),hard,header
+CHALLENGER MEN - SINGLES :  Todi (Italy),clay,header
+ITF MEN - SINGLES :  Parma (Italy),clay,header
+ITF MEN - SINGLES :  Palermo 2 (Italy),clay,header
+ITF MEN - SINGLES :  Palermo (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 5 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita Di Pula 4 (Italy),clay,header
+ITF MEN - SINGLES :  Santa Margherita di Pula 3 (Italy),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
+ITF MEN - SINGLES :  Este (Italy),clay,header
+ITF MEN - SINGLES :  Appiano (Italy),clay,header
+ITF MEN - SINGLES :  Fano (Italy),clay,header
+ITF MEN - SINGLES :  Modena (Italy),clay,header
+ITF MEN - SINGLES :  Mantova (Italy),clay,header
+ITF MEN - SINGLES :  Busto Arsizio (Italy),clay,header
+ITF MEN - SINGLES :  Umag (Croatia),clay,header
+ITF MEN - SINGLES :  Piombino (Italy),hard,header
 ITF MEN - SINGLES :  M25 Antalya 2 (Turkey),clay,header
 ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
 ITF MEN - SINGLES :  M15 Pirot (Serbia),clay,header

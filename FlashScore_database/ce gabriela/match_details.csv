@@ -1,5 +1,129 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W75 Sibenik (Croatia),clay,header
+ITF WOMEN - SINGLES :  W75 Lisbon (Portugal),clay,header
+ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 7 (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Trieste (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Verbier (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Zagreb (Croatia),clay,header
+ITF WOMEN - SINGLES :  W15 Brezice (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W35 Torino (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Tarvisio (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Kursumlijska Banja 2 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W75 Brescia (Italy),clay,header
+ITF WOMEN - SINGLES :  W75 Grado (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W15 Nova Gorica (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 6 (Italy),clay,header
+ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 5 (Italy),clay,header
+ITF WOMEN - SINGLES :  W75 Koper (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W75 Florianópolis (Brazil),clay,header
+ITF WOMEN - SINGLES :  W50 Sao Paulo (Brazil),clay,header
+ITF WOMEN - SINGLES :  W15 Campinas (Brazil),clay,header
+ITF WOMEN - SINGLES :  W35 Spring,hard,header
+ITF WOMEN - SINGLES :  W50 Mexico City (Mexico),hard,header
+ITF WOMEN - SINGLES :  W35 Buenos Aires 2 (Argentina),clay,header
+ITF WOMEN - SINGLES :  W35 Buenos Aires (Argentina),clay,header
+ITF WOMEN - SINGLES :  W60 Vacaria (Brazil),clay,header
+CHALLENGER WOMEN - SINGLES :  Montevideo (Uruguay),clay,header
+05.12.2023,Ce G.,0,5,4,,,,0,3,74%,52% (28/54),37% (7/19),57% (8/14),45% (17/38),40% (12/30),40% (4/10),48% (35/73),43% (29/68),45% (64/141),45% (5/11),36% (4/11),41% (9/22),"['2', '2', '5', '5']","['3', '3', '4', '4']",[],[],[],2.16
+05.12.2023,Vedder E.,2,7,6,,,,3,3,56%,55% (21/38),60% (18/30),60% (6/10),48% (26/54),63% (12/19),43% (6/14),57% (39/68),52% (38/73),55% (77/141),64% (7/11),55% (6/11),59% (13/22),"['1', '0', '5', '4', '6', '5']","['2', '1', '4', '3', '5', '4']",[],[],[],1.71
+CHALLENGER WOMEN - SINGLES :  Buenos Aires (Argentina),clay,header
+28.11.2023,Ce G.,1,6,0,3,,,0,6,76%,48% (30/63),25% (5/20),62% (13/21),39% (22/57),58% (15/26),56% (5/9),42% (35/83),45% (37/83),43% (72/166),33% (4/12),42% (5/12),38% (9/24),"['2', '0', '3', '1', '5', '3']",[],"['1', '0', '3', '2']",[],[],5.55
+28.11.2023,Carle M. L.,2,3,6,6,,,1,3,69%,61% (35/57),42% (11/26),44% (4/9),52% (33/63),75% (15/20),38% (8/21),55% (46/83),58% (48/83),57% (94/166),58% (7/12),67% (8/12),63% (15/24),"['1', '2', '3', '4']","['2', '0', '4', '0', '6', '0']","['1', '1', '3', '3', '5', '3']",[],[],1.15
+CHALLENGER WOMEN - SINGLES :  Florianopolis (Brazil),clay,header
+22.11.2023,Ce G.,0,1,3,,,,0,3,71%,50% (21/42),35% (6/17),55% (6/11),34% (12/35),43% (9/21),17% (1/6),46% (27/59),38% (21/56),42% (48/115),38% (3/8),13% (1/8),25% (4/16),"['1', '0']",[],[],[],[],5.45
+22.11.2023,Todoni A. A.,2,6,6,,,,0,2,63%,66% (23/35),57% (12/21),83% (5/6),50% (21/42),65% (11/17),45% (5/11),63% (35/56),54% (32/59),58% (67/115),88% (7/8),63% (5/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['3', '2', '6', '3']",[],[],[],1.15
+20.11.2023,Jones M.,1,6,6,,,,0,1,70%,62% (34/55),54% (13/24),57% (4/7),37% (16/43),86% (12/14),67% (4/6),59% (47/79),49% (28/57),55% (75/136),73% (8/11),40% (4/10),57% (12/21),"['4', '2', '5', '3']","['1', '0', '6', '5']",[],[],[],1.30
+20.11.2023,Ce G.,0,3,6,,,,0,2,75%,63% (27/43),14% (2/14),33% (2/6),38% (21/55),46% (11/24),43% (3/7),51% (29/57),41% (32/79),45% (61/136),60% (6/10),27% (3/11),43% (9/21),"['3', '4']","['3', '3', '6', '6']",[],[],[],3.55
+ITF WOMEN - SINGLES :  W25 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W40 Heraklion (Greece),clay,header
+ITF WOMEN - SINGLES :  W25 Mendoza (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Lujan (Argentina),clay,header
+ITF WOMEN - SINGLES :  W40 Skopje (North Macedonia),clay,header
+ITF WOMEN - SINGLES :  W60 Montreux (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W80 Brasilia (Brazil),hard,header
+ITF WOMEN - SINGLES :  W60 Feira de Santana (Brazil),hard,header
+ITF WOMEN - SINGLES :  W60 Rome 2 (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Klosters (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W25 Tarvisio (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Rome (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Caserta (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Grado (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Pelham,clay,header
+ITF WOMEN - SINGLES :  W60 Naples,clay,header
+ITF WOMEN - SINGLES :  W25 Boca Raton,clay,header
+WTA - SINGLES :  Charleston (USA) - Qualification,clay,header
+01.04.2023,Ce G.,0,2,1,,,,1,5,59%,38% (11/29),30% (6/20),50% (6/12),38% (14/37),55% (6/11),50% (2/4),35% (17/49),42% (20/48),38% (37/97),14% (1/7),25% (2/8),20% (3/15),"['1', '0', '2', '1']",[],[],[],[],4.67
+01.04.2023,Sebov K.,2,6,6,,,,0,1,77%,62% (23/37),45% (5/11),50% (2/4),62% (18/29),70% (14/20),50% (6/12),58% (28/48),65% (32/49),62% (60/97),75% (6/8),86% (6/7),80% (12/15),"['1', '1', '2', '2', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],[],1.20
+ITF WOMEN - SINGLES :  W25 Tucuman 2 (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Tucuman (Argentina),clay,header
+ITF WOMEN - SINGLES :  W60+H Irapuato (Mexico),hard,header
+ITF WOMEN - SINGLES :  W40 Mexico City 2 (Mexico),hard,header
+CHALLENGER WOMEN - SINGLES :  Cali (Colombia),clay,header
+30.01.2023,Ce G.,0,1,1,,,,2,1,55%,59% (16/27),27% (6/22),29% (2/7),28% (9/32),42% (5/12),0% (0/0),45% (22/49),32% (14/44),39% (36/93),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],3.46
+30.01.2023,Pigossi L.,2,6,6,,,,3,0,73%,72% (23/32),58% (7/12),0% (0/0),41% (11/27),73% (16/22),71% (5/7),68% (30/44),55% (27/49),61% (57/93),100% (7/7),71% (5/7),86% (12/14),"['1', '0', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.32
+ITF WOMEN - SINGLES :  W25 Buenos Aires 2 (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Buenos Aires (Argentina),clay,header
+ITF WOMEN - SINGLES :  W60 Rio de Janeiro (Brazil),clay,header
+CHALLENGER WOMEN - SINGLES :  Colina (Chile) - Qualification,clay,header
+06.11.2022,Ce G.,1,6^5,6,3,,,2,2,79%,65% (43/66),56% (10/18),70% (7/10),42% (31/73),46% (17/37),28% (5/18),63% (53/84),44% (48/110),52% (101/194),77% (10/13),36% (5/14),56% (15/27),"['2', '2', '5', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],2.40
+06.11.2022,Papadakis L.,2,7^7,0,6,,,1,2,66%,58% (42/73),54% (20/37),72% (13/18),35% (23/66),44% (8/18),30% (3/10),56% (62/110),37% (31/84),48% (93/194),64% (9/14),23% (3/13),44% (12/27),"['2', '1', '3', '2']",[],"['4', '2']",[],[],1.53
+ITF WOMEN - SINGLES :  W60 Barranquilla (Colombia),hard,header
+ITF WOMEN - SINGLES :  W25 Ibague (Colombia),clay,header
+ITF WOMEN - SINGLES :  W25 Tucuman 3 (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prague 2 (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Rio de Janeiro (Brazil),clay,header
+WTA - SINGLES :  Palermo (Italy) - Qualification,clay,header
+16.07.2022,Ce G.,0,3,3,,,,2,1,69%,53% (19/36),56% (9/16),38% (3/8),30% (11/37),44% (7/16),20% (2/10),54% (28/52),34% (18/53),44% (46/105),44% (4/9),22% (2/9),33% (6/18),"['2', '3']","['1', '1']",[],[],[],3.72
+16.07.2022,Chirico L.,2,6,6,,,,1,3,70%,70% (26/37),56% (9/16),80% (8/10),47% (17/36),44% (7/16),63% (5/8),66% (35/53),46% (24/52),56% (59/105),78% (7/9),56% (5/9),67% (12/18),"['2', '0', '5', '3']","['1', '0', '2', '1', '6', '3']",[],[],[],1.26
+ITF WOMEN - SINGLES :  W60+H Rome (Italy),clay,header
+ITF WOMEN - SINGLES :  W100 Versmold (Germany),clay,header
+WTA - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+21.06.2022,Ce G.,1,2,6,5,,,0,6,67%,55% (36/66),45% (15/33),60% (9/15),31% (11/35),59% (30/51),46% (6/13),27,42,68% (21/31),52% (51/99),48% (41/86),50% (92/185),54% (7/13),46% (6/13),50% (13/26),[],"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '3', '4', '4']",[],[],8.05
+21.06.2022,Jeanjean L.,2,6,0,7,,,3,8,41%,69% (24/35),41% (21/51),54% (7/13),45% (30/66),55% (18/33),40% (6/15),29,51,62% (18/29),52% (45/86),48% (48/99),50% (93/185),54% (7/13),46% (6/13),50% (13/26),"['2', '1', '5', '2']",[],"['1', '0', '3', '2', '4', '3', '6', '5']",[],[],1.09
+ITF WOMEN - SINGLES :  W60 Caserta (Italy),clay,header
+ITF WOMEN - SINGLES :  W60 Brescia (Italy),clay,header
+ITF WOMEN - SINGLES :  W100 Bonita Springs,clay,header
+ITF WOMEN - SINGLES :  W100 Charleston,clay,header
+ITF WOMEN - SINGLES :  W25 Orlando,clay,header
+ITF WOMEN - SINGLES :  W25 Anapoima (Colombia),clay,header
+ITF WOMEN - SINGLES :  W25 Salinas (Ecuador),hard,header
+ITF WOMEN - SINGLES :  W25 Guayaquil (Ecuador),clay,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Florianopolis 2 (Brazil),hard,header
+ITF WOMEN - SINGLES :  W25 Florianopolis (Brazil),hard,header
+ITF WOMEN - SINGLES :  W25 Blumenau-Gaspar (Brazil),clay,header
+ITF WOMEN - SINGLES :  W15 Curitiba (Brazil),clay,header
+ITF WOMEN - SINGLES :  W25 Rio do Sul (Brazil),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prague (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Prerov (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 San Bartolome de Tirajana 2 (Spain),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Tarvisio (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 Torino (Italy),clay,header
+ITF WOMEN - SINGLES :  W25 The Hague (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W60 Charleston,clay,header
+ITF WOMEN - SINGLES :  W25 Sumter,hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 20 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 19 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Cairo 8 (Egypt),clay,header
+ITF WOMEN - SINGLES :  W25 Oeiras (Portugal),clay,header
+ITF WOMEN - SINGLES :  W25 Cordoba (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Villa Maria (Argentina),clay,header
+ITF WOMEN - SINGLES :  W25 Buenos Aires (Argentina),clay,header
+WTA - SINGLES :  Doha (Qatar) - Qualification,hard,header
+27.02.2021,Ce G.,0,1,1,,,,0,1,70%,53% (17/32),14% (2/14),44% (4/9),18% (4/22),9% (1/11),0% (0/0),42% (19/45),15% (5/33),31% (24/78),29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],10.00
+27.02.2021,Tsurenko L.,2,6,6,,,,0,0,67%,82% (18/22),91% (10/11),0% (0/0),47% (15/32),79% (11/14),56% (5/9),85% (28/33),58% (26/45),69% (54/78),100% (7/7),71% (5/7),86% (12/14),"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.06
+ITF WOMEN - SINGLES :  W25 Potchefstroom 2 (South Africa),hard,header
+ITF WOMEN - SINGLES :  W25 Potchefstroom 2 (South Africa),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W75 Lisbon (Portugal),clay,header
 ITF WOMEN - SINGLES :  W35 Santa Margherita di Pula 7 (Italy),clay,header
 ITF WOMEN - SINGLES :  W35 Trieste (Italy),clay,header

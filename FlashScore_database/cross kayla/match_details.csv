@@ -1,5 +1,175 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF WOMEN - SINGLES :  W50 Austin,hard,header
 ITF WOMEN - SINGLES :  W35 Miami,hard,header
+ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Redding,hard,header
+ITF WOMEN - SINGLES :  W35 Berkeley,hard,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W100 Landisville,hard,header
+ITF WOMEN - SINGLES :  W75 Lexington,hard,header
+ITF WOMEN - SINGLES :  W50 Dallas,hard,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Wichita,hard,header
+ITF WOMEN - SINGLES :  W35 Bethany Beach,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W50 Mexico City (Mexico),hard,header
+ITF WOMEN - SINGLES :  W50 Morelia (Mexico),hard,header
+ITF WOMEN - SINGLES :  W35 Wesley Chapel,clay,header
+ITF WOMEN - SINGLES :  W35 Naples,clay,header
+ITF WOMEN - SINGLES :  W25 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Lousada (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Redding,hard,header
+ITF WOMEN - SINGLES :  W100 Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W40 Otocec 2 (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Feld am See (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Charlottesville,clay,header
+ITF WOMEN - SINGLES :  W25 Zephyrhills,clay,header
+ITF WOMEN - SINGLES :  W25 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W25 Jackson,clay,header
+ITF WOMEN - SINGLES :  W25 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W60 Rome,hard,header
+ITF WOMEN - SINGLES :  W25 Orlando,hard,header
+ITF WOMEN - SINGLES :  W60 Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+GIRLS - SINGLES :  US Open (USA),hard,header
+WTA - SINGLES :  Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Miami,hard,header
+ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Redding,hard,header
+ITF WOMEN - SINGLES :  W35 Berkeley,hard,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W100 Landisville,hard,header
+ITF WOMEN - SINGLES :  W75 Lexington,hard,header
+ITF WOMEN - SINGLES :  W50 Dallas,hard,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Wichita,hard,header
+ITF WOMEN - SINGLES :  W35 Bethany Beach,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W50 Mexico City (Mexico),hard,header
+ITF WOMEN - SINGLES :  W50 Morelia (Mexico),hard,header
+ITF WOMEN - SINGLES :  W35 Wesley Chapel,clay,header
+ITF WOMEN - SINGLES :  W35 Naples,clay,header
+ITF WOMEN - SINGLES :  W25 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Lousada (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Redding,hard,header
+ITF WOMEN - SINGLES :  W100 Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W40 Otocec 2 (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Feld am See (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Charlottesville,clay,header
+ITF WOMEN - SINGLES :  W25 Zephyrhills,clay,header
+ITF WOMEN - SINGLES :  W25 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W25 Jackson,clay,header
+ITF WOMEN - SINGLES :  W25 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W60 Rome,hard,header
+ITF WOMEN - SINGLES :  W25 Orlando,hard,header
+ITF WOMEN - SINGLES :  W60 Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+GIRLS - SINGLES :  US Open (USA),hard,header
+WTA - SINGLES :  Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Miami,hard,header
+ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W75+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Redding,hard,header
+ITF WOMEN - SINGLES :  W35 Berkeley,hard,header
+ITF WOMEN - SINGLES :  W35 Punta Cana 2 (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Punta Cana (Dominican Republic),clay,header
+ITF WOMEN - SINGLES :  W35 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W100 Landisville,hard,header
+ITF WOMEN - SINGLES :  W75 Lexington,hard,header
+ITF WOMEN - SINGLES :  W50 Dallas,hard,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W35 Wichita,hard,header
+ITF WOMEN - SINGLES :  W35 Bethany Beach,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W35 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W50 Mexico City (Mexico),hard,header
+ITF WOMEN - SINGLES :  W50 Morelia (Mexico),hard,header
+ITF WOMEN - SINGLES :  W35 Wesley Chapel,clay,header
+ITF WOMEN - SINGLES :  W35 Naples,clay,header
+ITF WOMEN - SINGLES :  W25 Lousada 2 (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Lousada (Portugal),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Redding,hard,header
+ITF WOMEN - SINGLES :  W100 Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saskatoon (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Poertschach (Austria),clay,header
+ITF WOMEN - SINGLES :  W40 Otocec 2 (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W25 Warmbad Villach (Austria),clay,header
+ITF WOMEN - SINGLES :  W25 Feld am See (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Charlottesville,clay,header
+ITF WOMEN - SINGLES :  W25 Zephyrhills,clay,header
+ITF WOMEN - SINGLES :  W25 Boca Raton,clay,header
+ITF WOMEN - SINGLES :  W25 Jackson,clay,header
+ITF WOMEN - SINGLES :  W25 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W60 Rome,hard,header
+ITF WOMEN - SINGLES :  W25 Orlando,hard,header
+ITF WOMEN - SINGLES :  W60 Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+GIRLS - SINGLES :  US Open (USA),hard,header
+WTA - SINGLES :  Granby (Canada),hard,header
+22.08.2022,Cross K.,0,3,4,,,,0,6,51%,52% (14/27),58% (15/26),50% (4/8),25% (8/32),53% (17/32),22% (2/9),55% (29/53),39% (25/64),46% (54/117),56% (5/9),20% (2/10),37% (7/19),"['3', '2']","['3', '1']",[],[],[],7.03
+22.08.2022,Bondar A.,2,6,6,,,,4,7,50%,75% (24/32),47% (15/32),78% (7/9),48% (13/27),42% (11/26),50% (4/8),61% (39/64),45% (24/53),54% (63/117),80% (8/10),44% (4/9),63% (12/19),"['3', '3', '5', '3']","['2', '3', '4', '3']",[],[],[],1.11
+WTA - SINGLES :  Granby (Canada) - Qualification,hard,header
+21.08.2022,Cross K.,2,6,6,,,,2,1,60%,66% (21/32),57% (12/21),60% (3/5),56% (19/34),59% (16/27),67% (6/9),62% (33/53),57% (35/61),60% (68/114),75% (6/8),75% (6/8),75% (12/16),"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '2', '5', '3']",[],[],[],3.43
+21.08.2022,Sakatsume H.,0,1,3,,,,0,3,56%,44% (15/34),41% (11/27),33% (3/9),34% (11/32),43% (9/21),40% (2/5),43% (26/61),38% (20/53),40% (46/114),25% (2/8),25% (2/8),25% (4/16),[],"['2', '3', '3', '4']",[],[],[],1.31
+21.08.2022,Cross K.,2,6,6,,,,0,5,64%,72% (23/32),50% (9/18),33% (1/3),47% (25/53),60% (15/25),38% (5/13),65% (33/51),51% (40/78),57% (73/129),78% (7/9),56% (5/9),67% (12/18),"['1', '0', '3', '0', '5', '4']","['1', '0', '3', '0']",[],[],[],1.70
+21.08.2022,Mihalikova T.,0,4,2,,,,2,4,68%,53% (28/53),40% (10/25),62% (8/13),28% (9/32),50% (9/18),67% (2/3),49% (38/78),35% (18/51),43% (56/129),44% (4/9),22% (2/9),33% (6/18),"['2', '4', '4', '4']",[],[],[],[],2.15
+CHALLENGER WOMEN - SINGLES :  Vancouver (Canada) - Qualification,hard,header
+13.08.2022,Cross K.,0,1,2,,,,0,4,60%,48% (10/21),7% (1/14),25% (2/8),38% (12/32),46% (12/26),15% (2/13),31% (11/35),41% (24/59),37% (35/94),14% (1/7),25% (2/8),20% (3/15),"['1', '4']","['2', '0']",[],[],[],12.50
+13.08.2022,Muhammad A.,2,6,6,,,,3,4,55%,63% (20/32),54% (14/26),85% (11/13),52% (11/21),93% (13/14),75% (6/8),59% (35/59),69% (24/35),63% (59/94),75% (6/8),86% (6/7),80% (12/15),"['2', '0', '4', '0', '5', '1']","['1', '2', '3', '2', '5', '2']",[],[],[],1.03
+WTA - SINGLES :  Toronto (Canada) - Qualification,hard,header
+06.08.2022,Cross K.,0,6^2,0,,,,0,9,52%,53% (16/30),29% (8/28),33% (3/9),40% (24/60),47% (8/17),30% (3/10),41% (24/58),42% (32/77),41% (56/135),33% (3/9),33% (3/9),33% (6/18),"['1', '2', '2', '3', '6', '5']",[],[],[],[],8.20
+06.08.2022,Parrizas-Diaz N.,2,7^7,6,,,,0,4,78%,60% (36/60),53% (9/17),70% (7/10),47% (14/30),71% (20/28),67% (6/9),58% (45/77),59% (34/58),59% (79/135),67% (6/9),67% (6/9),67% (12/18),"['2', '0', '3', '1', '6', '6']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
+ITF WOMEN - SINGLES :  W25 Saskatoon (Canada),hard,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
+GIRLS - SINGLES :  French Open (France),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+GIRLS - SINGLES :  Australian Open (Australia),hard,header
+WTA - SINGLES :  Montreal (Canada) - Qualification,hard,header
+07.08.2021,Cross K.,0,0,2,,,,2,7,49%,55% (12/22),17% (4/23),50% (6/12),19% (4/21),31% (8/26),25% (1/4),36% (16/45),38% (18/47),37% (34/92),14% (1/7),14% (1/7),14% (2/14),[],"['1', '1']",[],[],[],12.00
+07.08.2021,Dodin O.,2,6,6,,,,0,6,45%,81% (17/21),46% (12/26),75% (3/4),45% (10/22),52% (12/23),50% (6/12),62% (29/47),64% (29/45),63% (58/92),86% (6/7),86% (6/7),86% (12/14),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '5', '2']",[],[],[],1.04
+GIRLS - SINGLES :  Wimbledon (United Kingdom),grass,header
+GIRLS - SINGLES :  Wimbledon (United Kingdom) - Qualification,grass,header
+ITF WOMEN - SINGLES :  W15 Antalya 24 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W75+ H Toronto (Canada),hard,header
 ITF WOMEN - SINGLES :  W75+H Saguenay (Canada),hard,header
 ITF WOMEN - SINGLES :  W75+H Calgary (Canada),hard,header

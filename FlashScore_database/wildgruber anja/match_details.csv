@@ -1,5 +1,271 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W75 Le Neubourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Dublin (Ireland),hard,header
+ITF WOMEN - SINGLES :  W15 Rogaska Slatina (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Nova Gorica (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 36 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 28 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Aschaffenburg (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 40 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 26 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Trieste (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W75 Le Neubourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Dublin (Ireland),hard,header
+ITF WOMEN - SINGLES :  W15 Rogaska Slatina (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Nova Gorica (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 36 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 28 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Aschaffenburg (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 40 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 26 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Trieste (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W75 Le Neubourg (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Dublin (Ireland),hard,header
+ITF WOMEN - SINGLES :  W15 Rogaska Slatina (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 26 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 25 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 24 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Norges-la-Ville (France),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Nova Gorica (Slovenia),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 15 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Heraklion 3 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 2 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 42 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 37 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 36 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 34 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 33 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 32 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 28 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 27 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Aschaffenburg (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 21 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 La Marsa (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 12 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 8 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 7 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 6 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 18 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 17 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Erwitte (Germany),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 16 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 11 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 10 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 5 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 2 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 44 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 43 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 40 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 26 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 25 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Monastir 20 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 19 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 18 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 14 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 13 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Antalya 5 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 9 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Heraklion 7 (Greece),clay,header
+ITF WOMEN - SINGLES :  W15 Trieste (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Cordenons (Italy),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 4 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 3 (Turkey),clay,header
 ITF WOMEN - SINGLES :  W15 Monastir 41 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 39 (Tunisia),hard,header
 ITF WOMEN - SINGLES :  W15 Monastir 38 (Tunisia),hard,header

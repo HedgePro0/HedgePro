@@ -1,5 +1,193 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
 ITF WOMEN - SINGLES :  W75 Sydney (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W50 Meerbusch (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 13 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W15 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Hinode (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Hamamatsu (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Makinohara (Japan),grass,header
+WTA - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+ITF WOMEN - SINGLES :  W75 Sydney (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W50 Meerbusch (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 13 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W15 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Hinode (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Hamamatsu (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Makinohara (Japan),grass,header
+WTA - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+ITF WOMEN - SINGLES :  W75 Sydney (Australia),hard,header
+ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
+ITF WOMEN - SINGLES :  W50 Meerbusch (Germany),clay,header
+ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W50 Bytom (Poland),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W15 Kursumlijska Banja 13 (Serbia),clay,header
+ITF WOMEN - SINGLES :  W75+H Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  W15 Hong Kong (Hong Kong),hard,header
+ITF WOMEN - SINGLES :  W15 Kawaguchi (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota 2 (Georgia),hard,header
+ITF WOMEN - SINGLES :  W50 Lopota (Georgia),hard,header
+ITF WOMEN - SINGLES :  W15 Hinode (Japan),hard,header
+ITF WOMEN - SINGLES :  W15 Kuala Lumpur (Malaysia),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W15 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Nakhon Si Thammarat (Thailand),hard,header
+ITF WOMEN - SINGLES :  W35 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W15 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60+H Calgary (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Edmonton (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Toronto (Canada),hard,header
+ITF WOMEN - SINGLES :  W60 Saguenay (Canada),hard,header
+ITF WOMEN - SINGLES :  W25 Hamamatsu (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Makinohara (Japan),grass,header
+WTA - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+23.09.2023,Hanatani N.,0,2,0,,,,0,2,66%,28% (8/29),27% (4/15),50% (7/14),33% (9/27),46% (11/24),40% (2/5),27% (12/44),39% (20/51),34% (32/95),0% (0/7),29% (2/7),14% (2/14),"['1', '0', '2', '3']",[],[],[],[],11.50
+23.09.2023,Sakatsume H.,2,6,6,,,,1,2,53%,67% (18/27),54% (13/24),60% (3/5),72% (21/29),73% (11/15),50% (7/14),61% (31/51),73% (32/44),66% (63/95),71% (5/7),100% (7/7),86% (12/14),"['1', '1', '3', '1', '4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.02
+ITF WOMEN - SINGLES :  W25 Kyoto (Japan),hard,header
+ITF WOMEN - SINGLES :  W60 Hechingen (Germany),clay,header
+ITF WOMEN - SINGLES :  W60 Olomouc (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W60 Amstelveen (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W60 Madrid (Spain),hard,header
+ITF WOMEN - SINGLES :  W25 Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Karuizawa (Japan),grass,header
+ITF WOMEN - SINGLES :  W60 Kurume (Japan),grass,header
+ITF WOMEN - SINGLES :  W60 Fukuoka (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Osaka (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Kofu (Japan),hard,header
+ITF WOMEN - SINGLES :  W60 Canberra 3 (Australia),clay,header
+ITF WOMEN - SINGLES :  W60 Canberra 2 (Australia),clay,header
+ITF WOMEN - SINGLES :  W25 Swan Hill 2 (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Swan Hill (Australia),grass,header
+ITF WOMEN - SINGLES :  W25 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W40 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W40 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W60 Kyoto (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Yokohama (Japan),hard,header
+ITF WOMEN - SINGLES :  W60 Sydney (Australia),hard,header
+ITF WOMEN - SINGLES :  W60 Playford (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Hamamatsu (Japan),hard,header
+ITF WOMEN - SINGLES :  W25 Makinohara (Japan),grass,header
+ITF WOMEN - SINGLES :  W25 Nanao (Japan),hard,header
+WTA - SINGLES :  Tokyo (Japan) - Qualification,hard,header
+17.09.2022,Hanatani N.,1,3,7^7,1,,,0,2,69%,58% (42/72),55% (18/33),67% (8/12),26% (16/62),47% (16/34),11% (1/9),57% (60/105),33% (32/96),46% (92/201),69% (9/13),7% (1/15),36% (10/28),[],"['1', '1']",[],[],[],7.90
+17.09.2022,Contreras Gomez F.,2,6,6^3,6,,,6,1,65%,74% (46/62),53% (18/34),89% (8/9),42% (30/72),45% (15/33),33% (4/12),67% (64/96),43% (45/105),54% (109/201),93% (14/15),31% (4/13),64% (18/28),"['4', '2']","['1', '0']","['3', '1', '5', '1']",[],[],1.07
+ITF WOMEN - SINGLES :  W25 Santarem (Portugal),hard,header
+ITF WOMEN - SINGLES :  W25 Leiria (Portugal),hard,header
+WTA - SINGLES :  Granby (Canada) - Qualification,hard,header
+20.08.2022,Hanatani N.,0,2,5,,,,0,7,63%,54% (20/37),45% (10/22),29% (2/7),31% (11/35),37% (7/19),50% (2/4),51% (30/59),33% (18/54),42% (48/113),50% (5/10),20% (2/10),35% (7/20),[],"['1', '0', '4', '1']",[],[],[],4.62
+20.08.2022,Sakatsume H.,2,6,7,,,,1,3,65%,69% (24/35),63% (12/19),50% (2/4),46% (17/37),55% (12/22),71% (5/7),67% (36/54),49% (29/59),58% (65/113),80% (8/10),50% (5/10),65% (13/20),"['2', '0', '6', '2']","['2', '4', '4', '4', '7', '5']",[],[],[],1.18
+CHALLENGER WOMEN - SINGLES :  Vancouver (Canada) - Qualification,hard,header
+13.08.2022,Hanatani N.,1,3,6,2,,,0,7,67%,54% (29/54),44% (12/27),38% (3/8),42% (20/48),45% (15/33),67% (4/6),51% (41/81),43% (35/81),47% (76/162),58% (7/12),33% (4/12),46% (11/24),[],"['2', '0', '5', '1']","['1', '0', '2', '1']",[],[],4.06
+13.08.2022,Grammatikopoulou V.,2,6,1,6,,,1,0,59%,58% (28/48),55% (18/33),33% (2/6),46% (25/54),56% (15/27),63% (5/8),57% (46/81),49% (40/81),53% (86/162),67% (8/12),42% (5/12),54% (13/24),"['2', '0']",[],"['1', '1', '2', '2', '4', '2', '6', '2']",[],[],1.24
+ITF WOMEN - SINGLES :  W25 Foxhills (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W25 Nottingham 5 (United Kingdom),hard,header
+ITF WOMEN - SINGLES :  W60 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W25 Nur-Sultan 2 (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W60 Ceska Lipa (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Annenheim (Austria),clay,header
+ITF WOMEN - SINGLES :  W60 Saint-Gaudens (France),clay,header
+ITF WOMEN - SINGLES :  W60 Prague (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai 2 (Thailand),hard,header
+ITF WOMEN - SINGLES :  W25 Chiang Rai (Thailand),hard,header
+ITF WOMEN - SINGLES :  W60 Canberra (Australia),clay,header
+ITF WOMEN - SINGLES :  W60 Nur-Sultan (Kazakhstan),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 4 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 3 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir 2 (Tunisia),hard,header
+ITF WOMEN - SINGLES :  W25 Monastir (Tunisia),hard,header
+CHALLENGER WOMEN - SINGLES :  Midland (USA) - Qualification,hard,header
+31.10.2021,Hanatani N.,1,6,2,0,,,0,6,60%,60% (27/45),40% (12/30),58% (7/12),19% (6/32),40% (14/35),100% (2/2),52% (39/75),36% (24/67),44% (63/142),55% (6/11),18% (2/11),36% (8/22),"['1', '0', '5', '2']",[],[],[],[],2.89
+31.10.2021,Hewitt D.,2,2,6,6,,,9,4,48%,81% (26/32),49% (17/35),0% (0/2),40% (18/45),40% (12/30),42% (5/12),64% (43/67),48% (36/75),56% (79/142),82% (9/11),45% (5/11),64% (14/22),[],"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],1.40
+ITF WOMEN - SINGLES :  W25 Florence,hard,header
+ITF WOMEN - SINGLES :  W60 Las Vegas,hard,header
+ITF WOMEN - SINGLES :  W60 Montreux (Switzerland),clay,header
+ITF WOMEN - SINGLES :  W60 Collonge-Bellerive (Switzerland),clay,header
+WTA - SINGLES :  Cleveland (USA),hard,header
+25.08.2021,Hanatani N.,0,0,0,,,,0,2,57%,20% (4/20),40% (6/15),14% (1/7),11% (2/19),0% (0/9),0% (0/0),29% (10/35),14% (4/28),22% (14/63),0% (0/6),0% (0/6),0% (0/12),[],[],[],[],[],13.00
+25.08.2021,Siniakova K.,2,6,6,,,,3,2,68%,89% (17/19),78% (7/9),0% (0/0),80% (16/20),47% (7/15),86% (6/7),86% (24/28),71% (25/35),78% (49/63),100% (6/6),100% (6/6),100% (12/12),"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.04
+23.08.2021,Blinkova A.,0,0,,,,,0,2,63%,60% (3/5),0% (0/3),0% (0/1),0% (0/0),0% (0/0),0% (0/0),38% (3/8),0% (0/0),38% (3/8),0% (0/1),0% (0/0),0% (0/1),[],[],[],[],[],1.03
+23.08.2021,Hanatani N.,0,1,,,,,0,0,0%,0% (0/0),0% (0/0),0% (0/0),40% (2/5),33% (1/3),100% (1/1),0% (0/0),63% (5/8),63% (5/8),0% (0/0),100% (1/1),100% (1/1),"['1', '0']",[],[],[],[],14.50
+WTA - SINGLES :  Cleveland (USA) - Qualification,hard,header
+22.08.2021,Hanatani N.,1,6,4,1,,,0,3,66%,37% (22/59),55% (17/31),47% (7/15),39% (16/41),59% (10/17),86% (6/7),43% (39/90),48% (28/58),45% (67/148),38% (5/13),50% (6/12),44% (11/25),"['2', '0', '3', '1', '5', '1', '6', '2']","['2', '0', '4', '4']",[],[],[],3.20
+22.08.2021,Eikeri U.,2,2,6,6,,,0,2,71%,61% (25/41),29% (5/17),14% (1/7),63% (37/59),35% (11/31),53% (8/15),52% (30/58),57% (51/90),55% (81/148),50% (6/12),62% (8/13),56% (14/25),"['1', '2', '2', '5']","['1', '2', '3', '2', '5', '4']","['1', '0', '4', '1', '6', '1']",[],[],1.36
+21.08.2021,Hanatani N.,2,6,2,6,,,0,7,68%,62% (34/55),38% (10/26),55% (6/11),36% (16/44),49% (21/43),47% (7/15),54% (44/81),51% (44/87),52% (88/168),58% (7/12),54% (7/13),56% (14/25),"['1', '2', '3', '2', '6', '3']","['1', '3']","['2', '0', '4', '2', '6', '2']",[],[],1.79
+21.08.2021,Yu E.,1,3,6,2,,,3,7,51%,64% (28/44),35% (15/43),53% (8/15),38% (21/55),35% (9/26),45% (5/11),49% (43/87),46% (37/81),48% (80/168),46% (6/13),42% (5/12),44% (11/25),"['2', '0']","['1', '0', '3', '0', '4', '1']","['1', '2']",[],[],2.03
+ITF WOMEN - SINGLES :  W25 Oldenzaal (Netherlands),clay,header
+ITF WOMEN - SINGLES :  W25 Radom (Poland),clay,header
+ITF WOMEN - SINGLES :  W25 Bydgoszcz (Poland),clay,header
+ITF WOMEN - SINGLES :  W60 Charleston,clay,header
+ITF WOMEN - SINGLES :  W25 Sumter,hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Santo Domingo (Dominican Republic),hard,header
+ITF WOMEN - SINGLES :  W25 Pelham,clay,header
+ITF WOMEN - SINGLES :  W25 Naples,clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 10 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 9 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 13 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 12 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W15 Antalya 11 (Turkey),clay,header
+ITF WOMEN - SINGLES :  W25 Frydek Mistek (Czech Republic),clay,header
+ITF WOMEN - SINGLES :  W25 Mildura (Australia),grass,header
+ITF WOMEN - SINGLES :  W60 Kyoto (Japan),hard,header
+WTA - SINGLES :  Hua Hin (Thailand) - Qualification,hard,header
+ITF WOMEN - SINGLES :  W25 Launceston (Australia),hard,header
+ITF WOMEN - SINGLES :  W60 Burnie (Australia),hard,header
+ITF WOMEN - SINGLES :  W25 Malibu (USA),hard,header
+ITF WOMEN - SINGLES :  Tokyo (Japan),hard,header
+ITF WOMEN - SINGLES :  Darwin (Australia),hard,header
+ITF WOMEN - SINGLES :  Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  Granby (Canada),hard,header
+ITF WOMEN - SINGLES :  Honolulu (USA),hard,header
+ITF WOMEN - SINGLES :  Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  Fukuoka (Japan),hard,header
+CHALLENGER WOMEN - SINGLES :  An-Ning (China),clay,header
+ITF WOMEN - SINGLES :  W60 Canberra (Australia),clay,header
+ITF WOMEN - SINGLES :  Kurume (Japan),hard,header
+ITF WOMEN - SINGLES :  Fukuoka (Japan),hard,header
+ITF WOMEN - SINGLES :  An-Ning (China),clay,header
+ITF WOMEN - SINGLES :  Miyazaki (Japan),grass,header
 ITF WOMEN - SINGLES :  W75 Perth 2 (Australia),hard,header
 ITF WOMEN - SINGLES :  W50 Meerbusch (Germany),clay,header
 ITF WOMEN - SINGLES :  W35 Bydgoszcz (Poland),clay,header
