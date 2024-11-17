@@ -1,66 +1,89 @@
 Time,Rovereto challenger,S,1,2,3,4,5,H2H,H,A,header
-10:00,Coric Borna,,,,,,,0,1.25,3.63
+10:00,Coric Borna,,,,,,,0,1.27,3.50
 -,Vincent Ruggeri Samuel,,,,,,,0,,
-10:00,Maestrelli Francesco,,,,,,,0,3.27,1.28
+10:00,Maestrelli Francesco,,,,,,,0,3.24,1.31
 -,Herbert Pierre-Hugues,,,,,,,1,,
-10:00,Collignon Raphael,,,,,,,0,1.20,3.73
+10:00,Collignon Raphael,,,,,,,0,1.21,4.05
 -,Masur Daniel,,,,,,,0,,
 10:00,Vatutin Alexey,,,,,,,1,1.30,3.30
 -,Oradini Giacomo,,,,,,,0,,
-10:00,Berrettini Jacopo,,,,,,,0,2.35,1.54
+10:00,Berrettini Jacopo,,,,,,,0,2.31,1.55
 -,Arnaboldi Federico,,,,,,,2,,
-10:00,Marie Jules,,,,,,,0,,
+10:00,Marie Jules,,,,,,,0,1.37,1.35
 -,Holmgren August,,,,,,,0,,
-10:00,Landaluce Martin,,,,,,,0,1.25,3.46
+10:00,Landaluce Martin,,,,,,,0,1.23,3.79
 -,Sels Jelle,,,,,,,0,,
-10:00,Travaglia Stefano,,,,,,,2,1.62,2.10
+10:00,Travaglia Stefano,,,,,,,2,1.68,2.07
 -,Blancaneaux Geoffrey,,,,,,,0,,
-10:00,Zapata Miralles Bernabe,,,,,,,0,2.89,1.36
+10:00,Zapata Miralles Bernabe,,,,,,,0,2.68,1.41
 -,Ritschard Alexander,,,,,,,1,,
-10:00,Fonio Giovanni,,,,,,,0,3.58,1.23
+10:00,Fonio Giovanni,,,,,,,0,3.68,1.25
 -,Nardi Luca,,,,,,,2,,
+Time,Sao Paulo 7 challenger,S,1,2,3,4,5,H2H,H,A,header
+14:00,Prado Angelo Juan Carlos,,,,,,,0,1.07,1.73
+-,Guillen Meza Alvaro,,,,,,,0,,
+14:00,Soto Matias,,,,,,,0,1.56,1.08
+-,Gomez Federico Agustin,,,,,,,0,,
+14:00,Ficovich Juan Pablo,,,,,,,0,1.59,1.08
+-,Bertola Remy,,,,,,,0,,
+14:00,Kovacevic Aleksandar,,,,,,,0,1.27,3.34
+-,Pucinelli De Almeida Matheus,,,,,,,0,,
+14:00,Heide Gustavo,,,,,,,0,1.20,4.11
+-,Reis Da Silva Joao Lucas,,,,,,,0,,
+14:00,Comesana Francisco,,,,,,,0,1.31,3.12
+-,Luz Orlando,,,,,,,1,,
+14:00,Tomic Bernard,,,,,,,0,1.07,1.89
+-,Bueno Gonzalo,,,,,,,0,,
+14:00,Barrios Vera Marcelo Tomas,,,,,,,0,1.35,2.98
+-,Alves Mateus (2001),,,,,,,0,,
+14:00,Sakamoto Pedro,,,,,,,0,1.59,2.20
+-,Boscardin Dias Pedro,,,,,,,1,,
+14:00,Clarke Jay,,,,,,,0,1.65,2.13
+-,Kicker Nicolas,,,,,,,0,,
 Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
-02:00,Bellucci Mattia,,,,,,,1,1.28,3.42
--,Wu Tung-lin,,,,,,,0,,
-02:00,Zakharov Alexey,,,,,,,2,1.65,2.13
--,Noguchi Rio,,,,,,,0,,
-02:00,Dodig Matej,,,,,,,0,2.20,1.61
--,Basilashvili Nikoloz,,,,,,,0,,
-02:00,Wong Coleman,,,,,,,0,1.03,9.41
+05:00,Wong Coleman,,,,,,,0,1.03,9.34
 -,Jones Lennon Roark,,,,,,,0,,
-02:00,Demin Yaroslav,,,,,,,0,4.27,1.19
+05:00,Demin Yaroslav,,,,,,,0,5.13,1.14
 -,Tu Li,,,,,,,0,,
-02:00,Rodionov Jurij,,,,,,,1,1.14,5.15
--,Sakamoto Rei,,,,,,,1,,
-02:00,Imamura Masamichi,,,,,,,0,1.61,2.21
+05:00,Imamura Masamichi,,,,,,,0,1.68,2.07
 -,Sweeny Dane,,,,,,,0,,
-02:00,Shimizu Yuta,,,,,,,3,1.85,1.85
+06:30,Zakharov Alexey,,,,,,,2,1.67,2.11
+-,Noguchi Rio,,,,,,,0,,
+06:30,Dodig Matej,,,,,,,0,2.36,1.52
+-,Basilashvili Nikoloz,,,,,,,0,,
+06:30,Shimizu Yuta,,,,,,,3,1.81,1.88
 -,Bolt Alex,,,,,,,2,,
-02:00,Shimabukuro Sho,,,,,,,0,1.41,2.73
--,Hassan Benjamin,,,,,,,0,,
-02:00,Ymer Elias,,,,,,,0,2.25,1.57
--,Uchiyama Yasutaka,,,,,,,0,,
 Time,Montemar challenger,S,1,2,3,4,5,H2H,H,A,header
-10:00,Fognini Fabio,,,,,,,0,1.40,2.71
+10:00,Fognini Fabio,,,,,,,0,1.52,2.39
 -,Rincon Daniel,,,,,,,1,,
-10:00,Radulov Iliyan,,,,,,,0,3.45,1.27
+10:00,Radulov Iliyan,,,,,,,0,3.66,1.24
 -,Trungelliti Marco,,,,,,,0,,
-10:00,Passaro Francesco,,,,,,,0,1.26,3.04
+10:00,Passaro Francesco,,,,,,,0,1.32,3.20
 -,Budkov Kjaer Nicolai,,,,,,,0,,
-10:00,Coppejans Kimmer,,,,,,,0,1.55,2.08
+10:00,Coppejans Kimmer,,,,,,,0,1.65,2.14
 -,Gaubas Vilius,,,,,,,0,,
-10:00,Moro Canas Alejandro,,,,,,,1,1.57,2.25
+10:00,Moro Canas Alejandro,,,,,,,1,1.74,1.98
 -,Sanchez Jover Carlos,,,,,,,1,,
-10:00,Pellegrino Andrea,,,,,,,0,,
+10:00,Pellegrino Andrea,,,,,,,0,1.12,1.12
 -,Shelbayh Abedallah,,,,,,,0,,
-10:00,Barranco Cosano Javier,,,,,,,0,2.90,1.29
+10:00,Barranco Cosano Javier,,,,,,,0,2.73,1.38
 -,Dzumhur Damir,,,,,,,0,,
-10:00,Ramos-Vinolas Albert,,,,,,,3,1.76,1.76
+10:00,Ramos-Vinolas Albert,,,,,,,3,1.94,1.73
 -,Taberner Carlos,,,,,,,2,,
-10:00,Hardt Nick,,,,,,,0,1.91,1.64
+10:00,Hardt Nick,,,,,,,0,2.20,1.58
 -,Andreev Adrian,,,,,,,0,,
-10:00,Butvilas Edas,,,,,,,0,2.55,1.36
+10:00,Butvilas Edas,,,,,,,0,2.59,1.43
 -,Nagal Sumit,,,,,,,0,,
 Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
-02:00,Sekulic Philip,,,,,,,0,,
+02:00,Sekulic Philip,,,,,,,0,1.04,2.16
 -,Matsuda Ryuki,,,,,,,0,,
+02:00,Paul Jakub,,,,,,,0,1.01,2.22
+-,Honda Naoya,,,,,,,0,,
+02:00,Van Wyk Kris,,,,,,,0,,
+-,Cina Federico,,,,,,,0,,
+03:30,Nam Ji Sung,,,,,,,0,1.72,1.01
+-,Nakagawa Naoki,,,,,,,0,,
+03:30,Jasika Omar,,,,,,,0,1.04,1.93
+-,Bar Biryukov Petr,,,,,,,0,,
+03:30,Picchione Andrea,,,,,,,0,1.06,1.06
+-,Negritu Christoph,,,,,,,0,,
