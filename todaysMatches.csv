@@ -1,40 +1,40 @@
 Time,Rovereto challenger,S,1,2,3,4,5,H2H,H,A,header
-17:00,Maestrelli Francesco,,,,,,,0,2.88,1.38
+17:00,Maestrelli Francesco,,,,,,,0,2.90,1.37
 -,Herbert Pierre-Hugues,,,,,,,1,,
-17:00,Marie Jules,,,,,,,0,2.81,1.39
+17:00,Marie Jules,,,,,,,0,2.82,1.39
 -,Holmgren August,,,,,,,0,,
 18:30,Zapata Miralles Bernabe,,,,,,,0,2.65,1.44
 -,Ritschard Alexander,,,,,,,1,,
-19:30,Landaluce Martin,,,,,,,0,1.23,3.91
+19:30,Landaluce Martin,,,,,,,0,1.23,3.89
 -,Sels Jelle,,,,,,,0,,
 Time,Sao Paulo 7 challenger,S,1,2,3,4,5,H2H,H,A,header
-17:00,Prado Angelo Juan Carlos,,,,,,,0,1.53,2.26
+17:00,Prado Angelo Juan Carlos,,,,,,,0,1.57,2.25
 -,Guillen Meza Alvaro,,,,,,,0,,
-17:00,Soto Matias,,,,,,,0,2.14,1.59
+17:00,Soto Matias,,,,,,,0,2.12,1.59
 -,Gomez Federico Agustin,,,,,,,0,,
-17:00,Ficovich Juan Pablo,,,,,,,0,2.08,1.69
+17:00,Ficovich Juan Pablo,,,,,,,0,2.07,1.70
 -,Bertola Remy,,,,,,,0,,
 18:30,Comesana Francisco,,,,,,,0,1.29,3.45
 -,Luz Orlando,,,,,,,1,,
 22:00,Heide Gustavo,,,,,,,0,1.20,4.20
 -,Reis Da Silva Joao Lucas,,,,,,,0,,
 Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
-05:00,Wong Coleman,,,,,,,0,1.03,9.51
+05:10,Demin Yaroslav,0,0,,,,,0,5.45,1.13
+-,Tu Li,0,0,,,,,0,,
+05:10,Imamura Masamichi,0,0,,,,,0,1.67,2.12
+-,Sweeny Dane,0,0,,,,,0,,
+05:15,Wong Coleman,,,,,,,0,1.03,9.52
 -,Jones Lennon Roark,,,,,,,0,,
-05:00,Demin Yaroslav,,,,,,,0,5.46,1.13
--,Tu Li,,,,,,,0,,
-05:00,Imamura Masamichi,,,,,,,0,1.68,2.11
--,Sweeny Dane,,,,,,,0,,
-06:30,Zakharov Alexey,,,,,,,2,1.90,1.82
--,Noguchi Rio,,,,,,,0,,
-06:30,Dodig Matej,,,,,,,0,2.73,1.42
+06:30,Dodig Matej,,,,,,,0,2.74,1.42
 -,Basilashvili Nikoloz,,,,,,,0,,
 06:30,Shimizu Yuta,,,,,,,3,1.63,2.19
 -,Bolt Alex,,,,,,,2,,
+07:30,Zakharov Alexey,,,,,,,2,1.89,1.84
+-,Noguchi Rio,,,,,,,0,,
 Time,Montemar challenger,S,1,2,3,4,5,H2H,H,A,header
 16:30,Coppejans Kimmer,,,,,,,0,1.87,1.84
 -,Gaubas Vilius,,,,,,,0,,
-16:30,Moro Canas Alejandro,,,,,,,1,1.74,2.00
+16:30,Moro Canas Alejandro,,,,,,,1,1.74,2.01
 -,Sanchez Jover Carlos,,,,,,,1,,
 16:30,Hardt Nick,,,,,,,0,2.46,1.50
 -,Andreev Adrian,,,,,,,0,,
@@ -44,7 +44,7 @@ Time,Puerto Vallarta challenger,S,1,2,3,4,5,H2H,H,A,header
 22:00,Hussey Giles,,,,,,,0,1.97,1.76
 -,Oberleitner Neil,,,,,,,0,,
 Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
-12:30,Araujo Pedro (2002),,,,,,,0,2.94,1.35
+11:00,Araujo Pedro (2002),,,,,,,0,3.41,1.28
 -,Silva Frederico Ferreira,,,,,,,1,,
 09:30,Ionel Nicholas David,,,,,,,2,1.31,3.12
 -,Van Der Meerschen Martin,,,,,,,0,,
@@ -383,7 +383,7 @@ Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
 14:30,Matuszewski Gabriel,,,,,,,0,,
 -,Kos Dorian,,,,,,,0,,
 Time,Montemar challenger,S,1,2,3,4,5,H2H,H,A,header
-10:30,Novak Dennis,,,,,,,2,1.36,2.98
+10:30,Novak Dennis,,,,,,,2,1.36,2.97
 -,Damas Miguel,,,,,,,0,,
 10:30,Sanchez Izquierdo Nikolas,,,,,,,0,1.53,2.36
 -,Lopez Montagud Carlos,,,,,,,1,,
@@ -391,7 +391,7 @@ Time,Montemar challenger,S,1,2,3,4,5,H2H,H,A,header
 -,Gulin Svyatoslav,,,,,,,2,,
 12:00,Gakhov Ivan,,,,,,,1,1.41,2.49
 -,Alcala Gurri Max,,,,,,,0,,
-12:00,Vanshelboim Eric,,,,,,,0,3.79,1.23
+12:00,Vanshelboim Eric,,,,,,,0,3.78,1.23
 -,Campana Lee Gerard,,,,,,,0,,
 12:00,Montes-De La Torre Inaki,,,,,,,0,1.30,3.24
 -,Pichler David,,,,,,,0,,
@@ -401,11 +401,11 @@ Time,Puerto Vallarta challenger,S,1,2,3,4,5,H2H,H,A,header
 18:00,Magadan Alan,,,,,,,0,1.79,1.81
 -,Schachter Noah,,,,,,,0,,
 Time,Rovereto challenger,S,1,2,3,4,5,H2H,H,A,header
-10:30,Prihodko Oleg,,,,,,,0,2.85,1.38
+10:30,Prihodko Oleg,,,,,,,0,2.85,1.37
 -,Karol Milos,,,,,,,0,,
-10:30,Sachko Vitaliy,,,,,,,0,1.45,2.58
+10:30,Sachko Vitaliy,,,,,,,0,1.45,2.57
 -,Guerrieri Andrea,,,,,,,0,,
-12:00,Feldbausch Kilian,,,,,,,0,1.34,3.02
+12:00,Feldbausch Kilian,,,,,,,0,1.34,3.01
 -,Visker Niels,,,,,,,0,,
 12:00,Pavel Bogdan,,,,,,,0,3.35,1.29
 -,Ivanovski Kalin,,,,,,,0,,
@@ -414,17 +414,17 @@ Time,Rovereto challenger,S,1,2,3,4,5,H2H,H,A,header
 13:30,Brunold Mika,,,,,,,0,1.77,1.95
 -,Martin Andres,,,,,,,0,,
 Time,Sao Paulo 7 challenger,S,1,2,3,4,5,H2H,H,A,header
-14:00,Midon Lautaro,,,,,,,0,1.50,2.47
+14:00,Midon Lautaro,,,,,,,0,1.49,2.47
 -,Schiessl Joao Eduardo,,,,,,,0,,
-14:00,Olivo Renzo,,,,,,,0,1.31,3.16
+14:00,Olivo Renzo,,,,,,,0,1.31,3.15
 -,Leite Wilson,,,,,,,0,,
 14:00,Villanueva Gonzalo,,,,,,,0,1.19,4.25
 -,Escurra Isnardi Hernando Jose,,,,,,,0,,
 15:30,Ambrogi Luciano Emanuel,,,,,,,0,1.40,2.72
 -,Paz Juan Pablo,,,,,,,0,,
-15:30,Romboli Fernando,,,,,,,0,1.84,1.84
+15:30,Romboli Fernando,,,,,,,0,1.86,1.63
 -,Saraiva Dos Santos Paulo Andre,,,,,,,0,,
-15:30,Johns Garrett,,,,,,,0,1.79,1.87
+15:30,Johns Garrett,,,,,,,0,1.80,1.86
 -,Ribeiro Eduardo,,,,,,,0,,
 Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
 02:00,Cina Federico,2,6,6,,,,,1.42,2.70
@@ -433,9 +433,9 @@ Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
 -,Honda Naoya,0,1,2,,,,,,
 02:10,Sekulic Philip,2,6,7,,,,,1.23,3.87
 -,Matsuda Ryuki,0,2,5,,,,,,
-03:30,Jasika Omar,,,,,,,0,1.44,2.66
--,Bar Biryukov Petr,,,,,,,0,,
-03:40,Nam Ji Sung,,,,,,,0,2.69,1.42
--,Nakagawa Naoki,,,,,,,0,,
-04:00,Picchione Andrea,,,,,,,0,2.95,1.36
--,Negritu Christoph,,,,,,,0,,
+03:30,Jasika Omar,2,6,7,,,,,1.44,2.66
+-,Bar Biryukov Petr,0,3,5,,,,,,
+03:40,Nam Ji Sung,2,6,6,,,,,2.69,1.42
+-,Nakagawa Naoki,0,3,3,,,,,,
+04:25,Negritu Christoph,1,,,,,,,1.36,2.95
+-,Picchione Andrea,0,,,,,,,,
