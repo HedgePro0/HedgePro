@@ -6,7 +6,7 @@ from functools import wraps
 
 app = Flask(__name__)
 app.secret_key = '$4$4$4$6'  # Use a secure key for sessions
-app.permanent_session_lifetime = timedelta(days=7)  # Session will last 7 days
+app.permanent_session_lifetime = timedelta(days=30)  # Session will last 7 days
 
 # Simple credentials for your private use
 USERNAME = 'Hedgepro44'
@@ -16,11 +16,14 @@ PASSWORD = '$4$4$4$6'
 names = []
 prevCounter = 0 
 prevMatchesData = []
-todayMatchesData = []
-nextMatchesData = []
 prevMatchesData_w = []
+
+todayMatchesData = []
 todayMatchesData_w = []
+
+nextMatchesData = []
 nextMatchesData_w = []
+
 menRankedPlayers = []
 femaleRankedPlayers = []
 
@@ -30,40 +33,33 @@ with open("previousMatchesCounter") as file:
 # print(prevCounter)
     
 if prevCounter > 0:
-    for i in range(1, prevCounter+1):
-        prevMatchesData.append([])
-        with open(f"./Previous_Matches/{i}.csv") as file:
-            csvreader = csv.reader(file)
-            temp = []
-            for row in csvreader:
-                temp.append(row)
-            j = 0
-            while j < len(temp):
-                if temp[j][-1] == "header":
-                    prevMatchesData[i-1].append(temp[j])
-                    j += 1
-                else:
-                    prevMatchesData[i-1].append([ temp[j], temp[j+1] ])
-                    j += 2
-
-        prevMatchesData_w.append([])
-        with open(f"./Previous_Matches/{i}_w.csv", encoding="latin-1") as file:
-            csvreader = csv.reader(file)
-            temp = []
-            for row in csvreader:
-                temp.append(row)
-            j = 0
-            while j < len(temp):
-                if temp[j][-1] == "header":
-                    prevMatchesData_w[i-1].append(temp[j])
-                    j += 1
-                else:
-                    prevMatchesData_w[i-1].append([ temp[j], temp[j+1] ])
-                    j += 2
-
-# for row in prevMatchesData:
-#     for elem in row:
-#         print(elem)
+    with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+        temp = []
+        csvreader = csv.reader(file)
+        for row in csvreader:
+            temp.append(row)
+        i = 0
+        while i < (len(temp) - 1):
+            if temp[i][-1] == "header":
+                prevMatchesData.append(temp[i])
+                i += 1
+            else:
+                prevMatchesData.append([ temp[i], temp[i+1] ])
+                i += 2
+                
+    with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+        temp = []
+        csvreader = csv.reader(file)
+        for row in csvreader:
+            temp.append(row)
+        i = 0
+        while i < (len(temp) - 1):
+            if temp[i][-1] == "header":
+                prevMatchesData_w.append(temp[i])
+                i += 1
+            else:
+                prevMatchesData_w.append([ temp[i], temp[i+1] ])
+                i += 2
         
 # Load other files (Unchanged)
 with open('./playerLinks.csv') as file:
@@ -77,7 +73,7 @@ with open("todaysMatches.csv") as file:
     for row in csvreader:
         temp.append(row)
     i = 0
-    while i < len(temp):
+    while i < (len(temp) - 1):
         if temp[i][-1] == "header":
             todayMatchesData.append(temp[i])
             i += 1
@@ -85,13 +81,13 @@ with open("todaysMatches.csv") as file:
             todayMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("todaysMatches_w.csv", encoding="latin-1") as file:
+with open("todaysMatches_w.csv") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
         temp.append(row)
     i = 0
-    while i < len(temp):
+    while i < (len(temp) - 1):
         if temp[i][-1] == "header":
             todayMatchesData_w.append(temp[i])
             i += 1
@@ -105,7 +101,7 @@ with open("nextMatches.csv") as file:
     for row in csvreader:
         temp.append(row)
     i = 0
-    while i < len(temp):
+    while i < (len(temp) - 1):
         if temp[i][-1] == "header":
             nextMatchesData.append(temp[i])
             i += 1
@@ -119,7 +115,7 @@ with open("nextMatches_w.csv") as file:
     for row in csvreader:
         temp.append(row)
     i = 0
-    while i < len(temp):
+    while i < (len(temp) - 1):
         if temp[i][-1] == "header":
             nextMatchesData_w.append(temp[i])
             i += 1
@@ -150,6 +146,9 @@ def getData(name):
         for row in csvreader:
             temp_rows.append(row)
         for i in range(len(temp_rows)):
+            if not len(temp_rows[i]):
+                continue
+
             if nextMatch:
                 nextMatch = False 
                 continue
@@ -179,7 +178,7 @@ def getData(name):
 
 # Login Required Decorator
 def login_required(func):
-    @wraps(func) 
+    @wraps(func)  # This preserves the original function name and metadata
     def wrapper(*args, **kwargs):
         if 'user' in session:
             return func(*args, **kwargs)
@@ -217,6 +216,10 @@ def logout():
 @login_required
 def player_profile_page(name):
     matches_info, profileData, summary = getData(name)
+    # for row in matches_info:
+        # print(row[0])
+        # print(row[1])
+        # print()
     return render_template('playerProfile.html', matches_info=matches_info, profileData=profileData, summary=summary)
 
 # PLAYER SEARCH PAGE (Login Required)
