@@ -28,12 +28,12 @@ menRankedPlayers = []
 femaleRankedPlayers = []
 
 # Load Data (Unchanged)
-with open("previousMatchesCounter") as file:
+with open("previousMatchesCounter", encoding="latin-1") as file:
     prevCounter = int(file.read())
 # print(prevCounter)
     
 if prevCounter > 0:
-    with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+    with open(f"./Previous_Matches/{prevCounter}.csv", encoding="latin-1") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -47,7 +47,7 @@ if prevCounter > 0:
                 prevMatchesData.append([ temp[i], temp[i+1] ])
                 i += 2
                 
-    with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+    with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="latin-1") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -62,12 +62,12 @@ if prevCounter > 0:
                 i += 2
         
 # Load other files (Unchanged)
-with open('./playerLinks.csv') as file:
+with open('./playerLinks.csv', encoding="latin-1") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         names.append(row[0].lower())
 
-with open("todaysMatches.csv") as file:
+with open("todaysMatches.csv", encoding="latin-1") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -81,7 +81,7 @@ with open("todaysMatches.csv") as file:
             todayMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("todaysMatches_w.csv") as file:
+with open("todaysMatches_w.csv", encoding="latin-1") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -95,7 +95,7 @@ with open("todaysMatches_w.csv") as file:
             todayMatchesData_w.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("nextMatches.csv") as file:
+with open("nextMatches.csv", encoding="latin-1") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -109,7 +109,7 @@ with open("nextMatches.csv") as file:
             nextMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("nextMatches_w.csv") as file:
+with open("nextMatches_w.csv", encoding="latin-1") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -123,12 +123,12 @@ with open("nextMatches_w.csv") as file:
             nextMatchesData_w.append([ temp[i], temp[i+1] ])
             i += 2
     
-with open("men_ranking.csv") as file:
+with open("men_ranking.csv", encoding="latin-1") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         menRankedPlayers.append(row)
         
-with open("women_ranking.csv") as file:
+with open("women_ranking.csv", encoding="latin-1") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         femaleRankedPlayers.append(row)
@@ -138,7 +138,7 @@ def getData(name):
     # GETTING THE MATCH DATA FOR A PARTICULAR PERSON
     rows = []
     name = name.replace("%20", " ")
-    with open(f'./FlashScore_database/{name}/match_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/match_details.csv', encoding="latin-1") as file:
         csvreader = csv.reader(file)
         nextMatch = False
         length = 0
@@ -162,14 +162,14 @@ def getData(name):
 
     # GETTING THE PROFILE DATA
     profileData = []
-    with open(f'./FlashScore_database/{name}/personal_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/personal_details.csv', encoding="latin-1") as file:
         csvreader = csv.reader(file)
         for row in csvreader:
             profileData.append(row)
         
     # GETTING THE SUMMARY TABLE FOR THE REQUIRED PLAYER
     summary = []
-    with open(f'./FlashScore_database/{name}/career_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/career_details.csv', encoding="latin-1") as file:
         csvreader = csv.reader(file)
         for row in csvreader:
             summary.append(row)
