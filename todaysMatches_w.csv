@@ -1,22 +1,22 @@
 Time,Charleston 4,S,1,2,3,4,5,H2H,H,A,header
-17:00,Romero Gormaz Leyre,,,,,,,0,1.47,2.59
+17:00,Romero Gormaz Leyre,,,,,,,0,1.47,2.58
 -,Feistel Gina,,,,,,,0,,
-17:00,Makarova Ekaterina (1996),,,,,,,0,3.07,1.35
+17:00,Makarova Ekaterina (1996),,,,,,,0,3.08,1.35
 -,Lepchenko Varvara,,,,,,,0,,
-17:00,Lee Gabriela,,,,,,,0,3.31,1.31
+17:00,Lee Gabriela,,,,,,,0,3.50,1.29
 -,Jovic Iva,,,,,,,0,,
-18:30,Zarazua Renata,,,,,,,2,1.24,3.82
+18:30,Zarazua Renata,,,,,,,2,1.24,3.88
 -,Burillo Escorihuela Irene,,,,,,,2,,
 Time,Colina WTA,S,1,2,3,4,5,H2H,H,A,header
 00:15,Maristany Zuleta De Reales Guiomar,2,6,6,,,,,2.97,1.37
 -,Montgomery Robin,0,0,1,,,,,,
-16:00,Jeanjean Leolia,,,,,,,0,3.62,1.27
+16:00,Jeanjean Leolia,,,,,,,0,2.79,1.42
 -,Carle Maria Lourdes,,,,,,,1,,
-16:00,Craciun Georgia Andreea,,,,,,,0,2.09,1.70
+16:00,Craciun Georgia Andreea,,,,,,,0,2.10,1.70
 -,Fossa Huergo Nicole,,,,,,,2,,
-17:30,Stojanovic Nina,,,,,,,0,1.34,3.13
+17:30,Stojanovic Nina,,,,,,,0,1.35,3.09
 -,Oliynykova Oleksandra,,,,,,,0,,
-23:30,Lodikova Daria,,,,,,,0,6.66,1.09
+23:30,Lodikova Daria,,,,,,,0,6.67,1.09
 -,Bejlek Sara,,,,,,,0,,
 Time,Takasaki ITF,S,1,2,3,4,5,H2H,H,A,header
 02:00,Kaji Haruka,2,6,6,,,,,2.29,1.55
@@ -31,30 +31,30 @@ Time,Takasaki ITF,S,1,2,3,4,5,H2H,H,A,header
 -,Sato Naho,0,3,5,,,,,,
 03:30,Kobayashi Honoka,2,6,6,,,,,5.46,1.11
 -,Shimizu Ayano,0,0,2,,,,,,
-04:00,Omae Akiko,,,,,,,0,1.57,2.24
--,Muramatsu Chihiro,,,,,,,2,,
-05:00,Maria Tatiana,,,,,,,0,1.19,4.24
--,Nugroho Priska Madelyn,,,,,,,0,,
-05:00,Kobori Momoko,,,,,,,0,4.40,1.17
--,Falei Aliona,,,,,,,0,,
-05:00,Shalimova Ekaterina,,,,,,,0,5.26,1.12
--,Zhang Shuai,,,,,,,0,,
+04:00,Omae Akiko,2,6,1,6,,,,1.57,2.24
+-,Muramatsu Chihiro,1,1,6,2,,,,,
+05:00,Zhang Shuai,2,6,6,,,,,1.12,5.26
+-,Shalimova Ekaterina,0,3,1,,,,,,
+05:00,Nugroho Priska Madelyn,2,7,7,,,,,4.24,1.19
+-,Maria Tatiana,0,5,62,,,,,,
+05:00,Kobori Momoko,2,7,4,7,,,,4.40,1.17
+-,Falei Aliona,1,63,6,69,,,,,
 Time,Boca Raton 5 ITF,S,1,2,3,4,5,H2H,H,A,header
-18:00,Kozyreva Maria,,,,,,,0,2.16,1.60
+18:00,Kozyreva Maria,,,,,,,0,2.14,1.55
 -,Vedder Eva,,,,,,,0,,
-18:00,Rogers Anna,,,,,,,1,1.24,3.18
+18:00,Rogers Anna,,,,,,,1,1.28,3.18
 -,Zamarripa Maribella,,,,,,,1,,
-18:00,Robinson Jada,,,,,,,0,4.98,1.11
+18:00,Robinson Jada,,,,,,,0,4.85,1.13
 -,Papamichail Despina,,,,,,,0,,
-18:00,Pedretti Thasa Grana,,,,,,,0,2.46,1.40
+18:00,Pedretti Thasa Grana,,,,,,,0,3.01,1.31
 -,Crossley Mayu,,,,,,,1,,
-19:30,Smejkal Lara,,,,,,,0,5.83,1.08
+19:30,Smejkal Lara,,,,,,,0,5.72,1.09
 -,Karatancheva Lia,,,,,,,0,,
-19:30,Martinez Cirez Carlota,,,,,,,0,1.61,1.99
+19:30,Martinez Cirez Carlota,,,,,,,0,1.85,1.82
 -,Grabher Julia,,,,,,,0,,
-19:30,Miller Karina,,,,,,,0,1.51,2.36
+19:30,Miller Karina,,,,,,,0,1.67,2.00
 -,Urhobo Akasha,,,,,,,0,,
-19:30,Osuigwe Whitney,,,,,,,0,1.17,4.42
+19:30,Osuigwe Whitney,,,,,,,0,1.22,3.61
 -,El Aouni Aya,,,,,,,0,,
 Time,Caloundra ITF,S,1,2,3,4,5,H2H,H,A,header
 01:00,Sato Hikaru,2,6,6,,,,,1.20,4.08
@@ -71,170 +71,170 @@ Time,Caloundra ITF,S,1,2,3,4,5,H2H,H,A,header
 -,Hule Petra,0,4,4,,,,,,
 01:35,Chaudhari Vaidehi,2,6,6,,,,,2.16,1.60
 -,Lu Jia-Jing,0,1,2,,,,,,
-02:50,Shimizu Eri,,,,,,,0,1.99,1.72
--,Bozovic Alexandra,,,,,,,0,,
+02:50,Bozovic Alexandra,2,6,4,7,,,,1.72,1.99
+-,Shimizu Eri,1,1,6,5,,,,,
 03:05,Raina Ankita,2,6,6,,,,,1.14,4.83
 -,Taylor Lily,0,3,3,,,,,,
 03:45,Costoulas Sofia,2,7,6,,,,,1.86,1.82
 -,Cabrera Lizette,0,5,3,,,,,,
 03:50,Sakatsume Himeno,2,6,6,,,,,1.24,3.61
 -,Naito Yuki,0,0,3,,,,,,
-05:45,Hon Priscilla,,,,,,,0,1.20,4.05
--,Arakawa Haruna,,,,,,,0,,
-05:50,Yuan Chengyiyi,,,,,,,0,2.48,1.47
--,Kozaki Funa,,,,,,,0,,
-06:15,Yang Ya-Yi,,,,,,,0,3.93,1.20
--,Ercan Melisa,,,,,,,0,,
+05:45,Hon Priscilla,2,6,6,,,,,1.20,4.05
+-,Arakawa Haruna,0,3,1,,,,,,
+06:00,Kozaki Funa,2,5,7,7,,,,1.47,2.49
+-,Yuan Chengyiyi,1,7,63,5,,,,,
+06:50,Ercan Melisa,2,7,7,,,,,1.20,3.93
+-,Yang Ya-Yi,0,63,5,,,,,,
 Time,Trnava 5 ITF,S,1,2,3,4,5,H2H,H,A,header
-10:00,Toth Amarissa,,,,,,,0,3.35,1.27
+10:00,Toth Amarissa,,,,,,,0,3.24,1.27
 -,Rodionova Arina,,,,,,,0,,
-10:00,Joint Maya,,,,,,,0,1.05,7.04
--,Zhabrailova Milana,,,,,,,0,,
-11:00,Dodin Oceane,,,,,,,0,1.09,5.65
+10:00,Joint Maya,2,6,6,,,,,1.05,7.89
+-,Zhabrailova Milana,0,1,0,,,,,,
+11:00,Dodin Oceane,,,,,,,0,1.09,5.84
 -,Yashina Ekaterina,,,,,,,0,,
-11:30,Salkova Dominika,,,,,,,0,1.31,2.86
+11:30,Salkova Dominika,,,,,,,0,1.31,3.06
 -,Sobolieva Anastasiia,,,,,,,0,,
-11:30,Banks Amarni,,,,,,,0,1.30,2.96
+11:40,Banks Amarni,,,,,,,0,1.27,3.47
 -,Shinikova Isabella,,,,,,,0,,
-12:30,Ruzic Antonia,,,,,,,1,1.26,3.15
+12:30,Ruzic Antonia,,,,,,,1,1.34,2.88
 -,Struplova Julie,,,,,,,0,,
-13:00,Jakupovic Dalila,,,,,,,0,3.84,1.22
--,Valentova Tereza,,,,,,,0,,
-13:00,Quevedo Kaitlin,,,,,,,0,2.77,1.33
+13:00,Quevedo Kaitlin,,,,,,,0,2.33,1.51
 -,Birrell Kimberly,,,,,,,0,,
+13:10,Jakupovic Dalila,,,,,,,0,4.29,1.18
+-,Valentova Tereza,,,,,,,0,,
 Time,Lousada ITF,S,1,2,3,4,5,H2H,H,A,header
-11:00,Podrez Veronika,,,,,,,0,1.62,2.15
+11:00,Podrez Veronika,,,,,,,0,1.79,1.97
 -,Iatcenko Polina,,,,,,,0,,
-11:00,Brockmann Tessa Johanna,,,,,,,0,2.17,1.60
+11:00,Brockmann Tessa Johanna,,,,,,,0,2.08,1.61
 -,Zantedeschi Aurora,,,,,,,0,,
-12:30,Hobgarski Katharina,,,,,,,1,1.35,2.88
+12:30,Hobgarski Katharina,,,,,,,1,1.36,2.76
 -,Kulambayeva Zhibek,,,,,,,0,,
-12:30,Schmidt Antonia,,,,,,,0,4.09,1.19
+12:30,Schmidt Antonia,,,,,,,0,3.77,1.21
 -,Vandewinkel Hanne,,,,,,,1,,
-14:00,Jorge Matilde,,,,,,,0,2.32,1.53
+14:00,Jorge Matilde,,,,,,,0,1.87,1.78
 -,Lazaro Garcia Andrea,,,,,,,1,,
-14:00,Tig Patricia Maria,,,,,,,0,1.06,6.53
+14:00,Tig Patricia Maria,,,,,,,0,1.06,6.79
 -,Vrancken Peeters Anouck,,,,,,,0,,
-15:30,Bandecchi Susan,,,,,,,0,1.05,8.44
+15:30,Bandecchi Susan,,,,,,,0,1.04,8.99
 -,Stromquist Tilde,,,,,,,0,,
-15:30,Daniel Jaeda,,,,,,,0,4.06,1.19
+15:30,Daniel Jaeda,,,,,,,0,4.55,1.14
 -,Kubka Martyna,,,,,,,0,,
 Time,Santo Domingo 10 ITF,S,1,2,3,4,5,H2H,H,A,header
-14:30,Ngounoue Clervie,,,,,,,0,1.12,5.29
+14:30,Ngounoue Clervie,,,,,,,0,1.11,5.44
 -,Zhu Amy,,,,,,,0,,
-14:30,Kuwata Hiroko,,,,,,,0,1.60,2.15
+14:30,Kuwata Hiroko,,,,,,,0,1.69,2.03
 -,Plekhanova Dasha,,,,,,,0,,
-14:30,Kudashova Daria,,,,,,,0,1.57,2.22
+14:30,Kudashova Daria,,,,,,,0,1.57,2.21
 -,Buyukakcay Cagla,,,,,,,0,,
-14:30,Lemaitre Tiphanie,,,,,,,1,2.15,1.60
+14:30,Lemaitre Tiphanie,,,,,,,1,2.15,1.61
 -,Sanchez Ana Sofia,,,,,,,0,,
-15:00,Kung Leonie,,,,,,,0,1.43,2.59
+15:00,Kung Leonie,,,,,,,0,1.51,2.38
 -,Lincer Olivia,,,,,,,0,,
-16:00,Frayman Daria,,,,,,,0,2.32,1.53
+16:00,Frayman Daria,,,,,,,0,2.21,1.59
 -,Brace Cadence,,,,,,,0,,
-16:00,Rodriguez Victoria,,,,,,,0,1.71,1.98
+16:00,Rodriguez Victoria,,,,,,,0,1.72,1.98
 -,Gimbrere Jasmijn,,,,,,,0,,
-16:00,Daavettila Sara,,,,,,,0,1.62,2.12
+16:00,Daavettila Sara,,,,,,,0,1.61,2.16
 -,Visscher Stephanie Judith,,,,,,,0,,
 Time,Alcala de Henares ITF,S,1,2,3,4,5,H2H,H,A,header
-09:45,Tsygourova Katerina,,,,,,,0,1.40,2.68
--,Jialin Tian,,,,,,,0,,
+09:45,Van De Peer Vicky,,,,,,,0,1.39,2.71
+-,Ferrer Claudia,,,,,,,0,,
 09:45,Mansfield Kate,,,,,,,0,1.66,2.08
 -,Hertel Anna,,,,,,,0,,
-10:00,Van De Peer Vicky,,,,,,,0,1.39,2.69
--,Ferrer Claudia,,,,,,,0,,
-10:00,Perello Saavedra Judith,,,,,,,0,,
--,Cervino Ruiz Celia,,,,,,,2,,
-11:15,Mair Laura,,,,,,,0,1.96,1.73
+09:45,Jialin Tian,2,6,6,,,,,2.67,1.40
+-,Tsygourova Katerina,0,3,0,,,,,,
+10:00,Cervino Ruiz Celia,2,6,6,,,,,1.38,2.73
+-,Perello Saavedra Judith,0,2,2,,,,,,
+11:20,Mair Laura,,,,,,,0,1.99,1.73
 -,Rey Garcia Alba,,,,,,,0,,
-11:15,Zund Sylvie,,,,,,,0,2.20,1.59
+11:25,Zund Sylvie,,,,,,,0,2.22,1.58
 -,Kalyakina Maria,,,,,,,0,,
-11:30,Mdlulwa Wozuko,,,,,,,0,3.63,1.24
+11:30,Mdlulwa Wozuko,,,,,,,0,3.62,1.24
 -,Leclercq Maelle,,,,,,,0,,
-11:30,Iamachkine Anastasia,,,,,,,0,1.83,1.84
+11:30,Iamachkine Anastasia,,,,,,,0,1.84,1.84
 -,Aristegui Mercedes,,,,,,,0,,
 Time,Antalya 50 ITF,S,1,2,3,4,5,H2H,H,A,header
-08:00,Sauvant Chantal,,,,,,,0,1.08,6.59
--,Bosaia Erika,,,,,,,0,,
-08:00,Celebrini Charlize,,,,,,,0,2.91,1.35
--,Szabo Briana,,,,,,,0,,
-08:00,Ruan Zi Ying,,,,,,,0,3.35,1.28
--,Sevcikova Linda,,,,,,,1,,
-09:30,Zolotareva Rada,,,,,,,0,1.58,2.21
--,Tagger Lilli,,,,,,,0,,
-09:30,Boehner Laura,,,,,,,0,7.13,1.07
--,Lovric Pia,,,,,,,0,,
-09:30,Lim Alize,,,,,,,0,1.57,2.23
--,Rivkin Nicole,,,,,,,0,,
-09:30,Schoppe Ellie,,,,,,,0,1.98,1.72
--,Lagaev Nadia,,,,,,,0,,
-09:30,Dols Sara,,,,,,,0,1.79,1.88
+07:50,Sauvant Chantal,1,6,5,,,,0,1.09,6.05
+-,Bosaia Erika,0,3,2,,,,0,,
+08:00,Szabo Briana,2,6,6,,,,,1.35,2.91
+-,Celebrini Charlize,0,1,4,,,,,,
+08:00,Ruan Zi Ying,1,7,5,,,,0,3.34,1.28
+-,Sevcikova Linda,0,5,2,,,,1,,
+09:35,Lim Alize,0,1,,,,,0,1.56,2.23
+-,Rivkin Nicole,0,5,,,,,0,,
+09:50,Zolotareva Rada,0,0,,,,,0,1.58,2.21
+-,Tagger Lilli,0,0,,,,,0,,
+09:50,Schoppe Ellie,0,0,,,,,0,1.98,1.72
+-,Lagaev Nadia,0,0,,,,,0,,
+10:00,Dols Sara,,,,,,,0,1.80,1.89
 -,Vlckova Karolina,,,,,,,0,,
+10:15,Boehner Laura,,,,,,,0,6.90,1.07
+-,Lovric Pia,,,,,,,0,,
 Time,Cordoba 6 ITF,S,1,2,3,4,5,H2H,H,A,header
-14:00,Meabe Sofia,,,,,,,0,2.94,1.35
+14:00,Meabe Sofia,,,,,,,0,2.96,1.34
 -,Romero Camila,,,,,,,0,,
-14:00,Bonardi Berta,,,,,,,0,1.11,5.39
+14:00,Bonardi Berta,,,,,,,0,1.12,5.33
 -,Alvarez Brandon Maria Sol,,,,,,,0,,
-14:00,Giovannini Luisina,,,,,,,0,1.02,10.12
+14:00,Giovannini Luisina,,,,,,,0,1.02,10.03
 -,Gomez Pezuela Cano Marian,,,,,,,0,,
-14:00,González Daniele Justina María,,,,,,,1,4.50,1.12
--,Urrutia Maria Florencia,,,,,,,1,,
-14:00,Bulbarella Marina,,,,,,,2,5.03,1.13
+14:00,Bulbarella Marina,,,,,,,2,4.97,1.13
 -,Markus Carla,,,,,,,0,,
-15:30,Dourado Zimermman Jennifer Rosa,,,,,,,0,1.72,1.98
+15:30,Dourado Zimermman Jennifer Rosa,,,,,,,0,1.72,1.99
 -,Rabin Sol,,,,,,,1,,
+15:30,González Daniele Justina María,,,,,,,1,4.82,1.13
+-,Urrutia Maria Florencia,,,,,,,1,,
 15:30,Le Bozec Marine,,,,,,,0,1.49,2.43
 -,Marchesini Maria Victoria,,,,,,,0,,
-17:00,Maruca Melina Maria,,,,,,,0,7.97,1.05
+17:00,Maruca Melina Maria,,,,,,,0,7.83,1.05
 -,Sousa Salazar Natalia,,,,,,,0,,
 Time,Heraklion 13 ITF,S,1,2,3,4,5,H2H,H,A,header
-09:00,Sakellaridi Sapfo,,,,,,,0,1.27,3.35
--,Korokozidi Elena,,,,,,,2,,
-09:00,Ignatjeva Margarita,,,,,,,0,4.94,1.13
--,Pavlou Dimitra,,,,,,,0,,
-09:00,Hoste Ferrer Claudia,,,,,,,0,,
--,Sukhotina Anastasia,,,,,,,0,,
-09:00,Gae Mara,,,,,,,0,,
--,Vukovic Draginja,,,,,,,0,,
-09:00,Urbanova Lucie,,,,,,,0,1.58,2.21
+09:00,Urbanova Lucie,,,,,,,0,1.59,2.18
 -,Smekalova Magdalena,,,,,,,0,,
-09:00,Ceschi Gloria,,,,,,,0,1.83,1.83
+09:00,Ceschi Gloria,,,,,,,0,1.84,1.84
 -,Svatikova Laura,,,,,,,0,,
-09:00,Laki Michaela,,,,,,,0,,
+09:00,Pavlou Dimitra,2,6,6,,,,,1.13,4.96
+-,Ignatjeva Margarita,0,1,3,,,,,,
+09:00,Vukovic Draginja,2,6,6,,,,,2.13,1.61
+-,Gae Mara,0,3,4,,,,,,
+09:00,Sakellaridi Sapfo,2,6,6,,,,,1.27,3.36
+-,Korokozidi Elena,0,4,0,,,,,,
+10:35,Hoste Ferrer Claudia,,,,,,,0,1.94,1.74
+-,Sukhotina Anastasia,,,,,,,0,,
+10:50,Laki Michaela,,,,,,,0,,
 -,Masic Mila,,,,,,,0,,
-10:30,Proimaki Myrto,,,,,,,0,8.00,1.00
+11:20,Proimaki Myrto,,,,,,,0,9.50,1.00
 -,Simion Oana Georgeta,,,,,,,0,,
 Time,Monastir 11 ITF,S,1,2,3,4,5,H2H,H,A,header
-09:30,Guth Mara,,,,,,,0,1.32,3.08
--,Daems Josy,,,,,,,1,,
-09:30,Prisacariu Andreea,,,,,,,0,1.08,6.61
--,Plaza Araujo Luana,,,,,,,0,,
-09:30,Adams Julia,,,,,,,0,1.72,1.98
+09:30,Adams Julia,,,,,,,0,1.72,1.99
 -,Vogt Marie,,,,,,,0,,
-10:00,Lollia Mathilde,,,,,,,0,,
--,Desai Zeel,,,,,,,0,,
-11:00,Petretic Laia,,,,,,,0,1.84,1.83
--,Sacco Federica,,,,,,,0,,
-11:00,Villet Marie,,,,,,,0,6.62,1.08
+09:30,Guth Mara,2,6,6,,,,,1.32,3.08
+-,Daems Josy,0,1,3,,,,,,
+09:30,Prisacariu Andreea,2,6,6,,,,,1.08,6.59
+-,Plaza Araujo Luana,0,1,4,,,,,,
+09:30,Lollia Mathilde,2,6,6,,,,,2.65,1.40
+-,Desai Zeel,0,3,3,,,,,,
+11:10,Villet Marie,,,,,,,0,6.75,1.07
 -,Hosogi Sakura,,,,,,,0,,
-11:00,Bulatova Arina,,,,,,,0,1.19,4.10
+11:15,Petretic Laia,,,,,,,0,1.93,1.76
+-,Sacco Federica,,,,,,,0,,
+11:30,Bulatova Arina,,,,,,,0,1.19,4.06
 -,Stamatova Julia,,,,,,,0,,
-11:00,Soulie Alice,,,,,,,0,3.33,1.27
+11:30,Soulie Alice,,,,,,,0,3.35,1.27
 -,Oluwadare Hephzibah,,,,,,,0,,
 Time,Sharm El Sheikh 21 ITF,S,1,2,3,4,5,H2H,H,A,header
-09:00,De Zeeuw Joy,,,,,,,0,1.84,1.84
+09:00,De Zeeuw Joy,,,,,,,0,1.83,1.85
 -,Jang Gaeul,,,,,,,0,,
-09:00,Kardava Zoziya,,,,,,,0,1.76,1.93
--,Kummel Alisa,,,,,,,0,,
-09:00,Rudiukova Nina,,,,,,,0,,
--,Sidorova Kristiana,,,,,,,0,,
-09:00,Van Emst Sarah,,,,,,,0,,
+09:00,Sidorova Kristiana,2,1,6,6,,,,1.10,5.72
+-,Rudiukova Nina,1,6,1,2,,,,,
+09:00,Kummel Alisa,2,6,6,,,,,1.91,1.78
+-,Kardava Zoziya,0,1,1,,,,,,
+10:00,Van Emst Sarah,,,,,,,0,1.44,2.55
 -,Yersh Kseniya,,,,,,,0,,
-10:30,Samir Sandra,,,,,,,1,1.40,2.68
--,Lazarenko Kateryna,,,,,,,0,,
-10:30,Bataikina Kira,,,,,,,0,2.63,1.42
+10:25,Bataikina Kira,,,,,,,0,2.64,1.41
 -,Kuharenko Polina,,,,,,,0,,
-10:30,Fedorova Aglaya,,,,,,,0,2.16,1.60
+10:50,Fedorova Aglaya,,,,,,,0,2.17,1.60
 -,Sebestova Ivana,,,,,,,0,,
-12:00,Drozd Maya,,,,,,,1,7.14,1.07
+11:30,Samir Sandra,,,,,,,1,1.40,2.70
+-,Lazarenko Kateryna,,,,,,,0,,
+13:00,Drozd Maya,,,,,,,1,7.15,1.07
 -,Rushiti Arlinda,,,,,,,0,,
