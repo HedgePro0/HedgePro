@@ -1,12 +1,12 @@
 Time,Rovereto challenger,S,1,2,3,4,5,H2H,H,A,header
-16:30,Landaluce Martin,,,,,,,0,1.50,2.38
+16:30,Landaluce Martin,,,,,,,0,1.50,2.41
 -,Nardi Luca,,,,,,,0,,
-18:00,Maestrelli Francesco,,,,,,,0,2.33,1.55
+18:00,Maestrelli Francesco,,,,,,,0,2.34,1.54
 -,Holmgren August,,,,,,,0,,
 Time,Sao Paulo 7 challenger,S,1,2,3,4,5,H2H,H,A,header
-15:00,Barrios Vera Marcelo Tomas,,,,,,,2,1.77,1.86
+15:00,Barrios Vera Marcelo Tomas,,,,,,,2,1.92,1.81
 -,Tirante Thiago Agustin,,,,,,,1,,
-16:30,Soto Matias,,,,,,,0,2.54,1.44
+16:30,Soto Matias,,,,,,,0,2.56,1.44
 -,Comesana Francisco,,,,,,,0,,
 Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
 02:05,Tu Li,2,6,6,,,,,1.86,1.88
@@ -17,18 +17,20 @@ Time,Yokohama challenger,S,1,2,3,4,5,H2H,H,A,header
 -,McCabe James,1,61,7,2,,,,,
 03:20,Lestienne Constant,2,6,6,,,,,1.41,2.76
 -,Zakharov Alexey,0,4,2,,,,,,
-05:15,Lestienne Constant,,,,,,,-,,
--,Tu Li,,,,,,,-,,
+07:10,Lestienne Constant,,,,,,,0,1.72,2.03
+-,Tu Li,,,,,,,0,,
+07:35,Shimizu Yuta,,,,,,,0,2.17,1.63
+-,Hassan Benjamin,,,,,,,0,,
 Time,Montemar challenger,S,1,2,3,4,5,H2H,H,A,header
-11:00,Fognini Fabio,,,,,,,0,1.39,2.85
+11:00,Fognini Fabio,,,,,,,0,1.38,2.90
 -,Montes-De La Torre Inaki,,,,,,,0,,
-12:30,Martin Tiffon Pol,,,,,,,0,1.86,1.86
+12:30,Martin Tiffon Pol,,,,,,,0,1.93,1.80
 -,Neumayer Lukas,,,,,,,0,,
 Time,Puerto Vallarta challenger,S,1,2,3,4,5,H2H,H,A,header
 02:10,Basavareddy Nishesh,2,7,6,,,,,1.13,5.50
 -,Ilagan Andre,0,64,0,,,,,,
-04:15,Rosenkranz Mats,,,,,,,0,1.44,2.65
--,Alvarez Valdes Luis Carlos,,,,,,,0,,
+04:15,Alvarez Valdes Luis Carlos,2,6,6,,,,,2.65,1.44
+-,Rosenkranz Mats,0,2,3,,,,,,
 23:00,Kuzmanov Dimitar,,,,,,,0,1.61,1.01
 -,Draxl Liam,,,,,,,0,,
 Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
@@ -44,13 +46,13 @@ Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
 -,Marinkov Pavle,0,4,0,,,,,,
 02:30,Ellis Blake,2,6,6,,,,,1.13,5.06
 -,Klintcharov Alexander,0,1,4,,,,,,
-02:35,Sheehy Joshua,,,,,,,0,3.06,1.33
--,Dellavedova Matthew,,,,,,,0,,
+02:35,Dellavedova Matthew,2,4,7,11,,,,1.33,3.06
+-,Sheehy Joshua,1,6,66,9,,,,,
 05:15,Mochizuki Yuki,2,6,6,,,,,1.80,1.91
 -,Hudd Emile,0,3,2,,,,,,
-06:00,Chappell Nick,,,,,,,1,2.34,1.53
--,Bobrov Bogdan,,,,,,,3,,
-07:30,Sultanov Khumoun,,,,,,,1,1.10,5.73
+06:00,Bobrov Bogdan,2,6,6,,,,,1.53,2.34
+-,Chappell Nick,0,3,0,,,,,,
+07:35,Sultanov Khumoun,,,,,,,1,1.10,5.73
 -,Javia Dev,,,,,,,0,,
 08:00,Aksu Cengiz,1,3,6,0,,,0,4.70,1.13
 -,Fatic Nerman,1,6,3,3,,,0,,
@@ -60,39 +62,39 @@ Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
 -,Cekirge Kuzey,0,4,2,,,,0,,
 10:00,Mazza Manuel,,,,,,,0,3.61,1.24
 -,Cretu Cezar (2001),,,,,,,0,,
-10:00,Kolar Zdenek,,,,,,,0,1.35,2.95
+10:00,Kolar Zdenek,,,,,,,0,1.34,2.94
 -,Handel Tim,,,,,,,0,,
-10:00,Iannaccone Federico,,,,,,,0,1.66,2.09
+10:00,Iannaccone Federico,,,,,,,0,1.66,2.08
 -,Erel Yanki,,,,,,,0,,
-10:00,Peniston Ryan,,,,,,,0,1.60,2.18
+10:00,Peniston Ryan,,,,,,,0,1.60,2.17
 -,Sharipov Marat (2002),,,,,,,0,,
-11:30,Onclin Gauthier,,,,,,,1,1.43,2.59
+11:30,Onclin Gauthier,,,,,,,1,1.46,2.51
 -,Araujo Pedro (2002),,,,,,,0,,
 13:00,Echeverria John,,,,,,,0,2.26,1.56
 -,Silva Frederico Ferreira,,,,,,,0,,
-17:00,Dostanic Stefan,,,,,,,0,1.67,2.08
+17:00,Dostanic Stefan,,,,,,,0,1.58,2.22
 -,Gray Alastair,,,,,,,0,,
-17:00,Bailly Pierre Yves,,,,,,,0,1.72,2.00
+17:00,Bailly Pierre Yves,,,,,,,0,1.64,2.12
 -,Vale Duarte,,,,,,,0,,
 09:00,Gengel Marek,,,,,,,3,1.23,3.67
 -,Binda Alexandr,,,,,,,0,,
-09:00,Zakaryia Faris,,,,,,,0,2.90,1.35
+09:00,Zakaryia Faris,,,,,,,0,2.89,1.35
 -,Ursu Vadym,,,,,,,0,,
-09:00,Soriano Barrera Adria,,,,,,,0,1.05,7.87
+09:00,Soriano Barrera Adria,,,,,,,0,1.05,7.76
 -,Efstathiou Menelaos,,,,,,,0,,
 09:30,Khoeblal Elgin,,,,,,,0,2.24,1.56
 -,Bondioli Federico,,,,,,,1,,
-09:30,Planinsek Filip Jeff,,,,,,,0,1.51,2.36
+09:30,Planinsek Filip Jeff,,,,,,,0,1.51,2.35
 -,Lumsden Ewen,,,,,,,0,,
-10:30,Orlov Vladyslav,,,,,,,3,3.27,1.29
+10:30,Orlov Vladyslav,,,,,,,3,3.26,1.29
 -,Krutykh Oleksii,,,,,,,0,,
 11:00,Strombachs Robert,,,,,,,0,1.10,5.73
 -,Bojarski Alan,,,,,,,0,,
 11:30,Paris Tom,,,,,,,0,1.56,2.24
 -,Barreto Sanchez Diego Augusto,,,,,,,0,,
-11:30,Bonsach Ganley Kane,,,,,,,0,2.59,1.43
+11:30,Bonsach Ganley Kane,,,,,,,0,2.58,1.43
 -,Basile Pierluigi,,,,,,,0,,
-12:30,Anderson Oliver Clark,,,,,,,0,1.15,4.49
+12:30,Anderson Oliver Clark,,,,,,,0,1.15,4.53
 -,Duhan Chirag,,,,,,,0,,
 15:00,Stater Alexander,,,,,,,0,3.78,1.21
 -,Aguilar Juan Carlos,,,,,,,0,,
@@ -108,8 +110,19 @@ Time,Futures 2024,S,1,2,3,4,5,H2H,H,A,header
 -,Barrena Alex,,,,,,,1,,
 17:00,Strode Isaiah,,,,,,,0,2.56,1.44
 -,Azkara Arda,,,,,,,0,,
-17:00,Lock Benjamin,,,,,,,0,1.10,5.77
+17:00,Lock Benjamin,,,,,,,0,1.10,5.76
 -,Van Orderlain Drew,,,,,,,0,,
+Time,UTR Pro Tennis Series 3,S,1,2,3,4,5,H2H,H,A,header
+00:00,Apltauer Filip,2,6,6,,,,,2.10,1.67
+-,Loncarevic Andrej,0,4,3,,,,,,
+15:30,Bowden Louis,,,,,,,1,1.67,2.10
+-,Koenig Luc,,,,,,,1,,
+15:30,Newton James,,,,,,,0,1.80,1.91
+-,Apltauer Filip,,,,,,,0,,
+15:30,Alonso Julian (2005),,,,,,,0,1.62,2.20
+-,Pallegar Arin,,,,,,,0,,
+17:00,Quirijns Kaj,,,,,,,0,1.83,1.83
+-,Zamani Arman,,,,,,,0,,
 Time,UTR Pro Tennis Series 6,S,1,2,3,4,5,H2H,H,A,header
 06:00,Goransson Andre,,,,,,,0,1.53,2.38
 -,Siniakov Daniel,,,,,,,0,,
@@ -117,18 +130,18 @@ Time,UTR Pro Tennis Series 6,S,1,2,3,4,5,H2H,H,A,header
 -,Maute Jannik,,,,,,,0,,
 06:00,Pankin Semen,,,,,,,0,2.75,1.40
 -,Korolev Vladimir,,,,,,,0,,
-07:00,Vojinovic Lazar,,,,,,,0,2.75,1.40
--,Tadic Vladan,,,,,,,1,,
 07:30,Cherie Ligniere Edoardo,,,,,,,0,1.83,1.83
 -,Verbeek Sem,,,,,,,0,,
 07:30,Alkotop Mousa,,,,,,,0,1.40,2.75
 -,Keisidis Christos,,,,,,,0,,
+07:30,Vojinovic Lazar,,,,,,,0,2.75,1.40
+-,Tadic Vladan,,,,,,,1,,
 09:00,Nucera Thomas,,,,,,,0,2.10,1.67
 -,Vidal Nicola,,,,,,,0,,
-09:00,Malesevic Nemanja,,,,,,,0,1.36,3.00
+10:30,Malesevic Nemanja,,,,,,,0,1.36,3.00
 -,Fekete Janos,,,,,,,0,,
 Time,Davis Cup,S,1,2,3,4,5,H2H,H,A,header
-13:00,Musetti Lorenzo,,,,,,,1,1.80,1.91
+13:15,Musetti Lorenzo,,,,,,,1,1.84,1.89
 -,Kokkinakis Thanasi,,,,,,,0,,
-14:50,Sinner Jannik,,,,,,,8,1.06,8.00
+14:50,Sinner Jannik,,,,,,,8,1.06,8.58
 -,De Minaur Alex,,,,,,,0,,
