@@ -1,18 +1,165 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Boca Raton,clay,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
 ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
 ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
 CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Boca Raton,clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Boca Raton,clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Boca Raton,clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Boca Raton,clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+ITF MEN - SINGLES :  M15 Huamantla 7 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Huamantla 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Boca Raton,clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 14 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
+ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
+CHALLENGER MEN - SINGLES :  Charleston (USA) - Qualification,hard,header
+22.09.2024,Bertran P.,0,4,3,,,,1,8,53%,52% (16/31),33% (9/27),43% (6/14),37% (17/46),60% (15/25),71% (5/7),39% (27/69),48% (31/64),44% (58/133),4,0,20% (2/10),50% (5/10),35% (7/20),"['1', '0', '2', '1']","['1', '2', '2', '3']",[],[],[],2.12
+22.09.2024,Artnak B.,2,6,6,,,,5,4,65%,63% (29/46),40% (10/25),29% (2/7),48% (15/31),63% (17/27),57% (8/14),52% (33/64),61% (42/69),56% (75/133),6,0,50% (5/10),80% (8/10),65% (13/20),"['1', '1', '2', '2', '6', '4']","['2', '0', '3', '1', '4', '2']",[],[],[],1.67
 CHALLENGER MEN - SINGLES :  Cali (Colombia),clay,header
+18.09.2024,Bertran P.,1,4,6,0,,,5,11,51%,65% (33/51),47% (23/49),69% (9/13),17% (6/36),41% (17/41),25% (1/4),56% (56/100),30% (23/77),45% (79/177),2,0,69% (9/13),8% (1/13),38% (10/26),[],"['4', '3']",[],[],[],4.21
+18.09.2024,Ficovich J. P.,2,6,4,6,,,4,6,47%,83% (30/36),59% (24/41),75% (3/4),35% (18/51),53% (26/49),31% (4/13),70% (54/77),44% (44/100),55% (98/177),8,0,92% (12/13),31% (4/13),62% (16/26),"['6', '4']",[],"['2', '0', '4', '0', '6', '0']",[],[],1.21
 CHALLENGER MEN - SINGLES :  Cali (Colombia) - Qualification,clay,header
 ITF MEN - SINGLES :  M25 Arequipa 2 (Peru),clay,header
 CHALLENGER MEN - SINGLES :  Santo Domingo (Dominican Republic),clay,header
+13.08.2024,Bertran P.,0,3,2,,,,2,3,60%,58% (19/33),41% (9/22),50% (4/8),0 km/h,0 km/h,25% (7/28),38% (10/26),33% (1/3),51% (28/55),31% (17/54),41% (45/109),2,0,50% (4/8),11% (1/9),29% (5/17),[],"['2', '0']",[],[],[],3.31
+13.08.2024,Ficovich J. P.,2,6,6,,,,2,2,52%,75% (21/28),62% (16/26),67% (2/3),0 km/h,0 km/h,42% (14/33),59% (13/22),50% (4/8),69% (37/54),49% (27/55),59% (64/109),8,0,89% (8/9),50% (4/8),71% (12/17),"['4', '2']","['1', '2', '3', '2', '5', '2']",[],[],[],1.31
 ITF MEN - SINGLES :  M15 Huamantla 3 (Mexico),hard,header
 ITF MEN - SINGLES :  M15 Huamantla 2 (Mexico),hard,header
 ITF MEN - SINGLES :  M25 Sao Paulo (Brazil),clay,header
 ATP - SINGLES :  Davis Cup - Group III (World) - Play Offs,-,header
 ATP - SINGLES :  Davis Cup - Group III (World),-,header
 ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Kingston 3 (Jamaica),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ITF MEN - SINGLES :  M25 Anapoima (Colombia),clay,header
+ITF MEN - SINGLES :  M25 Mosquera (Colombia),clay,header
+CHALLENGER MEN - SINGLES :  Sarasota (USA) - Qualification,clay,header
+07.04.2024,Bertran P.,1,6^9,6,4,,,6,8,55%,67% (40/60),51% (25/49),50% (4/8),37% (27/73),57% (24/42),33% (5/15),60% (65/109),44% (51/115),52% (116/224),5,2,73% (11/15),31% (5/16),52% (16/31),"['2', '2', '4', '2']","['2', '1', '6', '3']","['3', '5']",[],[],3.37
+07.04.2024,Denolly C.,2,7^11,3,6,,,2,8,63%,63% (46/73),43% (18/42),67% (10/15),33% (20/60),49% (24/49),50% (4/8),56% (64/115),40% (44/109),48% (108/224),5,0,69% (11/16),27% (4/15),48% (15/31),"['2', '1', '4', '5']",[],"['1', '0', '3', '0']",[],[],1.30
+CHALLENGER MEN - SINGLES :  Sao Leopoldo (Brazil) - Qualification,clay,header
+24.03.2024,Bertran P.,0,1,1,,,,0,9,62%,41% (12/29),39% (7/18),38% (3/8),25% (7/28),11% (1/9),0% (0/1),40% (19/47),22% (8/37),32% (27/84),3,2,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],4.74
+24.03.2024,Torres J. B.,2,6,6,,,,0,0,76%,75% (21/28),89% (8/9),100% (1/1),59% (17/29),61% (11/18),63% (5/8),78% (29/37),60% (28/47),68% (57/84),7,0,100% (7/7),71% (5/7),86% (12/14),"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.17
+ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Palm Coast,clay,header
+ITF MEN - SINGLES :  M15 Sunrise,clay,header
+ITF MEN - SINGLES :  M25 Wesley Chapel,hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 3 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Monastir 37 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 35 (Tunisia),hard,header
+CHALLENGER MEN - SINGLES :  Santo Domingo (Dominican Republic),clay,header
+11.08.2023,Bertran P.,0,1,3,,,,0,3,59%,55% (16/29),40% (8/20),43% (3/7),24% (8/34),35% (6/17),0% (0/2),49% (24/49),27% (14/51),38% (38/100),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],10.80
+11.08.2023,Meligeni Alves F.,2,6,6,,,,4,2,67%,76% (26/34),65% (11/17),100% (2/2),45% (13/29),60% (12/20),57% (4/7),73% (37/51),51% (25/49),62% (62/100),100% (8/8),50% (4/8),75% (12/16),"['2', '0', '5', '1']","['2', '1', '6', '3']",[],[],[],1.03
+09.08.2023,Bertran P.,2,6,5,6,,,1,10,59%,62% (36/58),60% (24/40),77% (10/13),40% (17/43),47% (17/36),63% (5/8),61% (60/98),43% (34/79),53% (94/177),80% (12/15),36% (5/14),59% (17/29),"['5', '3']","['2', '1']","['1', '0', '3', '2', '5', '2']",[],[],4.60
+09.08.2023,Hardt N.,1,3,7,2,,,3,8,54%,60% (26/43),53% (19/36),38% (3/8),38% (22/58),40% (16/40),23% (3/13),57% (45/79),39% (38/98),47% (83/177),64% (9/14),20% (3/15),41% (12/29),[],"['5', '5', '7', '5']","['1', '1']",[],[],1.18
+ITF MEN - SINGLES :  M25 Champaign,hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 3 (Dominican Republic),hard,header
+ATP - SINGLES :  Davis Cup - Group III (World),-,header
+ITF MEN - SINGLES :  M25 Wichita,hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ITF MEN - SINGLES :  M15 Orange Park,clay,header
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+ITF MEN - SINGLES :  M25 Mosquera (Colombia),clay,header
+ITF MEN - SINGLES :  M25 Anapoima (Colombia),clay,header
+ITF MEN - SINGLES :  M15 Naples,clay,header
+ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ATP - SINGLES :  Davis Cup - World Group II (World) - Preliminary,-,header
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+CHALLENGER MEN - SINGLES :  Champaign (USA) - Qualification,hard,header
+13.11.2022,Bertran P.,1,6,1,4,,,3,3,67%,67% (38/57),43% (12/28),50% (4/8),20% (11/55),55% (16/29),40% (2/5),59% (50/85),32% (27/84),46% (77/169),69% (9/13),14% (2/14),41% (11/27),"['5', '4']",[],"['3', '3']",[],[],1.37
+13.11.2022,Arribage T.,2,4,6,6,,,7,12,65%,80% (44/55),45% (13/29),60% (3/5),33% (19/57),57% (16/28),50% (4/8),68% (57/84),41% (35/85),54% (92/169),86% (12/14),31% (4/13),59% (16/27),[],"['3', '1', '5', '1']","['2', '1', '4', '3']",[],[],2.94
+CHALLENGER MEN - SINGLES :  Knoxville (USA) - Qualification,hard,header
+06.11.2022,Bertran P.,0,2,3,,,,2,3,58%,55% (17/31),55% (12/22),63% (5/8),4% (1/26),21% (3/14),0% (0/0),55% (29/53),10% (4/40),35% (33/93),63% (5/8),0% (0/9),29% (5/17),[],[],[],[],[],2.13
+06.11.2022,Maloney P.,2,6,6,,,,10,2,65%,96% (25/26),79% (11/14),0% (0/0),45% (14/31),45% (10/22),38% (3/8),90% (36/40),45% (24/53),65% (60/93),100% (9/9),38% (3/8),71% (12/17),"['4', '2', '6', '2']","['3', '1']",[],[],[],1.66
+CHALLENGER MEN - SINGLES :  Ambato (Ecuador) - Qualification,clay,header
+17.10.2022,Bertran P.,1,6,3,4,,,9,7,65%,77% (48/62),39% (13/33),80% (8/10),18% (8/45),42% (15/36),50% (1/2),64% (61/95),28% (23/81),48% (84/176),86% (12/14),7% (1/15),45% (13/29),"['2', '1']",[],[],[],[],1.59
+17.10.2022,Pannu K.,2,4,6,6,,,8,6,56%,82% (37/45),58% (21/36),50% (1/2),23% (14/62),61% (20/33),20% (2/10),72% (58/81),36% (34/95),52% (92/176),93% (14/15),14% (2/14),55% (16/29),[],"['5', '3']","['5', '4']",[],[],2.27
+ITF MEN - SINGLES :  M15 Manizales (Colombia),clay,header
+ITF MEN - SINGLES :  M25 Ibague (Colombia),clay,header
+ATP - SINGLES :  Davis Cup - World Group II (World),-,header
+ITF MEN - SINGLES :  M15 Cancun 12 (Mexico),hard,header
+CHALLENGER MEN - SINGLES :  Santo Domingo (Dominican Republic),clay,header
+16.08.2022,Bertran P.,0,4,5,,,,2,1,59%,57% (27/47),56% (18/32),40% (2/5),24% (8/34),20% (4/20),50% (1/2),57% (45/79),22% (12/54),43% (57/133),73% (8/11),9% (1/11),41% (9/22),"['3', '4']",[],[],[],[],4.02
+16.08.2022,Dzumhur D.,2,6,7,,,,0,1,63%,76% (26/34),80% (16/20),50% (1/2),43% (20/47),44% (14/32),60% (3/5),78% (42/54),43% (34/79),57% (76/133),91% (10/11),27% (3/11),59% (13/22),"['3', '1', '6', '4']","['7', '5']",[],[],[],1.22
+ITF MEN - SINGLES :  M25 Edwardsville,hard,header
+ITF MEN - SINGLES :  M25 Champaign,hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 4 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 3 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Cancun 6 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 4 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Vero Beach,clay,header
+ITF MEN - SINGLES :  M15 Orange Park,clay,header
+ITF MEN - SINGLES :  M15 Sunrise,clay,header
+CHALLENGER MEN - SINGLES :  Mexico City (Mexico) - Qualification,clay,header
+04.04.2022,Bertran P.,0,6^6,5,,,,5,6,58%,71% (36/51),46% (17/37),78% (7/9),15% (7/47),63% (20/32),20% (1/5),60% (53/88),34% (27/80),48% (80/168),83% (10/12),8% (1/12),46% (11/24),"['4', '3']",[],[],[],[],3.78
+04.04.2022,Smith K.,2,7^8,7,,,,14,3,59%,85% (40/47),38% (12/32),80% (4/5),29% (15/51),54% (20/37),22% (2/9),66% (53/80),40% (35/88),52% (88/168),92% (11/12),17% (2/12),54% (13/24),"['4', '4']","['6', '5']",[],[],[],1.26
+CHALLENGER MEN - SINGLES :  Santa Cruz 2 (Bolivia) - Qualification,clay,header
+20.03.2022,Bertran P.,0,2,4,,,,1,5,75%,57% (28/49),19% (3/16),50% (5/10),38% (16/42),44% (11/25),22% (2/9),48% (31/65),40% (27/67),44% (58/132),44% (4/9),22% (2/9),33% (6/18),[],"['2', '0', '3', '1']",[],[],[],4.48
+20.03.2022,Torres J. B.,2,6,6,,,,1,2,63%,62% (26/42),56% (14/25),78% (7/9),43% (21/49),81% (13/16),50% (5/10),60% (40/67),52% (34/65),56% (74/132),78% (7/9),56% (5/9),67% (12/18),"['2', '1', '5', '2']","['1', '2', '3', '4', '5', '4']",[],[],[],1.18
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Cancun 3 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 2 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M15 Guatemala (Guatemala),hard,header
+ITF MEN - SINGLES :  M25 Austin,hard,header
+ITF MEN - SINGLES :  M25 Harlingen,hard,header
+ITF MEN - SINGLES :  M15 Cancun 5 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Cancun 4 (Mexico),hard,header
+ITF MEN - SINGLES :  M15 Naples,clay,header
+ITF MEN - SINGLES :  M15 Monastir 36 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 34 (Tunisia),hard,header
+ITF MEN - SINGLES :  M15 Monastir 33 (Tunisia),hard,header
+ITF MEN - SINGLES :  M25 Champaign,hard,header
+ITF MEN - SINGLES :  M15 Edwardsville,hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo 2 (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Santo Domingo (Dominican Republic),hard,header
+ITF MEN - SINGLES :  M25 Pensacola,clay,header
+ITF MEN - SINGLES :  M25 Naples,clay,header
 ITF MEN - SINGLES :  M15 Santo Domingo (Dominican Republic),hard,header

@@ -1,4 +1,30 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Sharm ElSheikh 3 (Egypt),hard,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+06.11.2024,Caniato C. A.,2,6,6,,,,['-'],['-'],['-'],['-'],['-'],4.19
+06.11.2024,Fonio G.,0,3,2,,,,['-'],['-'],['-'],['-'],['-'],1.20
+ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+18.09.2024,Caniato C. A.,1,7,5,2,,,['-'],['-'],['-'],['-'],['-'],3.69
+18.09.2024,Michalski D.,2,5,7,6,,,['-'],['-'],['-'],['-'],['-'],1.25
+17.09.2024,Caniato C. A.,2,6,6,,,,['-'],['-'],['-'],['-'],['-'],1.01
+17.09.2024,Capacci C.,0,4,0,,,,['-'],['-'],['-'],['-'],['-'],9.35
+ITF MEN - SINGLES :  M15 Bologna (Italy),clay,header
+05.09.2024,Caniato C. A.,0,2,6^2,,,,['-'],['-'],['-'],['-'],['-'],1.62
+05.09.2024,Ciavarella N.,2,6,7^7,,,,['-'],['-'],['-'],['-'],['-'],2.20
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M25 Padova (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Modena (Italy) - Qualification,clay,header
 ITF MEN - SINGLES :  M15 San Gregorio di Catania 2 (Italy),clay,header
 ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
 ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
@@ -13,11 +39,20 @@ ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
 ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
 ITF MEN - SINGLES :  M25 Padova (Italy),clay,header
 CHALLENGER MEN - SINGLES :  Modena (Italy) - Qualification,clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania 2 (Italy),clay,header
+ITF MEN - SINGLES :  M15 San Gregorio di Catania (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bol 3 (Croatia),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 10 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 8 (Italy),clay,header
+ITF MEN - SINGLES :  M25 Santa Margherita di Pula 7 (Italy),clay,header
+ITF MEN - SINGLES :  M15 Bologna (Italy),clay,header
+ITF MEN - SINGLES :  M15 Forli (Italy),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 15 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Kursumlijska Banja 14 (Serbia),clay,header
+ITF MEN - SINGLES :  M15 Perugia (Italy),clay,header
+ITF MEN - SINGLES :  M15 Gubbio (Italy),clay,header
+ITF MEN - SINGLES :  M25 Padova (Italy),clay,header
+CHALLENGER MEN - SINGLES :  Modena (Italy) - Qualification,clay,header
+30.06.2024,Caniato C. A.,0,4,4,,,,3,5,65%,63% (30/48),50% (13/26),67% (4/6),16% (6/37),35% (6/17),0% (0/2),58% (43/74),22% (12/54),43% (55/128),4,0,80% (8/10),0% (0/10),40% (8/20),[],[],[],[],[],2.43
+30.06.2024,Erel Y.,2,6,6,,,,3,2,69%,84% (31/37),65% (11/17),100% (2/2),38% (18/48),50% (13/26),33% (2/6),78% (42/54),42% (31/74),57% (73/128),6,0,100% (10/10),20% (2/10),60% (12/20),"['5', '4']","['4', '3']",[],[],[],1.53
 ITF MEN - SINGLES :  M15 Bergamo (Italy),clay,header
-CHALLENGER MEN - SINGLES :  Sassuolo (Italy) - Qualification,clay,header
-ITF MEN - SINGLES :  M15 Cervia (Italy),clay,header
-ITF MEN - SINGLES :  M15 Bucharest (Romania),clay,header
-ITF MEN - SINGLES :  M15 Split (Croatia),clay,header
-ITF MEN - SINGLES :  M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES :  M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES :  M15 Monastir 9 (Tunisia),hard,header
