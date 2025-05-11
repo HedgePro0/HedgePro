@@ -1,0 +1,208 @@
+/* Prediction container styles */
+.prediction-container {
+    margin: 5px 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+/* Prediction styles */
+.prediction-bar {
+    background-color: #f0f0f0;
+    padding: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.prediction-bar:hover {
+    background-color: #e0e0e0;
+}
+
+/* Prediction button styling */
+.prediction-button-cell {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.prediction-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.prediction-button:hover {
+    background-color: #45a049;
+}
+
+/* Prediction form styling */
+.prediction-form-container {
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.prediction-form .form-group {
+    margin-bottom: 15px;
+}
+
+.prediction-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.prediction-form .radio-group {
+    display: flex;
+    gap: 15px;
+}
+
+.prediction-form .score-inputs {
+    display: flex;
+    gap: 15px;
+}
+
+.prediction-form .score-input {
+    flex: 1;
+}
+
+.prediction-form input[type="text"],
+.prediction-form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.prediction-form textarea {
+    height: 80px;
+}
+
+.save-prediction-btn {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.save-prediction-btn:hover {
+    background-color: #0b7dda;
+}
+
+/* User prediction display */
+.user-prediction {
+    background-color: #e8f5e9;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 4px;
+    border-left: 4px solid #4CAF50;
+}
+
+.user-prediction h5 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #2E7D32;
+    font-weight: bold;
+}
+
+.user-prediction ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.user-prediction li {
+    margin-bottom: 5px;
+}
+
+.user-prediction strong {
+    font-weight: bold;
+    color: #2E7D32;
+}
+
+.error-message {
+    color: #f44336;
+    margin-top: 5px;
+}
+
+/* Hide prediction data divs */
+.prediction-data {
+    display: none !important;
+}
+
+/* Refresh button styles */
+.refresh-container {
+    text-align: right;
+    margin: 10px 20px;
+}
+
+.refresh-button {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.refresh-button:hover {
+    background-color: #45a049;
+}
+
+.refresh-button i {
+    margin-right: 5px;
+}
+
+/* Notification styling */
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 25px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    z-index: 1000;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 0.3s, transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.notification.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.notification.success {
+    background-color: #4CAF50;
+}
+
+.notification.error {
+    background-color: #f44336;
+}
+
+/* Disabled button styling */
+.save-prediction-btn:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+

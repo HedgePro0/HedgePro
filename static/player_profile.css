@@ -1,0 +1,210 @@
+@font-face {
+  font-family: "clash display variable";
+  src: url(./fonts/ClashDisplay-Variable.ttf) format("truetype");
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "clash display variable";
+  font-weight: 500;
+}
+
+.all_content {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  gap: 150px;
+  position: relative;
+}
+.all_content .personal_data {
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+}
+.all_content .personal_data .profileImg {
+  height: 15vh;
+  width: 15vh;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.table {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+}
+.table .header {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50vw;
+  background: black;
+  color: white;
+  height: 8vh;
+  border-radius: 10px 10px 0 0;
+  padding: 16px 32px;
+}
+.table .header .surfaceType {
+  background: blue;
+  height: 100%;
+  width: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+.table .container {
+  width: 98vw;
+  background: rgb(215, 215, 215);
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid black;
+}
+.table .container .seperator {
+  height: 100%;
+  width: 1px;
+  background: rgb(0, 0, 0);
+  opacity: 0.5;
+}
+.table .container .player_names {
+  display: flex;
+  align-items: start;
+  gap: 20px;
+  flex-direction: column;
+  width: 8vw;
+}
+.table .container .finalScores {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  font-weight: bold;
+}
+.table .container .scores {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-direction: column;
+  width: 13vw;
+}
+.table .container .scores .player1_scores {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.table .container .scores .player2_scores {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.table .container .breakPoints {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 22vw;
+}
+.table .container .breakPoints .sets {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 0.85rem;
+}
+.table .container .breakPoints .sets .set {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+.table .container .breakPoints .sets .set span:nth-child(1) {
+  font-weight: bold;
+}
+.table .container .finalResult {
+  padding: 28px;
+  background: red;
+  color: black;
+  border-radius: 8px;
+  width: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 6px;
+}
+.table .container .odds {
+  position: relative;
+  width: 4vw;
+}
+.table .container .odds .title {
+  font-size: 0.75rem;
+  border: 1px solid black;
+  padding: 4px 8px;
+  border-radius: 8px;
+  background: black;
+  color: white;
+  position: absolute;
+  opacity: 0.2;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.table .container .spreadCount {
+  width: 1.5vw;
+}
+.table .container .time {
+  width: 7vw;
+}
+.table .container .sets .set div {
+  font-weight: normal;
+  display: flex;
+  font-size: 0.75rem;
+}
+.table .container .aces, .table .container .faults {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  width: 5vw;
+  text-align: center;
+}
+
+.summaryTable {
+  margin-left: 10px;
+  margin-top: -120px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
+.summaryTable .title {
+  background-color: #000;
+  color: white;
+  padding: 8px 16px;
+  justify-content: start;
+}
+.summaryTable .row {
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.summaryTable .row .cols {
+  text-align: center;
+  width: 8vw;
+  box-shadow: inset 0px 0px 1px #000;
+  height: 3.5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .breakPointsSaved, .container .breakPointsConverted, .container .odds {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}/*# sourceMappingURL=player_profile.css.map */
