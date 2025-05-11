@@ -3,8 +3,6 @@ import csv
 import os
 from datetime import timedelta
 from functools import wraps 
-import bcrypt
-import sqlite3
 import json
 from os import listdir
 from os.path import isfile, join
@@ -26,20 +24,7 @@ USERNAME = 'Hedgepro44'
 PASSWORD = '$4$4$4$6'
 app.permanent_session_lifetime = timedelta(days=30)  # Session will last 7 days
 
-DATABASE = "users.db"
-
-def init_db():
-    with sqlite3.connect(DATABASE) as conn:
-        cursor = conn.cursor()
-        cursor.execute('''CREATE TABLE IF NOT EXISTS users (
-                            id INTEGER PRIMARY KEY AUTOINCREMENT,
-                            username TEXT UNIQUE NOT NULL,
-                            password TEXT NOT NULL,
-                            subscription_expiry DATE
-                          )''')
-        conn.commit()
-
-init_db()
+# Remove DATABASE and init_db function and call
 
 # Login Required Decorator
 def login_required(func):
