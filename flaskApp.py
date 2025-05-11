@@ -517,7 +517,7 @@ def searchPlayer():
             return redirect(url_for('player_profile_page', name=player_name.lower()))
     
     # Pass the data to the template
-    return render_template('home.html', 
+    return render_template('landing.html', 
                           today_rows=todayMatchesData, 
                           next_rows=nextMatchesData, 
                           prev_rows=prevMatchesData, 
