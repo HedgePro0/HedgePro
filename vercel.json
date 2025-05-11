@@ -15,5 +15,6 @@
   "env": {
     "FLASK_ENV": "production",
     "FLASK_DEBUG": "0"
-  }
+  },
+  "alias": ["hedgepro.club", "www.hedgepro.club"]
 }
