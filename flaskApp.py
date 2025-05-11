@@ -24,8 +24,6 @@ USERNAME = 'Hedgepro44'
 PASSWORD = '$4$4$4$6'
 app.permanent_session_lifetime = timedelta(days=30)  # Session will last 7 days
 
-# Remove DATABASE and init_db function and call
-
 # Login Required Decorator
 def login_required(func):
     @wraps(func)
@@ -58,33 +56,85 @@ with open("previousMatchesCounter") as file:
 # print(prevCounter)
     
 if prevCounter > 0:
+    # Load men's previous matches with consistent parsing
     with open(f"./Previous_Matches/{prevCounter}.csv") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
             temp.append(row)
         i = 0
-        while i < (len(temp) - 1):
+        while i < len(temp):
+            if not temp[i] or len(temp[i]) == 0:
+                i += 1
+                continue
+                
             if temp[i][-1] == "header":
                 prevMatchesData.append(temp[i])
                 i += 1
-            else:
-                prevMatchesData.append([ temp[i], temp[i+1] ])
-                i += 2
+            elif i+1 < len(temp):
+                # Check for prediction data in either row
+                has_prediction = False
+                prediction_data = None
                 
+                for item in temp[i] + (temp[i+1] if i+1 < len(temp) else []):
+                    if isinstance(item, str) and item.startswith('prediction:'):
+                        has_prediction = True
+                        try:
+                            prediction_json = item.replace('prediction:', '', 1)
+                            prediction_data = json.loads(prediction_json)
+                        except:
+                            pass
+                
+                match_data = [temp[i], temp[i+1]]
+                
+                # Add prediction data if found
+                if has_prediction and prediction_data:
+                    match_data.append({"has_prediction": True, "prediction_data": prediction_data})
+                
+                prevMatchesData.append(match_data)
+                i += 2
+            else:
+                i += 1
+                
+    # Load women's previous matches with the same improved logic
     with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
             temp.append(row)
         i = 0
-        while i < (len(temp) - 1):
+        while i < len(temp):
+            if not temp[i] or len(temp[i]) == 0:
+                i += 1
+                continue
+                
             if temp[i][-1] == "header":
                 prevMatchesData_w.append(temp[i])
                 i += 1
-            else:
-                prevMatchesData_w.append([ temp[i], temp[i+1] ])
+            elif i+1 < len(temp):
+                # Check for prediction data in either row
+                has_prediction = False
+                prediction_data = None
+                
+                for item in temp[i] + (temp[i+1] if i+1 < len(temp) else []):
+                    if isinstance(item, str) and item.startswith('prediction:'):
+                        has_prediction = True
+                        try:
+                            prediction_json = item.replace('prediction:', '', 1)
+                            prediction_data = json.loads(prediction_json)
+                        except:
+                            pass
+                
+                match_data = [temp[i], temp[i+1]]
+                
+                # Add prediction data if found
+                if has_prediction and prediction_data:
+                    match_data.append({"has_prediction": True, "prediction_data": prediction_data})
+                
+                prevMatchesData_w.append(match_data)
                 i += 2
+            else:
+                i += 1
         
 # Load other files (Unchanged)
 # with open('./playerLinks.csv') as file:
@@ -517,7 +567,7 @@ def searchPlayer():
             return redirect(url_for('player_profile_page', name=player_name.lower()))
     
     # Pass the data to the template
-    return render_template('landing.html', 
+    return render_template('home.html', 
                           today_rows=todayMatchesData, 
                           next_rows=nextMatchesData, 
                           prev_rows=prevMatchesData, 
@@ -543,6 +593,7 @@ def save_prediction():
         data = request.json
         match_index = int(data.get('match_index'))
         is_women = data.get('is_women') == True
+        is_next_day = data.get('is_next_day') == True
         winner = data.get('winner', '')
         player1_score = data.get('player1_score', '')
         player2_score = data.get('player2_score', '')
@@ -550,16 +601,24 @@ def save_prediction():
         notes = data.get('notes', '')
         
         # Print debug information
-        print(f"Saving prediction: match_index={match_index}, is_women={is_women}, winner={winner}")
+        print(f"Saving prediction: match_index={match_index}, is_women={is_women}, is_next_day={is_next_day}, winner={winner}")
         print(f"Scores: player1={player1_score}, player2={player2_score}, spread={spread}")
         
-        # Get the correct in-memory data based on gender
-        if is_women:
-            matches_data = todayMatchesData_w
-            file_path = "todaysMatches_w.csv"
+        # Get the correct in-memory data and file path based on gender and day
+        if is_next_day:
+            if is_women:
+                matches_data = nextMatchesData_w
+                file_path = "nextMatches_w.csv"
+            else:
+                matches_data = nextMatchesData
+                file_path = "nextMatches.csv"
         else:
-            matches_data = todayMatchesData
-            file_path = "todaysMatches.csv"
+            if is_women:
+                matches_data = todayMatchesData_w
+                file_path = "todaysMatches_w.csv"
+            else:
+                matches_data = todayMatchesData
+                file_path = "todaysMatches.csv"
         
         # Read the file to get the raw data
         raw_data = []
@@ -599,11 +658,8 @@ def save_prediction():
             else:
                 i += 1
         
-        if target_raw_indices is None:
-            print(f"Match index {match_index} not found in raw data")
-            print(f"Total matches found: {actual_match_count}")
-            print(f"Raw data length: {len(raw_data)}")
-            return jsonify({"success": False, "error": f"Match index {match_index} not found in raw data"})
+        if not target_raw_indices:
+            return jsonify({"success": False, "error": f"Match with index {match_index} not found"})
         
         # Get the row indices for the selected match
         row1_index, row2_index = target_raw_indices
@@ -689,7 +745,95 @@ def reload_data():
     global todayMatchesData, nextMatchesData, prevMatchesData
     global todayMatchesData_w, nextMatchesData_w, prevMatchesData_w
     
-    # Reload today's matches
+    # Reload previous matches data
+    prevMatchesData = []
+    prevMatchesData_w = []
+    
+    with open("previousMatchesCounter") as file:
+        prevCounter = int(file.read())
+    
+    if prevCounter > 0:
+        # Reload men's previous matches with consistent parsing logic
+        with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+            temp = []
+            csvreader = csv.reader(file)
+            for row in csvreader:
+                temp.append(row)
+            i = 0
+            while i < len(temp):
+                if not temp[i] or len(temp[i]) == 0:
+                    i += 1
+                    continue
+                    
+                if temp[i][-1] == "header":
+                    prevMatchesData.append(temp[i])
+                    i += 1
+                elif i+1 < len(temp):
+                    # Check for prediction data in either row
+                    has_prediction = False
+                    prediction_data = None
+                    
+                    for item in temp[i] + (temp[i+1] if i+1 < len(temp) else []):
+                        if isinstance(item, str) and item.startswith('prediction:'):
+                            has_prediction = True
+                            try:
+                                prediction_json = item.replace('prediction:', '', 1)
+                                prediction_data = json.loads(prediction_json)
+                            except:
+                                pass
+                    
+                    match_data = [temp[i], temp[i+1]]
+                    
+                    # Add prediction data if found
+                    if has_prediction and prediction_data:
+                        match_data.append({"has_prediction": True, "prediction_data": prediction_data})
+                    
+                    prevMatchesData.append(match_data)
+                    i += 2
+                else:
+                    i += 1
+        
+        # Reload women's previous matches with the same improved logic
+        with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+            temp = []
+            csvreader = csv.reader(file)
+            for row in csvreader:
+                temp.append(row)
+            i = 0
+            while i < len(temp):
+                if not temp[i] or len(temp[i]) == 0:
+                    i += 1
+                    continue
+                    
+                if temp[i][-1] == "header":
+                    prevMatchesData_w.append(temp[i])
+                    i += 1
+                elif i+1 < len(temp):
+                    # Check for prediction data in either row
+                    has_prediction = False
+                    prediction_data = None
+                    
+                    for item in temp[i] + (temp[i+1] if i+1 < len(temp) else []):
+                        if isinstance(item, str) and item.startswith('prediction:'):
+                            has_prediction = True
+                            try:
+                                prediction_json = item.replace('prediction:', '', 1)
+                                prediction_data = json.loads(prediction_json)
+                            except:
+                                pass
+                    
+                    match_data = [temp[i], temp[i+1]]
+                    
+                    # Add prediction data if found
+                    if has_prediction and prediction_data:
+                        match_data.append({"has_prediction": True, "prediction_data": prediction_data})
+                    
+                    prevMatchesData_w.append(match_data)
+                    i += 2
+                else:
+                    i += 1
+    
+    # Reload today's men's matches with the same improved logic
     todayMatchesData = []
     with open("todaysMatches.csv") as file:
         temp = []

@@ -2,19 +2,22 @@
 window.savePrediction = function(form) {
     const matchIndex = form.querySelector('input[name="match_index"]').value;
     const isWomen = form.querySelector('input[name="is_women"]').value === 'true';
+    const isNextDay = form.querySelector('input[name="is_next_day"]') ? 
+                      form.querySelector('input[name="is_next_day"]').value === 'true' : false;
     const winner = form.querySelector('input[name="winner"]:checked')?.value || '';
     const player1Score = form.querySelector('input[name="player1_score"]').value;
     const player2Score = form.querySelector('input[name="player2_score"]').value;
     const spread = form.querySelector('input[name="spread"]').value;
     const notes = form.querySelector('textarea[name="notes"]').value;
     
-    console.log(`Saving prediction for match ${matchIndex}, isWomen: ${isWomen}`);
+    console.log(`Saving prediction for match ${matchIndex}, isWomen: ${isWomen}, isNextDay: ${isNextDay}`);
     console.log(`Winner: ${winner}, Scores: ${player1Score}-${player2Score}, Spread: ${spread}`);
     
     // Create data object to send to server
     const data = {
         match_index: parseInt(matchIndex),
         is_women: isWomen,
+        is_next_day: isNextDay,
         winner: winner,
         player1_score: player1Score,
         player2_score: player2Score,
@@ -51,15 +54,16 @@ window.savePrediction = function(form) {
 };
 
 // Toggle prediction form visibility
-window.togglePredictionForm = function(matchIndex, isWomen) {
+window.togglePredictionForm = function(matchIndex, isWomen, isNextDay) {
     const gender = isWomen ? 'w' : 'm';
-    const formId = `prediction-form-${matchIndex}-${gender}`;
-    const existingPredictionId = `existing-prediction-${matchIndex}-${gender}`;
+    const dayType = isNextDay ? '-next' : '';
+    const formId = `prediction-form-${matchIndex}-${gender}${dayType}`;
+    const existingPredictionId = `existing-prediction-${matchIndex}-${gender}${dayType}`;
     
     const form = document.getElementById(formId);
     const existingPrediction = document.getElementById(existingPredictionId);
     
-    console.log(`Toggling form ${formId}, exists: ${form !== null}`);
+    console.log(`Toggling form ${formId}, exists: ${form !== null}, isNextDay: ${isNextDay}`);
     
     if (form) {
         // Toggle form visibility
@@ -190,4 +194,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+
 

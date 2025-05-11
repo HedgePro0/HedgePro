@@ -344,6 +344,7 @@
         <div>No data found</div>
         {% endif %}
 
+        {% set match_counter = namespace(value=0) %}
         {% for row in next_rows %}
     
         {% if row[-1] == "header" %}
@@ -352,12 +353,12 @@
             {% for i in range(11) %}
             
             <div class="col">{{row[i]}}</div>
-    
+
             {% endfor %}
         </div>
     
         {% endif %}
-        
+    
         {% if row[-1] != "header" %}
     
         <div class="match-prediction-container">
@@ -417,9 +418,83 @@
                 <div class="a">{{a_value}}</div>
             </div>
 
+            <!-- Single prediction button below the match row -->
+            <div class="prediction-bar-container">
+                <div class="prediction-bar" onclick="window.togglePredictionForm({{ match_counter.value }}, false, true)">
+                    <span>{% if has_prediction %}Edit Prediction{% else %}Make Prediction{% endif %}</span>
+                </div>
+            </div>
+
+            <!-- Add prediction form -->
+            <div class="prediction-form" id="prediction-form-{{ match_counter.value }}-m-next" style="display: none;">
+                <form class="predict-form">
+                    <!-- Hidden inputs for match data -->
+                    <input type="hidden" name="match_index" value="{{ match_counter.value }}">
+                    <input type="hidden" name="is_women" value="false">
+                    <input type="hidden" name="is_next_day" value="true">
+                    
+                    <!-- For debugging -->
+                    <div style="font-size: 10px; color: #999; margin-bottom: 10px;">Match Index: {{ match_counter.value }}</div>
+                    
+                    <!-- Winner selection -->
+                    <div class="form-group">
+                        <label>Predict Winner:</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="player1-{{ match_counter.value }}-m-next" 
+                                       name="winner" value="player1"
+                                       {% if has_prediction and prediction_data.winner == 'player1' %}checked{% endif %}>
+                                <label for="player1-{{ match_counter.value }}-m-next">{{ row[0][1] }}</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="player2-{{ match_counter.value }}-m-next" 
+                                       name="winner" value="player2"
+                                       {% if has_prediction and prediction_data.winner == 'player2' %}checked{% endif %}>
+                                <label for="player2-{{ match_counter.value }}-m-next">{{ row[1][1] }}</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Score prediction -->
+                    <div class="form-group">
+                        <label>Predict Scores (optional):</label>
+                        <div class="score-inputs">
+                            <div class="score-input">
+                                <label>{{ row[0][1] }}:</label>
+                                <input type="text" name="player1_score" placeholder="Score" 
+                                       value="{% if has_prediction %}{{ prediction_data.player1_score }}{% endif %}">
+                            </div>
+                            <div class="score-input">
+                                <label>{{ row[1][1] }}:</label>
+                                <input type="text" name="player2_score" placeholder="Score"
+                                       value="{% if has_prediction %}{{ prediction_data.player2_score }}{% endif %}">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Spread prediction -->
+                    <div class="form-group">
+                        <label>Predict Spread:</label>
+                        <input type="number" step="0.1" name="spread" placeholder="Enter spread"
+                               value="{% if has_prediction %}{{ prediction_data.spread }}{% endif %}">
+                    </div>
+                    
+                    <!-- Notes -->
+                    <div class="form-group">
+                        <label>Additional Notes:</label>
+                        <textarea name="notes" placeholder="Enter any notes or comments">{% if has_prediction %}{{ prediction_data.notes }}{% endif %}</textarea>
+                    </div>
+                    
+                    <!-- Submit button -->
+                    <div class="form-actions">
+                        <button type="button" class="save-btn" onclick="window.savePrediction(this.form)">Save Prediction</button>
+                    </div>
+                </form>
+            </div>
+
             <!-- Display existing prediction -->
             {% if has_prediction and prediction_data %}
-            <div class="user-prediction">
+            <div class="user-prediction" id="existing-prediction-{{ match_counter.value }}-m-next">
                 <h5>Your Prediction:</h5>
                 <ul>
                     {% if prediction_data.winner %}
@@ -447,7 +522,8 @@
             </div>
             {% endif %}
         </div>
-    
+
+        {% set match_counter.value = match_counter.value + 1 %}
         {% endif %}
     
         {% endfor %}
@@ -760,10 +836,11 @@
         <div>No data found</div>
         {% endif %}
         
+        {% set match_counter = namespace(value=0) %}
         {% for row in next_rows_w %}
-        
+    
         {% if row[-1] == "header" %}
-        
+    
         <div class="header">
             {% for i in range(11) %}
             
@@ -833,9 +910,83 @@
                 <div class="a">{{a_value}}</div>
             </div>
 
+            <!-- Single prediction button below the match row -->
+            <div class="prediction-bar-container">
+                <div class="prediction-bar" onclick="window.togglePredictionForm({{ match_counter.value }}, true, true)">
+                    <span>{% if has_prediction %}Edit Prediction{% else %}Make Prediction{% endif %}</span>
+                </div>
+            </div>
+
+            <!-- Add prediction form -->
+            <div class="prediction-form" id="prediction-form-{{ match_counter.value }}-w-next" style="display: none;">
+                <form class="predict-form">
+                    <!-- Hidden inputs for match data -->
+                    <input type="hidden" name="match_index" value="{{ match_counter.value }}">
+                    <input type="hidden" name="is_women" value="true">
+                    <input type="hidden" name="is_next_day" value="true">
+                    
+                    <!-- For debugging -->
+                    <div style="font-size: 10px; color: #999; margin-bottom: 10px;">Match Index: {{ match_counter.value }}</div>
+                    
+                    <!-- Winner selection -->
+                    <div class="form-group">
+                        <label>Predict Winner:</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="player1-{{ match_counter.value }}-w-next" 
+                                       name="winner" value="player1"
+                                       {% if has_prediction and prediction_data.winner == 'player1' %}checked{% endif %}>
+                                <label for="player1-{{ match_counter.value }}-w-next">{{ row[0][1] }}</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="player2-{{ match_counter.value }}-w-next" 
+                                       name="winner" value="player2"
+                                       {% if has_prediction and prediction_data.winner == 'player2' %}checked{% endif %}>
+                                <label for="player2-{{ match_counter.value }}-w-next">{{ row[1][1] }}</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Score prediction -->
+                    <div class="form-group">
+                        <label>Predict Scores (optional):</label>
+                        <div class="score-inputs">
+                            <div class="score-input">
+                                <label>{{ row[0][1] }}:</label>
+                                <input type="text" name="player1_score" placeholder="Score" 
+                                       value="{% if has_prediction %}{{ prediction_data.player1_score }}{% endif %}">
+                            </div>
+                            <div class="score-input">
+                                <label>{{ row[1][1] }}:</label>
+                                <input type="text" name="player2_score" placeholder="Score"
+                                       value="{% if has_prediction %}{{ prediction_data.player2_score }}{% endif %}">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Spread prediction -->
+                    <div class="form-group">
+                        <label>Predict Spread:</label>
+                        <input type="number" step="0.1" name="spread" placeholder="Enter spread"
+                               value="{% if has_prediction %}{{ prediction_data.spread }}{% endif %}">
+                    </div>
+                    
+                    <!-- Notes -->
+                    <div class="form-group">
+                        <label>Additional Notes:</label>
+                        <textarea name="notes" placeholder="Enter any notes or comments">{% if has_prediction %}{{ prediction_data.notes }}{% endif %}</textarea>
+                    </div>
+                    
+                    <!-- Submit button -->
+                    <div class="form-actions">
+                        <button type="button" class="save-btn" onclick="window.savePrediction(this.form)">Save Prediction</button>
+                    </div>
+                </form>
+            </div>
+
             <!-- Display existing prediction -->
             {% if has_prediction and prediction_data %}
-            <div class="user-prediction">
+            <div class="user-prediction" id="existing-prediction-{{ match_counter.value }}-w-next">
                 <h5>Your Prediction:</h5>
                 <ul>
                     {% if prediction_data.winner %}
@@ -863,7 +1014,8 @@
             </div>
             {% endif %}
         </div>
-        
+
+        {% set match_counter.value = match_counter.value + 1 %}
         {% endif %}
         
         {% endfor %}
