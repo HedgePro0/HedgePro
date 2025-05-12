@@ -51,13 +51,13 @@ menRankedPlayers = []
 femaleRankedPlayers = []
 
 # Load Data (Unchanged)
-with open("previousMatchesCounter") as file:
+with open("previousMatchesCounter", encoding="utf-8") as file:
     prevCounter = int(file.read())
 # print(prevCounter)
     
 if prevCounter > 0:
     # Load men's previous matches with consistent parsing
-    with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+    with open(f"./Previous_Matches/{prevCounter}.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -97,7 +97,7 @@ if prevCounter > 0:
                 i += 1
                 
     # Load women's previous matches with the same improved logic
-    with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+    with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -144,7 +144,7 @@ if prevCounter > 0:
 
 names = [f for f in listdir("./FlashScore_database/") if not isfile(join("./FlashScore_database/", f))]
 
-with open("todaysMatches.csv") as file:
+with open("todaysMatches.csv", encoding="utf-8") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -158,7 +158,7 @@ with open("todaysMatches.csv") as file:
             todayMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("todaysMatches_w.csv") as file:
+with open("todaysMatches_w.csv", encoding="utf-8") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -172,7 +172,7 @@ with open("todaysMatches_w.csv") as file:
             todayMatchesData_w.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("nextMatches.csv") as file:
+with open("nextMatches.csv", encoding="utf-8") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -186,7 +186,7 @@ with open("nextMatches.csv") as file:
             nextMatchesData.append([ temp[i], temp[i+1] ])
             i += 2
 
-with open("nextMatches_w.csv") as file:
+with open("nextMatches_w.csv", encoding="utf-8") as file:
     temp = []
     csvreader = csv.reader(file)
     for row in csvreader:
@@ -200,12 +200,12 @@ with open("nextMatches_w.csv") as file:
             nextMatchesData_w.append([ temp[i], temp[i+1] ])
             i += 2
     
-with open("men_ranking.csv") as file:
+with open("men_ranking.csv", encoding="utf-8") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         menRankedPlayers.append(row)
         
-with open("women_ranking.csv") as file:
+with open("women_ranking.csv", encoding="utf-8") as file:
     csvreader = csv.reader(file)
     for row in csvreader:
         femaleRankedPlayers.append(row)
@@ -215,7 +215,7 @@ def getData(name):
     # GETTING THE MATCH DATA FOR A PARTICULAR PERSON
     rows = []
     name = name.replace("%20", " ")
-    with open(f'./FlashScore_database/{name}/match_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/match_details.csv', encoding="utf-8") as file:
         csvreader = csv.reader(file)
         nextMatch = False
         length = 0
@@ -239,14 +239,14 @@ def getData(name):
 
     # GETTING THE PROFILE DATA
     profileData = []
-    with open(f'./FlashScore_database/{name}/personal_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/personal_details.csv', encoding="utf-8") as file:
         csvreader = csv.reader(file)
         for row in csvreader:
             profileData.append(row)
         
     # GETTING THE SUMMARY TABLE FOR THE REQUIRED PLAYER
     summary = []
-    with open(f'./FlashScore_database/{name}/career_details.csv') as file:
+    with open(f'./FlashScore_database/{name}/career_details.csv', encoding="utf-8") as file:
         csvreader = csv.reader(file)
         for row in csvreader:
             summary.append(row)
@@ -312,12 +312,12 @@ def searchPlayer():
     prevMatchesData = []
     prevMatchesData_w = []
     
-    with open("previousMatchesCounter") as file:
+    with open("previousMatchesCounter", encoding="utf-8") as file:
         prevCounter = int(file.read())
     
     if prevCounter > 0:
         # Reload men's previous matches
-        with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -357,7 +357,7 @@ def searchPlayer():
                     i += 1
         
         # Reload women's previous matches with the same improved logic
-        with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -398,7 +398,7 @@ def searchPlayer():
     
     # Reload today's men's matches with the same improved logic
     todayMatchesData = []
-    with open("todaysMatches.csv") as file:
+    with open("todaysMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -439,7 +439,7 @@ def searchPlayer():
     
     # Reload today's women's matches with the same improved logic
     todayMatchesData_w = []
-    with open("todaysMatches_w.csv") as file:
+    with open("todaysMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -480,7 +480,7 @@ def searchPlayer():
     
     # Reload next matches (men) with the same improved logic
     nextMatchesData = []
-    with open("nextMatches.csv") as file:
+    with open("nextMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -521,7 +521,7 @@ def searchPlayer():
     
     # Reload next matches (women) with the same improved logic
     nextMatchesData_w = []
-    with open("nextMatches_w.csv") as file:
+    with open("nextMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -622,7 +622,7 @@ def save_prediction():
         
         # Read the file to get the raw data
         raw_data = []
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding="utf-8") as file:
             csvreader = csv.reader(file)
             raw_data = list(csvreader)
         
@@ -697,7 +697,7 @@ def save_prediction():
         print(f"Updated row 2: {raw_data[row2_index]}")
         
         # Write back to the file
-        with open(file_path, 'w', newline='') as file:
+        with open(file_path, 'w', newline='', encoding="utf-8") as file:
             csvwriter = csv.writer(file)
             csvwriter.writerows(raw_data)
         
@@ -749,12 +749,12 @@ def reload_data():
     prevMatchesData = []
     prevMatchesData_w = []
     
-    with open("previousMatchesCounter") as file:
+    with open("previousMatchesCounter", encoding="utf-8") as file:
         prevCounter = int(file.read())
     
     if prevCounter > 0:
         # Reload men's previous matches with consistent parsing logic
-        with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -794,7 +794,7 @@ def reload_data():
                     i += 1
         
         # Reload women's previous matches with the same improved logic
-        with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -835,7 +835,7 @@ def reload_data():
     
     # Reload today's men's matches with the same improved logic
     todayMatchesData = []
-    with open("todaysMatches.csv") as file:
+    with open("todaysMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -876,7 +876,7 @@ def reload_data():
 
     # Reload women's today matches
     todayMatchesData_w = []
-    with open("todaysMatches_w.csv") as file:
+    with open("todaysMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -915,7 +915,7 @@ def reload_data():
 
     # Reload next matches (men)
     nextMatchesData = []
-    with open("nextMatches.csv") as file:
+    with open("nextMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -931,7 +931,7 @@ def reload_data():
 
     # Reload next matches (women)
     nextMatchesData_w = []
-    with open("nextMatches_w.csv") as file:
+    with open("nextMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -948,11 +948,11 @@ def reload_data():
     # Reload previous matches if counter > 0
     prevMatchesData = []
     prevMatchesData_w = []
-    with open("previousMatchesCounter") as file:
+    with open("previousMatchesCounter", encoding="utf-8") as file:
         prevCounter = int(file.read())
     
     if prevCounter > 0:
-        with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -966,7 +966,7 @@ def reload_data():
                     prevMatchesData.append([ temp[i], temp[i+1] ])
                     i += 2
                     
-        with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -994,7 +994,7 @@ def refresh_data():
     
     # Reload today's matches (men)
     todayMatchesData = []
-    with open("todaysMatches.csv") as file:
+    with open("todaysMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -1035,7 +1035,7 @@ def refresh_data():
 
     # Reload women's today matches
     todayMatchesData_w = []
-    with open("todaysMatches_w.csv") as file:
+    with open("todaysMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -1074,7 +1074,7 @@ def refresh_data():
 
     # Reload next matches (men)
     nextMatchesData = []
-    with open("nextMatches.csv") as file:
+    with open("nextMatches.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -1090,7 +1090,7 @@ def refresh_data():
 
     # Reload next matches (women)
     nextMatchesData_w = []
-    with open("nextMatches_w.csv") as file:
+    with open("nextMatches_w.csv", encoding="utf-8") as file:
         temp = []
         csvreader = csv.reader(file)
         for row in csvreader:
@@ -1107,11 +1107,11 @@ def refresh_data():
     # Reload previous matches if counter > 0
     prevMatchesData = []
     prevMatchesData_w = []
-    with open("previousMatchesCounter") as file:
+    with open("previousMatchesCounter", encoding="utf-8") as file:
         prevCounter = int(file.read())
     
     if prevCounter > 0:
-        with open(f"./Previous_Matches/{prevCounter}.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
@@ -1125,7 +1125,7 @@ def refresh_data():
                     prevMatchesData.append([ temp[i], temp[i+1] ])
                     i += 2
                     
-        with open(f"./Previous_Matches/{prevCounter}_w.csv") as file:
+        with open(f"./Previous_Matches/{prevCounter}_w.csv", encoding="utf-8") as file:
             temp = []
             csvreader = csv.reader(file)
             for row in csvreader:
