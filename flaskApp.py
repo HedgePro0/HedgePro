@@ -3,11 +3,10 @@ import csv
 import os
 from datetime import timedelta, datetime
 from functools import wraps
-import sqlite3
 import json
 from os import listdir
 from os.path import isfile, join
-from supabase import create_client, Client
+from supabase import create_client
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -41,20 +40,7 @@ USERNAME = os.getenv('USERNAME', 'Hedgepro44')  # Use environment variable or fa
 PASSWORD = os.getenv('PASSWORD', '$4$4$4$6')  # Use environment variable or fallback
 app.permanent_session_lifetime = timedelta(days=30)  # Session will last 30 days
 
-DATABASE = os.getenv('DATABASE', 'users.db')  # Use environment variable or fallback
 
-def init_db():
-    with sqlite3.connect(DATABASE) as conn:
-        cursor = conn.cursor()
-        cursor.execute('''CREATE TABLE IF NOT EXISTS users (
-                            id INTEGER PRIMARY KEY AUTOINCREMENT,
-                            username TEXT UNIQUE NOT NULL,
-                            password TEXT NOT NULL,
-                            subscription_expiry DATE
-                          )''')
-        conn.commit()
-
-init_db()
 
 # Login Required Decorator
 def login_required(func):
