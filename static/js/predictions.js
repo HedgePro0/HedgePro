@@ -1,17 +1,34 @@
-// Save prediction data
-window.savePrediction = function(form) {
-    const matchIndex = form.querySelector('input[name="match_index"]').value;
-    const isWomen = form.querySelector('input[name="is_women"]').value === 'true';
-    const isNextDay = form.querySelector('input[name="is_next_day"]') ? 
-                      form.querySelector('input[name="is_next_day"]').value === 'true' : false;
-    const winner = form.querySelector('input[name="winner"]:checked')?.value || '';
-    const player1Score = form.querySelector('input[name="player1_score"]').value;
-    const player2Score = form.querySelector('input[name="player2_score"]').value;
-    const spread = form.querySelector('input[name="spread"]').value;
-    const notes = form.querySelector('textarea[name="notes"]').value;
+// Save prediction data with loading indicator
+const savePrediction = (form) => {
+    const matchIndex = form.match_index.value;
+    const isWomen = form.is_women.value === 'true';
+    const isNextDay = form.is_next_day ? form.is_next_day.value === 'true' : false;
+    const winner = form.winner.value;
+    const player1Score = form.player1_score.value;
+    const player2Score = form.player2_score.value;
+    const spread = form.spread ? form.spread.value : '';
+    const notes = form.notes ? form.notes.value : '';
+    
+    // Validate required fields
+    if (!winner) {
+        alert('Please select a winner');
+        return false;
+    }
     
     console.log(`Saving prediction for match ${matchIndex}, isWomen: ${isWomen}, isNextDay: ${isNextDay}`);
     console.log(`Winner: ${winner}, Scores: ${player1Score}-${player2Score}, Spread: ${spread}`);
+    
+    // Show loading indicator
+    const saveButton = form.querySelector('.save-btn');
+    const originalText = saveButton.textContent;
+    saveButton.disabled = true;
+    saveButton.textContent = 'Saving...';
+    
+    // Add a loading overlay to the form
+    const loadingOverlay = document.createElement('div');
+    loadingOverlay.className = 'loading-overlay';
+    loadingOverlay.innerHTML = '<div class="spinner"></div><div class="loading-text">Saving prediction...</div>';
+    form.appendChild(loadingOverlay);
     
     // Create data object to send to server
     const data = {
@@ -33,25 +50,100 @@ window.savePrediction = function(form) {
         },
         body: JSON.stringify(data),
     })
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`Server returned ${response.status}: ${response.statusText}`);
+        }
+        return response.json();
+    })
     .then(data => {
+        // Remove loading overlay
+        if (loadingOverlay.parentNode) {
+            loadingOverlay.parentNode.removeChild(loadingOverlay);
+        }
+        
+        // Reset button
+        saveButton.disabled = false;
+        saveButton.textContent = originalText;
+        
         if (data.success) {
             console.log('Prediction saved successfully');
-            // Hide the form and reload the page to show updated prediction
-            form.closest('.prediction-form').style.display = 'none';
-            window.location.reload();
+            
+            // Show success notification
+            showNotification('Prediction saved successfully!', 'success');
+            
+            // Hide the form
+            const formContainer = form.closest('.prediction-form');
+            if (formContainer) {
+                formContainer.style.display = 'none';
+            }
+            
+            // Only reload if the server indicates it's needed
+            if (data.reload_needed) {
+                console.log('Reloading page to show updated prediction');
+                showNotification('Reloading page to show your prediction...', 'info');
+                setTimeout(() => {
+                    window.location.reload();
+                }, 1500);
+            } else {
+                // Show a success message without reloading
+                showNotification('Prediction saved! Refresh the page when done to see all predictions.', 'success');
+            }
         } else {
             console.error('Error saving prediction:', data.error);
-            alert(`Error saving prediction: ${data.error}`);
+            showNotification(`Error: ${data.error}`, 'error');
         }
     })
     .catch((error) => {
+        // Remove loading overlay
+        if (loadingOverlay.parentNode) {
+            loadingOverlay.parentNode.removeChild(loadingOverlay);
+        }
+        
+        // Reset button
+        saveButton.disabled = false;
+        saveButton.textContent = originalText;
+        
         console.error('Error saving prediction:', error);
-        alert('Error saving prediction. Please try again.');
+        showNotification('Error saving prediction. Please try again.', 'error');
     });
     
     return false; // Prevent form submission
 };
+
+// Function to show notifications
+function showNotification(message, type = 'info') {
+    // Remove any existing notifications
+    const existingNotifications = document.querySelectorAll('.notification');
+    existingNotifications.forEach(notification => {
+        notification.remove();
+    });
+    
+    // Create notification element
+    const notification = document.createElement('div');
+    notification.className = `notification ${type}`;
+    notification.textContent = message;
+    
+    // Add to document
+    document.body.appendChild(notification);
+    
+    // Show notification with animation
+    setTimeout(() => {
+        notification.classList.add('show');
+    }, 10);
+    
+    // Auto-hide after 5 seconds
+    setTimeout(() => {
+        notification.classList.remove('show');
+        setTimeout(() => {
+            notification.remove();
+        }, 300);
+    }, 5000);
+}
+
+// Make sure the function is available globally
+window.savePrediction = savePrediction;
+window.showNotification = showNotification;
 
 // Toggle prediction form visibility
 window.togglePredictionForm = function(matchIndex, isWomen, isNextDay) {
@@ -82,6 +174,7 @@ window.togglePredictionForm = function(matchIndex, isWomen, isNextDay) {
         }
     } else {
         console.error(`Form with ID ${formId} not found`);
+        showNotification(`Error: Form not found (ID: ${formId})`, 'error');
     }
 };
 
@@ -194,6 +287,9 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+
+
 
 
 
