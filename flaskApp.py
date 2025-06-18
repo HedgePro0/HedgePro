@@ -3,7 +3,6 @@ import csv
 import os
 from datetime import timedelta, datetime
 from functools import wraps
-import bcrypt
 import sqlite3
 import json
 from os import listdir
