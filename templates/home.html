@@ -252,26 +252,36 @@
                     <!-- Winner selection -->
                     <div class="form-group">
                         <label>Predict Winner:</label>
-                        <select name="winner" required>
-                            <option value="">-- Select Winner --</option>
-                            <option value="player1" {% if row|length > 2 and row[2].prediction_data.winner == 'player1' %}selected{% endif %}>
-                                {{ row[0][1] }}
-                            </option>
-                            <option value="player2" {% if row|length > 2 and row[2].prediction_data.winner == 'player2' %}selected{% endif %}>
-                                {{ row[1][1] }}
-                            </option>
-                        </select>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="player1-{{ match_counter.value }}-m"
+                                       name="winner" value="player1"
+                                       {% if row|length > 2 and row[2].prediction_data.winner == 'player1' %}checked{% endif %}>
+                                <label for="player1-{{ match_counter.value }}-m">{{ row[0][1] }}</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="player2-{{ match_counter.value }}-m"
+                                       name="winner" value="player2"
+                                       {% if row|length > 2 and row[2].prediction_data.winner == 'player2' %}checked{% endif %}>
+                                <label for="player2-{{ match_counter.value }}-m">{{ row[1][1] }}</label>
+                            </div>
+                        </div>
                     </div>
                     
                     <!-- Score prediction -->
                     <div class="form-group">
-                        <label>Predict Score:</label>
-                        <div class="score-input">
-                            <input type="text" name="player1_score" placeholder="Player 1 sets"
-                                   value="{% if row|length > 2 %}{{ row[2].prediction_data.player1_score }}{% endif %}">
-                            <span>-</span>
-                            <input type="text" name="player2_score" placeholder="Player 2 sets"
-                                   value="{% if row|length > 2 %}{{ row[2].prediction_data.player2_score }}{% endif %}">
+                        <label>Predict Scores (optional):</label>
+                        <div class="score-inputs">
+                            <div class="score-input">
+                                <label>{{ row[0][1] }}:</label>
+                                <input type="text" name="player1_score" placeholder="Score"
+                                       value="{% if row|length > 2 %}{{ row[2].prediction_data.player1_score }}{% endif %}">
+                            </div>
+                            <div class="score-input">
+                                <label>{{ row[1][1] }}:</label>
+                                <input type="text" name="player2_score" placeholder="Score"
+                                       value="{% if row|length > 2 %}{{ row[2].prediction_data.player2_score }}{% endif %}">
+                            </div>
                         </div>
                     </div>
                     
@@ -288,8 +298,11 @@
                         <textarea name="notes" placeholder="Enter any notes or comments">{% if row|length > 2 %}{{ row[2].prediction_data.notes }}{% endif %}</textarea>
                     </div>
                     
-                    <!-- Submit button -->
-                    <button type="button" class="save-btn" onclick="window.savePrediction(this.closest('form')); return false;">Save Prediction</button>
+                    <!-- Submit buttons -->
+                    <div class="form-actions">
+                        <button type="button" class="cancel-btn" onclick="window.togglePredictionForm({{ match_counter.value }}, false, false)">Cancel</button>
+                        <button type="button" class="save-btn" onclick="window.savePrediction(this.closest('form')); return false;">Save Prediction</button>
+                    </div>
                 </form>
             </div>
 
@@ -745,7 +758,7 @@
                         <div class="score-inputs">
                             <div class="score-input">
                                 <label>{{ row[0][1] }}:</label>
-                                <input type="text" name="player1_score" placeholder="Score" 
+                                <input type="text" name="player1_score" placeholder="Score"
                                        value="{% if row|length > 2 %}{{ row[2].prediction_data.player1_score }}{% endif %}">
                             </div>
                             <div class="score-input">
@@ -769,8 +782,11 @@
                         <textarea name="notes" placeholder="Enter any notes or comments">{% if row|length > 2 %}{{ row[2].prediction_data.notes }}{% endif %}</textarea>
                     </div>
                     
-                    <!-- Submit button -->
-                    <button type="button" class="save-btn" onclick="window.savePrediction(this.closest('form')); return false;">Save Prediction</button>
+                    <!-- Submit buttons -->
+                    <div class="form-actions">
+                        <button type="button" class="cancel-btn" onclick="window.togglePredictionForm({{ match_counter.value }}, true, false)">Cancel</button>
+                        <button type="button" class="save-btn" onclick="window.savePrediction(this.closest('form')); return false;">Save Prediction</button>
+                    </div>
                 </form>
             </div>
             

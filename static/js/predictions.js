@@ -3,6 +3,7 @@ const savePrediction = (form) => {
     const matchIndex = form.match_index.value;
     const isWomen = form.is_women.value === 'true';
     const isNextDay = form.is_next_day ? form.is_next_day.value === 'true' : false;
+    const isProfile = form.is_profile ? form.is_profile.value === 'true' : false;
     const winner = form.winner.value;
     const player1Score = form.player1_score.value;
     const player2Score = form.player2_score.value;
@@ -15,7 +16,7 @@ const savePrediction = (form) => {
         return false;
     }
     
-    console.log(`Saving prediction for match ${matchIndex}, isWomen: ${isWomen}, isNextDay: ${isNextDay}`);
+    console.log(`Saving prediction for match ${matchIndex}, isWomen: ${isWomen}, isNextDay: ${isNextDay}, isProfile: ${isProfile}`);
     console.log(`Winner: ${winner}, Scores: ${player1Score}-${player2Score}, Spread: ${spread}`);
     
     // Show loading indicator
@@ -35,6 +36,7 @@ const savePrediction = (form) => {
         match_index: parseInt(matchIndex),
         is_women: isWomen,
         is_next_day: isNextDay,
+        is_profile: isProfile,
         winner: winner,
         player1_score: player1Score,
         player2_score: player2Score,
@@ -146,21 +148,34 @@ window.savePrediction = savePrediction;
 window.showNotification = showNotification;
 
 // Toggle prediction form visibility
-window.togglePredictionForm = function(matchIndex, isWomen, isNextDay) {
-    const gender = isWomen ? 'w' : 'm';
-    const dayType = isNextDay ? '-next' : '';
-    const formId = `prediction-form-${matchIndex}-${gender}${dayType}`;
-    const existingPredictionId = `existing-prediction-${matchIndex}-${gender}${dayType}`;
-    
+window.togglePredictionForm = function(matchIndex, isWomen, isNextDay, context) {
+    let formId, existingPredictionId;
+
+    if (context === 'profile') {
+        // Player profile context
+        formId = `prediction-form-${matchIndex}-profile`;
+        existingPredictionId = `existing-prediction-${matchIndex}-profile`;
+    } else {
+        // Today's matches context
+        const gender = isWomen ? 'w' : 'm';
+        const dayType = isNextDay ? '-next' : '';
+        formId = `prediction-form-${matchIndex}-${gender}${dayType}`;
+        existingPredictionId = `existing-prediction-${matchIndex}-${gender}${dayType}`;
+    }
+
     const form = document.getElementById(formId);
     const existingPrediction = document.getElementById(existingPredictionId);
-    
-    console.log(`Toggling form ${formId}, exists: ${form !== null}, isNextDay: ${isNextDay}`);
+
+    console.log(`Toggling form ${formId}, exists: ${form !== null}, context: ${context || 'today'}, isNextDay: ${isNextDay}`);
     
     if (form) {
         // Toggle form visibility
         if (form.style.display === 'none' || form.style.display === '') {
             form.style.display = 'block';
+
+            // Populate form with existing prediction data if available
+            populatePredictionForm(form, context);
+
             // Hide existing prediction if it exists
             if (existingPrediction) {
                 existingPrediction.style.display = 'none';
@@ -177,6 +192,85 @@ window.togglePredictionForm = function(matchIndex, isWomen, isNextDay) {
         showNotification(`Error: Form not found (ID: ${formId})`, 'error');
     }
 };
+
+// Function to populate prediction form with existing data
+function populatePredictionForm(form, context) {
+    try {
+        // Find the match container that contains this form
+        const matchContainer = form.closest('.match-prediction-container');
+        if (!matchContainer) return;
+
+        // Look for prediction data in the container
+        let predictionData = null;
+
+        if (context === 'profile') {
+            // For profile context, look for hidden prediction data div
+            const predictionDataDiv = matchContainer.querySelector('.prediction-data');
+            if (predictionDataDiv) {
+                const text = predictionDataDiv.textContent;
+                if (text.startsWith('prediction:')) {
+                    predictionData = JSON.parse(text.substring(11));
+                    console.log('Found prediction data for form population:', predictionData);
+                }
+            }
+        } else {
+            // For today's matches context, use existing logic
+            const predictionDataElements = matchContainer.querySelectorAll('.prediction-data');
+            for (const element of predictionDataElements) {
+                const text = element.textContent;
+                if (text.startsWith('prediction:')) {
+                    predictionData = JSON.parse(text.substring(11));
+                    break;
+                }
+            }
+        }
+
+        if (!predictionData) {
+            console.log('No prediction data found for form population');
+            return;
+        }
+
+        // Populate form fields
+        if (predictionData.winner) {
+            const winnerRadio = form.querySelector(`input[name="winner"][value="${predictionData.winner}"]`);
+            if (winnerRadio) {
+                winnerRadio.checked = true;
+            }
+        }
+
+        if (predictionData.player1_score) {
+            const player1ScoreInput = form.querySelector('input[name="player1_score"]');
+            if (player1ScoreInput) {
+                player1ScoreInput.value = predictionData.player1_score;
+            }
+        }
+
+        if (predictionData.player2_score) {
+            const player2ScoreInput = form.querySelector('input[name="player2_score"]');
+            if (player2ScoreInput) {
+                player2ScoreInput.value = predictionData.player2_score;
+            }
+        }
+
+        if (predictionData.spread) {
+            const spreadInput = form.querySelector('input[name="spread"]');
+            if (spreadInput) {
+                spreadInput.value = predictionData.spread;
+            }
+        }
+
+        if (predictionData.notes) {
+            const notesTextarea = form.querySelector('textarea[name="notes"]');
+            if (notesTextarea) {
+                notesTextarea.value = predictionData.notes;
+            }
+        }
+
+        console.log('Successfully populated form with existing prediction data');
+    } catch (e) {
+        console.error('Error populating prediction form:', e);
+    }
+}
 
 // Process all prediction displays on page load
 document.addEventListener('DOMContentLoaded', function() {
