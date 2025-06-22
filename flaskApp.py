@@ -531,8 +531,10 @@ def logout():
     return redirect(url_for('login'))
 
 # Load other data from CSV files (unchanged for now)
-with open("previousMatchesCounter") as file:
-    prevCounter = int(file.read())
+with open("previousMatchesCounter.csv") as file:
+    csvreader = csv.reader(file)
+    for row in csvreader:
+        prevCounter = int(row[0])
 
 if prevCounter > 0:
     with open(f"./Previous_Matches/{prevCounter}.csv") as file:
@@ -992,9 +994,118 @@ def get_player_predictions(player_name):
 
         print(f"DEBUG: Found {len(player_predictions)} prediction items for {decoded_name}")
 
+        # Sort predictions by date (latest first)
+        def parse_date_for_sorting(item):
+            """Parse date from prediction item for sorting"""
+            try:
+                time_str = ""
+
+                # Handle different item types
+                if isinstance(item, list):
+                    # This is a header row [time, name, 'header']
+                    if len(item) == 3 and item[2] == 'header':
+                        return datetime(1900, 1, 1)  # Headers get earliest date to stay at top
+                    # This is a match pair [[player1_data], [player2_data]]
+                    elif len(item) == 2 and isinstance(item[0], list) and isinstance(item[1], list):
+                        time_str = item[0][0] if len(item[0]) > 0 else ""
+                    else:
+                        return datetime(1900, 1, 1)
+                else:
+                    return datetime(1900, 1, 1)
+
+                if not time_str:
+                    return datetime(1900, 1, 1)
+
+                # Parse different date formats
+                # Format: "DD. MM. YYYY HH:MM" or "DD. MM. HH:MM" or just "HH:MM"
+                if '.' in time_str:
+                    parts = time_str.split()
+
+                    # Handle format like "22. 06. 2025 14:30" or "21. 06. 15:45"
+                    if len(parts) >= 3:
+                        # Check if we have year (4 digits) or not
+                        if len(parts) >= 4 and len(parts[2]) == 4:  # Format: "DD. MM. YYYY HH:MM"
+                            day = int(parts[0].rstrip('.'))
+                            month = int(parts[1].rstrip('.'))
+                            year = int(parts[2])
+                            time_part = parts[3]
+                        else:  # Format: "DD. MM. HH:MM" (no year)
+                            day = int(parts[0].rstrip('.'))
+                            month = int(parts[1].rstrip('.'))
+                            year = datetime.now().year
+                            time_part = parts[2]
+
+                        if ':' in time_part:
+                            time_components = time_part.split(':')
+                            hour = int(time_components[0])
+                            minute = int(time_components[1])
+                            return datetime(year, month, day, hour, minute)
+                        else:
+                            return datetime(year, month, day)
+
+                # If only time is provided, assume today's date
+                elif ':' in time_str:
+                    hour, minute = time_str.split(':')
+                    today = datetime.now()
+                    return datetime(today.year, today.month, today.day, int(hour), int(minute))
+
+                return datetime(1900, 1, 1)
+
+            except Exception:
+                # Silently handle date parsing errors and return default date
+                return datetime(1900, 1, 1)
+
+        # Sort predictions by date (latest first), keeping headers with their matches
+        # First, group headers with their matches
+        tournament_groups = []
+        current_header = None
+        matches_for_header = []
+
+        for item in player_predictions:
+            if isinstance(item, list) and len(item) == 3 and item[2] == 'header':
+                # This is a header - save previous group if exists
+                if current_header is not None:
+                    tournament_groups.append((current_header, matches_for_header))
+
+                # Start new group
+                current_header = item
+                matches_for_header = []
+            else:
+                # This is a match - add to current group
+                matches_for_header.append(item)
+
+        # Add the last group
+        if current_header is not None:
+            tournament_groups.append((current_header, matches_for_header))
+        elif matches_for_header:
+            # No headers, create a dummy group
+            tournament_groups.append((None, matches_for_header))
+
+        # Sort tournament groups by the latest match date in each group
+        def get_latest_date_in_group(group):
+            _, matches = group
+            if not matches:
+                return datetime(1900, 1, 1)
+            # Get the latest date from all matches in this group
+            dates = [parse_date_for_sorting(match) for match in matches]
+            return max(dates)
+
+        tournament_groups.sort(key=get_latest_date_in_group, reverse=True)
+
+        # Build final sorted list
+        sorted_predictions = []
+        for header, matches in tournament_groups:
+            if header is not None:
+                sorted_predictions.append(header)
+            # Sort matches within each group by date (latest first)
+            matches.sort(key=parse_date_for_sorting, reverse=True)
+            sorted_predictions.extend(matches)
+
+        print(f"DEBUG: Sorted {len(sorted_predictions)} prediction items by date for {decoded_name}")
+
         return jsonify({
             "success": True,
-            "predictions": player_predictions,
+            "predictions": sorted_predictions,
             "player_name": decoded_name
         })
 
@@ -2271,27 +2382,17 @@ def save_prediction():
             # Use the new unified prediction management system
             upload_success, upload_message = manage_prediction_unified(match_table, match_index, prediction_data, is_women)
 
-            # ALWAYS check if this prediction should also be synchronized to other tables
-            # This ensures that predictions are consistent across all tables
+            # Only sync to predictions table, not to other match tables
+            # This ensures predictions are saved to the predictions table for tracking
             print(f"🔄 SYNC: Starting synchronization for {match_table} table...")
 
-            # If we updated predictions table, try to sync to original match tables
+            # If we updated predictions table, don't automatically sync to match tables
+            # This prevents the bug where predictions are applied to wrong matches
             if match_table == "predictions":
-                try:
-                    today_success, _ = manage_prediction_unified("today", match_index, prediction_data, is_women)
-                    if today_success:
-                        print(f"✅ SYNC: Prediction also updated in today's matches")
-                except Exception as e:
-                    print(f"⚠️ SYNC: Error updating today's matches: {str(e)}")
+                print(f"✅ SYNC: Predictions table updated, no automatic sync to match tables")
+                # Note: Profile predictions handle their own targeted sync using player names
 
-                try:
-                    next_success, _ = manage_prediction_unified("next", match_index, prediction_data, is_women)
-                    if next_success:
-                        print(f"✅ SYNC: Prediction also updated in next day's matches")
-                except Exception as e:
-                    print(f"⚠️ SYNC: Error updating next day's matches: {str(e)}")
-
-            # If we updated today's or next day's matches, try to sync to predictions table
+            # If we updated today's or next day's matches, only sync to predictions table
             elif match_table in ["today", "next"]:
                 try:
                     pred_success, _ = manage_prediction_unified("predictions", match_index, prediction_data, is_women)
@@ -2300,14 +2401,8 @@ def save_prediction():
                 except Exception as e:
                     print(f"⚠️ SYNC: Error updating predictions table: {str(e)}")
 
-                # Also try to sync to the other match table
-                other_table = "next" if match_table == "today" else "today"
-                try:
-                    other_success, _ = manage_prediction_unified(other_table, match_index, prediction_data, is_women)
-                    if other_success:
-                        print(f"✅ SYNC: Prediction also updated in {other_table}'s matches")
-                except Exception as e:
-                    print(f"⚠️ SYNC: Error updating {other_table}'s matches: {str(e)}")
+                # REMOVED: Cross-table synchronization that was causing the bug
+                # Predictions should only apply to the specific match table they were made for
 
         if not upload_success:
             return jsonify({"success": False, "error": f"Failed to save prediction: {upload_message}"})
