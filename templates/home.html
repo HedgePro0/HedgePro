@@ -620,9 +620,11 @@
             <div class="col">H</div>
             <div class="col">A</div>
         </div>
-    
 
-    
+        {% endif %}
+
+        {% if "header" not in row %}
+
         <div class="match-prediction-container">
             <div class="row">
                 <div class="time">{{row[0][0]}}</div>
