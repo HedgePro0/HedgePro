@@ -1,55 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-08.08.,Misasi G.,0,,,,,,[],[],[],[],[],0
-08.08.,Palosi S.,2,,,,,,[],[],[],[],[],0
-07.08.,Misasi G.,2,,,,,,[],[],[],[],[],0
-07.08.,Mecarelli M.,1,,,,,,[],[],[],[],[],0
-05.08.,Misasi G.,2,,,,,,[],[],[],[],[],0
-05.08.,Cazacu D. N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-31.07.,Misasi G.,0,,,,,,[],[],[],[],[],0
-31.07.,Gutierrez O. J.,2,,,,,,[],[],[],[],[],0
-30.07.,Misasi G.,2,,,,,,[],[],[],[],[],0
-30.07.,Demin Y.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-16.07.,Misasi G.,0,,,,,,[],[],[],[],[],0
-16.07.,Grant W.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Lodz (Poland),clay,header
-ITF MEN - SINGLES M15 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 8 (Serbia),clay,header
-ITF MEN - SINGLES M15 Oradea (Romania),clay,header
-ITF MEN - SINGLES M15 Caltanissetta (Italy),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 3 (Serbia),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 5 (Italy),clay,header
-ITF MEN - SINGLES M15 Foggia (Italy),clay,header
-ITF MEN - SINGLES M15 Monastir 10 (Tunisia),hard,header
-12.03.,Misasi G.,0,,,,,,[],[],[],[],[],0
-12.03.,Castagnola L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 9 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 21 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES M15 San Gregorio di Catania 2 (Italy),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Targu Mures (Romania),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 18 (Serbia),clay,header
-22.09.2024,Misasi G.,2,,,,,,[],[],[],[],[],0
-22.09.2024,Zivkovic S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 17 (Serbia),clay,header
-12.09.2024,Misasi G.,0,,,,,,[],[],[],[],[],0
-12.09.2024,Lipp M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES M15 Pirot (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-09.08.2024,Misasi G.,0,,,,,,[],[],[],[],[],0
-09.08.2024,Papoe R. M.,2,,,,,,[],[],[],[],[],0
-08.08.2024,Misasi G.,2,,,,,,[],[],[],[],[],0
-08.08.2024,Perruzza V.,1,,,,,,[],[],[],[],[],0
-07.08.2024,Misasi G.,2,,,,,,[],[],[],[],[],0
-07.08.2024,Piatti R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Perugia (Italy),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.,Grzegorzewski O.,2,,,,,,"['2', '0', '4', '0', '6', '2']",[],"['1', '0', '6', '5']",[],[],2.59
+10.07.,Misasi G.,1,,,,,,"['1', '4']","['3', '2', '6', '3']","['4', '4']",[],[],1.45
+02.07.,Casanova A.,2,,,,,,"['1', '0', '4', '3']","['4', '3']","['1', '0', '5', '4']",[],[],1.45
+02.07.,Misasi G.,1,,,,,,"['3', '3']","['4', '4', '7', '5']","['1', '1']",[],[],2.59
+26.06.,Popovic S.,2,,,,,,"['2', '0', '4', '2', '5', '5']","['2', '1', '4', '1']",[],[],[],-
+26.06.,Misasi G.,0,,,,,,"['1', '2', '3', '4', '5', '4']",[],[],[],[],-
+25.06.,Misasi G.,2,,,,,,[],"['5', '3']","['1', '0']",[],[],-
+25.06.,Milic O.,1,,,,,,"['4', '2']",[],[],[],[],-
+11.06.,Szymkowiak K.,2,,,,,,"['5', '5']","['2', '3', '6', '5']","['2', '1', '4', '1', '6', '1']",[],[],2.20
+11.06.,Misasi G.,1,,,,,,"['3', '2']","['2', '0']",[],[],[],1.61
+05.06.,Romano F.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '5', '2', '6', '3']",[],[],[],1.11
+05.06.,Misasi G.,0,,,,,,[],"['3', '5']",[],[],[],5.45
+04.06.,Misasi G.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '3', '0']",[],[],[],1.20
+04.06.,Motta A.,0,,,,,,[],[],[],[],[],4.09
+21.05.,George B. T.,1,,,,,,"['2', '0', '3', '3', '5', '3']",[],[],[],[],1.79
+21.05.,Misasi G.,0,,,,,,"['1', '2', '3', '2']",[],[],[],[],1.91
+15.05.,Stankovic S.,2,,,,,,"['3', '2']","['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1']",[],[],1.39
+15.05.,Misasi G.,1,,,,,,"['4', '4', '6', '4']",[],"['1', '1', '3', '3']",[],[],2.81
+14.05.,Misasi G.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '4', '1', '5', '2']",[],[],[],-
+14.05.,Giraldi C.,0,,,,,,[],"['2', '4']",[],[],[],-
+30.04.,Engel J.,2,,,,,,"['3', '1', '5', '1']","['2', '3', '5', '4']",[],[],[],1.09
+30.04.,Misasi G.,0,,,,,,[],"['2', '0']",[],[],[],6.25
+29.04.,Misasi G.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '3', '1', '6', '2']",[],[],[],1.37
+29.04.,Mencaglia S.,0,,,,,,[],"['1', '2']",[],[],[],2.89
+26.03.,Marmousez L.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '6', '3']",[],[],[],1.06
+26.03.,Misasi G.,0,,,,,,[],[],[],[],[],7.20
+04.03.,Vylegzhanin N.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.09
+04.03.,Misasi G.,0,,,,,,[],[],[],[],[],6.15
+05.02.,Tabacco F.,2,,,,,,[],"['2', '2', '4', '4', '6', '4']","['2', '0']",[],[],1.13
+05.02.,Misasi G.,1,,,,,,"['3', '2']","['1', '0', '3', '2']",[],[],[],5.50
+16.01.,Hernandez A.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '3', '2', '5', '4']",[],[],[],1.56
+16.01.,Misasi G.,0,,,,,,"['3', '2']","['1', '1', '3', '3']",[],[],[],2.30
+09.01.,Andreescu S. A.,2,,,,,,"['1', '3', '3', '3', '5', '3']","['1', '2', '4', '3']",[],[],[],1.41
+09.01.,Misasi G.,0,,,,,,"['1', '0', '3', '0']","['2', '0']",[],[],[],2.73
+07.01.,Misasi G.,2,,,,,,"['1', '2', '3', '2']","['4', '3', '6', '3']",[],[],[],2.35
+07.01.,Mashtakov N.,0,,,,,,"['2', '0']",[],[],[],[],1.54
+29.12.2024,Lobanov A.,2,,,,,,"['1', '0', '2', '1', '5', '4']","['1', '0', '2', '1', '4', '1']",[],[],[],1.76
+29.12.2024,Misasi G.,0,,,,,,"['1', '1', '3', '3']","['1', '1']",[],[],[],1.95
+27.12.2024,Misasi G.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '3', '0', '4', '1']",[],[],[],3.91
+27.12.2024,Djuric B.,0,,,,,,"['4', '2']","['1', '3', '2', '4', '4', '4']",[],[],[],1.22
+27.12.2024,Misasi G.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']",[],[],[],1.26
+27.12.2024,Lu P.,0,,,,,,[],"['2', '2']",[],[],[],3.54
+06.12.2024,Andreescu S. A.,2,,,,,,"['2', '0', '3', '1', '5', '5', '6', '6']",[],"['2', '2', '4', '2', '5', '3']",[],[],1.26
+06.12.2024,Misasi G.,1,,,,,,"['1', '2', '3', '4', '5', '4', '6', '5']",[],"['2', '1', '3', '4']",[],[],3.54
+05.12.2024,Misasi G.,2,,,,,,"['2', '2', '3', '3', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.28
+05.12.2024,Jovic N.,0,,,,,,"['1', '0', '3', '2']",[],[],[],[],3.40
+14.11.2024,Potenza L.,2,,,,,,[],"['5', '3', '7', '5']","['3', '3', '5', '5']",[],[],1.24
+14.11.2024,Misasi G.,1,,,,,,"['2', '1', '4', '1']","['4', '5']","['1', '0', '5', '4']",[],[],3.72
+23.10.2024,Kukasian A.,2,,,,,,"['1', '0', '3', '0']","['4', '5']",[],[],[],1.67
+23.10.2024,Misasi G.,0,,,,,,[],"['5', '3']",[],[],[],2.10
+16.10.2024,Van Der Meerschen M.,2,,,,,,"['2', '0', '4', '0']","['1', '0']",[],[],[],1.62
+16.10.2024,Misasi G.,0,,,,,,[],"['4', '4']",[],[],[],2.18
+25.09.2024,Kivattsev K.,2,,,,,,"['6', '4']","['2', '0', '5', '1']",[],[],[],1.11
+25.09.2024,Misasi G.,0,,,,,,[],[],[],[],[],5.64
+29.08.2024,Popovic S.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '4', '1']",[],[],[],1.18
+29.08.2024,Misasi G.,0,,,,,,[],[],[],[],[],4.42

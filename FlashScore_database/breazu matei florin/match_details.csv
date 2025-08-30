@@ -1,14 +1,19 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-06.08.,Breazu M. F.,0,,,,,,[],[],[],[],[],0
-06.08.,Guna R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Targu Mures (Romania),clay,header
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-17.06.,Breazu M. F.,0,,,,,,[],[],[],[],[],0
-17.06.,Andreescu S. A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES M15 Arad (Romania),clay,header
-ITF MEN - SINGLES M15 Targu Jiu (Romania),clay,header
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-ITF MEN - SINGLES M15 Bucharest 2 (Romania),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+24.06.,Kivattsev K.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '5', '2']",[],[],[],1.03
+24.06.,Breazu M. F.,0,,,,,,[],[],[],[],[],8.90
+29.05.,Ovcharenko O.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.04
+29.05.,Breazu M. F.,0,,,,,,[],[],[],[],[],10.00
+28.05.,Breazu M. F.,2,,,,,,"['1', '1', '3', '1', '5', '1', '6', '2']","['1', '1', '3', '1', '6', '4']",[],[],[],2.04
+28.05.,Onofrei M. C.,0,,,,,,"['1', '0', '2', '5']","['1', '0', '4', '5']",[],[],[],1.69
+20.08.2024,Dell'Elba V.,2,,,,,,"['2', '0']","['3', '2', '5', '2']",[],[],[],1.20
+20.08.2024,Breazu M. F.,0,,,,,,[],"['3', '5']",[],[],[],4.22
+14.08.2024,Dhamne M.,2,,,,,,"['1', '0', '4', '1', '5', '2']","['2', '1']","['2', '0', '4', '2', '6', '4']",[],[],1.08
+14.08.2024,Breazu M. F.,1,,,,,,"['2', '4']","['2', '2', '5', '3']","['1', '2', '4', '5']",[],[],6.90
+01.08.2024,Ghetu G.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '3', '2', '6', '3']",[],[],[],1.06
+01.08.2024,Breazu M. F.,0,,,,,,[],"['1', '1', '2', '2']",[],[],[],8.00
+31.07.2024,Breazu M. F.,2,,,,,,"['3', '1', '6', '2']","['3', '3', '6', '4']",[],[],[],1.73
+31.07.2024,Stanciu M. P.,0,,,,,,[],"['3', '2']",[],[],[],2.00
+31.08.2023,Paz J. P.,2,,,,,,[],[],[],[],[],1.03
+31.08.2023,Breazu M. F.,0,,,,,,[],[],[],[],[],9.70
+29.08.2023,Breazu M. F.,2,,,,,,[],[],[],[],[],2.75
+29.08.2023,Golescu R. A.,1,,,,,,[],[],[],[],[],1.41

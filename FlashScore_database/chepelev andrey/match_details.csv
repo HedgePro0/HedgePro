@@ -1,44 +1,45 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Kursumlijska Banja 14 (Serbia),clay,header
-08.08.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-08.08.,Yazdani A.,0,,,,,,[],[],[],[],[],0
-07.08.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-07.08.,Bosio G.,1,,,,,,[],[],[],[],[],0
-05.08.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-05.08.,Pilipovic A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 13 (Serbia),clay,header
-01.08.,Chepelev A.,1,,,,,,[],[],[],[],[],0
-01.08.,Compagnucci T.,2,,,,,,[],[],[],[],[],0
-31.07.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-31.07.,Pisaric A.,1,,,,,,[],[],[],[],[],0
-30.07.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-30.07.,Arcila A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 12 (Serbia),clay,header
-26.07.,Chepelev A.,0,,,,,,[],[],[],[],[],0
-26.07.,Compagnucci T.,2,,,,,,[],[],[],[],[],0
-25.07.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-25.07.,Vales A.,0,,,,,,[],[],[],[],[],0
-24.07.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-24.07.,Jankanj V.,0,,,,,,[],[],[],[],[],0
-23.07.,Chepelev A.,2,,,,,,[],[],[],[],[],0
-23.07.,Markovic S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25+H Kassel (Germany),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 8 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M25 Bol 2 (Croatia),clay,header
-ITF MEN - SINGLES M25 Bol (Croatia),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 6 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 5 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M15 Antalya 9 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 8 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES M15 Valencia 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-07.01.,Chepelev A.,1,,,,,,[],[],[],[],[],0
-07.01.,Simundza J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 21 (Turkey),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+09.07.,Poertner L.,2,,,,,,"['3', '1']","['1', '1', '4', '4', '6', '4']","['3', '1', '6', '2']",[],[],2.14
+09.07.,Chepelev A.,1,,,,,,"['4', '5', '6', '5']","['1', '0', '2', '1']",[],[],[],1.64
+26.06.,Barbier Gazeu P.,2,,,,,,[],"['6', '4']","['4', '2']",[],[],2.59
+26.06.,Chepelev A.,1,,,,,,"['1', '0']",[],[],[],[],1.45
+25.06.,Chepelev A.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '3', '6', '4']",[],[],[],-
+25.06.,Matovic N.,0,,,,,,[],"['2', '1']",[],[],[],-
+20.06.,Torrealba B.,2,,,,,,"['2', '0', '5', '1']","['2', '1']",[],[],[],2.69
+20.06.,Chepelev A.,0,,,,,,[],[],[],[],[],1.42
+19.06.,Chepelev A.,2,,,,,,"['2', '5', '4', '5']","['2', '0', '4', '0']","['4', '5']",[],[],-
+19.06.,Milic O.,1,,,,,,"['3', '1', '5', '1']",[],"['3', '1']",[],[],-
+18.06.,Chepelev A.,2,,,,,,"['2', '1', '5', '2']","['2', '2', '4', '2', '6', '2']","['2', '0', '4', '0']",[],[],-
+18.06.,Markov V.,1,,,,,,"['3', '5', '5', '5']","['1', '0']","['1', '4']",[],[],-
+11.06.,Simundza J.,2,,,,,,"['3', '1', '4', '2', '6', '2']","['3', '1', '6', '4']",[],[],[],3.30
+11.06.,Chepelev A.,0,,,,,,"['2', '3']","['2', '3']",[],[],[],1.30
+28.05.,Brunclik P.,2,,,,,,"['1', '0', '4', '3']",[],"['3', '1', '5', '3']",[],[],1.27
+28.05.,Chepelev A.,1,,,,,,"['3', '3']","['2', '0', '5', '1']","['3', '4']",[],[],3.46
+22.05.,Artnak B.,2,,,,,,"['2', '0', '3', '1', '6', '4']","['2', '0', '5', '1']",[],[],[],1.69
+22.05.,Chepelev A.,0,,,,,,"['1', '2', '3', '4']",[],[],[],[],2.08
+21.05.,Chepelev A.,2,,,,,,"['1', '0', '5', '4']","['2', '1']",[],[],[],1.44
+21.05.,Simundza J.,0,,,,,,"['1', '1']",[],[],[],[],2.62
+07.05.,Gakhov I.,2,,,,,,"['2', '1', '4', '3']","['2', '1', '5', '4']",[],[],[],1.37
+07.05.,Chepelev A.,0,,,,,,"['2', '2']","['2', '2']",[],[],[],2.89
+05.05.,Chepelev A.,1,,,,,,"['2', '4']","['4', '3']","['1', '0', '3', '0']",[],[],2.30
+05.05.,Oradini G.,1,,,,,,"['1', '0', '4', '1', '6', '3']",[],[],[],[],1.56
+29.04.,Ovcharenko O.,2,,,,,,"['1', '0', '4', '3']","['1', '0']",[],[],[],1.30
+29.04.,Chepelev A.,0,,,,,,"['1', '1']",[],[],[],[],3.30
+19.04.,Ionel N. D.,2,,,,,,"['2', '5', '4', '5', '6', '5']","['4', '3']",[],[],[],1.33
+19.04.,Chepelev A.,0,,,,,,"['2', '0', '5', '1']",[],[],[],[],3.09
+18.04.,Chepelev A.,2,,,,,,"['2', '1']","['2', '0', '5', '1']",[],[],[],2.69
+18.04.,Pennaforti G.,0,,,,,,"['4', '4']",[],[],[],[],1.42
+14.04.,Chepelev A.,2,,,,,,"['1', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],2.20
+14.04.,Carboni L.,0,,,,,,"['1', '0']","['2', '2']",[],[],[],1.61
+23.03.,Gulin S.,2,,,,,,"['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.32
+23.03.,Chepelev A.,0,,,,,,[],[],[],[],[],3.22
+22.03.,Chepelev A.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0']","['1', '0', '3', '0']",[],[],1.89
+22.03.,Faurel T.,1,,,,,,[],"['2', '4', '4', '4', '7', '5']","['3', '5']",[],[],1.81
+21.03.,Chepelev A.,1,,,,,,"['1', '2']","['2', '0']",[],[],[],-
+21.03.,Vankan M.,0,,,,,,"['2', '0']",[],[],[],[],-
+20.03.,Chepelev A.,2,,,,,,"['2', '1', '4', '3']","['1', '1', '3', '1']","['1', '1', '6', '4']",[],[],2.69
+20.03.,Picchione A.,1,,,,,,"['2', '2', '5', '5']","['1', '0', '4', '5', '6', '5']","['1', '0']",[],[],1.42
+19.03.,Chepelev A.,2,,,,,,"['2', '0', '4', '0']","['2', '3']","['1', '0']",[],[],1.42
+19.03.,Stankovic S.,1,,,,,,"['1', '4', '3', '4']","['2', '0', '7', '5']","['5', '5']",[],[],2.69
+13.03.,Sperle J.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0']","['4', '4']",[],[],1.83
+13.03.,Chepelev A.,1,,,,,,"['1', '1', '3', '5']","['1', '1', '5', '3']","['4', '3']",[],[],1.87

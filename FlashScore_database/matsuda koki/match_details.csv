@@ -1,47 +1,63 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Bali (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-01.08.,Matsuda K.,0,,,,,,[],[],[],[],[],0
-01.08.,Basing M.,2,,,,,,[],[],[],[],[],0
-31.07.,Matsuda K.,2,,,,,,[],[],[],[],[],0
-31.07.,Chang A.,1,,,,,,[],[],[],[],[],0
-29.07.,Matsuda K.,2,,,,,,[],[],[],[],[],0
-29.07.,Sharma A. R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Maanshan 5 (China),hard,header
-11.07.,Matsuda K.,0,,,,,,[],[],[],[],[],0
-11.07.,Shin S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Maanshan 4 (China),hard,header
-04.07.,Matsuda K.,2,,,,,,[],[],[],[],[],0
-04.07.,Lu P.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Luan 6 (China),hard,header
-ITF MEN - SINGLES M15 Osaka 2 (Japan),hard,header
-ITF MEN - SINGLES M15 Kashiwa (Japan),hard,header
-ITF MEN - SINGLES M15 Hinode (Japan),hard,header
-ITF MEN - SINGLES M15 Maanshan 2 (China),hard,header
-ITF MEN - SINGLES M15 Maanshan (China),hard,header
-ITF MEN - SINGLES M15 Yanagawa City (Japan),hard,header
-ITF MEN - SINGLES M15 Tanagura (Japan),hard,header
-23.10.2024,Matsuda K.,2,,,,,,[],[],[],[],[],0
-23.10.2024,Sueoka Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bali 2 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Singapore (Singapore),hard,header
-11.09.2024,Matsuda K.,1,,,,,,[],[],[],[],[],0
-11.09.2024,Shin W.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hong Kong 3 (Hong Kong),hard,header
-ITF MEN - SINGLES M25 Nakhon Si Thammarat (Thailand),hard,header
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 7 (Thailand),hard,header
-ITF MEN - SINGLES M15 Tokyo 2 (Japan),hard,header
-10.07.2024,Matsuda K.,1,,,,,,[],[],[],[],[],0
-10.07.2024,Tanuma R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-13.06.2024,Matsuda K.,1,,,,,,[],[],[],[],[],0
-13.06.2024,Nad P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sarajevo (Bosnia and Herzegovina),clay,header
-06.06.2024,Matsuda K.,0,,,,,,[],[],[],[],[],0
-06.06.2024,Clarke J.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Matsuda K.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Bassem Sobhy M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Kiseljak (Bosnia and Herzegovina),clay,header
-29.05.2024,Matsuda K.,0,,,,,,[],[],[],[],[],0
-29.05.2024,Dutra Da Silva D.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+05.08.,Dzhavakian Y.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '3']",[],[],[],3.30
+05.08.,Matsuda K.,0,,,,,,[],"['3', '5']",[],[],[],1.30
+10.07.,Matsuda K.,2,,,,,,"['1', '0', '6', '3']","['2', '2', '4', '2']",[],[],[],1.36
+10.07.,Trongcharoenchaikul W.,0,,,,,,[],"['1', '0']",[],[],[],2.94
+09.07.,Matsuda K.,2,,,,,,"['1', '2', '3', '2', '6', '3']","['2', '2', '7', '5']",[],[],[],1.10
+09.07.,Xu W.,0,,,,,,"['2', '0']","['1', '0']",[],[],[],5.75
+06.07.,Matsuda K.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1']",[],[],[],2.30
+06.07.,Samrej K.,0,,,,,,[],"['4', '5']",[],[],[],1.56
+05.07.,Matsuda K.,2,,,,,,"['3', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.46
+05.07.,Zeng Y.,0,,,,,,"['3', '4']",[],[],[],[],2.56
+03.07.,Matsuda K.,2,,,,,,"['4', '3']","['3', '2', '5', '2']",[],[],[],2.69
+03.07.,Santillan A.,0,,,,,,[],[],[],[],[],1.42
+02.07.,Matsuda K.,2,,,,,,"['2', '0', '5', '1']","['3', '2']",[],[],[],2.24
+02.07.,Taguchi R.,0,,,,,,"['2', '5']",[],[],[],[],1.59
+29.05.,Trongcharoenchaikul W.,2,,,,,,"['1', '0', '2', '1']","['4', '5']",[],[],[],2.28
+29.05.,Matsuda K.,0,,,,,,"['1', '1']","['2', '0']",[],[],[],1.57
+28.05.,Matsuda K.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '4', '1']",[],[],[],-
+28.05.,Li Z.,0,,,,,,[],[],[],[],[],-
+26.04.,Takahashi Y.,2,,,,,,[],"['3', '1', '6', '2']","['2', '2', '3', '3', '5', '5']",[],[],1.26
+26.04.,Matsuda K.,1,,,,,,"['3', '1', '5', '1']",[],"['1', '0', '3', '2', '5', '4']",[],[],3.54
+25.04.,Matsuda K.,2,,,,,,"['5', '5']",[],"['1', '0']",[],[],2.24
+25.04.,Fukuda S.,1,,,,,,"['1', '0']","['6', '4']",[],[],[],1.59
+24.04.,Matsuda K.,2,,,,,,[],"['2', '2', '6', '4']","['1', '1', '6', '6']",[],[],1.69
+24.04.,Sumizawa D.,1,,,,,,"['2', '0']","['1', '0']","['1', '0', '6', '5']",[],[],2.07
+23.04.,Matsuda K.,2,,,,,,"['1', '0', '2', '1', '4', '1']","['3', '2']",[],[],[],1.23
+23.04.,Tange S.,0,,,,,,"['1', '1']",[],[],[],[],3.81
+02.04.,Hsu Y. H.,2,,,,,,"['6', '4']","['2', '0', '6', '2']",[],[],[],1.19
+02.04.,Matsuda K.,0,,,,,,[],[],[],[],[],4.23
+13.03.,Nam Ji S.,2,,,,,,"['2', '4', '3', '5']","['2', '2', '6', '4']","['2', '0']",[],[],-
+13.03.,Matsuda K.,1,,,,,,"['4', '1', '5', '2']","['2', '1']",[],[],[],-
+13.03.,Matsuda K.,2,,,,,,"['1', '2', '3', '2', '6', '3']","['3', '1']",[],[],[],1.07
+13.03.,Van Weldam S.,0,,,,,,"['2', '0']",[],[],[],[],6.70
+05.03.,Te R.,2,,,,,,"['4', '2']","['3', '2']",[],[],[],1.27
+05.03.,Matsuda K.,0,,,,,,"['4', '5']",[],[],[],[],3.46
+28.02.,Zhang T.,2,,,,,,"['6', '4']","['2', '0']",[],[],[],1.45
+28.02.,Matsuda K.,0,,,,,,[],[],[],[],[],2.59
+27.02.,Matsuda K.,2,,,,,,"['1', '0', '4', '3']","['4', '3', '6', '5']",[],[],[],10.20
+27.02.,Santillan A.,0,,,,,,"['3', '3']","['5', '5']",[],[],[],1.02
+26.02.,Matsuda K.,2,,,,,,"['1', '0', '2', '1', '5', '2']","['3', '2']",[],[],[],1.96
+26.02.,Sumizawa D.,0,,,,,,"['1', '1']",[],[],[],[],1.75
+30.10.2024,Oki Y.,2,,,,,,"['2', '0']","['2', '1', '4', '1']",[],[],[],-
+30.10.2024,Matsuda K.,0,,,,,,"['3', '4']",[],[],[],[],-
+25.10.2024,Yamanaka T.,2,,,,,,"['4', '4', '6', '4']","['2', '0', '4', '0']",[],[],[],2.24
+25.10.2024,Matsuda K.,0,,,,,,"['1', '0']","['1', '4']",[],[],[],1.59
+24.10.2024,Matsuda K.,2,,,,,,"['2', '2', '4', '2', '6', '4']","['3', '1']",[],[],[],1.99
+24.10.2024,Honda N.,0,,,,,,"['2', '1', '4', '5']",[],[],[],[],1.73
+19.09.2024,Ilagan A.,2,,,,,,"['4', '3', '6', '3']",[],"['2', '0', '3', '3', '5', '3']",[],[],1.29
+19.09.2024,Matsuda K.,1,,,,,,[],"['1', '0']","['1', '2', '3', '2']",[],[],3.37
+18.09.2024,Matsuda K.,2,,,,,,[],[],"['2', '1', '4', '1', '5', '2']",[],[],1.86
+18.09.2024,Vithoontien L.,1,,,,,,"['2', '0']",[],"['2', '4']",[],[],1.86
+17.09.2024,Matsuda K.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '6', '3']",[],[],[],-
+17.09.2024,Dwi Kurniawan A. R.,0,,,,,,[],"['1', '1']",[],[],[],-
+05.09.2024,Weber A.,2,,,,,,[],"['5', '4']",[],[],[],1.18
+05.09.2024,Matsuda K.,0,,,,,,[],[],[],[],[],4.51
+03.09.2024,Matsuda K.,2,,,,,,"['3', '2']","['3', '2']",[],[],[],-
+03.09.2024,Lau H. K.,0,,,,,,[],[],[],[],[],-
+28.08.2024,Chappell N.,2,,,,,,"['1', '0', '4', '3', '5', '4']",[],"['3', '1', '6', '4']",[],[],1.68
+28.08.2024,Matsuda K.,1,,,,,,"['2', '2', '4', '4']",[],"['4', '5']",[],[],2.10
+22.08.2024,Matsuda R.,2,,,,,,"['2', '1']","['2', '4', '5', '5']",[],[],[],1.58
+22.08.2024,Matsuda K.,0,,,,,,"['4', '4']","['2', '1', '4', '1']",[],[],[],2.28
+21.08.2024,Matsuda K.,2,,,,,,"['1', '2', '4', '3', '6', '3']",[],[],[],[],1.24
+21.08.2024,Inui Y.,0,,,,,,"['2', '0']","['3', '5']",[],[],[],3.77

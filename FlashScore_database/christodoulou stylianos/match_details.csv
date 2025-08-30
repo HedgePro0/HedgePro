@@ -1,73 +1,51 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos (Cyprus),clay,header
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion 3 (Greece),hard,header
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M25 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos (Cyprus),clay,header
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion 3 (Greece),hard,header
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M25 Kursumlijska Banja 2 (Serbia),clay,header
-05.06.2024,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-05.06.2024,Kapasi K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-19.03.2024,Christodoulou S.,1,,,,,,[],[],[],[],[],0
-19.03.2024,Bacaloni A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alaminos-Larnaca (Cyprus),clay,header
-14.03.2024,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-14.03.2024,Marmousez L.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Kyratzis S.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Limassol 2 (Cyprus),hard,header
-ITF MEN - SINGLES M25 Heraklion 2 (Greece),hard,header
-09.11.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-09.11.2023,Cretu C.,2,,,,,,[],[],[],[],[],0
-08.11.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-08.11.2023,Rapagnetta D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-25.10.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-25.10.2023,Parker S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-05.10.2023,Christodoulou S.,1,,,,,,[],[],[],[],[],0
-05.10.2023,Bradshaw J.,2,,,,,,[],[],[],[],[],0
-04.10.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-04.10.2023,Sheehy J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-30.09.2023,Christodoulou S.,1,,,,,,[],[],[],[],[],0
-30.09.2023,Parker S.,2,,,,,,[],[],[],[],[],0
-29.09.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-29.09.2023,Duran T.,0,,,,,,[],[],[],[],[],0
-28.09.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-28.09.2023,Buldorini P.,1,,,,,,[],[],[],[],[],0
-27.09.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-27.09.2023,Tkemaladze Z.,0,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca (Cyprus),clay,header
-25.04.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-25.04.2023,Donev G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-23.03.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-23.03.2023,Bakshi A.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Wong H. K.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Heraklion 2 (Greece),hard,header
-22.11.2022,Christodoulou S.,1,,,,,,[],[],[],[],[],0
-22.11.2022,Peliwo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-15.11.2022,Christodoulou S.,0,,,,,,[],[],[],[],[],0
-15.11.2022,Cukierman D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+15.05.,Moraing O.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['3', '3', '5', '3']",[],[],[],1.67
+15.05.,Christodoulou S.,0,,,,,,[],"['2', '1']",[],[],[],2.10
+14.05.,Christodoulou S.,2,,,,,,"['2', '1', '3', '4', '5', '4']","['1', '0', '3', '0']",[],[],[],2.16
+14.05.,Sakellaridis D.,0,,,,,,"['2', '2', '4', '2']",[],[],[],[],1.63
+07.05.,Summers M.,2,,,,,,"['1', '0', '5', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.64
+07.05.,Christodoulou S.,0,,,,,,"['4', '4']",[],[],[],[],2.14
+27.03.,D'Agostino S.,2,,,,,,[],[],"['2', '3', '5', '4']",[],[],1.38
+27.03.,Christodoulou S.,1,,,,,,"['2', '0']",[],"['2', '0']",[],[],2.85
+25.03.,Christodoulou S.,2,,,,,,"['4', '2', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+25.03.,Marinescu M. R.,0,,,,,,"['3', '4']",[],[],[],[],-
+18.03.,Ionel N. D.,2,,,,,,"['1', '2', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.17
+18.03.,Christodoulou S.,0,,,,,,"['2', '0']",[],[],[],[],4.53
+12.03.,Djuric B.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],[],1.18
+12.03.,Christodoulou S.,0,,,,,,[],[],[],[],[],4.38
+31.01.,Christodoulou S.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']","['3', '3', '6', '4']",[],[],4.71
+31.01.,Samrej K.,1,,,,,,"['3', '1', '5', '1']",[],"['3', '2']",[],[],1.20
+20.11.2024,Krutykh O.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.04
+20.11.2024,Christodoulou S.,0,,,,,,[],[],[],[],[],8.85
+06.11.2024,Hartenstein J. P.,2,,,,,,"['3', '4']","['2', '0', '4', '0']","['2', '1', '4', '1']",[],[],2.15
+06.11.2024,Christodoulou S.,1,,,,,,"['2', '0', '5', '3']","['1', '4']","['3', '5']",[],[],1.64
+21.06.2024,Christodoulou S.,2,,,,,,"['2', '3', '4', '5']","['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],-
+21.06.2024,Gorban A.,1,,,,,,"['2', '0', '4', '2', '6', '4']",[],[],[],[],-
+20.06.2024,Christodoulou S.,2,,,,,,"['2', '2', '7', '5']","['3', '1', '6', '2']",[],[],[],1.57
+20.06.2024,Tashi V.,0,,,,,,"['1', '0']",[],[],[],[],2.33
+19.06.2024,Christodoulou S.,2,,,,,,"['1', '0', '3', '0', '4', '1']","['1', '0', '3', '0']",[],[],[],-
+19.06.2024,Rasulov S.,0,,,,,,"['1', '3', '2', '4']",[],[],[],[],-
+04.02.2024,Christodoulou S.,2,,,,,,"['4', '3', '6', '3']","['2', '0', '4', '0']",[],[],[],-
+04.02.2024,Karmoussi H.,0,,,,,,[],[],[],[],[],-
+28.11.2023,Dahlin M.,2,,,,,,[],[],[],[],[],1.51
+28.11.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],2.42
+16.06.2023,Christodoulou S.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],-
+16.06.2023,Huseinovic A.,0,,,,,,[],"['1', '2']",[],[],[],-
+15.06.2023,Christodoulou S.,2,,,,,,"['1', '0', '3', '2', '6', '3']","['3', '1', '4', '2', '5', '3']",[],[],[],1.27
+15.06.2023,De Gabriele A.,0,,,,,,"['2', '2']","['2', '3', '3', '4']",[],[],[],3.80
+11.05.2023,Gima S.,2,,,,,,[],[],[],[],[],1.10
+11.05.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],6.05
+10.05.2023,Christodoulou S.,2,,,,,,[],[],[],[],[],1.63
+10.05.2023,Bouzige M.,1,,,,,,[],[],[],[],[],2.17
+02.05.2023,Dancu V. A.,2,,,,,,[],[],[],[],[],1.35
+02.05.2023,Christodoulou S.,0,,,,,,[],[],[],[],[],3.00
+15.10.2022,Pichler D.,2,,,,,,[],[],[],[],[],1.33
+15.10.2022,Christodoulou S.,0,,,,,,[],[],[],[],[],3.26
+14.10.2022,Christodoulou S.,2,,,,,,[],[],[],[],[],1.49
+14.10.2022,Weintraub B.,0,,,,,,[],[],[],[],[],2.56
+13.10.2022,Christodoulou S.,2,,,,,,[],[],[],[],[],2.23
+13.10.2022,Guerrieri A.,1,,,,,,[],[],[],[],[],1.61
+11.10.2022,Christodoulou S.,2,,,,,,[],[],[],[],[],1.23
+11.10.2022,Schinas S.,0,,,,,,[],[],[],[],[],3.88
+05.03.2022,Elsayed A.,2,,,,,,"['2', '1', '4', '3']","['4', '2']",[],[],[],-
+05.03.2022,Christodoulou S.,0,,,,,,[],[],[],[],[],-

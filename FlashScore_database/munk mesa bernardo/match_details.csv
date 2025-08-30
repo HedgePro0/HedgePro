@@ -1,26 +1,17 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-CHALLENGER MEN - SINGLES Segovia (Spain) - Qualification,hard,header
-21.07.,Munk Mesa B.,1,,,,,,3,9,56%,65% (36/55),52% (23/44),75% (9/12),17% (8/47),46% (16/35),100% (1/1),17,48,50% (2/4),60% (59/99),29% (24/82),46% (83/181),5,0,77% (10/13),7% (1/14),41% (11/27),[],[],[],[],[],0
-21.07.,Shelbayh A.,2,,,,,,5,8,57%,83% (39/47),54% (19/35),0% (0/1),35% (19/55),48% (21/44),25% (3/12),26,44,63% (5/8),71% (58/82),40% (40/99),54% (98/181),5,0,93% (13/14),23% (3/13),59% (16/27),[],[],[],[],[],0
-20.07.,Munk Mesa B.,1,,,,,,4,4,56%,87% (26/30),54% (13/24),100% (4/4),40% (18/45),43% (6/14),40% (2/5),11,19,0% (0/1),72% (39/54),41% (24/59),56% (63/113),7,0,100% (8/8),22% (2/9),59% (10/17),[],[],[],[],[],0
-20.07.,Martinez A.,0,,,,,,3,2,76%,60% (27/45),57% (8/14),60% (3/5),13% (4/30),46% (11/24),0% (0/4),14,32,67% (4/6),59% (35/59),28% (15/54),44% (50/113),3,0,78% (7/9),0% (0/8),41% (7/17),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 28 (Tunisia),hard,header
-18.07.,Munk Mesa B.,0,,,,,,[],[],[],[],[],0
-18.07.,Pascual Ferra R.,2,,,,,,[],[],[],[],[],0
-17.07.,Munk Mesa B.,2,,,,,,[],[],[],[],[],0
-17.07.,Alonso J.,0,,,,,,[],[],[],[],[],0
-15.07.,Munk Mesa B.,2,,,,,,[],[],[],[],[],0
-15.07.,Rivet M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kayseri 5 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 4 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-10.06.,Munk Mesa B.,0,,,,,,[],[],[],[],[],0
-10.06.,Yazdani A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 11 (Turkey),clay,header
-18.04.2024,Munk Mesa B.,0,,,,,,[],[],[],[],[],0
-18.04.2024,Picchione A.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Munk Mesa B.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Kirci K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cancun 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Cancun 2 (Mexico),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+21.07.,Shelbayh A.,2,,,,,,5,8,57%,83% (39/47),54% (19/35),0% (0/1),35% (19/55),48% (21/44),25% (3/12),26,44,63% (5/8),71% (58/82),40% (40/99),54% (98/181),5,0,93% (13/14),23% (3/13),59% (16/27),[],"['3', '1', '5', '1']","['1', '0']",[],[],1.18
+21.07.,Munk Mesa B.,1,,,,,,3,9,56%,65% (36/55),52% (23/44),75% (9/12),17% (8/47),46% (16/35),100% (1/1),17,48,50% (2/4),60% (59/99),29% (24/82),46% (83/181),5,0,77% (10/13),7% (1/14),41% (11/27),"['2', '1']",[],[],[],[],4.46
+20.07.,Munk Mesa B.,1,,,,,,4,4,56%,87% (26/30),54% (13/24),100% (4/4),40% (18/45),43% (6/14),40% (2/5),11,19,0% (0/1),72% (39/54),41% (24/59),56% (63/113),7,0,100% (8/8),22% (2/9),59% (10/17),"['6', '5']","['3', '2']",[],[],[],5.55
+20.07.,Martinez A.,0,,,,,,3,2,76%,60% (27/45),57% (8/14),60% (3/5),13% (4/30),46% (11/24),0% (0/4),14,32,67% (4/6),59% (35/59),28% (15/54),44% (50/113),3,0,78% (7/9),0% (0/8),41% (7/17),[],[],[],[],[],1.12
+25.06.,Shin M.,2,,,,,,"['3', '2', '5', '4']","['2', '4']","['3', '3', '6', '4']",[],[],1.45
+25.06.,Munk Mesa B.,1,,,,,,"['4', '4', '5', '5']","['1', '0', '4', '1', '5', '2']","['1', '0']",[],[],2.59
+18.06.,Azkara A.,2,,,,,,"['2', '0', '6', '4']","['1', '1', '5', '3']",[],[],[],1.25
+18.06.,Munk Mesa B.,0,,,,,,"['4', '5']","['1', '0']",[],[],[],3.62
+09.01.,Kellovsky D.,2,,,,,,[],"['5', '5', '7', '5']","['2', '0', '5', '3']",[],[],1.03
+09.01.,Munk Mesa B.,1,,,,,,"['6', '5']","['3', '2']","['3', '4']",[],[],8.80
+08.01.,Munk Mesa B.,2,,,,,,"['1', '0', '2', '3', '4', '3']","['2', '1', '3', '2', '5', '4']",[],[],[],1.46
+08.01.,Di Vita R.,0,,,,,,"['1', '1', '3', '1']","['2', '2', '3', '3']",[],[],[],2.56
+01.02.2022,Reinberg E.,2,,,,,,[],[],[],[],[],-
+01.02.2022,Munk Mesa B.,0,,,,,,[],[],[],[],[],28.00
+25.01.2022,Patino L.,2,,,,,,[],[],[],[],[],1.05
+25.01.2022,Munk Mesa B.,0,,,,,,[],[],[],[],[],9.30

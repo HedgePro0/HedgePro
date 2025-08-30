@@ -1,52 +1,37 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Luanda 2 (Angola),hard,header
-ITF MEN - SINGLES M15 Luanda (Angola),hard,header
-ITF MEN - SINGLES M15 Cap d'Agde (France),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-ITF MEN - SINGLES M15 Luanda (Angola),hard,header
-ITF MEN - SINGLES M15 Cap d'Agde (France),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-27.06.2024,Morandais J.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Rivet M.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Morandais J.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Lapalu V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Casablanca (Morocco),clay,header
-19.06.2024,Morandais J.,0,,,,,,[],[],[],[],[],0
-19.06.2024,Matsuoka H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-27.03.2024,Morandais J.,0,,,,,,[],[],[],[],[],0
-27.03.2024,Butvilas E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 44 (Tunisia),hard,header
-01.11.2023,Morandais J.,1,,,,,,[],[],[],[],[],0
-01.11.2023,Kalina V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 43 (Tunisia),hard,header
-26.10.2023,Morandais J.,1,,,,,,[],[],[],[],[],0
-26.10.2023,Vandermeersch C.,2,,,,,,[],[],[],[],[],0
-25.10.2023,Morandais J.,2,,,,,,[],[],[],[],[],0
-25.10.2023,Poljicak M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-29.09.2023,Morandais J.,0,,,,,,[],[],[],[],[],0
-29.09.2023,Cid Subervi R.,2,,,,,,[],[],[],[],[],0
-28.09.2023,Morandais J.,2,,,,,,[],[],[],[],[],0
-28.09.2023,Skorilas A.,1,,,,,,[],[],[],[],[],0
-27.09.2023,Morandais J.,2,,,,,,[],[],[],[],[],0
-27.09.2023,Brigida O.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 37 (Tunisia),hard,header
-13.09.2023,Morandais J.,0,,,,,,[],[],[],[],[],0
-13.09.2023,Aksu C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Belem (Brazil),hard,header
-ITF MEN - SINGLES M25 Montreal (Canada),hard,header
-09.03.2023,Morandais J.,0,,,,,,[],[],[],[],[],0
-09.03.2023,Colson T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Boca Raton,clay,header
-ITF MEN - SINGLES M15 Cancun 8 (Mexico),hard,header
-13.07.2022,Morandais J.,0,,,,,,[],[],[],[],[],0
-13.07.2022,Tumasonis G. P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Valldoreix (Spain),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+28.11.2024,Palan D.,2,,,,,,"['3', '4']","['2', '2', '5', '3']",[],[],[],1.06
+28.11.2024,Morandais J.,0,,,,,,"['2', '0']","['1', '0']",[],[],[],7.42
+27.11.2024,Morandais J.,2,,,,,,"['2', '0']","['1', '0', '3', '2', '6', '3']",[],[],[],1.14
+27.11.2024,Karra T.,0,,,,,,[],"['1', '1']",[],[],[],5.10
+20.11.2024,Szajrych J.,2,,,,,,"['2', '1', '5', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.20
+20.11.2024,Morandais J.,0,,,,,,"['3', '3']",[],[],[],[],4.09
+28.08.2024,Beauge M.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '5', '2']",[],[],[],1.14
+28.08.2024,Morandais J.,0,,,,,,[],[],[],[],[],5.09
+27.08.2024,Morandais J.,2,,,,,,[],"['2', '3', '5', '4']","['1', '2', '4', '3', '5', '4']",[],[],2.47
+27.08.2024,Bol J.,1,,,,,,"['3', '2', '6', '3']","['3', '1']","['2', '0', '4', '4']",[],[],1.50
+15.08.2024,Sanchez Quilez A.,2,,,,,,"['3', '1']","['4', '3', '6', '3']",[],[],[],1.08
+15.08.2024,Morandais J.,0,,,,,,[],[],[],[],[],7.01
+14.08.2024,Morandais J.,2,,,,,,"['2', '0', '5', '3']","['1', '2', '6', '5']","['1', '0', '2', '3', '4', '5']",[],[],6.04
+14.08.2024,Dussin L.,1,,,,,,"['3', '4', '4', '5']","['2', '0']","['1', '1', '3', '1', '4', '2']",[],[],1.10
+13.08.2024,Morandais J.,2,,,,,,"['3', '2', '6', '5']","['1', '0', '5', '2']",[],[],[],2.68
+13.08.2024,Becerra Otarola I. A.,0,,,,,,"['4', '4']",[],[],[],[],1.43
+01.08.2024,Echeverria J.,2,,,,,,"['4', '2']","['3', '1', '6', '6']","['4', '3', '6', '5']",[],[],1.07
+01.08.2024,Morandais J.,1,,,,,,"['3', '4', '6', '5']","['3', '4', '6', '5']","['5', '5']",[],[],7.23
+31.07.2024,Morandais J.,2,,,,,,"['1', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],3.51
+31.07.2024,Bol J.,0,,,,,,[],[],[],[],[],1.27
+03.07.2024,Damas M.,2,,,,,,"['2', '2', '3', '3', '5', '3']","['1', '0', '3', '2', '6', '3']",[],[],[],1.08
+03.07.2024,Morandais J.,0,,,,,,"['1', '0', '3', '2']","['1', '1']",[],[],[],6.96
+18.08.2023,Becerra Otarola I. A.,2,,,,,,[],[],[],[],[],1.37
+18.08.2023,Morandais J.,0,,,,,,[],[],[],[],[],2.99
+17.08.2023,Morandais J.,2,,,,,,[],[],[],[],[],-
+17.08.2023,Rodrigues P.,1,,,,,,[],[],[],[],[],-
+16.08.2023,Morandais J.,2,,,,,,[],[],[],[],[],1.01
+16.08.2023,Bezerra M. D.,0,,,,,,[],[],[],[],[],12.00
+17.11.2022,Katz M.,2,,,,,,"['2', '1', '3', '2', '5', '2']","['1', '0', '3', '2', '5', '2']",[],[],[],1.18
+17.11.2022,Morandais J.,0,,,,,,"['2', '2']","['1', '1']",[],[],[],4.44
+16.11.2022,Morandais J.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '6', '3']",[],[],[],3.20
+16.11.2022,Braswell J.,0,,,,,,[],[],[],[],[],1.32
+28.06.2022,Weightman O.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
+28.06.2022,Morandais J.,0,,,,,,[],[],[],[],[],9.00
+11.05.2022,Roca Batalla O.,2,,,,,,"['5', '3']","['2', '1']",[],[],[],1.04
+11.05.2022,Morandais J.,0,,,,,,[],[],[],[],[],10.50

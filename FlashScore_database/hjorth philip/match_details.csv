@@ -1,64 +1,79 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Varnamo (Sweden),clay,header
-ITF MEN - SINGLES M15 Warmbad Villach (Austria),clay,header
-ITF MEN - SINGLES M15 Kotka (Finland),clay,header
-ITF MEN - SINGLES M15 Bastad (Sweden),clay,header
-ITF MEN - SINGLES M15 Oegstgeest (Netherlands),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-ITF MEN - SINGLES M15 Nishi-Tokyo (Japan),hard,header
-ITF MEN - SINGLES M25 Faro (Portugal),hard,header
-ITF MEN - SINGLES M25 Vila Real de Santo Antonio 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Oberhaching (Germany),hard,header
-ITF MEN - SINGLES M15 Manacor 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M15 Oslo (Norway),hard,header
-ITF MEN - SINGLES M15 Doha 3 (Qatar),hard,header
-ITF MEN - SINGLES M15 Doha 2 (Qatar),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 3 (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ATP - SINGLES Davis Cup - World Group I (World),-,header
-ITF MEN - SINGLES M15 Warmbad Villach (Austria),clay,header
-ITF MEN - SINGLES M15 Kotka (Finland),clay,header
-ITF MEN - SINGLES M15 Bastad (Sweden),clay,header
-ITF MEN - SINGLES M15 Oegstgeest (Netherlands),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-ITF MEN - SINGLES M15 Nishi-Tokyo (Japan),hard,header
-ITF MEN - SINGLES M25 Faro (Portugal),hard,header
-ITF MEN - SINGLES M25 Vila Real de Santo Antonio 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Oberhaching (Germany),hard,header
-ITF MEN - SINGLES M15 Manacor 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M15 Oslo (Norway),hard,header
-ITF MEN - SINGLES M15 Doha 3 (Qatar),hard,header
-ITF MEN - SINGLES M15 Doha 2 (Qatar),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 3 (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ATP - SINGLES Davis Cup - World Group I (World),-,header
-15.09.2024,Hjorth P.,1,,,,,,0,0,0%,0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0,0,0% (0/0),0% (0/0),0% (0/0),3,0,0% (0/0),0% (0/0),0% (0/0),[],[],[],[],[],0
-15.09.2024,Zhukayev B.,2,,,,,,0,0,0%,0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0,0,0% (0/0),0% (0/0),0% (0/0),3,0,0% (0/0),0% (0/0),0% (0/0),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-09.08.2024,Hjorth P.,0,,,,,,[],[],[],[],[],0
-09.08.2024,Pontjodikromo S.,2,,,,,,[],[],[],[],[],0
-08.08.2024,Hjorth P.,2,,,,,,[],[],[],[],[],0
-08.08.2024,Van Tilburg R.,1,,,,,,[],[],[],[],[],0
-06.08.2024,Hjorth P.,2,,,,,,[],[],[],[],[],0
-06.08.2024,Van Zijl T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-11.07.2024,Hjorth P.,0,,,,,,[],[],[],[],[],0
-11.07.2024,Tammaro M.,2,,,,,,[],[],[],[],[],0
-09.07.2024,Hjorth P.,2,,,,,,[],[],[],[],[],0
-09.07.2024,Minighini D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-27.06.2024,Hjorth P.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Deckers A.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Hjorth P.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Donders D.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+11.06.,Shepp A.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],2.20
+11.06.,Hjorth P.,0,,,,,,[],[],[],[],[],1.61
+27.05.,Schiessl J. E.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.45
+27.05.,Hjorth P.,0,,,,,,[],[],[],[],[],2.59
+21.05.,Agwi M.,2,,,,,,[],"['3', '1', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],1.29
+21.05.,Hjorth P.,1,,,,,,"['5', '3']","['2', '3']",[],[],[],3.32
+14.05.,Pel S.,2,,,,,,"['2', '3']","['4', '2']","['2', '1']",[],[],2.59
+14.05.,Hjorth P.,1,,,,,,"['2', '0']",[],"['2', '2']",[],[],1.45
+30.04.,Jorda Sanchis D.,2,,,,,,"['1', '1']","['6', '4']","['3', '3']",[],[],1.38
+30.04.,Hjorth P.,1,,,,,,"['1', '0', '2', '1', '5', '2']",[],"['1', '0']",[],[],2.85
+22.04.,Slump S.,2,,,,,,"['2', '1', '5', '2', '6', '5']",[],"['4', '2', '6', '2']",[],[],1.21
+22.04.,Hjorth P.,1,,,,,,"['3', '5', '5', '5']","['3', '1']",[],[],[],4.04
+25.03.,Kusuhara Y.,2,,,,,,[],"['2', '0']","['3', '2', '6', '3']",[],[],2.94
+25.03.,Hjorth P.,1,,,,,,"['3', '1', '5', '1']",[],[],[],[],1.36
+20.03.,Lee K.,2,,,,,,"['5', '4']","['1', '0', '4', '3', '6', '5']",[],[],[],1.62
+20.03.,Hjorth P.,0,,,,,,[],"['2', '2', '5', '5']",[],[],[],2.18
+19.03.,Hjorth P.,2,,,,,,"['4', '3']",[],"['2', '0', '6', '2']",[],[],1.29
+19.03.,Tomida Y.,1,,,,,,[],"['2', '0', '5', '1']",[],[],[],3.15
+26.02.,Curras Abasolo T.,2,,,,,,[],"['3', '3', '6', '4']","['2', '0', '4', '0']",[],[],2.09
+26.02.,Hjorth P.,1,,,,,,"['2', '0', '5', '1']","['2', '1']",[],[],[],1.68
+19.02.,Poljicak M.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '5', '1']",[],[],[],1.27
+19.02.,Hjorth P.,0,,,,,,[],[],[],[],[],3.46
+13.02.,Rosenkranz M.,2,,,,,,"['3', '2', '5', '2']","['1', '0']","['3', '1', '5', '1']",[],[],1.11
+13.02.,Hjorth P.,1,,,,,,[],"['2', '2', '5', '3']",[],[],[],5.45
+11.02.,Hjorth P.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['4', '2', '6', '4']",[],[],[],1.60
+11.02.,Dedura-Palomero M.,0,,,,,,"['3', '5']","['4', '5']",[],[],[],2.22
+22.01.,Honda N.,1,,,,,,"['2', '1', '6', '5']",[],[],[],[],2.18
+22.01.,Hjorth P.,0,,,,,,"['3', '3']",[],[],[],[],1.62
+15.01.,Karlovskiy E.,2,,,,,,"['2', '0', '4', '0']","['2', '1']",[],[],[],-
+15.01.,Hjorth P.,0,,,,,,[],[],[],[],[],-
+06.01.,Pawelski M.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '2', '6', '4']",[],[],[],1.78
+06.01.,Hjorth P.,0,,,,,,[],"['2', '1']",[],[],[],1.92
+21.12.2024,Danilov S.,2,,,,,,[],"['3', '1', '5', '3']","['4', '5', '6', '5']",[],[],1.51
+21.12.2024,Hjorth P.,1,,,,,,"['5', '3']","['3', '4']","['3', '1']",[],[],2.42
+20.12.2024,Hjorth P.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.38
+20.12.2024,Bonnaud A.,0,,,,,,[],[],[],[],[],2.85
+19.12.2024,Hjorth P.,2,,,,,,"['3', '1']","['2', '3', '5', '4']",[],[],[],2.47
+19.12.2024,Vasa E.,0,,,,,,[],"['3', '1']",[],[],[],1.49
+17.12.2024,Hjorth P.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0', '4', '1']",[],[],[],1.12
+17.12.2024,Valsecchi P.,0,,,,,,[],"['1', '3']",[],[],[],5.35
+11.12.2024,Milojevic N.,2,,,,,,[],"['2', '0', '6', '2']","['3', '1', '5', '1']",[],[],-
+11.12.2024,Hjorth P.,1,,,,,,"['3', '1']",[],[],[],[],-
+20.11.2024,Bass F.,2,,,,,,"['3', '4']","['2', '0', '6', '2']","['3', '1', '5', '1']",[],[],2.01
+20.11.2024,Hjorth P.,1,,,,,,"['4', '2']",[],[],[],[],1.71
+13.11.2024,Durasovic V.,2,,,,,,"['1', '0', '3', '0']",[],"['3', '1', '5', '3']",[],[],1.23
+13.11.2024,Hjorth P.,1,,,,,,[],"['3', '1', '5', '1']","['3', '4']",[],[],3.79
+30.10.2024,Fellin P. O.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '3', '1']",[],[],[],1.68
+30.10.2024,Hjorth P.,0,,,,,,[],"['1', '2']",[],[],[],2.09
+29.10.2024,Hjorth P.,2,,,,,,"['6', '4']","['2', '0', '5', '1']",[],[],[],-
+29.10.2024,Lechner D.,0,,,,,,[],[],[],[],[],-
+18.10.2024,Araujo P.,2,,,,,,"['3', '1', '5', '1']","['3', '2', '6', '3']",[],[],[],1.29
+18.10.2024,Hjorth P.,0,,,,,,[],[],[],[],[],3.32
+16.10.2024,Hjorth P.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],-
+16.10.2024,Sychev P.,0,,,,,,"['1', '0']","['1', '1']",[],[],[],12.60
+15.09.2024,Zhukayev B.,2,,,,,,0,0,0%,0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0,0,0% (0/0),0% (0/0),0% (0/0),3,0,0% (0/0),0% (0/0),0% (0/0),[],[],"['10', '0']",[],[],-
+15.09.2024,Hjorth P.,1,,,,,,0,0,0%,0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0% (0/0),0,0,0% (0/0),0% (0/0),0% (0/0),3,0,0% (0/0),0% (0/0),0% (0/0),[],"['4', '6']",[],[],[],-
+05.09.2024,Rossi L.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '4', '0']",[],[],[],1.50
+05.09.2024,Hjorth P.,0,,,,,,[],"['2', '5']",[],[],[],2.47
+03.09.2024,Hjorth P.,2,,,,,,"['4', '2', '7', '5']","['2', '0', '5', '1']",[],[],[],1.42
+03.09.2024,Kaukovalta P.,0,,,,,,"['4', '5']",[],[],[],[],2.72
+16.08.2024,Rodesch C.,2,,,,,,[],"['6', '4']","['2', '2', '5', '3']",[],[],1.18
+16.08.2024,Hjorth P.,1,,,,,,"['3', '2']",[],"['1', '0']",[],[],4.42
+15.08.2024,Hjorth P.,1,,,,,,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0']",[],[],[],1.70
+15.08.2024,Bozemoj B.,0,,,,,,"['1', '4', '2', '5']",[],[],[],[],2.05
+13.08.2024,Hjorth P.,2,,,,,,[],"['2', '2', '4', '4', '6', '4']","['3', '1']",[],[],1.73
+13.08.2024,Stater A.,1,,,,,,"['3', '2', '5', '2']","['2', '1', '3', '2']",[],[],[],2.01
+09.08.2024,Pontjodikromo S.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['4', '2']",[],[],[],1.37
+09.08.2024,Hjorth P.,0,,,,,,"['3', '5']","['4', '5']",[],[],[],2.92
+08.08.2024,Hjorth P.,2,,,,,,"['3', '1', '5', '1', '6', '2']","['2', '4', '4', '4']","['2', '0', '4', '0', '6', '2']",[],[],1.72
+08.08.2024,Van Tilburg R.,1,,,,,,"['2', '5']","['1', '0', '4', '1', '5', '4']","['1', '4']",[],[],2.02
+06.08.2024,Hjorth P.,2,,,,,,"['2', '0', '5', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.37
+06.08.2024,Van Zijl T.,0,,,,,,"['2', '5']",[],[],[],[],2.99
+02.08.2024,Martinez Serrano M.,2,,,,,,[],"['2', '0', '4', '0', '6', '2']","['2', '0', '4', '0']",[],[],-
+02.08.2024,Hjorth P.,1,,,,,,"['4', '2']","['1', '4']",[],[],[],-
+01.08.2024,Hjorth P.,2,,,,,,"['2', '0']","['1', '0', '3', '2']","['1', '0']",[],[],1.50
+01.08.2024,Becerra Otarola I. A.,1,,,,,,"['1', '2']","['2', '2', '4', '4', '7', '5']",[],[],[],2.47
+31.07.2024,Hjorth P.,2,,,,,,"['5', '4']","['1', '0', '6', '3']",[],[],[],1.67
+31.07.2024,Gutierrez O. J.,0,,,,,,[],[],[],[],[],2.11

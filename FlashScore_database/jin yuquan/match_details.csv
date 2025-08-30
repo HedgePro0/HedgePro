@@ -1,71 +1,51 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Wuning 3 (China),hard,header
-06.08.,Jin Y.,1,,,,,,[],[],[],[],[],0
-06.08.,Luo J. H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wuning 2 (China),hard,header
-01.08.,Jin Y.,0,,,,,,[],[],[],[],[],0
-01.08.,Lee D. H.,2,,,,,,[],[],[],[],[],0
-31.07.,Jin Y.,2,,,,,,[],[],[],[],[],0
-31.07.,Inui Y.,0,,,,,,[],[],[],[],[],0
-29.07.,Jin Y.,1,,,,,,[],[],[],[],[],0
-29.07.,Li Z.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wuning (China),hard,header
-24.07.,Jin Y.,1,,,,,,[],[],[],[],[],0
-24.07.,Takamisawa T.,2,,,,,,[],[],[],[],[],0
-22.07.,Jin Y.,2,,,,,,[],[],[],[],[],0
-22.07.,Zhang L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Maanshan 3 (China),hard,header
-ITF MEN - SINGLES M15 Luan 8 (China),hard,header
-ITF MEN - SINGLES M15 Luan 7 (China),hard,header
-ITF MEN - SINGLES M15 Luan 6 (China),hard,header
-ITF MEN - SINGLES M15 Luan 5 (China),hard,header
-ITF MEN - SINGLES M15 Luan 4 (China),hard,header
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-ITF MEN - SINGLES M25 Anning (China),clay,header
-ITF MEN - SINGLES M15 Luan 3 (China),hard,header
-ITF MEN - SINGLES M15 Luan (China),hard,header
-ITF MEN - SINGLES M25 Shenzhen (China),hard,header
-ITF MEN - SINGLES M15 Maanshan 2 (China),hard,header
-ITF MEN - SINGLES M15 Maanshan (China),hard,header
-ITF MEN - SINGLES M25 Qian Daohu (China),hard,header
-ITF MEN - SINGLES M25 Huzhou (China),hard,header
-ITF MEN - SINGLES M15 Hong Kong 3 (Hong Kong),hard,header
-ITF MEN - SINGLES M25 Hong Kong (Hong Kong),hard,header
-CHALLENGER MEN - SINGLES Jinan (China),hard,header
-19.08.2024,Jin Y.,0,,,,,,4,4,66%,74% (29/39),35% (7/20),63% (5/8),0 km/h,0 km/h,29% (11/38),43% (9/21),0% (0/3),61% (36/59),34% (20/59),47% (56/118),3,0,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],0
-19.08.2024,Shimizu Y.,2,,,,,,4,2,64%,71% (27/38),57% (12/21),100% (3/3),0 km/h,0 km/h,26% (10/39),65% (13/20),38% (3/8),66% (39/59),39% (23/59),53% (62/118),7,0,100% (9/9),33% (3/9),67% (12/18),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Yinchuan (China),hard,header
-ITF MEN - SINGLES M25 Tianjin 2 (China),hard,header
-17.07.2024,Jin Y.,1,,,,,,[],[],[],[],[],0
-17.07.2024,Sun F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Tianjin (China),hard,header
-10.07.2024,Jin Y.,0,,,,,,[],[],[],[],[],0
-10.07.2024,Sasikumar M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tianjin 2 (China),hard,header
-04.07.2024,Jin Y.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Barki J.,2,,,,,,[],[],[],[],[],0
-02.07.2024,Jin Y.,2,,,,,,[],[],[],[],[],0
-02.07.2024,Huang T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tianjin (China),hard,header
-26.06.2024,Jin Y.,0,,,,,,[],[],[],[],[],0
-26.06.2024,Dong Z.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Luzhou (China),hard,header
-19.06.2024,Jin Y.,1,,,,,,[],[],[],[],[],0
-19.06.2024,Yang J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-01.06.2024,Jin Y.,1,,,,,,[],[],[],[],[],0
-01.06.2024,Sun F.,2,,,,,,[],[],[],[],[],0
-31.05.2024,Jin Y.,2,,,,,,[],[],[],[],[],0
-31.05.2024,Mochizuki Y.,0,,,,,,[],[],[],[],[],0
-30.05.2024,Jin Y.,2,,,,,,[],[],[],[],[],0
-30.05.2024,Yang J.,0,,,,,,[],[],[],[],[],0
-28.05.2024,Jin Y.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Sun Qian,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Anning (China),clay,header
-23.05.2024,Jin Y.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Jin Y.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Zhu E.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 14 (Turkey),clay,header
-08.05.2024,Jin Y.,1,,,,,,[],[],[],[],[],0
-08.05.2024,Saritas G.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+25.06.,Sinclair C.,2,,,,,,"['4', '4']","['6', '4']","['3', '1']",[],[],1.22
+25.06.,Jin Y.,1,,,,,,"['4', '3', '6', '5']",[],[],[],[],3.91
+11.06.,Sasikumar M.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['1', '0']",[],[],[],1.12
+11.06.,Jin Y.,0,,,,,,"['1', '0']",[],[],[],[],5.30
+05.06.,Chappell N.,2,,,,,,[],"['2', '1', '4', '3']","['3', '2', '6', '3']",[],[],1.31
+05.06.,Jin Y.,1,,,,,,"['7', '5']","['2', '2']",[],[],[],3.20
+03.06.,Jin Y.,2,,,,,,[],"['2', '3', '4', '3', '6', '5']",[],[],[],1.88
+03.06.,Jiang F.,0,,,,,,[],"['3', '1', '5', '5']",[],[],[],1.82
+29.05.,Huang T.,2,,,,,,"['1', '0', '4', '3']","['1', '0', '4', '1']",[],[],[],1.32
+29.05.,Jin Y.,0,,,,,,"['2', '2']",[],[],[],[],3.14
+27.05.,Jin Y.,1,,,,,,[],"['3', '1']","['4', '5']",[],[],1.86
+27.05.,Liu H.,1,,,,,,"['2', '1', '5', '2']",[],"['5', '3']",[],[],1.84
+21.05.,Yamanaka T.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.26
+21.05.,Jin Y.,0,,,,,,[],[],[],[],[],3.54
+13.05.,Liu H.,2,,,,,,[],"['1', '1', '4', '2', '6', '2']",[],[],[],2.35
+13.05.,Jin Y.,0,,,,,,[],"['1', '0']",[],[],[],1.54
+06.05.,Castelnuovo L.,2,,,,,,"['1', '0', '3', '0']","['6', '5']",[],[],[],1.32
+06.05.,Jin Y.,0,,,,,,[],[],[],[],[],3.14
+30.04.,Hongyu Y.,2,,,,,,"['2', '1']","['1', '0', '4', '3', '6', '3']",[],[],[],4.04
+30.04.,Jin Y.,0,,,,,,[],"['1', '1']",[],[],[],1.21
+24.04.,Benchetrit E.,2,,,,,,"['1', '0']","['4', '2', '6', '2']",[],[],[],1.24
+24.04.,Jin Y.,0,,,,,,"['1', '1']",[],[],[],[],3.72
+22.04.,Jin Y.,2,,,,,,"['3', '1']","['3', '4', '6', '5']",[],[],[],2.28
+22.04.,Trongcharoenchaikul W.,0,,,,,,"['4', '5']","['2', '0']",[],[],[],1.57
+10.04.,Sun F.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.05
+10.04.,Jin Y.,0,,,,,,"['1', '0']",[],[],[],[],7.80
+08.04.,Jin Y.,2,,,,,,"['4', '4', '6', '6']","['1', '0', '3', '0', '5', '0']",[],[],[],3.54
+08.04.,Kawahashi Y.,0,,,,,,"['2', '1', '6', '5']",[],[],[],[],1.26
+19.03.,Zhukov M.,2,,,,,,"['3', '2']","['2', '3', '4', '3', '6', '3']",[],[],[],1.19
+19.03.,Jin Y.,0,,,,,,[],"['3', '1']",[],[],[],4.28
+06.03.,Bai Y.,2,,,,,,"['3', '4']","['5', '3']",[],[],[],1.04
+06.03.,Jin Y.,0,,,,,,"['4', '2']",[],[],[],[],8.20
+04.03.,Jin Y.,2,,,,,,"['2', '0', '4', '0', '6', '0']",[],"['2', '0', '4', '0']",[],[],2.16
+04.03.,Lomakin G.,1,,,,,,[],"['4', '3']",[],[],[],1.63
+27.02.,Ehrenschneider N.,2,,,,,,"['3', '2', '5', '2']","['5', '4']",[],[],[],1.04
+27.02.,Jin Y.,0,,,,,,[],[],[],[],[],8.60
+26.02.,Jin Y.,1,,,,,,"['4', '2', '6', '2']","['2', '0']",[],[],[],3.54
+26.02.,Delaney Ja.,0,,,,,,[],[],[],[],[],1.26
+30.10.2024,Huang T.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['1', '1', '3', '1', '5', '1']",[],[],[],1.37
+30.10.2024,Jin Y.,0,,,,,,[],"['1', '0']",[],[],[],2.88
+22.10.2024,Barki J.,2,,,,,,"['5', '3', '6', '4']","['2', '0', '4', '0']",[],[],[],1.35
+22.10.2024,Jin Y.,0,,,,,,"['4', '5']",[],[],[],[],2.99
+03.09.2024,Shin S.,1,,,,,,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.23
+03.09.2024,Jin Y.,0,,,,,,[],[],[],[],[],3.86
+28.08.2024,McHugh A.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '5', '2']",[],[],[],1.18
+28.08.2024,Jin Y.,0,,,,,,[],[],[],[],[],4.51
+19.08.2024,Shimizu Y.,2,,,,,,4,2,64%,71% (27/38),57% (12/21),100% (3/3),0 km/h,0 km/h,26% (10/39),65% (13/20),38% (3/8),66% (39/59),39% (23/59),53% (62/118),7,0,100% (9/9),33% (3/9),67% (12/18),"['2', '1']","['2', '1', '5', '2']",[],[],[],1.08
+19.08.2024,Jin Y.,0,,,,,,4,4,66%,74% (29/39),35% (7/20),63% (5/8),0 km/h,0 km/h,29% (11/38),43% (9/21),0% (0/3),61% (36/59),34% (20/59),47% (56/118),3,0,67% (6/9),0% (0/9),33% (6/18),[],[],[],[],[],7.13
+14.08.2024,Henning P.,2,,,,,,"['5', '3']",[],[],[],[],1.19
+14.08.2024,Jin Y.,0,,,,,,[],[],[],[],[],4.37

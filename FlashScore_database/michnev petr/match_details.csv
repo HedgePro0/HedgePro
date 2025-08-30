@@ -1,73 +1,37 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES M15 Bielsko Biala (Poland),clay,header
-ITF MEN - SINGLES M15 Rovinj (Croatia),clay,header
-ITF MEN - SINGLES M15 Bielsko Biala (Poland),clay,header
-ITF MEN - SINGLES M15 Rovinj (Croatia),clay,header
-14.03.2024,Michnev P.,0,,,,,,[],[],[],[],[],0
-14.03.2024,Bielinskyi V.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Michnev P.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Compagnucci T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pardubice (Czech Republic),clay,header
-20.09.2023,Michnev P.,1,,,,,,[],[],[],[],[],0
-20.09.2023,Wessels L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
-31.08.2023,Michnev P.,0,,,,,,[],[],[],[],[],0
-31.08.2023,Barnat J.,2,,,,,,[],[],[],[],[],0
-30.08.2023,Michnev P.,2,,,,,,[],[],[],[],[],0
-30.08.2023,El Sallaly A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Wroclaw (Poland),clay,header
-30.06.2021,Michnev P.,0,,,,,,[],[],[],[],[],0
-30.06.2021,Luz O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Skopje 2 (North Macedonia),clay,header
-09.06.2021,Zekic M.,0,,,,,,[],[],[],[],[],0
-09.06.2021,Michnev P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Skopje (North Macedonia),clay,header
-03.06.2021,Michnev P.,0,,,,,,[],[],[],[],[],0
-03.06.2021,Zekic M.,2,,,,,,[],[],[],[],[],0
-02.06.2021,Michnev P.,2,,,,,,[],[],[],[],[],0
-02.06.2021,Joncour R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sibenik (Croatia),clay,header
-20.04.2021,Michnev P.,0,,,,,,[],[],[],[],[],0
-20.04.2021,Vilardo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bratislava (Slovakia),hard,header
-26.11.2020,Michnev P.,0,,,,,,[],[],[],[],[],0
-26.11.2020,Fajta P.,2,,,,,,[],[],[],[],[],0
-25.11.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-25.11.2020,Panak Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm El Sheikh 13 (Egypt),hard,header
-13.11.2020,Michnev P.,0,,,,,,[],[],[],[],[],0
-13.11.2020,Chrysochos P.,2,,,,,,[],[],[],[],[],0
-12.11.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-12.11.2020,Rawat S.,0,,,,,,[],[],[],[],[],0
-11.11.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-11.11.2020,Kumar O.,1,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Liberec Open (Czech Republic) - Qualification,clay,header
-EXHIBITION - MEN Prostejov Open (Czech Republic),clay,header
-EXHIBITION - MEN Prostejov Open (Czech Republic) - Qualification,clay,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-12.03.2020,Michnev P.,0,,,,,,[],[],[],[],[],0
-12.03.2020,Kirkov V.,2,,,,,,[],[],[],[],[],0
-10.03.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-10.03.2020,Kapiris S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trnava (Slovakia),hard,header
-28.02.2020,Michnev P.,0,,,,,,[],[],[],[],[],0
-28.02.2020,Ozolins K.,2,,,,,,[],[],[],[],[],0
-27.02.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-27.02.2020,Trinker J.,1,,,,,,[],[],[],[],[],0
-26.02.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-26.02.2020,Duda F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Bad Salzdetfurth (Germany),hard,header
-ITF MEN - SINGLES Kaarst (Germany),hard,header
-01.02.2018,Michnev P.,0,,,,,,[],[],[],[],[],0
-01.02.2018,Boltz S.,2,,,,,,[],[],[],[],[],0
-31.01.2018,Boehler D.,1,,,,,,[],[],[],[],[],0
-31.01.2018,Michnev P.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Ismaning (Germany),hard,header
-ATP - SINGLES St. Petersburg (Russia) - Qualification,hard,header
-CHALLENGER MEN - SINGLES Banja Luka (Bosnia and Herzegovina),clay,header
-ATP - SINGLES US Open (USA) - Qualification,hard,header
-CHALLENGER MEN - SINGLES Liberec (Czech Republic),clay,header
-CHALLENGER MEN - SINGLES Prague (Czech Republic),clay,header
-CHALLENGER MEN - SINGLES Poznan (Poland),clay,header
-CHALLENGER MEN - SINGLES Recanati (Italy),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+26.09.2024,Pokorny L.,2,,,,,,[],[],"['5', '4']",[],[],1.31
+26.09.2024,Michnev P.,1,,,,,,[],[],"['5', '5']",[],[],3.20
+25.09.2024,Michnev P.,2,,,,,,"['4', '2']",[],"['1', '0']",[],[],1.49
+25.09.2024,Lanik T.,1,,,,,,[],"['4', '2', '6', '2']",[],[],[],2.47
+14.08.2024,Gengel M.,2,,,,,,"['2', '0']","['3', '2', '6', '3']",[],[],[],1.55
+14.08.2024,Michnev P.,0,,,,,,[],[],[],[],[],2.34
+28.07.2020,Paroulek T.,2,,,,,,"['2', '0', '6', '4']","['6', '4']",[],[],[],-
+28.07.2020,Michnev P.,0,,,,,,"['1', '2']",[],[],[],[],-
+27.07.2020,Michnev P.,2,,,,,,"['2', '1', '4', '3', '5', '4']","['2', '1']",[],[],[],-
+27.07.2020,Nicod J.,0,,,,,,"['2', '2', '4', '4']",[],[],[],[],-
+17.07.2020,Forejtek J.,2,,,,,,"['3', '1', '5', '1']","['3', '2', '5', '2']",[],[],[],-
+17.07.2020,Michnev P.,0,,,,,,[],[],[],[],[],-
+16.07.2020,Sachko V.,2,,,,,,"['5', '5']","['3', '2', '6', '3']",[],[],[],-
+16.07.2020,Michnev P.,0,,,,,,"['3', '2']",[],[],[],[],-
+15.07.2020,Michnev P.,2,,,,,,"['1', '0', '3', '0']","['2', '3', '4', '3']","['2', '0', '7', '5']",[],[],-
+15.07.2020,Safranek V.,1,,,,,,[],"['3', '1', '4', '4']","['2', '3']",[],[],-
+14.07.2020,Michnev P.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],-
+14.07.2020,Pospisil J.,0,,,,,,"['1', '1']","['3', '5']",[],[],[],-
+13.07.2020,Michnev P.,2,,,,,,[],"['2', '0']",[],[],[],-
+13.07.2020,Paulson A.,0,,,,,,[],[],[],[],[],-
+09.10.2019,Seifert S.,2,,,,,,"['4', '3']","['2', '3', '6', '5']",[],[],[],1.49
+09.10.2019,Michnev P.,0,,,,,,[],"['3', '1', '6', '6']",[],[],[],2.55
+16.10.2017,Masur D.,2,,,,,,"['3', '1', '5', '1']",[],"['2', '2', '5', '3']",[],[],1.38
+16.10.2017,Michnev P.,1,,,,,,[],"['2', '0']","['1', '0']",[],[],2.85
+17.09.2017,Elgin M.,2,,,,,,"['3', '1', '6', '6']","['2', '1']",[],[],[],2.13
+17.09.2017,Michnev P.,0,,,,,,"['3', '4', '6', '5']",[],[],[],[],1.78
+11.09.2017,Ojeda L. R.,2,,,,,,"['2', '3']","['1', '0', '3', '0', '5', '0']","['1', '0', '4', '5', '6', '5']",[],[],1.23
+11.09.2017,Michnev P.,1,,,,,,"['3', '1', '4', '2', '6', '2']",[],"['2', '2', '4', '2']",[],[],3.72
+22.08.2017,Sakharov G.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],1.45
+22.08.2017,Michnev P.,0,,,,,,[],[],[],[],[],2.92
+02.08.2017,Sousa P.,2,,,,,,"['4', '3']","['3', '4', '6', '5']",[],[],[],1.17
+02.08.2017,Michnev P.,0,,,,,,[],"['4', '2']",[],[],[],5.30
+31.07.2017,Michnev P.,2,,,,,,"['1', '3', '3', '3', '5', '3']","['2', '3', '4', '3', '6', '3']",[],[],[],1.31
+31.07.2017,Kellovsky D.,0,,,,,,"['1', '0', '3', '0']","['2', '0']",[],[],[],3.17
+24.07.2017,Robert S.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.46
+24.07.2017,Michnev P.,0,,,,,,[],[],[],[],[],2.61

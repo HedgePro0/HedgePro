@@ -1,44 +1,64 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 4 (Egypt),hard,header
-19.02.,Safwat M.,1,,,,,,[],[],[],[],[],0
-19.02.,Zakaria F.,2,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - World Group I (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 19 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-17.11.2024,Safwat M.,2,,,,,,[],[],[],[],[],0
-17.11.2024,Milojevic N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES M25 Kigali (Rwanda),clay,header
-ATP - SINGLES Davis Cup - World Group I (World),-,header
-14.09.2024,Safwat M.,0,,,,,,[],[],[],[],[],0
-14.09.2024,Piros Z.,2,,,,,,[],[],[],[],[],0
-13.09.2024,Safwat M.,2,,,,,,[],[],[],[],[],0
-13.09.2024,Valkusz M.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Tulln (Austria),clay,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 11 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 4 (Egypt),hard,header
-ATP - SINGLES :  Davis Cup - World Group I (World) - Preliminary,-,header
-ITF MEN - SINGLES :  M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 20 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 19 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES :  M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES :  M25 Kigali (Rwanda),clay,header
-ATP - SINGLES :  Davis Cup - World Group I (World),-,header
-CHALLENGER MEN - SINGLES :  Tulln (Austria),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+23.04.,Rottoli L.,1,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0']",[],[],[],2.15
+23.04.,Safwat M.,0,,,,,,[],[],[],[],[],1.64
+16.04.,Gengel M.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.55
+16.04.,Safwat M.,0,,,,,,"['1', '1']",[],[],[],[],2.32
+13.04.,Zakaria F.,2,,,,,,"['3', '1', '7', '5']","['5', '3']",[],[],[],2.24
+13.04.,Safwat M.,0,,,,,,"['2', '3']",[],[],[],[],1.59
+12.04.,Safwat M.,2,,,,,,"['2', '1', '5', '2']","['1', '2']","['1', '1', '3', '1', '5', '1']",[],[],1.45
+12.04.,Dzhavakian Y.,1,,,,,,[],"['2', '0']","['1', '0']",[],[],2.59
+11.04.,Safwat M.,2,,,,,,"['2', '1', '4', '3', '6', '5']","['2', '1', '5', '2']",[],[],[],1.42
+11.04.,Moraing O.,0,,,,,,"['2', '2', '4', '4']",[],[],[],[],2.69
+10.04.,Safwat M.,2,,,,,,"['6', '4']","['5', '5', '7', '5']",[],[],[],1.15
+10.04.,Cattaneo L.,0,,,,,,[],"['2', '1']",[],[],[],4.80
+09.04.,Safwat M.,2,,,,,,"['4', '2']","['2', '1', '5', '2']",[],[],[],1.15
+09.04.,Waldner N.,0,,,,,,[],[],[],[],[],4.70
+02.02.,Sakellaridis S.,2,,,,,,"['1', '0']",[],"['3', '1', '6', '2']",[],[],1.83
+02.02.,Safwat M.,1,,,,,,[],"['3', '1']",[],[],[],2.00
+01.02.,Safwat M.,2,,,,,,"['2', '0', '6', '2']","['4', '2', '6', '2']",[],[],[],-
+01.02.,Antonopoulos C.,0,,,,,,[],[],[],[],[],-
+23.01.,Cordoba C.,2,,,,,,"['3', '2', '6', '3']",[],"['3', '5', '5', '5', '7', '5']",[],[],3.91
+23.01.,Safwat M.,1,,,,,,[],"['1', '0']","['1', '0', '5', '2']",[],[],1.22
+14.12.2024,Gengel M.,2,,,,,,"['3', '1']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.24
+14.12.2024,Safwat M.,0,,,,,,"['4', '5']","['1', '1']",[],[],[],3.72
+13.12.2024,Safwat M.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.10
+13.12.2024,Kountourakis I.,0,,,,,,"['1', '2', '2', '5']",[],[],[],[],6.07
+12.12.2024,Safwat M.,2,,,,,,[],"['3', '1', '5', '1']",[],[],[],1.28
+12.12.2024,Oh Chan-Yeong,0,,,,,,[],[],[],[],[],3.40
+11.12.2024,Safwat M.,2,,,,,,"['3', '4']","['6', '4']",[],[],[],1.19
+11.12.2024,Hamza Reguig S.,0,,,,,,"['3', '1']",[],[],[],[],4.23
+06.12.2024,Gengel M.,2,,,,,,"['2', '0', '6', '2']",[],[],[],[],1.26
+06.12.2024,Safwat M.,0,,,,,,[],[],[],[],[],3.54
+05.12.2024,Safwat M.,2,,,,,,"['3', '3', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.19
+05.12.2024,Hannestad B.,0,,,,,,"['1', '0']",[],[],[],[],4.23
+04.12.2024,Safwat M.,2,,,,,,"['2', '1']","['2', '0', '5', '3']",[],[],[],1.08
+04.12.2024,Southcombe M.,0,,,,,,"['5', '5']","['1', '2']",[],[],[],6.82
+16.11.2024,Safwat M.,2,,,,,,"['2', '3', '3', '4', '6', '5']","['2', '1', '4', '1']",[],[],[],1.50
+16.11.2024,Philippov E.,0,,,,,,"['2', '0', '4', '2']",[],[],[],[],2.44
+15.11.2024,Safwat M.,2,,,,,,"['6', '4']","['2', '0', '4', '0']",[],[],[],1.38
+15.11.2024,Speziali F.,0,,,,,,[],"['2', '5']",[],[],[],2.85
+14.11.2024,Safwat M.,2,,,,,,"['5', '4']","['1', '0', '6', '3']",[],[],[],1.17
+14.11.2024,Schell N.,0,,,,,,[],[],[],[],[],4.53
+13.11.2024,Safwat M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],-
+13.11.2024,Rimskii M.,0,,,,,,[],[],[],[],[],23.00
+24.10.2024,Zakaria F.,2,,,,,,"['3', '1', '6', '4']","['5', '3']",[],[],[],5.00
+24.10.2024,Safwat M.,0,,,,,,"['3', '4']","['4', '5']",[],[],[],1.14
+23.10.2024,Safwat M.,2,,,,,,"['1', '1', '3', '1', '5', '3']","['2', '1', '6', '3']",[],[],[],1.32
+23.10.2024,Bozemoj B.,0,,,,,,"['1', '0', '3', '4']",[],[],[],[],3.14
+19.10.2024,Gengel M.,1,,,,,,"['1', '1', '4', '2', '6', '2']",[],[],[],[],1.32
+19.10.2024,Safwat M.,0,,,,,,"['1', '0']",[],[],[],[],3.14
+18.10.2024,Safwat M.,2,,,,,,"['2', '0', '7', '5']","['3', '3']","['1', '0', '3', '0']",[],[],-
+18.10.2024,Dzhavakian Y.,1,,,,,,"['1', '2']","['2', '1']",[],[],[],-
+17.10.2024,Safwat M.,2,,,,,,"['2', '3', '4', '3']","['3', '2']",[],[],[],1.29
+17.10.2024,Krajci M.,0,,,,,,"['3', '1']",[],[],[],[],3.32
+16.10.2024,Safwat M.,2,,,,,,"['1', '1', '6', '4']","['6', '4']",[],[],[],1.14
+16.10.2024,Vaccari L.,0,,,,,,"['1', '0']",[],[],[],[],5.10
+09.10.2024,Jones M.,2,,,,,,"['2', '0', '6', '4']","['7', '5']",[],[],[],3.32
+09.10.2024,Safwat M.,0,,,,,,"['3', '4']",[],[],[],[],1.29
+26.09.2024,Plunger M.,2,,,,,,"['6', '5']","['3', '2']",[],[],[],5.96
+26.09.2024,Safwat M.,0,,,,,,[],[],[],[],[],1.10
+24.09.2024,Safwat M.,2,,,,,,"['1', '0', '3', '0']",[],[],[],[],1.02
+24.09.2024,Reddy R.,0,,,,,,[],[],[],[],[],10.50
 03.09.2024,Safwat M.,0,4,4,,,,2,5,59%,73% (30/41),21% (6/28),50% (4/8),27% (9/33),43% (10/23),50% (2/4),7,52% (36/69),34% (19/56),44% (55/125),3,60% (6/10),20% (2/10),40% (8/20),"['2', '2']","['2', '0']",[],[],[],0
 03.09.2024,Moeller M.,2,6,6,,,,2,2,59%,73% (24/33),57% (13/23),50% (2/4),27% (11/41),79% (22/28),50% (4/8),6,66% (37/56),48% (33/69),56% (70/125),3,80% (8/10),40% (4/10),60% (12/20),"['1', '0', '5', '4']","['1', '2', '4', '3']",[],[],[],0
 CHALLENGER MEN - SINGLES :  Tulln (Austria) - Qualification,clay,header

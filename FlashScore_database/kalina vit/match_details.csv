@@ -1,72 +1,45 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-17.07.,Kalina V.,0,,,,,,[],[],[],[],[],0
-17.07.,Rahmani K.,2,,,,,,[],[],[],[],[],0
-16.07.,Kalina V.,2,,,,,,[],[],[],[],[],0
-16.07.,Hurrion M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Ceska Lipa (Czech Republic),clay,header
-ITF MEN - SINGLES M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki 3 (Poland),hard,header
-ITF MEN - SINGLES M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES M15 Metzingen (Germany),clay,header
-ITF MEN - SINGLES M15 Umag (Croatia),clay,header
-11.07.2024,Kalina V.,1,,,,,,[],[],[],[],[],0
-11.07.2024,Tessa L.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Voljavec A.,1,,,,,,[],[],[],[],[],0
-10.07.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-18.06.2024,Kalina V.,1,,,,,,[],[],[],[],[],0
-18.06.2024,Perruzza V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-12.06.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-12.06.2024,Djuric B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki (Poland),clay,header
-05.06.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-05.06.2024,Prihodko O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 15 (Turkey),clay,header
-15.05.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-15.05.2024,Tessa L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-23.04.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-23.04.2024,Isomura K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-27.03.2024,Kalina V.,1,,,,,,[],[],[],[],[],0
-27.03.2024,Matsumura R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nishi-Tokyo (Japan),hard,header
-19.03.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-19.03.2024,Samrej K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-06.03.2024,Kalina V.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Bradshaw J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M15 Monastir 49 (Tunisia),hard,header
-06.12.2023,Kalina V.,0,,,,,,[],[],[],[],[],0
-06.12.2023,Paul J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Limassol 2 (Cyprus),hard,header
-ITF MEN - SINGLES M15 Monastir 44 (Tunisia),hard,header
-02.11.2023,Kalina V.,0,,,,,,[],[],[],[],[],0
-02.11.2023,Benchetrit E.,2,,,,,,[],[],[],[],[],0
-01.11.2023,Kalina V.,2,,,,,,[],[],[],[],[],0
-01.11.2023,Morandais J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 43 (Tunisia),hard,header
-24.10.2023,Kalina V.,0,,,,,,[],[],[],[],[],0
-24.10.2023,Bacaloni A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 40 (Tunisia),hard,header
-04.10.2023,Kalina V.,0,,,,,,[],[],[],[],[],0
-04.10.2023,Wehnelt K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-28.09.2023,Kalina V.,0,,,,,,[],[],[],[],[],0
-28.09.2023,Bittoun C.,2,,,,,,[],[],[],[],[],0
-27.09.2023,Kalina V.,2,,,,,,[],[],[],[],[],0
-27.09.2023,Vaccari L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-BOYS - SINGLES Pardubicka juniorka (Czech Republic),clay,header
-BOYS - SINGLES Wimbledon (United Kingdom) - Qualification,grass,header
-07.07.2023,Kalina V.,1,,,,,,[],[],[],[],[],0
-07.07.2023,Romano F.,2,,,,,,[],[],[],[],[],0
-06.07.2023,Kalina V.,2,,,,,,[],[],[],[],[],0
-06.07.2023,Coquelin H.,1,,,,,,[],[],[],[],[],0
-BOYS - SINGLES French Open (France) - Qualification,clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+12.06.,Cerny M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],1.34
+12.06.,Kalina V.,0,,,,,,[],[],[],[],[],3.04
+11.06.,Kalina V.,2,,,,,,"['1', '1', '3', '1', '6', '4']","['1', '3', '2', '4', '3', '5']","['1', '0', '3', '0', '4', '3', '5', '4']",[],[],1.89
+11.06.,Vrba J.,1,,,,,,"['1', '0', '2', '3']","['1', '0', '3', '0', '4', '1', '5', '2', '6', '3']","['1', '3', '3', '3', '4', '4']",[],[],1.81
+06.12.2024,Tiurnev E.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['3', '2', '5', '2']",[],[],[],-
+06.12.2024,Kalina V.,0,,,,,,"['1', '0']",[],[],[],[],-
+06.12.2024,Kalina V.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['3', '3', '5', '3']",[],[],[],6.60
+06.12.2024,Slump S.,0,,,,,,"['3', '5']","['2', '1']",[],[],[],1.08
+05.12.2024,Kalina V.,2,,,,,,"['1', '0', '5', '2']",[],"['4', '4', '5', '5', '7', '5']",[],[],-
+05.12.2024,Salazar D.,1,,,,,,[],"['3', '1', '5', '1']","['1', '0', '5', '4']",[],[],-
+20.11.2024,Steiner M.,2,,,,,,"['2', '0', '4', '4', '6', '4']","['2', '0', '3', '1']","['1', '0', '2', '1']",[],[],1.33
+20.11.2024,Kalina V.,1,,,,,,"['2', '3', '4', '3']","['1', '2', '2', '3', '4', '3', '6', '3']","['1', '1']",[],[],3.09
+23.10.2024,Tsitsipas Pa.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '5']",[],[],[],2.75
+23.10.2024,Kalina V.,0,,,,,,"['2', '5']","['2', '2', '4', '2']",[],[],[],1.41
+15.10.2024,Bodmer A.,2,,,,,,"['1', '0', '3', '4', '4', '5']","['2', '0', '4', '2', '6', '2']",[],[],[],1.28
+15.10.2024,Kalina V.,0,,,,,,"['1', '1', '3', '1', '5', '3']","['2', '3']",[],[],[],3.40
+09.10.2024,Azoidis D.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '5', '2', '6', '3']",[],[],[],1.63
+09.10.2024,Kalina V.,0,,,,,,"['1', '4']","['3', '5']",[],[],[],2.16
+23.08.2024,Prihodko O.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '3', '2', '5', '2']",[],[],[],1.05
+23.08.2024,Kalina V.,0,,,,,,[],"['2', '2']",[],[],[],8.15
+22.08.2024,Kalina V.,2,,,,,,"['3', '2', '6', '3']","['4', '4', '6', '4']",[],[],[],3.77
+22.08.2024,Maamoun K.M.,0,,,,,,[],"['3', '2']",[],[],[],1.24
+20.08.2024,Kalina V.,2,,,,,,"['4', '2', '6', '2']",[],"['4', '2', '6', '2']",[],[],1.90
+20.08.2024,Gundacker J.,1,,,,,,[],"['1', '0', '5', '2']",[],[],[],1.82
+25.07.2024,Broska F.,2,,,,,,"['2', '2', '5', '3']","['4', '3']",[],[],[],1.20
+25.07.2024,Kalina V.,0,,,,,,"['2', '1']",[],[],[],[],4.22
+24.07.2024,Kalina V.,2,,,,,,"['1', '0', '3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.11
+24.07.2024,Gampert S.,0,,,,,,"['1', '1', '4', '2']",[],[],[],[],5.94
+18.01.2024,Welte M.,2,,,,,,"['3', '2', '5', '2']","['2', '1']",[],[],[],1.43
+18.01.2024,Kalina V.,0,,,,,,[],[],[],[],[],2.68
+16.01.2024,Kalina V.,2,,,,,,"['2', '0', '4', '0']",[],"['1', '0']",[],[],3.08
+16.01.2024,Opitz J.,1,,,,,,[],"['7', '5']",[],[],[],1.34
+29.11.2023,Chrysochos P.,2,,,,,,[],[],[],[],[],1.15
+29.11.2023,Kalina V.,0,,,,,,[],[],[],[],[],4.89
+22.08.2023,Wiskandt M.,2,,,,,,"['3', '2', '6', '5']","['3', '2', '6', '3']",[],[],[],1.41
+22.08.2023,Kalina V.,0,,,,,,"['4', '4']",[],[],[],[],2.74
+01.08.2023,Vrba J.,2,,,,,,"['5', '3']","['2', '0', '4', '0', '6', '0']","['2', '0', '6', '2']",[],[],-
+01.08.2023,Kalina V.,1,,,,,,"['4', '5', '6', '5']",[],[],[],[],-
+31.07.2023,Kalina V.,2,,,,,,"['2', '3', '5', '4']",[],"['5', '3']",[],[],-
+31.07.2023,Volesky J.,1,,,,,,"['2', '0']","['3', '1']",[],[],[],-
+02.06.2023,Schoen P.,2,,,,,,"['1', '0', '4', '3']","['1', '1', '4', '2', '6', '2']",[],[],[],-
+02.06.2023,Kalina V.,0,,,,,,"['3', '3', '5', '5']","['1', '0']",[],[],[],-
+01.06.2023,Kalina V.,2,,,,,,"['5', '4']","['1', '0', '3', '0', '6', '1']",[],[],[],-
+01.06.2023,Chan D.,0,,,,,,[],[],[],[],[],-

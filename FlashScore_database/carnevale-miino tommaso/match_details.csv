@@ -1,53 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Buschhausen (Germany),clay,header
-ITF MEN - SINGLES M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
-ITF MEN - SINGLES M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
-29.08.2023,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],0
-29.08.2023,Jurajda A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M25 Ystad (Sweden),clay,header
-17.08.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-17.08.2023,Mridha J.,2,,,,,,[],[],[],[],[],0
-16.08.2023,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-16.08.2023,Noltorp O.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-02.08.2023,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],0
-02.08.2023,Coman M. A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Rochester,clay,header
-20.07.2023,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],0
-20.07.2023,Wiersholm H.,2,,,,,,[],[],[],[],[],0
-19.07.2023,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-19.07.2023,Bynoe E.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 3 (Turkey),clay,header
-26.01.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-26.01.2023,Vanshelboim E.,2,,,,,,[],[],[],[],[],0
-25.01.2023,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-25.01.2023,Pinto L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-18.01.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-18.01.2023,Milev Y.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 24 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 23 (Turkey),clay,header
-ITF MEN - SINGLES M15 Guatemala (Guatemala),hard,header
-24.11.2021,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],0
-24.11.2021,Urrea A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cundinamarca (Colombia),clay,header
-17.11.2021,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],0
-17.11.2021,Vernier M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Naples,clay,header
-EXHIBITION - MEN UTR Pro Match Series (World),hard,header
-ITF MEN - SINGLES M15 Antalya 13 (Turkey),clay,header
-16.12.2020,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-16.12.2020,Lingua Lavallen A. L.,2,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN International Tennis Series (World),hard,header
-11.07.2020,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-11.07.2020,Metz D.,0,,,,,,[],[],[],[],[],0
-10.07.2020,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-10.07.2020,Draxl L.,2,,,,,,[],[],[],[],[],0
-27.06.2020,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-27.06.2020,Vega L.,0,,,,,,[],[],[],[],[],0
-27.06.2020,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],0
-27.06.2020,Draxl L.,2,,,,,,[],[],[],[],[],0
-27.06.2020,Carnevale-Miino T.,2,,,,,,[],[],[],[],[],0
-27.06.2020,Vega L.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.09.2023,Majdandzic M.,2,,,,,,"['2', '1', '6', '3']","['3', '1']",[],[],[],1.30
+13.09.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],3.28
+24.08.2023,Schonenberg T.,2,,,,,,"['5', '4']",[],[],[],[],2.06
+24.08.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],1.68
+23.08.2023,Carnevale-Miino T.,2,,,,,,"['3', '1', '5', '1']",[],"['2', '0', '6', '2']",[],[],5.15
+23.08.2023,Broska F.,1,,,,,,[],"['4', '2']",[],[],[],1.14
+15.12.2022,Manda C.,2,,,,,,[],[],[],[],[],1.18
+15.12.2022,Carnevale-Miino T.,1,,,,,,[],[],[],[],[],4.46
+07.12.2022,Rodrigues D.,2,,,,,,[],[],[],[],[],1.05
+07.12.2022,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],8.70
+20.10.2021,Bushamuka W.,2,,,,,,"['5', '3']","['2', '1', '6', '5']",[],[],[],1.80
+20.10.2021,Carnevale-Miino T.,0,,,,,,[],"['2', '2']",[],[],[],1.97
+13.10.2021,Benitez Chavarriaga J. M.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.14
+13.10.2021,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],5.10
+23.01.2021,Sheehy J.,2,,,,,,"['3', '4', '5', '4', '6', '5']","['1', '0', '4', '3', '6', '3']",[],[],[],1.23
+23.01.2021,Carnevale-Miino T.,0,,,,,,"['2', '0', '5', '5']","['1', '1']",[],[],[],3.96
+22.01.2021,Jachuck R.,2,,,,,,"['2', '0', '4', '2']","['2', '3', '4', '3', '6', '3']",[],[],[],1.14
+22.01.2021,Carnevale-Miino T.,0,,,,,,"['1', '2']","['3', '1']",[],[],[],5.00
+21.01.2021,Lock B.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '3', '1', '4', '2', '5', '3']",[],[],[],1.24
+21.01.2021,Carnevale-Miino T.,0,,,,,,[],"['1', '2', '2', '3', '3', '4']",[],[],[],3.92
+20.01.2021,Carnevale-Miino T.,2,,,,,,"['1', '1', '5', '5']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.26
+20.01.2021,Garcia I.,0,,,,,,"['1', '0', '4', '3']","['1', '1']",[],[],[],3.68
+18.01.2021,Aragone J.,2,,,,,,"['1', '0', '4', '3', '5', '4']","['1', '2', '3', '2', '5', '2']",[],[],[],1.04
+18.01.2021,Carnevale-Miino T.,0,,,,,,"['2', '2', '4', '4']","['2', '0']",[],[],[],9.20
+14.01.2021,Kim A.,0,,,,,,[],[],[],[],[],-
+14.01.2021,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],-
+13.01.2021,Carnevale-Miino T.,2,,,,,,"['3', '3', '5', '3']","['2', '3']","['7', '5']",[],[],2.64
+13.01.2021,Milavsky D.,1,,,,,,"['2', '1']","['3', '1', '4', '2']",[],[],[],1.45
+12.01.2021,Vashistha A.,2,,,,,,"['1', '2', '4', '3']","['2', '0', '4', '0', '5', '1']",[],[],[],1.31
+12.01.2021,Carnevale-Miino T.,0,,,,,,"['2', '0', '4', '4']","['1', '4', '2', '5']",[],[],[],3.34
+11.01.2021,Sheehy J.,2,,,,,,"['3', '2', '5', '4']","['4', '3']",[],[],[],1.34
+11.01.2021,Carnevale-Miino T.,0,,,,,,"['4', '4']",[],[],[],[],3.20
+11.07.2020,Carnevale-Miino T.,2,,,,,,"['3', '3', '6', '4']","['3', '1', '5', '1']",[],[],[],-
+11.07.2020,Cerretani J.,0,,,,,,"['2', '1']",[],[],[],[],-
+11.07.2020,Carnevale-Miino T.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']",[],[],[],-
+11.07.2020,Okungbowa C.,0,,,,,,"['4', '5']",[],[],[],[],-
+09.07.2020,Carnevale-Miino T.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+09.07.2020,Okungbowa C.,0,,,,,,[],[],[],[],[],-
+09.07.2020,Carnevale-Miino T.,2,,,,,,"['3', '3', '5', '3']","['1', '2']","['2', '0', '4', '3', '7', '3', '9', '5']",[],[],-
+09.07.2020,Lomakin G.,1,,,,,,[],"['2', '0', '5', '3']","['2', '3', '5', '8']",[],[],-
+05.07.2020,Yatsuk I.,2,,,,,,"['5', '3']","['3', '2', '5', '4']",[],[],[],-
+05.07.2020,Carnevale-Miino T.,0,,,,,,[],"['3', '3']",[],[],[],-
+05.07.2020,Hurrion M.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['5', '3']",[],[],[],-
+05.07.2020,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],-
+04.07.2020,Carnevale-Miino T.,2,,,,,,"['3', '3']","['3', '3', '5', '3']","['3', '2', '6', '3', '9', '3', '10', '3']",[],[],4.46
+04.07.2020,Ore J. A.,1,,,,,,"['3', '2', '4', '3']","['3', '2']","['4', '10']",[],[],1.20
+03.07.2020,Lomakin G.,2,,,,,,"['2', '3', '3', '4']","['1', '1', '4', '2', '6', '4']","['1', '1', '2', '1', '7', '3', '9', '6']",[],[],-
+03.07.2020,Carnevale-Miino T.,1,,,,,,"['2', '0', '4', '2']","['1', '0', '3', '4']","['1', '0', '5', '7']",[],[],-
+29.06.2020,Carnevale-Miino T.,2,,,,,,"['2', '0', '6', '2']","['3', '1', '5', '1']",[],[],[],-
+29.06.2020,Storch S.,0,,,,,,[],[],[],[],[],-
+29.06.2020,Carnevale-Miino T.,2,,,,,,"['1', '0', '5', '2', '6', '3']","['1', '2', '3', '2', '6', '5']",[],[],[],-
+29.06.2020,Metz D.,0,,,,,,"['3', '5']","['2', '0', '3', '3']",[],[],[],-
+28.06.2020,Carnevale-Miino T.,2,,,,,,"['1', '0', '5', '2']","['2', '3', '3', '4']",[],[],[],1.29
+28.06.2020,Cerretani J.,0,,,,,,[],"['3', '1', '4', '2']",[],[],[],3.50
+28.06.2020,Goldhoff G.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.48
+28.06.2020,Carnevale-Miino T.,0,,,,,,[],"['1', '5']",[],[],[],2.60

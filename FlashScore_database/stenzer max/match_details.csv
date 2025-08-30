@@ -1,39 +1,17 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Gyula (Hungary),clay,header
-BOYS - SINGLES US Open (USA) - Qualification,hard,header
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-BOYS - SINGLES US Open (USA) - Qualification,hard,header
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-08.08.2024,Stenzer M.,0,,,,,,[],[],[],[],[],0
-08.08.2024,Beaupain S.,2,,,,,,[],[],[],[],[],0
-06.08.2024,Stenzer M.,2,,,,,,[],[],[],[],[],0
-06.08.2024,Lomakin G.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Luedenscheid (Germany) - Qualification,clay,header
-28.07.2024,Stenzer M.,0,,,,,,1,5,56%,61% (20/33),31% (8/26),56% (5/9),28% (9/32),40% (10/25),50% (1/2),47% (28/59),33% (19/57),41% (47/116),2,0,50% (4/8),11% (1/9),29% (5/17),[],[],[],[],[],0
-28.07.2024,Knaff A.,2,,,,,,4,5,56%,72% (23/32),60% (15/25),50% (1/2),39% (13/33),69% (18/26),44% (4/9),67% (38/57),53% (31/59),59% (69/116),8,0,89% (8/9),50% (4/8),71% (12/17),[],[],[],[],[],0
-BOYS - SINGLES Wimbledon (United Kingdom) - Qualification,grass,header
-04.07.2024,Stenzer M.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Thomas F.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M15 Prijedor (Bosnia and Herzegovina),clay,header
-15.05.2024,Stenzer M.,0,,,,,,[],[],[],[],[],0
-15.05.2024,Verbin P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja (Serbia),clay,header
-16.04.2024,Stenzer M.,1,,,,,,[],[],[],[],[],0
-16.04.2024,Bozemoj B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-10.04.2024,Stenzer M.,0,,,,,,[],[],[],[],[],0
-10.04.2024,Parker S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-05.04.2024,Stenzer M.,0,,,,,,[],[],[],[],[],0
-05.04.2024,Malige M.,2,,,,,,[],[],[],[],[],0
-02.04.2024,Stenzer M.,2,,,,,,[],[],[],[],[],0
-02.04.2024,Genier T.,1,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Australian Open (Australia),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-15.11.2023,Stenzer M.,0,,,,,,[],[],[],[],[],0
-15.11.2023,Ursu V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Allershausen (Germany),clay,header
-ITF MEN - SINGLES M15 Meerbusch (Germany),clay,header
-03.05.2022,Stenzer M.,0,,,,,,[],[],[],[],[],0
-03.05.2022,Folliot Q.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+28.05.,Fajta P.,2,,,,,,"['3', '1']","['2', '3', '4', '3']",[],[],[],1.12
+28.05.,Stenzer M.,0,,,,,,[],"['3', '1']",[],[],[],5.25
+29.08.2024,Reznik J.,1,,,,,,"['3', '1', '5', '1']","['1', '0']",[],[],[],-
+29.08.2024,Stenzer M.,0,,,,,,[],[],[],[],[],-
+08.08.2024,Beaupain S.,2,,,,,,"['1', '2', '5', '4']","['3', '2', '6', '5']",[],[],[],1.14
+08.08.2024,Stenzer M.,0,,,,,,"['2', '0']","['5', '5']",[],[],[],5.13
+06.08.2024,Stenzer M.,2,,,,,,"['3', '1']",[],"['1', '2', '2', '3', '4', '3', '5', '4', '6', '5']",[],[],2.30
+06.08.2024,Lomakin G.,1,,,,,,[],"['3', '1']","['2', '0', '3', '1', '4', '4', '5', '5', '6', '6']",[],[],1.57
+28.07.2024,Knaff A.,2,,,,,,4,5,56%,72% (23/32),60% (15/25),50% (1/2),39% (13/33),69% (18/26),44% (4/9),67% (38/57),53% (31/59),59% (69/116),8,0,89% (8/9),50% (4/8),71% (12/17),"['3', '1']","['1', '0', '4', '1', '5', '2']",[],[],[],1.18
+28.07.2024,Stenzer M.,0,,,,,,1,5,56%,61% (20/33),31% (8/26),56% (5/9),28% (9/32),40% (10/25),50% (1/2),47% (28/59),33% (19/57),41% (47/116),2,0,50% (4/8),11% (1/9),29% (5/17),[],"['2', '4']",[],[],[],4.64
+02.06.2024,Mrva M.,2,,,,,,"['1', '0', '2', '1', '4', '1']","['1', '0']",[],[],[],-
+02.06.2024,Stenzer M.,0,,,,,,"['1', '1']",[],[],[],[],-
+21.01.2024,Brunclik P.,2,,,,,,[],"['4', '2']",[],[],[],-
+21.01.2024,Stenzer M.,0,,,,,,[],[],[],[],[],-
+01.09.2022,Kopp S.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '2', '1']",[],[],[],1.01
+01.09.2022,Stenzer M.,0,,,,,,[],"['1', '1']",[],[],[],12.50

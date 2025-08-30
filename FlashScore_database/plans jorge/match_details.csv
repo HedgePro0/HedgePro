@@ -1,24 +1,39 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 28 (Tunisia),hard,header
-16.07.,Plans J.,0,,,,,,[],[],[],[],[],0
-16.07.,Dougaz A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Tarragona (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M25 Les Franqueses del Valles (Spain),hard,header
-15.03.,Plans J.,0,,,,,,[],[],[],[],[],0
-15.03.,Matsuoka H.,2,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Sibiu (Romania),clay,header
-16.09.2024,Plans J.,0,,,,,,0,2,50%,36% (5/14),14% (2/14),0% (0/5),14% (3/21),23% (3/13),0% (0/0),25% (7/28),18% (6/34),21% (13/62),4,0,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],0
-16.09.2024,Royer V.,2,,,,,,3,1,62%,86% (18/21),77% (10/13),0% (0/0),64% (9/14),86% (12/14),100% (5/5),82% (28/34),75% (21/28),79% (49/62),6,0,100% (7/7),83% (5/6),92% (12/13),[],[],[],[],[],0
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M25 Madrid (Spain),hard,header
-ITF MEN - SINGLES M25 Mungia (Spain),clay,header
-ATP - SINGLES Madrid (Spain) - Qualification,clay,header
-ITF MEN - SINGLES Valldoreix (Spain),clay,header
-15.05.2018,Plans J.,1,,,,,,[],[],[],[],[],0
-15.05.2018,Samper-Montana J.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+12.08.,Giunta M.,2,,,,,,"['2', '0', '6', '2']","['4', '2']",[],[],[],1.82
+12.08.,Plans J.,0,,,,,,[],[],[],[],[],21.0
+25.06.,Cekirge K.,2,,,,,,"['4', '2']","['4', '3']",[],[],[],2.30
+25.06.,Plans J.,0,,,,,,[],[],[],[],[],1.56
+24.06.,Plans J.,2,,,,,,"['2', '0', '5', '3']","['4', '3']",[],[],[],2.81
+24.06.,Massard L.,0,,,,,,"['2', '3']",[],[],[],[],1.39
+18.06.,Rankin M.,2,,,,,,"['2', '0', '6', '4']","['3', '1']",[],[],[],1.77
+18.06.,Plans J.,0,,,,,,"['4', '5']",[],[],[],[],1.94
+13.06.,Broady L.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['4', '2']",[],[],[],1.11
+13.06.,Plans J.,0,,,,,,"['3', '5']",[],[],[],[],5.55
+12.06.,Plans J.,2,,,,,,[],"['3', '1']","['3', '2', '5', '2']",[],[],5.80
+12.06.,Bar Biryukov P.,1,,,,,,"['3', '2']",[],[],[],[],1.10
+11.06.,Plans J.,2,,,,,,[],"['2', '1', '4', '1', '6', '1']","['3', '3', '6', '4']",[],[],6.15
+11.06.,Winter E.,1,,,,,,"['7', '5']",[],"['3', '2']",[],[],1.09
+26.03.,Sanchez Quilez A.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '4', '1']",[],[],[],1.11
+26.03.,Plans J.,0,,,,,,[],[],[],[],[],5.55
+20.03.,Diez S.,2,,,,,,"['2', '1', '4', '3', '5', '4', '6', '5']","['1', '0', '4', '3', '6', '3']",[],[],[],1.07
+20.03.,Plans J.,0,,,,,,"['3', '3', '4', '4', '5', '5']","['3', '3']",[],[],[],6.60
+16.09.2024,Royer V.,2,,,,,,3,1,62%,86% (18/21),77% (10/13),0% (0/0),64% (9/14),86% (12/14),100% (5/5),82% (28/34),75% (21/28),79% (49/62),6,0,100% (7/7),83% (5/6),92% (12/13),"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],-
+16.09.2024,Plans J.,0,,,,,,0,2,50%,36% (5/14),14% (2/14),0% (0/5),14% (3/21),23% (3/13),0% (0/0),25% (7/28),18% (6/34),21% (13/62),4,0,17% (1/6),0% (0/7),8% (1/13),[],[],[],[],[],14.60
+07.08.2024,Pedrico Kravtsov A.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '2']",[],[],[],1.28
+07.08.2024,Plans J.,0,,,,,,[],"['1', '3']",[],[],[],3.43
+06.08.2024,Plans J.,2,,,,,,"['1', '0', '4', '5', '6', '5']","['1', '1', '3', '1']",[],[],[],2.72
+06.08.2024,Urribarrens Ramirez I.,0,,,,,,"['3', '3', '5', '3', '6', '6']","['1', '0', '4', '5']",[],[],[],1.42
+10.07.2024,Sanchez Quilez A.,2,,,,,,"['1', '0', '3', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],1.10
+10.07.2024,Plans J.,0,,,,,,"['2', '2', '4', '4']",[],[],[],[],6.04
+26.06.2024,Sun F.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['1', '1', '3', '1', '5', '3']",[],[],[],1.11
+26.06.2024,Plans J.,0,,,,,,[],"['1', '0', '3', '4']",[],[],[],5.93
+25.06.2024,Plans J.,2,,,,,,[],"['3', '1']","['1', '0', '3', '2', '5', '2']",[],[],4.30
+25.06.2024,Masjuan Ginel P.,1,,,,,,"['2', '1', '4', '1']",[],"['1', '1']",[],[],1.19
+14.09.2023,Pujol Navarro B.,2,,,,,,"['1', '0', '2', '5', '4', '5']","['5', '3']",[],[],[],-
+14.09.2023,Plans J.,0,,,,,,"['1', '1', '3', '1', '5', '1']",[],[],[],[],-
+13.09.2023,Plans J.,2,,,,,,"['4', '3']","['2', '0', '5', '1']",[],[],[],7.70
+13.09.2023,Barroso Campos A.,0,,,,,,"['5', '5']",[],[],[],[],1.06
+20.06.2023,Perez Contri S.,2,,,,,,"['1', '0', '2', '1', '5', '2']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.14
+20.06.2023,Plans J.,0,,,,,,"['1', '1']","['1', '1']",[],[],[],5.15
+04.05.2019,Mannarino A.,2,,,,,,"['1', '0', '2', '1', '4', '1']",[],"['2', '2', '5', '5', '7', '5']",[],[],1.02
+04.05.2019,Plans J.,1,,,,,,"['1', '1', '3', '5']",[],"['1', '0', '3', '2']",[],[],20.00

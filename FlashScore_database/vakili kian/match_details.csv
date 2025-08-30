@@ -1,34 +1,17 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M25 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M25 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Naples,clay,header
-20.02.,Vakili K.,0,,,,,,[],[],[],[],[],0
-20.02.,Popko D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Huntsville,clay,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 Santo Domingo 2 (Dominican Republic),hard,header
-13.06.2024,Vakili K.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Pannu K.,1,,,,,,[],[],[],[],[],0
-12.06.2024,Vakili K.,2,,,,,,[],[],[],[],[],0
-12.06.2024,Thomson M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-06.06.2024,Vakili K.,0,,,,,,[],[],[],[],[],0
-06.06.2024,Bertran P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-23.11.2022,Vakili K.,0,,,,,,[],[],[],[],[],0
-23.11.2022,Miyoshi K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cancun 10 (Mexico),hard,header
-11.08.2022,Vakili K.,1,,,,,,[],[],[],[],[],0
-11.08.2022,Doria L.,2,,,,,,[],[],[],[],[],0
-11.08.2022,Vakili K.,1,,,,,,[],[],[],[],[],0
-11.08.2022,Ansari A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Pittsburgh,clay,header
-ITF MEN - SINGLES M25 Wichita,hard,header
-15.06.2022,Vakili K.,1,,,,,,[],[],[],[],[],0
-15.06.2022,Corwin F.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+17.07.,Antonius M.,1,,,,,,[],[],[],[],[],1.81
+17.07.,Vakili K.,0,,,,,,[],[],[],[],[],1.89
+16.07.,Vakili K.,2,,,,,,[],[],[],[],[],-
+16.07.,Ciric A.,1,,,,,,[],[],[],[],[],-
+09.07.,Murali R.,2,,,,,,"['3', '2']",[],"['3', '1', '5', '3']",[],[],1.28
+09.07.,Vakili K.,1,,,,,,[],"['3', '1', '5', '1']","['2', '3']",[],[],3.40
+13.05.,Vakili K.,2,,,,,,"['2', '1', '3', '2', '6', '3']","['2', '2']","['1', '1', '3', '1', '5', '5', '7', '5']",[],[],5.80
+13.05.,Vandecasteele Q.,1,,,,,,"['2', '2']","['1', '0', '4', '3']","['1', '0', '3', '4', '5', '4']",[],[],1.10
+19.03.,McHugh A.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '2', '1', '6', '5']",[],[],[],1.05
+19.03.,Vakili K.,0,,,,,,[],"['1', '1', '4', '4']",[],[],[],7.90
+13.08.2024,Sinclair C.,2,,,,,,"['6', '4']","['1', '3', '5', '5']",[],[],[],1.14
+13.08.2024,Vakili K.,0,,,,,,[],"['1', '0', '3', '0']",[],[],[],5.09
+16.07.2024,George B. T.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.21
+16.07.2024,Vakili K.,0,,,,,,"['2', '0']",[],[],[],[],4.13
+13.07.2022,Brumm J.,2,,,,,,"['1', '0', '2', '1', '3', '4', '6', '5']","['1', '0', '4', '5', '6', '5']",[],[],[],1.28
+13.07.2022,Vakili K.,0,,,,,,"['1', '1', '2', '2', '4', '2']","['2', '2', '5', '3']",[],[],[],3.58

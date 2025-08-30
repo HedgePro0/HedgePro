@@ -1,68 +1,51 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Singapore (Singapore),hard,header
-05.08.,Berger A.,0,,,,,,[],[],[],[],[],0
-05.08.,Matsuoka S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-16.07.,Berger A.,1,,,,,,[],[],[],[],[],0
-16.07.,Peliwo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Monastir 25 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Klosters (Switzerland),clay,header
-ITF MEN - SINGLES M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M15 Huamantla 4 (Mexico),hard,header
-22.11.2024,Berger A.,0,,,,,,[],[],[],[],[],0
-22.11.2024,Lock B.,2,,,,,,[],[],[],[],[],0
-21.11.2024,Berger A.,2,,,,,,[],[],[],[],[],0
-21.11.2024,Espanol Moreno J. A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Morelia (Mexico),hard,header
-ITF MEN - SINGLES M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES M15 Bali 2 (Indonesia),hard,header
-ITF MEN - SINGLES M25 Bali 2 (Indonesia),hard,header
-ITF MEN - SINGLES M25 Bali (Indonesia),hard,header
-ITF MEN - SINGLES M25 Bourg-en-Bresse (France),clay,header
-25.06.2024,Berger A.,0,,,,,,[],[],[],[],[],0
-25.06.2024,Added D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Azay-le-Rideau (France),hard,header
-16.04.2024,Berger A.,1,,,,,,[],[],[],[],[],0
-16.04.2024,Sabas M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Saint-Dizier (France),hard,header
-26.03.2024,Berger A.,0,,,,,,[],[],[],[],[],0
-26.03.2024,Brosset S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Trimbach (Switzerland),hard,header
-13.03.2024,Berger A.,0,,,,,,[],[],[],[],[],0
-13.03.2024,McHugh A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-13.12.2023,Berger A.,0,,,,,,[],[],[],[],[],0
-13.12.2023,Elsayed A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ipoh Perak (Malaysia),hard,header
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-08.08.2023,Berger A.,0,,,,,,[],[],[],[],[],0
-08.08.2023,Shin W.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Anning (China),clay,header
-02.08.2023,Berger A.,0,,,,,,[],[],[],[],[],0
-02.08.2023,Sun F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Shanghai (China),hard,header
-ITF MEN - SINGLES M15 Tianjin 4 (China),hard,header
-ITF MEN - SINGLES M15 Tianjin (China),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-06.04.2023,Berger A.,0,,,,,,[],[],[],[],[],0
-06.04.2023,Bouquier A.,2,,,,,,[],[],[],[],[],0
-05.04.2023,Berger A.,2,,,,,,[],[],[],[],[],0
-05.04.2023,Ruscica A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grenoble (France),hard,header
-07.02.2023,Berger A.,0,,,,,,[],[],[],[],[],0
-07.02.2023,Colson T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 11 (Tunisia),hard,header
-01.12.2022,Berger A.,0,,,,,,[],[],[],[],[],0
-01.12.2022,Lajal M.,2,,,,,,[],[],[],[],[],0
-30.11.2022,Berger A.,2,,,,,,[],[],[],[],[],0
-30.11.2022,Larwig N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 9 (Tunisia),hard,header
-02.11.2022,Berger A.,0,,,,,,[],[],[],[],[],0
-02.11.2022,Zuk K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grenoble (France),hard,header
-10.02.2021,Berger A.,0,,,,,,[],[],[],[],[],0
-10.02.2021,Tatlot J. S.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+08.07.,Efstathiou M.,2,,,,,,"['4', '2', '6', '2']","['2', '4', '4', '4', '7', '5']",[],[],[],1.59
+08.07.,Berger A.,0,,,,,,[],"['1', '0', '3', '0']",[],[],[],2.24
+01.07.,Montsi K.,2,,,,,,"['2', '0', '4', '0']","['2', '3', '4', '3', '6', '3']",[],[],[],1.31
+01.07.,Berger A.,0,,,,,,[],"['3', '1']",[],[],[],3.20
+26.06.,Saraiva Dos Santos P. A.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.57
+26.06.,Berger A.,0,,,,,,[],[],[],[],[],2.28
+24.06.,Berger A.,2,,,,,,"['3', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.08
+24.06.,De Gabriele A.,0,,,,,,[],[],[],[],[],6.35
+18.06.,Aubriot A.,2,,,,,,"['1', '0', '3', '2', '5', '2']",[],"['2', '0', '6', '2']",[],[],1.33
+18.06.,Berger A.,1,,,,,,"['1', '1']","['3', '1']",[],[],[],3.09
+12.06.,Fiorentini A.,2,,,,,,"['5', '3']","['4', '3']",[],[],[],2.26
+12.06.,Berger A.,0,,,,,,[],"['5', '5']",[],[],[],1.58
+11.06.,Berger A.,2,,,,,,"['4', '3', '6', '3']","['2', '0', '5', '1']",[],[],[],2.18
+11.06.,Vulpitta G.,0,,,,,,[],[],[],[],[],1.62
+25.04.,Cesar Porras J.,2,,,,,,"['4', '3', '6', '3']","['2', '0', '6', '4']",[],[],[],1.09
+25.04.,Berger A.,0,,,,,,[],"['1', '2']",[],[],[],6.00
+24.04.,Berger A.,2,,,,,,"['2', '2']","['3', '2']","['4', '3']",[],[],1.85
+24.04.,Graca J.,1,,,,,,"['1', '0', '3', '2', '6', '3']",[],[],[],[],1.85
+23.04.,Berger A.,2,,,,,,"['2', '1', '5', '2']","['2', '1', '4', '3', '6', '3']",[],[],[],5.10
+23.04.,Fanselow S.,0,,,,,,[],"['3', '3']",[],[],[],1.13
+02.04.,Ghazouani Durand Y.,2,,,,,,"['4', '4', '5', '5', '7', '5']","['2', '0', '5', '1']",[],[],[],1.12
+02.04.,Berger A.,0,,,,,,"['4', '3', '5', '4']",[],[],[],[],5.20
+16.11.2024,Brumm J.,2,,,,,,"['1', '0', '6', '3']","['4', '2', '6', '2']",[],[],[],1.34
+16.11.2024,Berger A.,0,,,,,,[],[],[],[],[],3.04
+15.11.2024,Berger A.,2,,,,,,"['5', '3']","['1', '0', '6', '3']",[],[],[],1.19
+15.11.2024,Hendrikx J.,0,,,,,,[],[],[],[],[],4.32
+14.11.2024,Berger A.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '5', '2']",[],[],[],1.02
+14.11.2024,Lage Castelan L. A.,0,,,,,,[],[],[],[],[],12.60
+14.11.2024,Berger A.,2,,,,,,"['3', '1', '6', '4']",[],[],[],[],3.40
+14.11.2024,Rubio Fierros A. F.,0,,,,,,"['2', '3']",[],[],[],[],1.28
+23.10.2024,Gerch L.,2,,,,,,"['3', '1']","['3', '2', '6', '5']",[],[],[],1.14
+23.10.2024,Berger A.,0,,,,,,[],"['4', '4']",[],[],[],5.10
+17.09.2024,Ganesan A.,2,,,,,,"['5', '3']","['1', '0', '3', '0']",[],[],[],1.45
+17.09.2024,Berger A.,0,,,,,,[],[],[],[],[],2.62
+10.09.2024,Clarke J.,2,,,,,,"['1', '0', '5', '2']","['3', '2', '5', '2']",[],[],[],1.06
+10.09.2024,Berger A.,0,,,,,,"['3', '5']",[],[],[],[],8.25
+04.09.2024,Smith K.,2,,,,,,"['7', '5']","['5', '3']",[],[],[],1.09
+04.09.2024,Berger A.,0,,,,,,[],[],[],[],[],6.52
+03.09.2024,Berger A.,2,,,,,,"['4', '3']","['2', '1']",[],[],[],1.10
+03.09.2024,Trismuwantara G.,0,,,,,,[],[],[],[],[],6.04
+23.11.2023,Fukuda S.,2,,,,,,[],[],[],[],[],-
+23.11.2023,Berger A.,0,,,,,,[],[],[],[],[],-
+23.11.2023,Berger A.,2,,,,,,[],[],[],[],[],3.10
+23.11.2023,Trongcharoenchaikul W.,1,,,,,,[],[],[],[],[],1.33
+12.07.2023,Jin J.,2,,,,,,[],[],[],[],[],1.32
+12.07.2023,Berger A.,0,,,,,,[],[],[],[],[],3.15
+05.07.2023,Mu T.,2,,,,,,[],[],[],[],[],1.25
+05.07.2023,Berger A.,1,,,,,,[],[],[],[],[],3.64
+14.06.2023,Lee K.,2,,,,,,[],[],[],[],[],1.26
+14.06.2023,Berger A.,0,,,,,,[],[],[],[],[],3.56

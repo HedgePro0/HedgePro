@@ -1,36 +1,81 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-ITF MEN - SINGLES M25 Cervia (Italy),clay,header
-ITF MEN - SINGLES M25 Reggio Emilia (Italy),clay,header
-ITF MEN - SINGLES M25 Sabadell (Spain),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-ITF MEN - SINGLES M25 Cervia (Italy),clay,header
-ITF MEN - SINGLES M25 Reggio Emilia (Italy),clay,header
-ITF MEN - SINGLES M25 Sabadell (Spain),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-01.04.,Kravchenko G.,0,,,,,,[],[],[],[],[],0
-01.04.,Raynel A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 7 (Egypt),hard,header
-12.03.,Kravchenko G.,2,,,,,,[],[],[],[],[],0
-12.03.,Braynin A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 6 (Egypt),hard,header
-ITF MEN - SINGLES M15 Monastir 7 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 6 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-09.01.,Kravchenko G.,2,,,,,,[],[],[],[],[],0
-09.01.,Loge J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Madrid 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Alcala de Henares (Spain),hard,header
-ITF MEN - SINGLES M15 Szabolcsveresmart 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Szabolcsveresmart (Hungary),hard,header
-ITF MEN - SINGLES M25 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki 3 (Poland),hard,header
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki 2 (Poland),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+24.08.,Montes-De La Torre I.,2,,,,,,2,2,60%,75% (18/24),56% (9/16),0% (0/2),50% (17/34),63% (12/19),67% (6/9),14,23,68% (27/40),55% (29/53),60% (56/93),8,0,75% (6/8),75% (6/8),75% (12/16),"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '3', '6', '3']",[],[],[],1.11
+24.08.,Kravchenko G.,0,,,,,,0,1,64%,50% (17/34),37% (7/19),33% (3/9),25% (6/24),44% (7/16),100% (2/2),3,35,45% (24/53),33% (13/40),40% (37/93),2,0,25% (2/8),25% (2/8),25% (4/16),"['1', '0']","['2', '2']",[],[],[],5.65
+17.06.,Filar K.,2,,,,,,"['3', '1']","['1', '0']",[],[],[],1.91
+17.06.,Kravchenko G.,0,,,,,,"['2', '3']",[],[],[],[],1.79
+11.06.,Otegui J. B.,2,,,,,,[],"['2', '3', '4', '3', '6', '3']","['4', '2', '6', '2']",[],[],2.37
+11.06.,Kravchenko G.,1,,,,,,"['4', '3', '6', '3']","['3', '1']",[],[],[],1.53
+20.05.,Ribecai M.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '3', '1', '5', '1']",[],[],[],1.73
+20.05.,Kravchenko G.,0,,,,,,[],"['1', '2']",[],[],[],1.99
+13.05.,Schlageter J.,2,,,,,,"['2', '2', '4', '2']","['4', '3', '6', '3']",[],[],[],4.09
+13.05.,Kravchenko G.,0,,,,,,"['2', '1']",[],[],[],[],1.20
+30.04.,Crawford O.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.21
+30.04.,Kravchenko G.,0,,,,,,[],"['2', '5']",[],[],[],4.04
+23.04.,Clarke J.,2,,,,,,"['2', '2', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.23
+23.04.,Kravchenko G.,0,,,,,,"['1', '0']",[],[],[],[],3.81
+18.04.,Dellavedova M.,2,,,,,,"['3', '1']","['2', '1', '5', '4']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],2.36
+18.04.,Kravchenko G.,1,,,,,,"['2', '3', '4', '3', '6', '3']","['3', '3']","['1', '3']",[],[],1.55
+21.03.,Ursu V.,2,,,,,,"['4', '2']","['1', '0', '6', '3']",[],[],[],2.08
+21.03.,Kravchenko G.,0,,,,,,[],[],[],[],[],1.69
+20.03.,Kravchenko G.,2,,,,,,"['2', '1']","['3', '4', '6', '5']",[],[],[],1.05
+20.03.,Ibrahim K.,0,,,,,,[],"['3', '1']",[],[],[],7.50
+19.03.,Kravchenko G.,2,,,,,,"['5', '3']","['3', '2']",[],[],[],1.41
+19.03.,Arutiunian E.,0,,,,,,[],[],[],[],[],2.62
+15.03.,Purtseladze S.,2,,,,,,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.67
+15.03.,Kravchenko G.,0,,,,,,[],[],[],[],[],2.10
+14.03.,Kravchenko G.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '4', '1']",[],[],[],1.34
+14.03.,Elsayed A.,0,,,,,,"['2', '4']",[],[],[],[],3.04
+13.03.,Kravchenko G.,2,,,,,,"['2', '1', '6', '3']","['2', '0', '7', '5']",[],[],[],1.85
+13.03.,Ursu V.,0,,,,,,[],"['4', '5']",[],[],[],1.85
+06.03.,Tamm K.,2,,,,,,"['5', '3']","['6', '4']","['1', '0']",[],[],2.32
+06.03.,Kravchenko G.,1,,,,,,"['4', '5']",[],[],[],[],1.55
+05.03.,Kravchenko G.,2,,,,,,"['2', '1', '4', '1']","['3', '2']",[],[],[],1.10
+05.03.,Sabaliauskas A.,0,,,,,,[],[],[],[],[],5.65
+20.02.,Tepmahc N.,2,,,,,,"['2', '0', '5', '3']","['2', '1', '4', '3', '6', '3']",[],[],[],2.30
+20.02.,Kravchenko G.,0,,,,,,"['1', '2']","['3', '3']",[],[],[],1.56
+19.02.,Kravchenko G.,2,,,,,,"['2', '0', '6', '4']","['3', '1', '5', '1']",[],[],[],1.43
+19.02.,Petkovic M.,0,,,,,,"['4', '5']",[],[],[],[],2.66
+14.02.,Tepmahc N.,2,,,,,,"['4', '5']","['1', '1', '2', '2', '5', '5', '7', '5']",[],[],[],2.81
+14.02.,Kravchenko G.,0,,,,,,"['3', '1']","['1', '0', '2', '1', '4', '3']",[],[],[],1.39
+13.02.,Kravchenko G.,1,,,,,,"['2', '2', '4', '2', '7', '5']","['2', '0', '4', '0']",[],[],[],1.56
+13.02.,Carboni L.,0,,,,,,"['2', '1', '3', '4']",[],[],[],[],2.30
+12.02.,Kravchenko G.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['5', '3']",[],[],[],1.29
+12.02.,Oki Y.,0,,,,,,[],[],[],[],[],3.15
+15.01.,Alvarez Varona N.,2,,,,,,"['6', '4']",[],"['1', '2', '4', '5', '6', '5']",[],[],1.49
+15.01.,Kravchenko G.,1,,,,,,[],[],"['2', '0', '4', '2']",[],[],2.47
+12.01.,Vives Marcos P.,2,,,,,,"['4', '5', '6', '5']","['3', '2']",[],[],[],1.87
+12.01.,Kravchenko G.,0,,,,,,"['5', '3']",[],[],[],[],1.83
+11.01.,Kravchenko G.,2,,,,,,"['2', '0']","['5', '4']",[],[],[],1.39
+11.01.,Altamirano C.,0,,,,,,[],[],[],[],[],2.81
+10.01.,Kravchenko G.,2,,,,,,"['1', '0', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.22
+10.01.,Gutierrez O. J.,0,,,,,,"['3', '3']",[],[],[],[],3.91
+08.01.,Kravchenko G.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.04
+08.01.,Piatti R.,0,,,,,,[],[],[],[],[],8.10
+29.11.2024,Cesar Porras J.,2,,,,,,"['1', '1', '3', '1', '4', '2']","['1', '0']",[],[],[],1.58
+29.11.2024,Kravchenko G.,0,,,,,,"['1', '0', '2', '3']","['1', '1']",[],[],[],2.26
+28.11.2024,Kravchenko G.,2,,,,,,"['2', '1', '3', '2', '6', '3']","['3', '1', '6', '2']",[],[],[],1.89
+28.11.2024,De Krom M.,0,,,,,,"['2', '2']",[],[],[],[],1.81
+27.11.2024,Kravchenko G.,2,,,,,,[],"['2', '0', '5', '1']","['2', '1']",[],[],1.77
+27.11.2024,Laurent T.,1,,,,,,"['5', '3']",[],[],[],[],1.94
+19.11.2024,Paris T.,2,,,,,,"['3', '1', '6', '4']","['5', '3']",[],[],[],1.69
+19.11.2024,Kravchenko G.,0,,,,,,"['2', '3']",[],[],[],[],2.04
+07.11.2024,Planinsek F. J.,2,,,,,,[],"['2', '2', '4', '2']","['1', '0', '4', '1', '6', '1']",[],[],1.85
+07.11.2024,Kravchenko G.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']",[],[],[],1.85
+05.11.2024,Kravchenko G.,2,,,,,,"['3', '2', '6', '3']","['2', '0']",[],[],[],1.15
+05.11.2024,Krajci M.,0,,,,,,[],[],[],[],[],4.95
+31.10.2024,Zuk K.,2,,,,,,"['2', '0', '7', '5']","['4', '2']",[],[],[],3.32
+31.10.2024,Kravchenko G.,0,,,,,,"['1', '2']",[],[],[],[],1.29
+29.10.2024,Kravchenko G.,2,,,,,,"['2', '1', '4', '1']","['3', '2']",[],[],[],1.14
+29.10.2024,Butulija B.,0,,,,,,[],"['3', '3']",[],[],[],5.05
+25.10.2024,Karol M.,2,,,,,,"['3', '1']","['2', '1']",[],[],[],1.66
+25.10.2024,Kravchenko G.,1,,,,,,"['2', '3']",[],[],[],[],2.11
+24.10.2024,Kravchenko G.,2,,,,,,"['1', '0', '3', '0', '4', '1']","['1', '2', '3', '2']",[],[],[],2.42
+24.10.2024,Pokorny L.,0,,,,,,"['1', '3']","['2', '0']",[],[],[],1.51
+22.10.2024,Kravchenko G.,2,,,,,,"['3', '2']","['5', '4']",[],[],[],1.77
+22.10.2024,Vasa E.,0,,,,,,[],[],[],[],[],1.94
+11.10.2024,Kolar Z.,2,,,,,,"['3', '1']","['3', '2']",[],[],[],1.26
+11.10.2024,Kravchenko G.,0,,,,,,[],[],[],[],[],3.54
+10.10.2024,Kravchenko G.,2,,,,,,"['3', '1']",[],"['4', '2']",[],[],1.68
+10.10.2024,Ejupovic E.,1,,,,,,[],"['2', '0', '5', '1']",[],[],[],2.06
+09.10.2024,Kravchenko G.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],-
+09.10.2024,Mintz Z.,0,,,,,,[],[],[],[],[],28.00

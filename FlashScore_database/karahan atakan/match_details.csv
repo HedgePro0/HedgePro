@@ -1,43 +1,47 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-30.07.,Karahan A.,0,,,,,,[],[],[],[],[],0
-30.07.,Popovic S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kayseri 5 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 4 (Turkey),hard,header
-ATP - SINGLES Davis Cup - World Group I (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M15 Winston-Salem,hard,header
-BOYS - SINGLES US Open (USA),hard,header
-05.09.2024,Karahan A.,0,,,,,,3,3,49%,68% (17/25),35% (9/26),20% (1/5),29% (12/41),47% (7/15),50% (1/2),11,29,100% (5/5),51% (26/51),34% (19/56),42% (45/107),5,0,56% (5/9),11% (1/9),33% (6/18),1452,[],[],[],[],[],0
-05.09.2024,Sakamoto R.,2,,,,,,1,1,73%,71% (29/41),53% (8/15),50% (1/2),32% (8/25),65% (17/26),80% (4/5),10,20,64% (14/22),66% (37/56),49% (25/51),58% (62/107),5,0,89% (8/9),44% (4/9),67% (12/18),1468,[],[],[],[],[],0
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M15 Antalya 13 (Turkey),clay,header
-02.05.2024,Karahan A.,0,,,,,,[],[],[],[],[],0
-02.05.2024,Trongcharoenchaikul W.,2,,,,,,[],[],[],[],[],0
-30.04.2024,Karahan A.,2,,,,,,[],[],[],[],[],0
-30.04.2024,Nawaf R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 8 (Turkey),clay,header
-29.03.2024,Karahan A.,0,,,,,,[],[],[],[],[],0
-29.03.2024,Slump S.,2,,,,,,[],[],[],[],[],0
-28.03.2024,Karahan A.,2,,,,,,[],[],[],[],[],0
-28.03.2024,Vankan M.,1,,,,,,[],[],[],[],[],0
-27.03.2024,Karahan A.,2,,,,,,[],[],[],[],[],0
-27.03.2024,Gavrielides L.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-BOYS - SINGLES Australian Open (Australia),hard,header
-ITF MEN - SINGLES M15 Champaign,hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES US Open (USA) - Qualification,hard,header
-BOYS - SINGLES Wimbledon (United Kingdom) - Qualification,grass,header
-BOYS - SINGLES French Open (France) - Qualification,clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-BOYS - SINGLES Australian Open (Australia),hard,header
-ITF MEN - SINGLES M15 Antalya 20 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 5 (Turkey),clay,header
-08.11.2022,Karahan A.,1,,,,,,[],[],[],[],[],0
-08.11.2022,Ilkel B.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+06.08.,Molder M.,2,,,,,,"['2', '1', '6', '5']","['3', '2', '6', '3']",[],[],[],1.61
+06.08.,Karahan A.,0,,,,,,"['5', '5']",[],[],[],[],2.20
+24.06.,Rybkin S.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['6', '5']",[],[],[],3.32
+24.06.,Karahan A.,0,,,,,,[],[],[],[],[],1.29
+17.06.,Ursu V.,2,,,,,,"['1', '0', '2', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],1.25
+17.06.,Karahan A.,0,,,,,,"['1', '1']",[],[],[],[],3.62
+02.02.,Karahan A.,2,,,,,,"['5', '3']","['1', '0', '6', '3']",[],[],[],-
+02.02.,De Alba R.,0,,,,,,[],[],[],[],[],-
+19.11.2024,Altamirano C.,2,,,,,,"['2', '3', '4', '3']","['3', '2', '6', '5']","['3', '2']",[],[],1.46
+19.11.2024,Karahan A.,1,,,,,,"['2', '0', '5', '5', '7', '5']","['3', '3']",[],[],[],2.56
+17.10.2024,Pow L.,2,,,,,,"['4', '2', '5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.94
+17.10.2024,Karahan A.,0,,,,,,"['3', '4']","['1', '3']",[],[],[],1.77
+16.10.2024,Karahan A.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.72
+16.10.2024,Tobon M.,0,,,,,,[],[],[],[],[],2.00
+05.09.2024,Sakamoto R.,2,,,,,,1,1,73%,71% (29/41),53% (8/15),50% (1/2),32% (8/25),65% (17/26),80% (4/5),10,20,64% (14/22),66% (37/56),49% (25/51),58% (62/107),5,0,89% (8/9),44% (4/9),67% (12/18),1468,"['2', '1', '6', '3']","['2', '0', '3', '1']",[],[],[],-
+05.09.2024,Karahan A.,0,,,,,,3,3,49%,68% (17/25),35% (9/26),20% (1/5),29% (12/41),47% (7/15),50% (1/2),11,29,100% (5/5),51% (26/51),34% (19/56),42% (45/107),5,0,56% (5/9),11% (1/9),33% (6/18),1452,[],"['1', '2']",[],[],[],-
+04.09.2024,Karahan A.,2,,,,,,"['3', '2']","['1', '0', '3', '0']",[],[],[],-
+04.09.2024,Papamalamis T.,0,,,,,,[],"['1', '3', '4', '4']",[],[],[],-
+03.09.2024,Karahan A.,2,,,,,,"['1', '1', '4', '2', '6', '2']","['3', '5']","['3', '1', '5', '3']",[],[],-
+03.09.2024,Miguel L. A.,1,,,,,,"['1', '0']","['2', '1', '5', '2']","['3', '4']",[],[],-
+01.09.2024,Karahan A.,2,,,,,,"['3', '2', '5', '2']",[],"['2', '1', '4', '1', '6', '5']",[],[],-
+01.09.2024,Exsted M.,1,,,,,,[],"['4', '2', '6', '2']","['3', '5', '5', '5', '6', '6']",[],[],-
+08.07.2024,Rapagnetta D.,2,,,,,,"['3', '4']","['6', '4']",[],[],[],-
+08.07.2024,Karahan A.,0,,,,,,"['4', '2']",[],[],[],[],-
+03.06.2024,Rice K.,2,,,,,,"['3', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],-
+03.06.2024,Karahan A.,0,,,,,,"['5', '5']",[],[],[],[],-
+24.01.2024,Woestendick C.,2,,,,,,"['4', '2']",[],"['5', '3', '7', '5']",[],[],-
+24.01.2024,Karahan A.,1,,,,,,"['4', '5']","['2', '0', '4', '0']","['4', '5']",[],[],-
+23.01.2024,Karahan A.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],-
+23.01.2024,Camus C.,0,,,,,,[],[],[],[],[],-
+21.01.2024,Karahan A.,2,,,,,,"['7', '5']","['3', '1']",[],[],[],-
+21.01.2024,Jovanovski D.,0,,,,,,[],[],[],[],[],-
+12.09.2023,Draxl L.,2,,,,,,"['1', '0', '4', '3', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.04
+12.09.2023,Karahan A.,0,,,,,,"['1', '1', '4', '4']",[],[],[],[],9.25
+03.09.2023,Horovitz R.,2,,,,,,[],"['3', '1', '5', '1', '6', '2']","['3', '3', '4', '4', '6', '4']",[],[],-
+03.09.2023,Karahan A.,1,,,,,,"['4', '2']","['2', '5']","['1', '0', '4', '3']",[],[],-
+01.09.2023,Karahan A.,2,,,,,,"['1', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],-
+01.09.2023,Iakubenko V.,0,,,,,,"['1', '0']",[],[],[],[],-
+31.08.2023,Karahan A.,2,,,,,,"['2', '3', '4', '3']","['2', '0']","['1', '0', '3', '1', '4', '1', '5', '3', '6', '3', '8', '4', '10', '6']",[],[],-
+31.08.2023,Hattori R.,1,,,,,,"['2', '0', '4', '4']",[],"['1', '1', '2', '4', '3', '4', '4', '7']",[],[],-
+01.06.2023,Majdandzic M.,2,,,,,,"['1', '0']","['2', '1']","['3', '2', '5', '2']",[],[],-
+01.06.2023,Karahan A.,1,,,,,,[],"['2', '2', '6', '4']",[],[],[],-
+23.01.2023,Blockx A.,2,,,,,,"['2', '1']","['5', '4']",[],[],[],-
+23.01.2023,Karahan A.,0,,,,,,[],[],[],[],[],-
+21.01.2023,Karahan A.,2,,,,,,"['3', '3', '6', '6']","['2', '1', '6', '5']",[],[],[],-
+21.01.2023,Kriznik M.,0,,,,,,"['3', '2', '6', '5']","['3', '3']",[],[],[],-

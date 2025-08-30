@@ -1,39 +1,69 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-06.08.,Efstathiou M.,0,,,,,,[],[],[],[],[],0
-06.08.,Antoni R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wels (Austria),clay,header
-30.07.,Efstathiou M.,0,,,,,,[],[],[],[],[],0
-30.07.,Sekachov G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-18.07.,Efstathiou M.,0,,,,,,[],[],[],[],[],0
-18.07.,Peliwo F.,2,,,,,,[],[],[],[],[],0
-17.07.,Efstathiou M.,2,,,,,,[],[],[],[],[],0
-17.07.,Caripi V.,0,,,,,,[],[],[],[],[],0
-16.07.,Efstathiou M.,2,,,,,,[],[],[],[],[],0
-16.07.,Montsi K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-10.07.,Efstathiou M.,2,,,,,,[],[],[],[],[],0
-10.07.,Montsi K.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki (Poland),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Luan 3 (China),hard,header
-ITF MEN - SINGLES M15 Luan 2 (China),hard,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos (Cyprus),clay,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-22.02.,Efstathiou M.,1,,,,,,[],[],[],[],[],0
-22.02.,Timini A.,0,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-31.01.,Efstathiou M.,2,,,,,,[],[],[],[],[],0
-31.01.,Jones M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES M15 Pirot (Serbia),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+11.07.,Peliwo F.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.63
+11.07.,Efstathiou M.,0,,,,,,[],[],[],[],[],2.16
+08.07.,Efstathiou M.,2,,,,,,"['4', '2', '6', '2']","['2', '4', '4', '4', '7', '5']",[],[],[],1.59
+08.07.,Berger A.,0,,,,,,[],"['1', '0', '3', '0']",[],[],[],2.24
+27.06.,Berkieta T.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['3', '1']",[],[],[],1.20
+27.06.,Efstathiou M.,0,,,,,,"['2', '0']",[],[],[],[],4.14
+26.06.,Efstathiou M.,2,,,,,,"['2', '1', '5', '4']","['2', '1', '6', '5']",[],[],[],1.54
+26.06.,Malaszszak M.,0,,,,,,"['4', '4']","['3', '3']",[],[],[],2.35
+25.06.,Efstathiou M.,2,,,,,,"['2', '0', '4', '4', '7', '5']","['4', '2']",[],[],[],1.29
+25.06.,Grzegorzewski O.,0,,,,,,"['2', '3', '4', '3']","['3', '4']",[],[],[],3.32
+21.06.,Valkusz M.,2,,,,,,"['1', '0', '3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
+21.06.,Efstathiou M.,0,,,,,,"['1', '1', '4', '2']",[],[],[],[],7.80
+20.06.,Efstathiou M.,2,,,,,,"['2', '1', '4', '5', '6', '5']",[],"['1', '0', '4', '3', '6', '3']",[],[],-
+20.06.,Mashtakov N.,1,,,,,,"['2', '2', '5', '3']","['2', '0', '4', '0', '6', '0']","['2', '2']",[],[],-
+19.06.,Efstathiou M.,2,,,,,,"['2', '2', '3', '3', '5', '3']","['2', '1', '4', '1']",[],[],[],1.67
+19.06.,Noce G. M.,0,,,,,,"['1', '0', '3', '2']",[],[],[],[],2.10
+18.06.,Efstathiou M.,2,,,,,,"['1', '0', '4', '1']","['3', '2', '6', '5']",[],[],[],2.37
+18.06.,Braynin A.,0,,,,,,[],"['3', '3']",[],[],[],1.53
+15.05.,Matsuda R.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],1.32
+15.05.,Efstathiou M.,0,,,,,,"['2', '3']",[],[],[],[],3.14
+14.05.,Efstathiou M.,2,,,,,,"['2', '2', '7', '5']","['2', '0', '5', '1']",[],[],[],
+14.05.,De Alba R.,0,,,,,,"['1', '0']",[],[],[],[],
+08.05.,Sach T.,2,,,,,,"['3', '3', '5', '5']","['2', '1', '4', '1']",[],[],[],2.03
+08.05.,Efstathiou M.,0,,,,,,"['1', '0', '5', '4']",[],[],[],[],1.70
+07.05.,Efstathiou M.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']",[],[],[],1.54
+07.05.,Azoidis D.,0,,,,,,[],[],[],[],[],2.35
+23.04.,Sarksian D.,2,,,,,,"['2', '3']","['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],2.13
+23.04.,Efstathiou M.,1,,,,,,"['3', '1', '4', '2']",[],"['2', '4']",[],[],1.65
+16.04.,Zhang T.,2,,,,,,"['2', '0', '5', '3']","['3', '2', '5', '2']",[],[],[],1.31
+16.04.,Efstathiou M.,0,,,,,,"['1', '2']",[],[],[],[],3.20
+26.03.,Broska F.,2,,,,,,"['3', '2', '6', '3']","['3', '1', '4', '2', '6', '2']",[],[],[],1.14
+26.03.,Efstathiou M.,0,,,,,,[],"['2', '3']",[],[],[],4.90
+21.03.,Bertimon M.,2,,,,,,"['3', '1']","['1', '0', '4', '1']",[],[],[],-
+21.03.,Efstathiou M.,0,,,,,,"['4', '5']",[],[],[],[],-
+18.03.,Wassermann D.,0,,,,,,[],[],[],[],[],-
+18.03.,Efstathiou M.,0,,,,,,"['3', '2']",[],[],[],[],-
+13.03.,Djuric B.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.18
+13.03.,Efstathiou M.,0,,,,,,[],[],[],[],[],4.43
+12.03.,Efstathiou M.,2,,,,,,"['2', '0', '4', '0']","['3', '2', '6', '3']",[],[],[],2.73
+12.03.,Ferrari F.,0,,,,,,[],[],[],[],[],1.41
+28.02.,Almazan Valiente I.,2,,,,,,"['2', '2', '4', '2']","['4', '3', '6', '3']",[],[],[],2.16
+28.02.,Efstathiou M.,0,,,,,,"['2', '1']",[],[],[],[],1.63
+27.02.,Efstathiou M.,2,,,,,,"['1', '2', '3', '2']","['1', '1', '4', '2']",[],[],[],1.19
+27.02.,Bojarski A.,0,,,,,,"['2', '0', '3', '3']","['1', '0']",[],[],[],4.32
+26.02.,Efstathiou M.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.16
+26.02.,Matthysen L.,0,,,,,,[],[],[],[],[],4.67
+22.02.,Bastiaansen P.,2,,,,,,"['2', '0', '4', '0']","['5', '3']","['4', '3', '6', '3']",[],[],2.22
+22.02.,Efstathiou M.,1,,,,,,"['1', '4', '4', '5', '6', '5']",[],[],[],[],1.60
+22.02.,Efstathiou M.,2,,,,,,"['1', '0', '4', '1']","['3', '2', '5', '2']",[],[],[],1.25
+22.02.,Beaven J.,0,,,,,,[],[],[],[],[],3.62
+10.01.,Ehrenschneider N.,2,,,,,,"['2', '2', '5', '5', '7', '5']","['3', '1', '5', '1']",[],[],[],1.28
+10.01.,Efstathiou M.,0,,,,,,"['2', '1', '4', '3']",[],[],[],[],3.40
+09.01.,Efstathiou M.,2,,,,,,[],"['1', '4', '4', '5']","['1', '0', '5', '2', '6', '3']",[],[],2.11
+09.01.,Hamza Reguig S.,1,,,,,,[],"['2', '0', '4', '0', '6', '4']","['3', '5']",[],[],1.66
+07.01.,Efstathiou M.,2,,,,,,"['1', '0', '2', '3', '3', '4', '6', '5']","['2', '3', '4', '3', '6', '3']",[],[],[],1.85
+07.01.,Basic N.,0,,,,,,"['1', '1', '3', '1', '4', '2']","['3', '1']",[],[],[],1.85
+23.11.2024,Soriano Barrera A.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.01
+23.11.2024,Efstathiou M.,0,,,,,,[],[],[],[],[],11.20
+22.11.2024,Efstathiou M.,2,,,,,,[],"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '2', '6', '3']",[],[],3.14
+22.11.2024,Demanet E.,1,,,,,,"['2', '1', '4', '1', '6', '1']","['1', '1']","['2', '2']",[],[],1.32
+21.11.2024,Efstathiou M.,2,,,,,,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],3.20
+21.11.2024,Fellin P. O.,0,,,,,,[],[],[],[],[],1.31
+20.11.2024,Efstathiou M.,2,,,,,,"['1', '0', '2', '3', '4', '3', '6', '3']","['2', '0', '5', '1']",[],[],[],2.08
+20.11.2024,Fix D.,0,,,,,,"['1', '1', '3', '1']",[],[],[],[],1.69
+13.11.2024,Mikrut L.,2,,,,,,"['2', '0', '4', '0', '7', '5']","['4', '2', '5', '3']",[],[],[],1.12
+13.11.2024,Efstathiou M.,0,,,,,,"['2', '5', '4', '5']","['3', '4']",[],[],[],5.53
+23.10.2024,Vales A.,2,,,,,,"['3', '1', '6', '4']","['2', '0', '6', '2']",[],[],[],1.56
+23.10.2024,Efstathiou M.,0,,,,,,"['2', '3']",[],[],[],[],2.30

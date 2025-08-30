@@ -1,77 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Poprad (Slovakia),clay,header
-18.07.,Chayka A.,0,,,,,,[],[],[],[],[],0
-18.07.,Braynin A.,1,,,,,,[],[],[],[],[],0
-15.07.,Chayka A.,1,,,,,,[],[],[],[],[],0
-15.07.,Jilly A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Oradea (Romania),clay,header
-ITF MEN - SINGLES M15 Szentendre (Hungary),clay,header
-ITF MEN - SINGLES M15 Shymkent 2 (Kazakhstan),clay,header
-ITF MEN - SINGLES M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Huamantla 7 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 6 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 5 (Mexico),hard,header
-ITF MEN - SINGLES M15 Szczawno (Poland),clay,header
-ITF MEN - SINGLES M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES M15 Targu Jiu (Romania),clay,header
-16.08.2024,Chayka A.,1,,,,,,[],[],[],[],[],0
-16.08.2024,Tomescu D. A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-08.08.2024,Chayka A.,0,,,,,,[],[],[],[],[],0
-08.08.2024,Papoe R. M.,2,,,,,,[],[],[],[],[],0
-07.08.2024,Chayka A.,2,,,,,,[],[],[],[],[],0
-07.08.2024,Breazu V. C.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Poprad (Slovakia),clay,header
-23.07.2024,Chayka A.,0,,,,,,[],[],[],[],[],0
-23.07.2024,Brunclik P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Telfs (Austria),clay,header
-16.07.2024,Chayka A.,0,,,,,,[],[],[],[],[],0
-16.07.2024,Gombos N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-14.06.2024,Chayka A.,1,,,,,,[],[],[],[],[],0
-14.06.2024,Kellovsky D.,2,,,,,,[],[],[],[],[],0
-14.06.2024,Chayka A.,2,,,,,,[],[],[],[],[],0
-14.06.2024,Ferrari F.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Chayka A.,2,,,,,,[],[],[],[],[],0
-13.06.2024,Lehmann N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Gyula (Hungary),clay,header
-28.05.2024,Chayka A.,1,,,,,,[],[],[],[],[],0
-28.05.2024,Gola A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bucharest 3 (Romania),clay,header
-23.05.2024,Chayka A.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Boitan G. A.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Chayka A.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Sciahbasi L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 8 (Tunisia),hard,header
-21.02.2024,Chayka A.,1,,,,,,[],[],[],[],[],0
-21.02.2024,Paul J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 21 (Turkey),clay,header
-20.12.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-20.12.2023,Pampanin P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-14.12.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-14.12.2023,Philippov E.,2,,,,,,[],[],[],[],[],0
-13.12.2023,Chayka A.,2,,,,,,[],[],[],[],[],0
-13.12.2023,Fiorentini A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Trnava 2 (Slovakia),hard,header
-09.11.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-09.11.2023,Colson T.,2,,,,,,[],[],[],[],[],0
-08.11.2023,Chayka A.,2,,,,,,[],[],[],[],[],0
-08.11.2023,Ejupovic E.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pazardzhik (Bulgaria),clay,header
-26.09.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-26.09.2023,Chepelev A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pardubice (Czech Republic),clay,header
-20.09.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-20.09.2023,Barnat J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Anning (China),clay,header
-04.08.2023,Chayka A.,0,,,,,,[],[],[],[],[],0
-04.08.2023,Te R.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Chayka A.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Li H.,0,,,,,,[],[],[],[],[],0
-02.08.2023,Chayka A.,2,,,,,,[],[],[],[],[],0
-02.08.2023,Lee K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cairo 10 (Egypt),clay,header
-17.08.2022,Chayka A.,0,,,,,,[],[],[],[],[],0
-17.08.2022,Ragazzi A.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+11.06.,Grzegorzewski O.,1,,,,,,"['2', '1', '4', '1', '6', '1']",[],[],[],[],2.42
+11.06.,Chayka A.,0,,,,,,[],[],[],[],[],1.51
+15.05.,Hornung G.,2,,,,,,"['3', '4']","['2', '0', '4', '0', '6', '4']","['2', '0', '5', '3']",[],[],2.50
+15.05.,Chayka A.,1,,,,,,"['3', '1', '5', '3']","['1', '4', '3', '4']","['2', '3']",[],[],1.48
+14.05.,Chayka A.,2,,,,,,"['2', '2', '6', '4']","['2', '2', '5', '3']",[],[],[],3.62
+14.05.,Braynin A.,0,,,,,,"['2', '1']","['1', '0']",[],[],[],1.25
+01.05.,Atlangeriev B.,2,,,,,,"['1', '0']","['6', '4']",[],[],[],1.36
+01.05.,Chayka A.,0,,,,,,"['3', '3']",[],[],[],[],2.94
+30.04.,Chayka A.,2,,,,,,"['1', '0']","['2', '0']",[],[],[],3.20
+30.04.,Szajrych J.,0,,,,,,"['5', '5']",[],[],[],[],1.31
+24.04.,Klok D.,2,,,,,,"['2', '3', '4', '3']","['1', '0', '4', '1']",[],[],[],1.54
+24.04.,Chayka A.,0,,,,,,"['3', '1']",[],[],[],[],2.35
+23.04.,Chayka A.,2,,,,,,[],"['2', '1']","['1', '0', '3', '2']",[],[],1.33
+23.04.,Baldovinetti G.,1,,,,,,[],[],"['2', '2']",[],[],3.09
+12.02.,Sciahbasi L.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],1.23
+12.02.,Chayka A.,0,,,,,,[],[],[],[],[],3.81
+11.12.2024,Smith K.,2,,,,,,"['4', '2', '6', '2']",[],"['6', '5']",[],[],1.01
+11.12.2024,Chayka A.,1,,,,,,[],[],[],[],[],11.50
+03.12.2024,Perez B.,2,,,,,,[],"['5', '4']",[],[],[],1.53
+03.12.2024,Chayka A.,0,,,,,,[],[],[],[],[],2.37
+26.11.2024,Homberg M.,2,,,,,,"['4', '2', '6', '2']","['7', '5']",[],[],[],1.11
+26.11.2024,Chayka A.,0,,,,,,[],[],[],[],[],5.63
+28.08.2024,Jedrzejczak J.,2,,,,,,"['3', '1', '6', '4']",[],"['1', '0', '6', '3']",[],[],1.82
+28.08.2024,Chayka A.,1,,,,,,"['4', '5']","['1', '0', '3', '0', '6', '1']",[],[],[],1.90
+21.08.2024,Prihodko O.,2,,,,,,[],"['3', '1']","['4', '3']",[],[],1.05
+21.08.2024,Chayka A.,1,,,,,,"['4', '3']",[],[],[],[],8.45
+15.08.2024,Chayka A.,2,,,,,,"['2', '0']","['2', '3', '4', '3']","['1', '0']",[],[],2.38
+15.08.2024,Calvano G.,1,,,,,,"['3', '4']","['3', '1']",[],[],[],1.49
+13.08.2024,Chayka A.,2,,,,,,"['3', '3']","['2', '1', '6', '3']","['4', '4']",[],[],2.79
+13.08.2024,Cigarran T.,1,,,,,,"['1', '0']",[],"['1', '0']",[],[],1.40
+08.08.2024,Papoe R. M.,2,,,,,,"['2', '2']","['2', '1', '5', '2']",[],[],[],1.01
+08.08.2024,Chayka A.,0,,,,,,"['1', '0']",[],[],[],[],12.20
+07.08.2024,Chayka A.,2,,,,,,"['3', '1']",[],"['2', '2', '4', '2', '6', '4']",[],[],3.24
+07.08.2024,Breazu V. C.,1,,,,,,[],"['3', '1']","['1', '0', '4', '5']",[],[],1.31

@@ -1,48 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Traralgon (Australia),hard,header
-ITF MEN - SINGLES M25 Traralgon (Australia),hard,header
-21.02.2024,Sorensen L.,0,,,,,,[],[],[],[],[],0
-21.02.2024,Jasika O.,2,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Burnie (Australia) - Qualification,hard,header
-28.01.2024,Sorensen L.,1,,,,,,2,4,61%,63% (34/54),40% (14/35),50% (5/10),23% (11/47),56% (18/32),40% (2/5),54% (48/89),37% (29/79),46% (77/168),2,0,58% (7/12),15% (2/13),36% (9/25),[],[],[],[],[],0
-28.01.2024,Marinkov P.,2,,,,,,7,5,59%,77% (36/47),44% (14/32),60% (3/5),37% (20/54),60% (21/35),50% (5/10),63% (50/79),46% (41/89),54% (91/168),8,0,85% (11/13),42% (5/12),64% (16/25),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Gold Coast (Australia),hard,header
-29.11.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-29.11.2023,Pearson K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Davangere (India),hard,header
-ITF MEN - SINGLES M25 Dharwad (India),hard,header
-18.10.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-18.10.2023,Dev S D P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ahmedabad (India),hard,header
-ITF MEN - SINGLES M25 Darwin 2 (Australia),hard,header
-22.09.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-22.09.2023,Delaney Ja.,2,,,,,,[],[],[],[],[],0
-21.09.2023,Sorensen L.,2,,,,,,[],[],[],[],[],0
-21.09.2023,Cook E.,1,,,,,,[],[],[],[],[],0
-20.09.2023,Ellis B.,1,,,,,,[],[],[],[],[],0
-20.09.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Darwin (Australia),hard,header
-13.09.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-13.09.2023,Cook E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Caloundra 2 (Australia),hard,header
-02.08.2023,Sorensen L.,1,,,,,,[],[],[],[],[],0
-02.08.2023,Matsuda R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Caloundra (Australia),hard,header
-28.07.2023,Sorensen L.,0,,,,,,[],[],[],[],[],0
-28.07.2023,Sumizawa D.,2,,,,,,[],[],[],[],[],0
-26.07.2023,Sorensen L.,2,,,,,,[],[],[],[],[],0
-26.07.2023,Sach T.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Jakarta 4 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-14.12.2022,Sorensen L.,1,,,,,,[],[],[],[],[],0
-14.12.2022,Crowther C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jakarta (Indonesia),hard,header
-26.10.2022,Sorensen L.,0,,,,,,[],[],[],[],[],0
-26.10.2022,Trinh L. G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tay Ninh (Vietnam),hard,header
-01.06.2022,Sorensen L.,0,,,,,,[],[],[],[],[],0
-01.06.2022,Fancutt T. J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Canberra 4 (Australia),clay,header
-30.03.2022,Sorensen L.,0,,,,,,[],[],[],[],[],0
-30.03.2022,Dellavedova M.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+25.04.2024,Pereira T.,2,,,,,,"['2', '0', '4', '2']","['5', '4']",[],[],[],1.11
+25.04.2024,Sorensen L.,0,,,,,,"['2', '3']",[],[],[],[],5.94
+23.04.2024,Sorensen L.,2,,,,,,"['2', '0']","['3', '3', '4', '4', '6', '4']","['3', '1']",[],[],1.11
+23.04.2024,Perez I.,1,,,,,,"['2', '3', '5', '4']","['3', '2', '4', '3']",[],[],[],5.94
+28.01.2024,Marinkov P.,2,,,,,,7,5,59%,77% (36/47),44% (14/32),60% (3/5),37% (20/54),60% (21/35),50% (5/10),63% (50/79),46% (41/89),54% (91/168),8,0,85% (11/13),42% (5/12),64% (16/25),"['3', '1']","['4', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.13
+28.01.2024,Sorensen L.,1,,,,,,2,4,61%,63% (34/54),40% (14/35),50% (5/10),23% (11/47),56% (18/32),40% (2/5),54% (48/89),37% (29/79),46% (77/168),2,0,58% (7/12),15% (2/13),36% (9/25),[],"['3', '1', '6', '4']",[],[],[],5.54
+25.10.2023,Agarwal R.,2,,,,,,[],[],[],[],[],1.23
+25.10.2023,Sorensen L.,0,,,,,,[],[],[],[],[],3.83
+11.10.2023,Singh K.,2,,,,,,[],[],[],[],[],1.26
+11.10.2023,Sorensen L.,0,,,,,,[],[],[],[],[],3.56
+10.10.2023,Sorensen L.,2,,,,,,[],[],[],[],[],1.59
+10.10.2023,Kamath M.,1,,,,,,[],[],[],[],[],2.24
+21.06.2023,Kovapitukted P.,2,,,,,,[],[],[],[],[],1.04
+21.06.2023,Sorensen L.,0,,,,,,[],[],[],[],[],9.15

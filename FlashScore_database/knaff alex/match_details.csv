@@ -1,35 +1,83 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Uriage (France),clay,header
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Nottingham (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Nonthaburi 3 (Thailand),hard,header
-ITF MEN - SINGLES M15 Nonthaburi 2 (Thailand),hard,header
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Nottingham (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Nonthaburi 3 (Thailand),hard,header
-ITF MEN - SINGLES M15 Nonthaburi 2 (Thailand),hard,header
-19.03.,Knaff A.,2,,,,,,[],[],[],[],[],0
-19.03.,Bobrov B.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nonthaburi (Thailand),hard,header
-ATP - SINGLES Davis Cup - World Group I (World) - Preliminary,-,header
-ITF MEN - SINGLES M25 Esch/Alzette (Luxembourg),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-07.01.,Knaff A.,0,,,,,,[],[],[],[],[],0
-07.01.,Dedura D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Doha 3 (Qatar),hard,header
-ITF MEN - SINGLES M15 Doha 2 (Qatar),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion 3 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion 2 (Greece),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+16.07.,Inchauspe P.,2,,,,,,"['4', '3']","['1', '0']",[],[],[],1.39
+16.07.,Knaff A.,0,,,,,,[],[],[],[],[],2.81
+09.07.,Dominko S.,2,,,,,,[],"['1', '1', '5', '3']","['1', '0']",[],[],1.45
+09.07.,Knaff A.,1,,,,,,"['4', '3']","['1', '0']",[],[],[],2.58
+02.07.,Staeheli L.,2,,,,,,"['3', '4', '5', '4']","['2', '3', '4', '3', '6', '3']",[],[],[],1.89
+02.07.,Knaff A.,0,,,,,,"['3', '1']","['3', '1']",[],[],[],1.81
+27.06.,Wessels L.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['3', '4', '4', '5']",[],[],[],1.90
+27.06.,Knaff A.,0,,,,,,[],"['4', '2', '5', '3']",[],[],[],1.80
+26.06.,Knaff A.,2,,,,,,"['2', '1', '4', '5']","['4', '5', '6', '5']","['1', '2', '3', '2', '6', '5']",[],[],1.66
+26.06.,Wehnelt K.,1,,,,,,"['3', '3', '5', '3', '7', '5']","['3', '1']","['2', '0', '5', '5']",[],[],2.11
+25.06.,Knaff A.,2,,,,,,[],"['2', '0']","['3', '2']",[],[],1.41
+25.06.,Cubelic K.,1,,,,,,[],[],"['5', '5']",[],[],2.73
+22.05.,Elsayed A.,2,,,,,,"['5', '4']","['1', '0', '5', '2']",[],[],[],3.09
+22.05.,Knaff A.,0,,,,,,[],[],[],[],[],1.33
+20.05.,Knaff A.,1,,,,,,"['3', '1', '6', '2']","['2', '0']",[],[],[],1.53
+20.05.,Braithwaite T.,0,,,,,,[],[],[],[],[],2.37
+16.05.,Marcondes I.,2,,,,,,"['1', '3', '3', '5']","['4', '3']","['2', '0', '5', '1']",[],[],1.85
+16.05.,Knaff A.,1,,,,,,"['1', '0', '3', '0', '4', '1', '6', '3']","['5', '5']","['2', '5']",[],[],1.85
+15.05.,Knaff A.,2,,,,,,"['2', '2', '6', '4']","['4', '2', '6', '2']",[],[],[],1.49
+15.05.,Marionneau L.,0,,,,,,"['1', '0']",[],[],[],[],2.47
+14.05.,Knaff A.,2,,,,,,"['3', '1', '4', '2', '6', '2']","['3', '1', '6', '2']",[],[],[],1.04
+14.05.,Smiej Y.,0,,,,,,"['2', '3']",[],[],[],[],8.10
+01.05.,Broom C.,2,,,,,,"['3', '2', '5', '2', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.59
+01.05.,Knaff A.,0,,,,,,"['3', '5']",[],[],[],[],2.24
+29.04.,Knaff A.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '2', '5', '2']",[],[],[],1.53
+29.04.,Murgett F.,0,,,,,,"['2', '4']","['2', '2']",[],[],[],2.37
+24.04.,Aubriot A.,2,,,,,,"['3', '3']","['2', '1']","['4', '5', '6', '5']",[],[],3.32
+24.04.,Knaff A.,1,,,,,,"['1', '0', '4', '3', '6', '3']",[],"['5', '3']",[],[],1.29
+23.04.,Knaff A.,2,,,,,,"['4', '3', '6', '5']","['1', '2', '5', '4']",[],[],[],1.22
+23.04.,Krall L.,0,,,,,,"['5', '5']","['2', '0']",[],[],[],3.91
+16.04.,Duran T.,2,,,,,,"['2', '0', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],2.66
+16.04.,Knaff A.,0,,,,,,"['3', '4']","['2', '3']",[],[],[],1.43
+29.03.,Donnet E.,2,,,,,,"['1', '0']","['1', '0']",[],[],[],1.74
+29.03.,Knaff A.,0,,,,,,[],[],[],[],[],1.97
+28.03.,Knaff A.,2,,,,,,"['4', '4', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],1.12
+28.03.,Lobanov A.,0,,,,,,"['3', '2']",[],[],[],[],5.25
+27.03.,Knaff A.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['2', '0']",[],[],[],1.59
+27.03.,Park U.,0,,,,,,"['2', '3']",[],[],[],[],2.24
+26.03.,Knaff A.,2,,,,,,"['1', '0', '3', '0']",[],[],[],[],2.00
+26.03.,Bar Biryukov P.,0,,,,,,"['3', '5']",[],[],[],[],1.72
+23.03.,Donnet E.,2,,,,,,"['4', '3']","['1', '0', '4', '1']",[],[],[],2.26
+23.03.,Knaff A.,0,,,,,,[],[],[],[],[],1.58
+22.03.,Knaff A.,2,,,,,,[],"['3', '1', '6', '2']","['3', '1', '7', '5']",[],[],1.41
+22.03.,Chanta T.,1,,,,,,"['1', '0', '3', '0']",[],"['3', '4']",[],[],2.73
+21.03.,Knaff A.,2,,,,,,"['4', '2', '5', '3']","['2', '1', '3', '2', '5', '2']",[],[],[],1.45
+21.03.,Peliwo F.,0,,,,,,"['3', '4']","['2', '2']",[],[],[],2.58
+20.03.,Knaff A.,2,,,,,,"['2', '0', '6', '2']",[],"['1', '0', '3', '0', '6', '1']",[],[],1.09
+20.03.,Jang Y.,1,,,,,,[],"['1', '0', '6', '3']",[],[],[],6.25
+16.03.,Knaff A.,2,,,,,,"['2', '0', '4', '0']","['3', '2']",[],[],[],2.66
+16.03.,Bar Biryukov P.,0,,,,,,[],"['5', '5']",[],[],[],1.43
+15.03.,Knaff A.,2,,,,,,"['3', '1', '5', '1']","['4', '3']",[],[],[],1.90
+15.03.,Tabacco G.,0,,,,,,[],[],[],[],[],1.80
+14.03.,Knaff A.,2,,,,,,"['3', '3', '6', '4']","['2', '0', '5', '3']",[],[],[],1.68
+14.03.,Sornlaksup P.,0,,,,,,"['3', '2']","['2', '3']",[],[],[],2.09
+13.03.,Knaff A.,2,,,,,,[],"['3', '1', '6', '2']","['4', '2', '6', '2']",[],[],-
+13.03.,Lapalu V.,1,,,,,,"['5', '3']",[],[],[],[],-
+12.03.,Knaff A.,2,,,,,,"['2', '0']","['1', '0', '5', '2']",[],[],[],2.16
+12.03.,Hazawa S.,0,,,,,,[],[],[],[],[],1.63
+01.02.,Knaff A.,2,,,,,,"['1', '0', '2', '1']","['3', '4']","['2', '0', '6', '2']",[],[],3.32
+01.02.,Gaubas V.,1,,,,,,"['1', '1']","['2', '0', '5', '3']",[],[],[],1.34
+23.01.,Bourgue M.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.38
+23.01.,Knaff A.,0,,,,,,[],"['1', '3', '4', '4']",[],[],[],2.85
+21.01.,Knaff A.,2,,,,,,[],"['1', '1', '3', '1']","['3', '2', '5', '2', '6', '5']",[],[],1.82
+21.01.,Reco A.,1,,,,,,"['1', '0']","['1', '0']","['3', '5', '5', '5']",[],[],1.88
+20.12.2024,Gea A.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['4', '4', '6', '4']",[],[],[],1.09
+20.12.2024,Knaff A.,0,,,,,,"['1', '5']","['4', '3']",[],[],[],6.25
+19.12.2024,Benchetrit E.,1,,,,,,"['1', '0']","['3', '2']",[],[],[],1.66
+19.12.2024,Knaff A.,1,,,,,,[],"['3', '3', '6', '4']",[],[],[],2.11
+18.12.2024,Knaff A.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.07
+18.12.2024,Alhogbani S.,0,,,,,,[],[],[],[],[],6.70
+10.12.2024,Colson T.,2,,,,,,"['2', '1']",[],"['3', '1']",[],[],1.73
+10.12.2024,Knaff A.,1,,,,,,[],"['4', '2']",[],[],[],1.99
+14.11.2024,Krutykh O.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.42
+14.11.2024,Knaff A.,0,,,,,,"['3', '5']",[],[],[],[],2.69
+13.11.2024,Knaff A.,2,,,,,,"['3', '1', '4', '2', '6', '2']","['4', '2', '6', '2']",[],[],[],1.59
+13.11.2024,Steiner M.,0,,,,,,"['2', '3']",[],[],[],[],2.24
+07.11.2024,Bertola R.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '5', '2']",[],[],[],1.35
+07.11.2024,Knaff A.,0,,,,,,[],"['3', '5']",[],[],[],2.99
+06.11.2024,Knaff A.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],1.18
+06.11.2024,Tsitsipas Pa.,0,,,,,,[],[],[],[],[],4.38
+30.10.2024,Vales A.,2,,,,,,[],"['2', '0', '4', '2']","['3', '2']",[],[],2.56
+30.10.2024,Knaff A.,1,,,,,,"['2', '1', '5', '2']","['2', '3']",[],[],[],1.46

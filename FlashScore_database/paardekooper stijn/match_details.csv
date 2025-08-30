@@ -1,43 +1,25 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 The Hague (Netherlands),clay,header
-ITF MEN - SINGLES M15 Amstelveen (Netherlands),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Huamantla 6 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 4 (Mexico),hard,header
-ITF MEN - SINGLES M15 Boca Raton,clay,header
-ITF MEN - SINGLES M15 Amstelveen (Netherlands),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Huamantla 6 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 4 (Mexico),hard,header
-ITF MEN - SINGLES M15 Boca Raton,clay,header
-13.11.2024,Paardekooper S.,1,,,,,,[],[],[],[],[],0
-13.11.2024,Long D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M15 Haren (Netherlands),clay,header
-ITF MEN - SINGLES M25 Oldenzaal (Netherlands),clay,header
-ITF MEN - SINGLES M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES M15 Dublin (Ireland),hard,header
-ITF MEN - SINGLES M25 The Hague (Netherlands),clay,header
-09.07.2024,Paardekooper S.,1,,,,,,[],[],[],[],[],0
-09.07.2024,Balciunas M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Amstelveen (Netherlands),clay,header
-06.07.2024,Paardekooper S.,0,,,,,,[],[],[],[],[],0
-06.07.2024,Sperle J.,2,,,,,,[],[],[],[],[],0
-05.07.2024,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-05.07.2024,Lalami Laaroussi Y.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-04.07.2024,Lootsma N.,0,,,,,,[],[],[],[],[],0
-03.07.2024,Paardekooper S.,1,,,,,,[],[],[],[],[],0
-03.07.2024,Slump S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-26.06.2024,Paardekooper S.,0,,,,,,[],[],[],[],[],0
-26.06.2024,De Krom M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Eindhoven (Netherlands),clay,header
-04.08.2023,Paardekooper S.,1,,,,,,[],[],[],[],[],0
-04.08.2023,Oetzbach A.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-03.08.2023,van Assendelft J.,0,,,,,,[],[],[],[],[],0
-02.08.2023,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-02.08.2023,Mora M.,1,,,,,,[],[],[],[],[],0
-01.08.2023,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-01.08.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Paardekooper S.,2,,,,,,"['4', '2', '6', '2']","['4', '2', '6', '2']",[],[],[],1.92
+27.08.,De Lange P.,0,,,,,,[],[],[],[],[],1.78
+08.07.,Geerts M.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],[],1.05
+08.07.,Paardekooper S.,0,,,,,,"['3', '5']","['1', '4']",[],[],[],7.70
+02.07.,Deckers A.,2,,,,,,"['3', '1', '6', '2']","['7', '5']",[],[],[],1.36
+02.07.,Paardekooper S.,0,,,,,,[],[],[],[],[],2.94
+25.06.,Hallquist Lithen J.,2,,,,,,[],"['2', '2', '7', '5']","['1', '1', '3', '1', '6', '4']",[],[],1.67
+25.06.,Paardekooper S.,1,,,,,,"['5', '4']","['2', '1']","['1', '0', '2', '3']",[],[],2.10
+11.03.,Strode I.,2,,,,,,"['6', '4']","['2', '0']",[],[],[],1.46
+11.03.,Paardekooper S.,0,,,,,,[],[],[],[],[],2.56
+26.02.,Pinto L.,2,,,,,,"['2', '1', '4', '3']","['4', '5', '6', '5']",[],[],[],6.15
+26.02.,Paardekooper S.,0,,,,,,"['3', '3']","['3', '1']",[],[],[],1.09
+16.10.2024,Santamarta Roig A.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['2', '1', '5', '2']",[],[],[],1.45
+16.10.2024,Paardekooper S.,0,,,,,,"['1', '2']",[],[],[],[],2.58
+03.09.2024,Donders D.,2,,,,,,"['2', '0']","['1', '0', '5', '2']",[],[],[],1.86
+03.09.2024,Paardekooper S.,0,,,,,,[],[],[],[],[],1.86
+28.08.2024,Houkes M.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.05
+28.08.2024,Paardekooper S.,0,,,,,,"['1', '4', '2', '5']","['1', '3']",[],[],[],10.20
+14.08.2024,Heinonen A.,2,,,,,,"['4', '3', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.37
+14.08.2024,Paardekooper S.,0,,,,,,"['4', '4']",[],[],[],[],2.92
+08.08.2024,Jones B.,2,,,,,,[],"['2', '0']",[],[],[],1.34
+08.08.2024,Paardekooper S.,0,,,,,,[],[],[],[],[],3.05
+07.08.2024,Paardekooper S.,2,,,,,,"['1', '0']","['1', '0', '4', '1']",[],[],[],1.45
+07.08.2024,Escurra Isnardi H. J.,0,,,,,,[],[],[],[],[],2.62

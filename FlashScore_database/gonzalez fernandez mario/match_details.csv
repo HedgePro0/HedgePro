@@ -1,37 +1,67 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25+H Tauste (Spain),hard,header
-CHALLENGER MEN - SINGLES Segovia (Spain),hard,header
-21.07.,Gonzalez Fernandez M.,0,,,,,,1,6,60%,44% (12/27),39% (7/18),17% (1/6),17% (4/23),42% (8/19),100% (1/1),8,29,75% (3/4),42% (19/45),29% (12/42),36% (31/87),4,1,38% (3/8),13% (1/8),25% (4/16),[],[],[],[],[],0
-21.07.,Grenier H.,2,,,,,,4,3,55%,83% (19/23),58% (11/19),0% (0/1),56% (15/27),61% (11/18),83% (5/6),15,17,82% (9/11),71% (30/42),58% (26/45),64% (56/87),6,0,88% (7/8),63% (5/8),75% (12/16),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Castelo Branco (Portugal),hard,header
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-05.07.,Gonzalez Fernandez M.,0,,,,,,[],[],[],[],[],0
-05.07.,Dlimi Y.,2,,,,,,[],[],[],[],[],0
-04.07.,Gonzalez Fernandez M.,2,,,,,,[],[],[],[],[],0
-04.07.,Ferrari F.,0,,,,,,[],[],[],[],[],0
-03.07.,Gonzalez Fernandez M.,2,,,,,,[],[],[],[],[],0
-03.07.,Figl M.,0,,,,,,[],[],[],[],[],0
-02.07.,Gonzalez Fernandez M.,2,,,,,,[],[],[],[],[],0
-02.07.,Lalami Laaroussi Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Casablanca 2 (Morocco),clay,header
-25.06.,Gonzalez Fernandez M.,2,,,,,,[],[],[],[],[],0
-25.06.,Ferrari F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Casablanca (Morocco),clay,header
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M25 Mataro (Spain),clay,header
-ITF MEN - SINGLES M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M25 Loule (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo (Portugal),hard,header
-13.03.,Gonzalez Fernandez M.,0,,,,,,[],[],[],[],[],0
-13.03.,Kodat T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Quinta Do Lago (Portugal),hard,header
-ITF MEN - SINGLES M15 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Ceuta (Spain),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 3 (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Erhard M.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.24
+27.08.,Gonzalez Fernandez M.,0,,,,,,[],[],[],[],[],3.72
+08.08.,Lagutin P.,2,,,,,,[],"['2', '1', '5', '2', '6', '3']",[],[],[],1.66
+08.08.,Gonzalez Fernandez M.,0,,,,,,[],"['3', '5']",[],[],[],20.5
+07.08.,Gonzalez Fernandez M.,2,,,,,,"['1', '0']","['1', '0', '2', '1', '5', '2']",[],[],[],1.62
+07.08.,McKennon M.,0,,,,,,[],"['1', '1']",[],[],[],20.5
+06.08.,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['3', '1', '5', '3']",[],[],[],1.19
+06.08.,Segado Esteve R.,0,,,,,,[],"['2', '3']",[],[],[],4.23
+05.08.,Gonzalez Fernandez M.,2,,,,,,"['4', '5', '6', '5']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],1.05
+05.08.,Palomar X.,0,,,,,,"['4', '2']","['1', '1']",[],[],[],7.70
+21.07.,Grenier H.,2,,,,,,4,3,55%,83% (19/23),58% (11/19),0% (0/1),56% (15/27),61% (11/18),83% (5/6),15,17,82% (9/11),71% (30/42),58% (26/45),64% (56/87),6,0,88% (7/8),63% (5/8),75% (12/16),"['2', '2', '4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.14
+21.07.,Gonzalez Fernandez M.,0,,,,,,1,6,60%,44% (12/27),39% (7/18),17% (1/6),17% (4/23),42% (8/19),100% (1/1),8,29,75% (3/4),42% (19/45),29% (12/42),36% (31/87),4,1,38% (3/8),13% (1/8),25% (4/16),"['2', '1']",[],[],[],[],5.50
+17.07.,Poullain L.,2,,,,,,"['1', '1', '4', '4', '7', '5']",[],"['2', '1', '4', '1', '6', '3']",[],[],1.35
+17.07.,Gonzalez Fernandez M.,1,,,,,,"['1', '0', '4', '3']","['2', '1', '6', '3']","['3', '5']",[],[],2.99
+16.07.,Gonzalez Fernandez M.,2,,,,,,"['1', '2', '4', '3']","['2', '0']","['3', '2', '5', '2']",[],[],1.16
+16.07.,Fernandes R.,1,,,,,,"['2', '0', '5', '5']","['3', '4']",[],[],[],4.62
+28.06.,Slump S.,2,,,,,,"['5', '5']","['1', '1', '3', '1', '5', '1']","['1', '0', '3', '4', '5', '4']",[],[],1.58
+28.06.,Gonzalez Fernandez M.,1,,,,,,"['2', '1', '6', '5']","['1', '0']","['1', '1', '4', '2', '5', '5']",[],[],2.26
+27.06.,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '3', '0', '4', '1']","['1', '0', '2', '3', '5', '4']",[],[],[],1.50
+27.06.,Alujas R.,0,,,,,,"['1', '3']","['1', '1', '3', '1']",[],[],[],2.44
+18.06.,Dlimi Y.,2,,,,,,"['3', '1', '4', '2', '7', '5']","['2', '0', '5', '1']",[],[],[],1.91
+18.06.,Gonzalez Fernandez M.,0,,,,,,"['2', '3', '4', '5']",[],[],[],[],1.79
+10.06.,Perez Contri S.,2,,,,,,"['6', '5']","['1', '0', '3', '0', '4', '1', '6', '5']","['2', '0', '4', '0', '6', '2']",[],[],1.64
+10.06.,Gonzalez Fernandez M.,1,,,,,,[],"['1', '3', '3', '5', '5', '5', '6', '6']","['2', '5']",[],[],2.14
+04.06.,Cesar Porras J.,2,,,,,,"['1', '1', '3', '1']","['5', '4']",[],[],[],1.36
+04.06.,Gonzalez Fernandez M.,0,,,,,,"['1', '0']",[],[],[],[],2.94
+21.05.,De Schepper K.,2,,,,,,"['4', '4', '6', '4']","['2', '2', '4', '4', '6', '4']",[],[],[],1.95
+21.05.,Gonzalez Fernandez M.,0,,,,,,"['2', '1']","['1', '0', '4', '3']",[],[],[],1.76
+17.04.,Fatic N.,2,,,,,,"['4', '4', '6', '4']","['2', '0', '3', '1', '6', '4']",[],[],[],1.09
+17.04.,Gonzalez Fernandez M.,0,,,,,,"['1', '0']","['1', '2', '3', '4']",[],[],[],6.05
+16.04.,Gonzalez Fernandez M.,2,,,,,,"['5', '4', '6', '5']","['4', '3', '5', '4']",[],[],[],1.32
+16.04.,Bonnaud A.,0,,,,,,"['5', '5']","['4', '4', '5', '5']",[],[],[],3.14
+15.04.,Gonzalez Fernandez M.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['2', '0', '5', '3']",[],[],[],1.44
+15.04.,Perfetti N.,0,,,,,,"['3', '5']","['2', '3']",[],[],[],2.62
+03.04.,Martinez A.,2,,,,,,"['2', '0', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.70
+03.04.,Gonzalez Fernandez M.,0,,,,,,"['2', '3']",[],[],[],[],2.03
+02.04.,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '3', '0', '4', '1', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],1.35
+02.04.,Rivet M.,0,,,,,,"['1', '3']","['1', '2']",[],[],[],2.99
+19.03.,Story J.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.45
+19.03.,Gonzalez Fernandez M.,0,,,,,,"['1', '2']","['2', '4']",[],[],[],2.59
+08.03.,Araujo P.,2,,,,,,"['2', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],1.58
+08.03.,Gonzalez Fernandez M.,0,,,,,,[],"['2', '5']",[],[],[],2.26
+05.03.,Fanselow S.,1,,,,,,"['1', '1', '3', '1', '6', '2']","['4', '4']",[],[],[],1.67
+05.03.,Gonzalez Fernandez M.,1,,,,,,"['1', '0']","['1', '0', '5', '4']","['1', '0']",[],[],2.10
+08.02.,Gonzalez Fernandez M.,1,,,,,,"['2', '2', '4', '4']","['1', '0']",[],[],[],1.73
+08.02.,Poling K.,0,,,,,,"['2', '1', '3', '2']","['1', '1', '3', '1']",[],[],[],2.00
+06.02.,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '5', '2']",[],"['4', '4', '6', '4']",[],[],1.42
+06.02.,Clark E.,1,,,,,,[],"['3', '1', '5', '1']","['3', '2']",[],[],2.69
+05.02.,Gonzalez Fernandez M.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '3', '2', '5', '2']",[],[],[],1.61
+05.02.,Prechtel S.,0,,,,,,[],"['2', '2']",[],[],[],2.20
+30.01.,Potenza L.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.71
+30.01.,Gonzalez Fernandez M.,0,,,,,,[],[],[],[],[],2.01
+28.01.,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '3', '2', '6', '3']","['2', '0', '4', '0']",[],[],[],1.20
+28.01.,Almazan Valiente I.,0,,,,,,"['1', '1']",[],[],[],[],4.14
+14.12.2024,Bourgue M.,2,,,,,,"['4', '5']","['1', '0', '3', '0', '6', '1']","['4', '2']",[],[],1.55
+14.12.2024,Gonzalez Fernandez M.,1,,,,,,"['4', '2', '6', '4']",[],[],[],[],2.33
+14.12.2024,Gonzalez Fernandez M.,2,,,,,,"['1', '2', '3', '2', '6', '3']","['2', '0', '4', '2', '6', '4']",[],[],[],1.66
+14.12.2024,Marrero Curbelo I.,0,,,,,,"['2', '0']","['2', '3', '4', '5']",[],[],[],2.11
+12.12.2024,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '3']",[],[],[],1.08
+12.12.2024,Planella Hernandez S.,0,,,,,,"['2', '2']","['1', '3']",[],[],[],6.50
+10.12.2024,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.01
+10.12.2024,Corretja I.,0,,,,,,[],[],[],[],[],18.00
+22.11.2024,Onclin G.,2,,,,,,"['2', '1', '4', '1', '5', '4', '6', '5']","['4', '2', '5', '5']","['4', '2', '6', '2']",[],[],1.23
+22.11.2024,Gonzalez Fernandez M.,1,,,,,,"['2', '4', '4', '4', '5', '5', '6', '6']","['3', '4', '5', '4', '6', '5']",[],[],[],3.81
+21.11.2024,Gonzalez Fernandez M.,2,,,,,,"['2', '1', '3', '2', '5', '2', '6', '3']","['2', '2', '4', '2', '6', '4']",[],[],[],1.07
+21.11.2024,Hellum-Lilleengen L.,0,,,,,,"['2', '2', '3', '5']","['2', '1', '3', '4']",[],[],[],6.88

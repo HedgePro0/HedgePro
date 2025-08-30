@@ -1,52 +1,61 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-31.07.,Tepmahc N.,0,,,,,,[],[],[],[],[],0
-31.07.,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-30.07.,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-30.07.,Tabata R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-05.07.,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-05.07.,Bennani R.,2,,,,,,[],[],[],[],[],0
-04.07.,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-04.07.,Ratti L.,1,,,,,,[],[],[],[],[],0
-03.07.,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-03.07.,Comino L.,0,,,,,,[],[],[],[],[],0
-02.07.,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-02.07.,Fernandez Canovas A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Casablanca 2 (Morocco),clay,header
-26.06.,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-26.06.,Lapalu V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES M25 Loule (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo (Portugal),hard,header
-ITF MEN - SINGLES M15 Alcala de Henares (Spain),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 38 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M25 Denia (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-27.06.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Estevez J.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Jamji A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M25 Valldoreix (Spain),clay,header
-ITF MEN - SINGLES M25 Loule (Portugal),hard,header
-20.03.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-20.03.2024,Izquierdo Luque R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Quinta Do Lago (Portugal),hard,header
-06.03.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Furness E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Faro (Portugal),hard,header
-29.02.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],0
-29.02.2024,Celikbilek A.,2,,,,,,[],[],[],[],[],0
-28.02.2024,Turriziani Alvarez A.,2,,,,,,[],[],[],[],[],0
-28.02.2024,Falcao G.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ceuta (Spain),hard,header
-ITF MEN - SINGLES M15 Madrid 2 (Spain),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Marrero Curbelo I.,2,,,,,,"['1', '0']","['1', '0', '3', '0', '4', '1']","['1', '2', '3', '2', '5', '2', '6', '3']",[],[],1.97
+27.08.,Turriziani Alvarez A.,1,,,,,,"['2', '2', '4', '2', '6', '2']","['1', '3']","['2', '0', '3', '5']",[],[],1.74
+26.08.,Turriziani Alvarez A.,2,,,,,,"['2', '1']","['1', '0', '4', '1']",[],[],[],1.44
+26.08.,Lopez Cherubino N.,0,,,,,,[],"['3', '5']",[],[],[],2.62
+27.06.,Wenger D.,2,,,,,,"['5', '3']","['1', '0', '2', '3', '4', '3', '6', '3']",[],[],[],1.17
+27.06.,Turriziani Alvarez A.,0,,,,,,[],"['1', '1', '3', '1']",[],[],[],4.48
+25.06.,Turriziani Alvarez A.,2,,,,,,[],"['3', '1']","['5', '4']",[],[],3.09
+25.06.,Dlimi Y.,1,,,,,,[],[],[],[],[],1.33
+13.06.,Chidekh C.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['4', '2']",[],[],[],1.07
+13.06.,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],6.75
+12.06.,Turriziani Alvarez A.,2,,,,,,"['3', '1']","['1', '4', '4', '5', '6', '5']",[],[],[],2.81
+12.06.,Juan Mano A.,0,,,,,,[],"['2', '0', '4', '0']",[],[],[],1.39
+11.06.,Turriziani Alvarez A.,2,,,,,,"['1', '0']","['4', '3']",[],[],[],1.61
+11.06.,Forcano I.,0,,,,,,[],[],[],[],[],2.20
+04.06.,Radulov I.,2,,,,,,"['2', '1', '3', '2', '5', '2']","['1', '0', '2', '1', '4', '1']",[],[],[],1.06
+04.06.,Turriziani Alvarez A.,0,,,,,,"['2', '2', '3', '5']","['1', '1']",[],[],[],7.98
+23.04.,Petkovic M.,2,,,,,,"['2', '1', '4', '1']","['2', '1', '4', '3']",[],[],[],1.28
+23.04.,Turriziani Alvarez A.,0,,,,,,[],"['2', '2']",[],[],[],3.40
+19.03.,Kodat T.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.14
+19.03.,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],4.95
+14.03.,Boitan G. A.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.08
+14.03.,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],6.35
+21.11.2024,Paris T.,2,,,,,,"['2', '0']","['2', '1', '4', '1']",[],[],[],1.05
+21.11.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],8.05
+20.11.2024,Turriziani Alvarez A.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '6', '3']",[],[],[],1.72
+20.11.2024,Hernandez Cortes B.,0,,,,,,[],[],[],[],[],2.00
+12.11.2024,Casanova A.,2,,,,,,"['2', '0']","['1', '0', '3', '4', '4', '5']","['4', '5']",[],[],1.60
+12.11.2024,Turriziani Alvarez A.,1,,,,,,[],"['2', '2', '4', '2', '5', '3', '6', '4']","['3', '1']",[],[],2.22
+17.10.2024,Domingues J.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '5', '2']",[],[],[],1.13
+17.10.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],5.16
+25.09.2024,Vincent A.,2,,,,,,"['4', '2', '6', '2']","['4', '2']",[],[],[],1.70
+25.09.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],2.03
+20.09.2024,Dussin L.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['2', '0', '4', '0', '6', '2']",[],[],[],1.34
+20.09.2024,Turriziani Alvarez A.,0,,,,,,"['1', '3']","['1', '4']",[],[],[],3.08
+19.09.2024,Turriziani Alvarez A.,2,,,,,,"['3', '2']","['3', '1', '5', '1']",[],[],[],2.45
+19.09.2024,Jones M.,0,,,,,,"['4', '4']",[],[],[],[],1.51
+17.09.2024,Turriziani Alvarez A.,2,,,,,,[],"['2', '0', '5', '3']","['2', '3', '4', '3']",[],[],4.42
+17.09.2024,Johns G.,1,,,,,,"['2', '1', '5', '2']","['2', '3']","['3', '1', '4', '4']",[],[],1.18
+01.08.2024,Martinez Serrano M.,1,,,,,,"['1', '0', '4', '1']","['1', '1', '3', '3']",[],[],[],-
+01.08.2024,Turriziani Alvarez A.,0,,,,,,"['3', '5', '5', '5']","['1', '0', '2', '1']",[],[],[],-
+31.07.2024,Turriziani Alvarez A.,2,,,,,,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.08
+31.07.2024,Bravo A.,0,,,,,,[],[],[],[],[],6.96
+25.07.2024,Martin Tiffon P.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '6', '2']",[],[],[],1.06
+25.07.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],7.80
+24.07.2024,Turriziani Alvarez A.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['1', '1', '6', '4']",[],[],[],1.29
+24.07.2024,Villoslada E.,0,,,,,,"['1', '1']","['1', '0']",[],[],[],3.37
+04.07.2024,Domingues J.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.23
+04.07.2024,Turriziani Alvarez A.,0,,,,,,[],[],[],[],[],3.86
+02.07.2024,Turriziani Alvarez A.,2,,,,,,"['1', '1', '3', '1']","['1', '0', '4', '1']",[],[],[],3.51
+02.07.2024,Dussin L.,0,,,,,,"['1', '0']",[],[],[],[],1.27
+13.06.2024,Barroso Campos A.,2,,,,,,"['4', '2']","['3', '2']",[],[],[],1.13
+13.06.2024,Turriziani Alvarez A.,0,,,,,,"['3', '4']",[],[],[],[],5.40
+12.06.2024,Turriziani Alvarez A.,2,,,,,,[],"['7', '5']","['3', '3']",[],[],2.75
+12.06.2024,Atlangeriev B.,1,,,,,,[],[],"['2', '1']",[],[],1.41
+05.06.2024,Butvilas E.,2,,,,,,"['4', '4']","['2', '1', '4', '3']",[],[],[],1.05
+05.06.2024,Turriziani Alvarez A.,0,,,,,,"['1', '0']","['2', '2']",[],[],[],8.55
+09.05.2024,Martin Tiffon P.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.08
+09.05.2024,Turriziani Alvarez A.,0,,,,,,[],"['2', '4']",[],[],[],6.69
+08.05.2024,Turriziani Alvarez A.,2,,,,,,"['2', '1', '6', '5']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],4.12
+08.05.2024,Gutierrez O. J.,0,,,,,,"['2', '2']","['1', '1']",[],[],[],1.21

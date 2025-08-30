@@ -1,26 +1,19 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-17.07.,Chekhov A.,1,,,,,,[],[],[],[],[],0
-17.07.,Sarksian D.,2,,,,,,[],[],[],[],[],0
-15.07.,Chekhov A.,2,,,,,,[],[],[],[],[],0
-15.07.,Covato M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Tashkent 2 (Uzbekistan),hard,header
-ITF MEN - SINGLES M25 Tbilisi (Georgia),hard,header
-ITF MEN - SINGLES M15 Tashkent (Uzbekistan),hard,header
-ITF MEN - SINGLES M15 Ust-Kamenogorsk (Kazakhstan),hard,header
-27.06.2024,Chekhov A.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Khazime D.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Chekhov A.,2,,,,,,[],[],[],[],[],0
-26.06.2024,Iutkin I.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Aktobe 2 (Kazakhstan),hard,header
-13.03.2024,Chekhov A.,1,,,,,,[],[],[],[],[],0
-13.03.2024,Nesterov P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
-17.05.2023,Chekhov A.,0,,,,,,[],[],[],[],[],0
-17.05.2023,Agafonov E.,2,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Fergana (Uzbekistan),hard,header
-CHALLENGER MEN - SINGLES Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES Ueberlingen (Germany),clay,header
-22.08.2018,Chekhov A.,1,,,,,,[],[],[],[],[],0
-22.08.2018,Negritu Ch.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.,Longwe-Smit T.,2,,,,,,"['4', '2', '6', '2']","['3', '1', '6', '2']",[],[],[],1.80
+10.07.,Chekhov A.,0,,,,,,[],[],[],[],[],1.90
+08.07.,Chekhov A.,2,,,,,,"['2', '3', '3', '4']","['2', '0', '3', '1', '5', '3']",[],[],[],4.95
+08.07.,Badenhorst D.,0,,,,,,"['3', '1', '4', '2']","['1', '2', '2', '3']",[],[],[],1.14
+30.05.,Fomin S.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.07
+30.05.,Chekhov A.,0,,,,,,[],[],[],[],[],6.95
+29.05.,Chekhov A.,2,,,,,,[],"['3', '2']","['1', '0', '3', '0']",[],[],-
+29.05.,Ushakov A.,1,,,,,,"['1', '0', '6', '3']",[],"['2', '4']",[],[],-
+28.05.,Chekhov A.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '3', '3', '7', '5']",[],[],[],-
+28.05.,Ibrakhimov R.,0,,,,,,[],"['1', '2', '3', '2']",[],[],[],-
+13.05.,Bakshi A.,2,,,,,,"['2', '0']","['2', '1', '6', '5']",[],[],[],1.09
+13.05.,Chekhov A.,0,,,,,,[],"['2', '2']",[],[],[],6.00
+28.08.2024,Kalyanpur A.,2,,,,,,"['1', '0', '2', '1', '5', '2']","['3', '2']",[],[],[],2.34
+28.08.2024,Chekhov A.,0,,,,,,"['1', '1', '3', '5']",[],[],[],[],1.55
+17.06.2019,Fayziev S.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1']",[],[],[],1.05
+17.06.2019,Chekhov A.,0,,,,,,[],[],[],[],[],4.00
+06.05.2019,Golubev A.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '4', '0']",[],[],[],1.08
+06.05.2019,Chekhov A.,0,,,,,,"['1', '5']",[],[],[],[],7.30

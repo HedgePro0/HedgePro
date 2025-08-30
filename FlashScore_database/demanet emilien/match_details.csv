@@ -1,42 +1,59 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-07.08.,Demanet E.,2,,,,,,[],[],[],[],[],0
-07.08.,Antoni R.,0,,,,,,[],[],[],[],[],0
-05.08.,Demanet E.,2,,,,,,[],[],[],[],[],0
-05.08.,Overbeck C. E.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Metzingen (Germany),clay,header
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-20.07.,Demanet E.,2,,,,,,[],[],[],[],[],0
-20.07.,Rahmani K.,0,,,,,,[],[],[],[],[],0
-19.07.,Demanet E.,2,,,,,,[],[],[],[],[],0
-19.07.,Kolar Z.,0,,,,,,[],[],[],[],[],0
-18.07.,Demanet E.,2,,,,,,[],[],[],[],[],0
-18.07.,Loge J.,0,,,,,,[],[],[],[],[],0
-17.07.,Demanet E.,2,,,,,,[],[],[],[],[],0
-17.07.,Kriznik M.,0,,,,,,[],[],[],[],[],0
-15.07.,Demanet E.,2,,,,,,[],[],[],[],[],0
-15.07.,Bosio G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-ITF MEN - SINGLES M25 Brussels (Belgium),clay,header
-26.06.,Demanet E.,0,,,,,,[],[],[],[],[],0
-26.06.,Hardt N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Duffel (Belgium),clay,header
-ITF MEN - SINGLES M15 Ljubljana (Slovenia),clay,header
-ITF MEN - SINGLES M15 Doboj (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Oegstgeest (Netherlands),clay,header
-ITF MEN - SINGLES M25 Angers (France),clay,header
-ITF MEN - SINGLES M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 9 (Turkey),clay,header
-ITF MEN - SINGLES M15 Monastir 8 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 7 (Tunisia),hard,header
-19.02.,Demanet E.,2,,,,,,[],[],[],[],[],0
-19.02.,Orlov V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 6 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Manacor 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Manacor 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Bailly G. A.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '0', '4', '0']",[],[],[],1.75
+13.08.,Demanet E.,0,,,,,,"['1', '5']",[],[],[],[],20.0
+24.07.,Matusevich A.,2,,,,,,"['4', '2', '6', '2']","['4', '2']",[],[],[],1.97
+24.07.,Demanet E.,0,,,,,,[],[],[],[],[],1.74
+23.07.,Demanet E.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '2', '4', '2', '6', '2']",[],[],[],1.06
+23.07.,Stroemberg I.,0,,,,,,[],"['2', '1']",[],[],[],7.50
+11.07.,Loge J.,2,,,,,,"['3', '2', '4', '3', '6', '5']","['1', '0', '2', '1', '5', '4', '6', '5']",[],[],[],2.69
+11.07.,Demanet E.,0,,,,,,"['3', '3', '4', '4']","['1', '1', '4', '4', '5', '5']",[],[],[],1.42
+10.07.,Demanet E.,2,,,,,,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.24
+10.07.,Jeran A.,0,,,,,,[],[],[],[],[],3.72
+09.07.,Demanet E.,0,,,,,,"['1', '0', '3', '0']",[],[],[],[],1.63
+09.07.,Kupcic J.,0,,,,,,[],[],[],[],[],2.16
+25.06.,Demanet E.,2,,,,,,"['1', '2', '3', '2']","['6', '5']",[],[],[],2.89
+25.06.,De Loore J.,0,,,,,,"['2', '0']",[],[],[],[],1.37
+19.06.,Ratiu N.,2,,,,,,"['2', '0', '4', '2']",[],"['1', '3', '5', '5', '6', '6']",[],[],3.40
+19.06.,Demanet E.,1,,,,,,"['1', '2']",[],"['1', '0', '3', '0', '6', '5']",[],[],1.28
+17.06.,Demanet E.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
+17.06.,Ungerman O.,0,,,,,,[],[],[],[],[],7.10
+06.06.,Artnak B.,2,,,,,,"['5', '5']","['3', '4']","['4', '4', '6', '4']",[],[],1.51
+06.06.,Demanet E.,1,,,,,,"['1', '0']","['3', '1', '5', '3']","['2', '1']",[],[],2.42
+05.06.,Demanet E.,2,,,,,,"['1', '0', '2', '1', '5', '2', '6', '3']","['3', '1', '5', '3']",[],[],[],1.18
+05.06.,Vetrih M.,0,,,,,,"['1', '1', '3', '5']","['2', '3']",[],[],[],4.38
+04.06.,Demanet E.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['4', '3', '6', '3']",[],[],[],1.30
+04.06.,Gschwendtner J.,0,,,,,,[],[],[],[],[],3.26
+30.05.,Kellovsky D.,2,,,,,,"['2', '2', '3', '3']","['2', '1', '3', '2', '4', '3']","['2', '3']",[],[],1.39
+30.05.,Demanet E.,1,,,,,,"['1', '0', '3', '2', '4', '3', '6', '3']","['2', '2', '3', '3']","['3', '1']",[],[],2.67
+30.05.,Demanet E.,2,,,,,,"['1', '0', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.45
+30.05.,Hallquist Lithen J.,0,,,,,,[],[],[],[],[],2.59
+28.05.,Demanet E.,2,,,,,,"['2', '1', '4', '1', '5', '2']","['3', '4']",[],[],[],1.25
+28.05.,Vetrih M.,0,,,,,,"['2', '4']","['2', '0']",[],[],[],3.62
+22.05.,Zarate C. M.,2,,,,,,"['3', '4', '5', '4', '6', '5']","['4', '2', '6', '2']",[],[],[],3.30
+22.05.,Demanet E.,0,,,,,,"['3', '1', '5', '5', '6', '6']",[],[],[],[],1.30
+29.04.,Castagnola L.,2,,,,,,"['4', '5']","['4', '5', '6', '5']","['1', '0', '3', '4', '5', '4']",[],[],1.77
+29.04.,Demanet E.,1,,,,,,"['4', '2', '7', '5']","['3', '1']","['2', '2', '4', '2', '5', '5']",[],[],1.94
+22.04.,Matsuoka H.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.95
+22.04.,Demanet E.,0,,,,,,[],[],[],[],[],1.76
+02.04.,Krumich M.,2,,,,,,"['3', '4', '5', '4']","['3', '2', '5', '2']",[],[],[],1.83
+02.04.,Demanet E.,0,,,,,,"['2', '0']",[],[],[],[],1.87
+28.03.,Slump S.,2,,,,,,"['2', '0']","['1', '0', '4', '1']",[],[],[],1.85
+28.03.,Demanet E.,0,,,,,,[],[],[],[],[],1.85
+27.03.,Demanet E.,2,,,,,,"['2', '1', '3', '4']","['1', '0', '4', '1']","['1', '0', '6', '3']",[],[],2.24
+27.03.,Picchione A.,1,,,,,,"['2', '2', '4', '2', '6', '4']",[],[],[],[],1.59
+26.03.,Demanet E.,2,,,,,,"['1', '1', '3', '1', '5', '3']","['1', '0', '4', '1', '5', '2', '6', '3']",[],[],[],1.69
+26.03.,Stankovic S.,0,,,,,,"['1', '0', '2', '3']","['2', '4', '3', '5']",[],[],[],2.08
+19.03.,Fomin S.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['3', '1', '4', '2', '6', '2']",[],[],[],1.43
+19.03.,Demanet E.,0,,,,,,"['3', '3']","['2', '3']",[],[],[],2.66
+25.02.,Krutykh O.,2,,,,,,"['1', '0', '5', '4']","['1', '0', '3', '2', '5', '2', '6', '3']",[],[],[],1.32
+25.02.,Demanet E.,0,,,,,,"['1', '1']","['2', '2', '3', '5']",[],[],[],3.14
+21.02.,Sakellaridis S.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '5', '2']",[],[],[],1.77
+21.02.,Demanet E.,0,,,,,,[],"['1', '1']",[],[],[],1.94
+20.02.,Demanet E.,2,,,,,,"['3', '5']","['5', '5']",[],[],[],1.68
+20.02.,Poling K.,1,,,,,,"['3', '2', '5', '2']","['2', '1']",[],[],[],2.09
+13.02.,Dhamne M.,2,,,,,,"['1', '1', '4', '2']","['2', '0', '4', '2', '5', '3', '7', '5']","['1', '1', '3', '1', '5', '1']",[],[],1.45
+13.02.,Demanet E.,1,,,,,,"['1', '0', '3', '4', '5', '4']","['2', '3', '3', '4', '4', '5']","['1', '0']",[],[],2.58
+11.02.,Demanet E.,2,,,,,,"['1', '0', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
+11.02.,Delicata L.,0,,,,,,"['4', '4']",[],[],[],[],7.90
+23.01.,De Krom M.,2,,,,,,"['2', '2', '5', '5']","['1', '0', '6', '3']","['3', '3', '7', '5']",[],[],1.67
+23.01.,Demanet E.,1,,,,,,"['2', '1', '5', '4']",[],"['2', '1']",[],[],2.10

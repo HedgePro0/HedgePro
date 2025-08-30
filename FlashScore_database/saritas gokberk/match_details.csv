@@ -1,64 +1,59 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-30.07.,Saritas G.,0,,,,,,[],[],[],[],[],0
-30.07.,Dhamne M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 29 (Tunisia),hard,header
-23.07.,Saritas G.,0,,,,,,[],[],[],[],[],0
-23.07.,Tepmahc N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kayseri 6 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 2 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri (Turkey),hard,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-23.04.,Saritas G.,0,,,,,,[],[],[],[],[],0
-23.04.,Krutykh O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 5 (Turkey),clay,header
-19.02.,Saritas G.,0,,,,,,[],[],[],[],[],0
-19.02.,Paz J. P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 21 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 2 (Turkey),hard,header
-23.10.2024,Saritas G.,1,,,,,,[],[],[],[],[],0
-23.10.2024,Bogatov D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kayseri (Turkey),hard,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-11.09.2024,Saritas G.,1,,,,,,[],[],[],[],[],0
-11.09.2024,Shrolik I.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sofia (Bulgaria),clay,header
-16.08.2024,Saritas G.,0,,,,,,[],[],[],[],[],0
-16.08.2024,Ivanov I.,2,,,,,,[],[],[],[],[],0
-15.08.2024,Saritas G.,2,,,,,,[],[],[],[],[],0
-15.08.2024,Georgiev G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 15 (Turkey),clay,header
-17.05.2024,Saritas G.,0,,,,,,[],[],[],[],[],0
-17.05.2024,Milev Y.,2,,,,,,[],[],[],[],[],0
-16.05.2024,Saritas G.,2,,,,,,[],[],[],[],[],0
-16.05.2024,Ilhan M.,1,,,,,,[],[],[],[],[],0
-15.05.2024,Saritas G.,1,,,,,,[],[],[],[],[],0
-15.05.2024,Andre S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 14 (Turkey),clay,header
-09.05.2024,Saritas G.,1,,,,,,[],[],[],[],[],0
-09.05.2024,Kirci K.,2,,,,,,[],[],[],[],[],0
-08.05.2024,Saritas G.,2,,,,,,[],[],[],[],[],0
-08.05.2024,Jin Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 9 (Turkey),clay,header
-02.04.2024,Saritas G.,0,,,,,,[],[],[],[],[],0
-02.04.2024,Gavrielides L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-13.03.2024,Saritas G.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Searle H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 5 (Turkey),clay,header
-06.03.2024,Saritas G.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Heller P.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+05.08.,Vasilev D.,2,,,,,,"['5', '3']","['4', '3', '6', '3']",[],[],[],4.53
+05.08.,Saritas G.,0,,,,,,[],[],[],[],[],1.17
+01.07.,Borisiouk M.,2,,,,,,[],"['6', '4']","['4', '2']",[],[],1.08
+01.07.,Saritas G.,1,,,,,,"['6', '5']",[],[],[],[],6.45
+12.06.,Osorio J. S.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['6', '4']",[],[],[],1.50
+12.06.,Saritas G.,0,,,,,,"['2', '1']",[],[],[],[],2.44
+10.06.,Saritas G.,2,,,,,,"['1', '0', '3', '0', '4', '1']","['3', '4']","['3', '1', '6', '4']",[],[],-
+10.06.,Huang H.,1,,,,,,"['1', '3']","['4', '2', '5', '3']","['3', '4']",[],[],-
+04.06.,Bittoun C.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.13
+04.06.,Saritas G.,0,,,,,,[],[],[],[],[],5.10
+29.05.,Moroni F.,2,,,,,,"['1', '0', '5', '4']","['3', '2']",[],[],[],-
+29.05.,Saritas G.,0,,,,,,"['3', '3']",[],[],[],[],-
+28.05.,Saritas G.,2,,,,,,"['4', '4', '6', '4']","['3', '1', '7', '5']",[],[],[],2.81
+28.05.,Tyler J.,0,,,,,,"['1', '0']","['3', '4']",[],[],[],1.39
+07.05.,Hamza Reguig S.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '5', '1']",[],[],[],-
+07.05.,Saritas G.,0,,,,,,[],[],[],[],[],-
+02.04.,Paroulek T.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+02.04.,Saritas G.,0,,,,,,[],[],[],[],[],-
+05.03.,Beraldo L.,2,,,,,,"['3', '1', '4', '4']","['3', '1', '5', '1']","['1', '0', '5', '2']",[],[],1.73
+05.03.,Saritas G.,1,,,,,,"['2', '3', '4', '3', '5', '4']",[],[],[],[],1.99
+12.02.,Pinter P. L.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '3', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],1.85
+12.02.,Saritas G.,1,,,,,,[],"['1', '0', '2', '1', '4', '5']",[],[],[],1.85
+05.02.,Picchione A.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '6', '3']",[],[],[],1.14
+05.02.,Saritas G.,0,,,,,,[],[],[],[],[],4.90
+30.01.,Kolar Z.,2,,,,,,"['1', '0', '2', '1', '4', '1', '6', '1']","['1', '1', '2', '2', '3', '3', '5', '3']",[],[],[],1.08
+30.01.,Saritas G.,0,,,,,,"['1', '1']","['1', '0', '2', '1', '3', '2']",[],[],[],6.45
+29.01.,Saritas G.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '4', '1']",[],[],[],1.07
+29.01.,Zamora J. I.,0,,,,,,[],[],[],[],[],6.90
+14.01.,Bouquet L.,2,,,,,,"['2', '0', '3', '1']","['4', '3', '5', '4']",[],[],[],1.09
+14.01.,Saritas G.,0,,,,,,"['1', '2']","['4', '4']",[],[],[],6.15
+09.01.,Bouquet L.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '1']",[],[],[],1.11
+09.01.,Saritas G.,0,,,,,,[],[],[],[],[],5.50
+07.01.,Saritas G.,2,,,,,,"['3', '1', '5', '3']","['1', '0']","['2', '0', '4', '0', '6', '4']",[],[],1.42
+07.01.,Arinc K.,1,,,,,,"['3', '4']","['1', '1', '3', '1']","['1', '4', '3', '4']",[],[],2.69
+27.12.2024,Gretskiy I.,2,,,,,,"['5', '3']","['1', '2', '4', '3']",[],[],[],3.81
+27.12.2024,Saritas G.,0,,,,,,[],"['2', '0']",[],[],[],1.23
+27.12.2024,Saritas G.,2,,,,,,"['2', '3', '4', '5']","['2', '1', '4', '3']","['1', '0', '4', '1', '8', '5']",[],[],2.18
+27.12.2024,Ivanov S.,1,,,,,,"['2', '0', '5', '3', '6', '4']","['3', '3']","['2', '4']",[],[],1.62
+20.11.2024,Ionel N. D.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '4', '1']",[],[],[],1.09
+20.11.2024,Saritas G.,0,,,,,,[],"['1', '3']",[],[],[],6.29
+14.11.2024,Popovic S.,2,,,,,,"['1', '0', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+14.11.2024,Saritas G.,0,,,,,,"['2', '2']",[],[],[],[],-
+13.11.2024,Saritas G.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],1.54
+13.11.2024,Stice T.,0,,,,,,"['2', '4']","['1', '1', '2', '2', '3', '5']",[],[],[],2.35
+29.10.2024,Wehnelt K.,1,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1']",[],[],[],1.14
+29.10.2024,Saritas G.,0,,,,,,[],[],[],[],[],5.10
+15.10.2024,Alkaya M.,2,,,,,,"['1', '0', '3', '4']","['4', '2', '6', '2']","['7', '5']",[],[],1.17
+15.10.2024,Saritas G.,1,,,,,,"['2', '2', '4', '2', '5', '3']",[],[],[],[],4.48
+20.09.2024,Klok D.,2,,,,,,"['1', '1', '5', '3', '6', '4']","['4', '2']",[],[],[],1.41
+20.09.2024,Saritas G.,0,,,,,,"['1', '0', '4', '5']",[],[],[],[],2.75
+19.09.2024,Saritas G.,2,,,,,,"['1', '0']",[],"['2', '0', '5', '3']",[],[],-
+19.09.2024,Nedelko I.,1,,,,,,[],"['2', '0', '4', '0']","['2', '3']",[],[],-
+18.09.2024,Saritas G.,2,,,,,,"['2', '0', '6', '4']","['3', '3']","['1', '0', '5', '2']",[],[],1.23
+18.09.2024,Vlasceanu E.,1,,,,,,"['1', '2']","['1', '0']",[],[],[],3.84
+16.08.2024,Ivanov I.,2,,,,,,"['2', '0', '6', '2']","['3', '3', '4', '4', '7', '5']",[],[],[],1.43
+16.08.2024,Saritas G.,0,,,,,,[],"['2', '1', '4', '3']",[],[],[],2.68
+15.08.2024,Saritas G.,2,,,,,,"['1', '0', '3', '4', '5', '4', '6', '5']","['1', '0', '3', '0']",[],[],[],2.45
+15.08.2024,Georgiev G.,0,,,,,,"['1', '1', '4', '2', '5', '5']","['3', '5']",[],[],[],1.51

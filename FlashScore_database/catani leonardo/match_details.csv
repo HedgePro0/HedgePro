@@ -1,55 +1,19 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Shymkent (Kazakhstan),clay,header
-17.04.2024,Catani L.,1,,,,,,[],[],[],[],[],0
-17.04.2024,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 20 (Turkey),clay,header
-14.12.2023,Catani L.,0,,,,,,[],[],[],[],[],0
-14.12.2023,Denolly C.,2,,,,,,[],[],[],[],[],0
-13.12.2023,Catani L.,2,,,,,,[],[],[],[],[],0
-13.12.2023,Teszari C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Ystad (Sweden),clay,header
-15.08.2023,Catani L.,0,,,,,,[],[],[],[],[],0
-15.08.2023,Jianu F. C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Addis Ababa 2 (Ethiopia),clay,header
-ITF MEN - SINGLES M15 Addis Ababa (Ethiopia),clay,header
-ITF MEN - SINGLES M25 Varnamo (Sweden),clay,header
-11.05.2023,Catani L.,0,,,,,,[],[],[],[],[],0
-11.05.2023,Clarke J.,2,,,,,,[],[],[],[],[],0
-10.05.2023,Catani L.,2,,,,,,[],[],[],[],[],0
-10.05.2023,Bergdahl A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kish Island 2 (Iran),clay,header
-16.03.2023,Catani L.,0,,,,,,[],[],[],[],[],0
-16.03.2023,Broville M.,2,,,,,,[],[],[],[],[],0
-15.03.2023,Catani L.,2,,,,,,[],[],[],[],[],0
-15.03.2023,Cazacu D. N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kish Island (Iran),clay,header
-10.03.2023,Catani L.,0,,,,,,[],[],[],[],[],0
-10.03.2023,Madarasz G.,2,,,,,,[],[],[],[],[],0
-09.03.2023,Catani L.,2,,,,,,[],[],[],[],[],0
-09.03.2023,Hans K.,0,,,,,,[],[],[],[],[],0
-07.03.2023,Catani L.,2,,,,,,[],[],[],[],[],0
-07.03.2023,Calvano G.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santa Margherita di Pula 9 (Italy),clay,header
-ITF MEN - SINGLES M15 Zlatibor (Serbia),clay,header
-14.09.2022,Catani L.,1,,,,,,[],[],[],[],[],0
-14.09.2022,Popovic S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Constanta (Romania),clay,header
-08.09.2022,Catani L.,0,,,,,,[],[],[],[],[],0
-08.09.2022,Ionel N. D.,2,,,,,,[],[],[],[],[],0
-07.09.2022,Catani L.,2,,,,,,[],[],[],[],[],0
-07.09.2022,Borza B.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-22.06.2022,Catani L.,0,,,,,,[],[],[],[],[],0
-22.06.2022,Erhard M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santa Margherita di Pula (Italy),clay,header
-ITF MEN - SINGLES M15 Vyshkovo (Ukraine),clay,header
-23.09.2021,Catani L.,0,,,,,,[],[],[],[],[],0
-23.09.2021,Kravchenko G.,1,,,,,,[],[],[],[],[],0
-23.09.2021,Catani L.,2,,,,,,[],[],[],[],[],0
-23.09.2021,Petrenko A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vejle (Denmark),clay,header
-27.07.2021,Catani L.,0,,,,,,[],[],[],[],[],0
-27.07.2021,Korsgaard H. H.,2,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Italian Championship (Italy) - Qualification,clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+23.05.2023,Moghimi S.,2,,,,,,[],[],[],[],[],1.71
+23.05.2023,Catani L.,1,,,,,,[],[],[],[],[],2.02
+18.05.2023,Matsumura R.,2,,,,,,[],[],[],[],[],1.68
+18.05.2023,Catani L.,0,,,,,,[],[],[],[],[],2.09
+04.10.2022,Danilov S.,2,,,,,,[],"['3', '1']","['1', '0', '4', '1']",[],[],1.23
+04.10.2022,Catani L.,1,,,,,,"['3', '1', '5', '1']",[],[],[],[],3.88
+25.08.2022,Faria J.,2,,,,,,"['2', '0', '4', '0']","['5', '4']",[],[],[],1.18
+25.08.2022,Catani L.,0,,,,,,[],[],[],[],[],4.46
+24.08.2022,Catani L.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['1', '2', '4', '3', '5', '4']","['2', '0', '5', '3']",[],[],1.43
+24.08.2022,Cataldi C.,1,,,,,,"['2', '0']","['2', '0', '4', '4', '5', '5', '7', '5']","['1', '2']",[],[],2.69
+30.06.2022,Weis A.,2,,,,,,"['1', '0']","['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],1.07
+30.06.2022,Catani L.,1,,,,,,"['5', '5']","['2', '5']","['3', '5']",[],[],8.00
+28.06.2022,Catani L.,2,,,,,,"['3', '2', '4', '3']","['1', '0', '3', '2', '6', '3']","['3', '3', '5', '3']",[],[],-
+28.06.2022,Mazza M.,1,,,,,,"['3', '3', '4', '4', '7', '5']","['1', '1']","['3', '2']",[],[],-
+12.04.2022,Gill F.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['3', '3', '6', '4']",[],[],[],1.05
+12.04.2022,Catani L.,0,,,,,,"['3', '3']","['1', '0']",[],[],[],9.60
+20.06.2020,Di Nocera R.,2,,,,,,"['1', '0', '5', '2']","['2', '3', '4', '3', '6', '3']",[],[],[],-
+20.06.2020,Catani L.,0,,,,,,[],"['3', '1']",[],[],[],-

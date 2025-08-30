@@ -1,21 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES M25 Kiseljak (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Prijedor (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES M25 Kiseljak (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Prijedor (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-04.07.2024,Kovac T.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Cadenasso G.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Kovac T.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Garbero F. F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Osijek (Croatia),clay,header
-01.05.2024,Kovac T.,0,,,,,,[],[],[],[],[],0
-01.05.2024,Oberleitner N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Trnava (Slovakia),hard,header
-27.03.2024,Kovac T.,0,,,,,,[],[],[],[],[],0
-27.03.2024,Fajta P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Zlatibor (Serbia),clay,header
-14.09.2022,Kovac T.,0,,,,,,[],[],[],[],[],0
-14.09.2022,Zeljenka M.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Dominko S.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['3', '2', '6', '3']",[],[],[],1.04
+27.08.,Kovac T.,0,,,,,,"['1', '3']",[],[],[],[],8.30
+20.08.,Iemmi L.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '3', '0']",[],[],[],1.89
+20.08.,Kovac T.,0,,,,,,"['4', '2']","['3', '5']",[],[],[],1.81
+02.07.,Vukadin N.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.14
+02.07.,Kovac T.,0,,,,,,[],[],[],[],[],4.90
+11.06.,Gobat A.,2,,,,,,"['3', '1', '6', '2']","['4', '4']","['3', '2', '5', '2']",[],[],1.04
+11.06.,Kovac T.,1,,,,,,[],"['4', '3']",[],[],[],8.10
+16.05.,Bielinskyi V.,2,,,,,,"['1', '2', '4', '3', '6', '3']","['2', '0', '5', '1']",[],[],[],1.05
+16.05.,Kovac T.,0,,,,,,"['2', '0']",[],[],[],[],8.00
+15.05.,Kovac T.,2,,,,,,"['1', '1', '4', '4', '7', '5']","['6', '6']",[],[],[],5.50
+15.05.,Basic N.,0,,,,,,"['1', '0', '2', '1']","['6', '5']",[],[],[],1.11
+14.05.,Kovac T.,2,,,,,,"['3', '1', '5', '1']","['3', '2', '5', '2']",[],[],[],2.47
+14.05.,Zamora J. I.,0,,,,,,[],[],[],[],[],1.49

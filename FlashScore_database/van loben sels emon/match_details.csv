@@ -1,15 +1,31 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Southaven,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.08.,van Loben Sels E.,2,,,,,,"['1', '1', '3', '1', '6', '4']","['2', '0', '3', '1']",[],[],[],1.73
+10.08.,Fishback R.,0,,,,,,"['1', '0', '3', '4']","['1', '2']",[],[],[],19.5
+09.08.,van Loben Sels E.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']",[],[],[],20.5
+09.08.,Bigun K.,0,,,,,,[],[],[],[],[],1.64
+08.08.,van Loben Sels E.,2,,,,,,"['3', '3', '5', '5', '6', '6']","['1', '0', '4', '3', '5', '4']",[],[],[],1.54
+08.08.,Bondaz M.,0,,,,,,"['2', '1', '4', '3', '6', '5']","['2', '2', '4', '4']",[],[],[],19.5
+07.08.,van Loben Sels E.,2,,,,,,"['4', '2', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],-
+07.08.,Corwin F.,0,,,,,,"['3', '4']",[],[],[],[],-
+06.08.,van Loben Sels E.,2,,,,,,"['1', '0']","['2', '2', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.75
+06.08.,Magadan A.,1,,,,,,"['1', '1']","['1', '0']",[],[],[],1.96
+09.07.,Sweeny D.,2,,,,,,"['1', '0', '2', '1', '4', '3']","['1', '0', '3', '0']",[],[],[],1.44
+09.07.,van Loben Sels E.,0,,,,,,"['1', '1', '3', '3']",[],[],[],[],2.62
+02.07.,Kang K.,2,,,,,,"['2', '1', '3', '4']","['3', '3', '5', '5']","['4', '3']",[],[],1.45
+02.07.,van Loben Sels E.,1,,,,,,"['2', '2', '4', '2']","['2', '1', '5', '4']",[],[],[],2.59
+26.06.,Sweeny D.,2,,,,,,"['3', '2']","['2', '1', '3', '2']","['2', '3', '3', '4', '5', '4']",[],[],1.84
+26.06.,van Loben Sels E.,1,,,,,,"['3', '3', '7', '5']","['2', '2']","['3', '1', '4', '2', '5', '5']",[],[],1.86
+25.06.,van Loben Sels E.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['4', '2', '6', '2']",[],[],[],1.70
+25.06.,Ponwith N.,0,,,,,,[],[],[],[],[],2.03
+10.07.2024,Sarr J.,2,,,,,,"['2', '0']","['4', '4', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],1.69
+10.07.2024,van Loben Sels E.,1,,,,,,"['3', '4', '6', '5']","['4', '3']",[],[],[],2.08
+05.07.2024,Sell K.,2,,,,,,"['4', '2', '6', '2']","['4', '2']",[],[],[],1.07
+05.07.2024,van Loben Sels E.,0,,,,,,[],[],[],[],[],7.38
+04.07.2024,van Loben Sels E.,2,,,,,,[],"['2', '1']","['2', '0', '5', '1']",[],[],2.36
+04.07.2024,Lee K. K.,1,,,,,,"['2', '1', '4', '1', '6', '1']","['5', '5']",[],[],[],1.54
+03.07.2024,van Loben Sels E.,2,,,,,,"['2', '2', '5', '3']","['1', '0']","['3', '1', '6', '4']",[],[],3.77
+03.07.2024,Jones M.,1,,,,,,"['1', '0']","['1', '1', '3', '1', '5', '1']","['3', '4']",[],[],1.24
+26.06.2024,Nakashima B.,2,,,,,,[],"['3', '3']","['1', '0']",[],[],1.28
+26.06.2024,van Loben Sels E.,1,,,,,,"['6', '5']","['1', '0']",[],[],[],3.43
+12.07.2023,Chopra K.,2,,,,,,"['1', '1', '3', '1', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.46
+12.07.2023,van Loben Sels E.,0,,,,,,"['1', '0']",[],[],[],[],2.57

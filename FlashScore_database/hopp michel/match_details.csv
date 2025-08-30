@@ -1,64 +1,49 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Frankfurt (Germany),clay,header
-06.08.,Hopp M.,0,,,,,,[],[],[],[],[],0
-06.08.,Siniakov D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wels (Austria),clay,header
-01.08.,Hopp M.,0,,,,,,[],[],[],[],[],0
-01.08.,Ribecai M.,2,,,,,,[],[],[],[],[],0
-31.07.,Hopp M.,2,,,,,,[],[],[],[],[],0
-31.07.,Raquillet L.,1,,,,,,[],[],[],[],[],0
-29.07.,Hopp M.,2,,,,,,[],[],[],[],[],0
-29.07.,Schlageter J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Uslar (Germany),clay,header
-18.07.,Hopp M.,0,,,,,,[],[],[],[],[],0
-18.07.,Miletich I.,2,,,,,,[],[],[],[],[],0
-17.07.,Hopp M.,2,,,,,,[],[],[],[],[],0
-17.07.,Vesely J.,1,,,,,,[],[],[],[],[],0
-16.07.,Hopp M.,2,,,,,,[],[],[],[],[],0
-16.07.,Oezcelik M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Doboj (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-21.05.,Hopp M.,2,,,,,,[],[],[],[],[],0
-21.05.,Sasko W.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Prijedor (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 20 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-24.10.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-24.10.2024,Kukasian A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Uslar (Germany),clay,header
-ITF MEN - SINGLES M25 Kassel (Germany),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-13.06.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Aubriot A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Kiseljak (Bosnia and Herzegovina),clay,header
-29.05.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-29.05.2024,Kasnikowski M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-23.05.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Bosio G.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Hopp M.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Todorovic L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-13.03.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Ujvary M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Antalya 2 (Turkey),clay,header
-07.02.2024,Hopp M.,1,,,,,,[],[],[],[],[],0
-07.02.2024,Manda C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Antalya (Turkey),clay,header
-31.01.2024,Hopp M.,0,,,,,,[],[],[],[],[],0
-31.01.2024,Gea A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-20.04.2023,Hopp M.,0,,,,,,[],[],[],[],[],0
-20.04.2023,Ivanov S. A.,2,,,,,,[],[],[],[],[],0
-19.04.2023,Hopp M.,2,,,,,,[],[],[],[],[],0
-19.04.2023,Barnat J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 11 (Turkey),clay,header
-13.04.2023,Hopp M.,0,,,,,,[],[],[],[],[],0
-13.04.2023,Wenger D.,2,,,,,,[],[],[],[],[],0
-12.04.2023,Hopp M.,2,,,,,,[],[],[],[],[],0
-12.04.2023,Tomescu D. A.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+30.05.,Tadic V.,2,,,,,,"['3', '1', '7', '5']","['2', '0', '4', '0']",[],[],[],2.66
+30.05.,Hopp M.,0,,,,,,"['4', '5']",[],[],[],[],1.43
+27.05.,Hopp M.,2,,,,,,"['1', '0', '5', '2']","['2', '1', '4', '3']",[],[],[],1.68
+27.05.,Fantini L.,0,,,,,,[],"['2', '2']",[],[],[],2.09
+22.05.,Bielinskyi V.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],[],1.11
+22.05.,Hopp M.,0,,,,,,[],[],[],[],[],5.45
+16.05.,Sorger S.,2,,,,,,"['3', '1', '5', '1']","['1', '0']","['2', '0', '5', '1']",[],[],1.14
+16.05.,Hopp M.,1,,,,,,"['2', '5']","['3', '3', '5', '3']",[],[],[],5.00
+15.05.,Hopp M.,2,,,,,,"['1', '2', '6', '5']","['2', '1', '5', '2']",[],[],[],2.06
+15.05.,Simundza J.,0,,,,,,"['2', '0']",[],[],[],[],1.68
+14.05.,Hopp M.,2,,,,,,"['4', '3']","['4', '3', '6', '3']",[],[],[],1.17
+14.05.,Petrovic D.,0,,,,,,[],[],[],[],[],4.48
+18.04.,Handel T.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],1.29
+18.04.,Hopp M.,0,,,,,,[],[],[],[],[],3.32
+29.03.,Boitan G. A.,2,,,,,,"['3', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],1.08
+29.03.,Hopp M.,0,,,,,,[],"['1', '3']",[],[],[],6.40
+28.03.,Hopp M.,2,,,,,,[],"['2', '0', '3', '1']","['2', '3', '4', '3', '6', '3']",[],[],3.26
+28.03.,Nagel A.,1,,,,,,"['5', '3']","['1', '2']","['2', '0']",[],[],1.30
+27.03.,Hopp M.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '6', '3']",[],[],[],1.97
+27.03.,Noce G. M.,0,,,,,,"['3', '5']",[],[],[],[],1.74
+26.03.,Hopp M.,2,,,,,,"['3', '4', '5', '4']","['2', '3', '4', '5']","['3', '2', '4', '3', '6', '3']",[],[],1.85
+26.03.,Fiorentini A.,1,,,,,,"['3', '1']","['2', '0', '5', '3', '7', '5']","['3', '3']",[],[],1.85
+27.02.,Weis A.,2,,,,,,"['2', '0']","['2', '1', '4', '1']",[],[],[],1.15
+27.02.,Hopp M.,0,,,,,,[],[],[],[],[],4.75
+26.02.,Hopp M.,2,,,,,,"['1', '0', '3', '0', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],-
+26.02.,Biiata A.,0,,,,,,"['1', '3']",[],[],[],[],26.00
+19.12.2024,Agamenone F.,2,,,,,,"['2', '2']","['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.02
+19.12.2024,Hopp M.,1,,,,,,"['2', '1', '5', '4']",[],[],[],[],9.60
+18.12.2024,Hopp M.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['7', '5']",[],[],[],2.47
+18.12.2024,Klok D.,0,,,,,,"['1', '3']",[],[],[],[],1.49
+28.11.2024,Cretu C.,2,,,,,,[],"['4', '2', '6', '4']","['2', '0', '5', '3', '7', '5']",[],[],1.08
+28.11.2024,Hopp M.,1,,,,,,"['1', '0']","['4', '5']","['2', '3', '4', '5']",[],[],6.77
+27.11.2024,Hopp M.,2,,,,,,"['2', '5', '4', '5']","['1', '2', '3', '4', '5', '4']","['1', '0', '4', '1']",[],[],1.58
+27.11.2024,Yazdani A.,1,,,,,,"['2', '0', '4', '0', '7', '5']","['2', '0', '3', '1']",[],[],[],2.26
+23.10.2024,Hopp M.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1']",[],[],[],2.53
+23.10.2024,Tessa L.,0,,,,,,[],[],[],[],[],1.47
+16.10.2024,Ivanov S.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['4', '2', '6', '2']",[],[],[],3.09
+16.10.2024,Hopp M.,0,,,,,,[],[],[],[],[],1.33
+19.07.2024,Engel J.,2,,,,,,"['5', '3']",[],"['1', '0', '4', '3', '6', '3']",[],[],1.33
+19.07.2024,Hopp M.,1,,,,,,[],"['2', '0', '4', '0', '6', '0']","['1', '1']",[],[],3.12
+18.07.2024,Hopp M.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['2', '1', '6', '3']",[],[],[],4.37
+18.07.2024,Rodriguez L. J.,0,,,,,,"['1', '4']",[],[],[],[],1.19
+17.07.2024,Hopp M.,2,,,,,,"['1', '0', '6', '5']","['2', '1', '3', '2']","['2', '1', '4', '1']",[],[],2.28
+17.07.2024,Dedura-Palomero M.,1,,,,,,"['1', '1']","['2', '2', '5', '5', '7', '5']",[],[],[],1.58
+11.07.2024,Michalski D.,2,,,,,,"['3', '3', '5', '5', '7', '5']","['2', '0', '4', '0']",[],[],[],1.11
+11.07.2024,Hopp M.,0,,,,,,"['3', '2', '4', '3']",[],[],[],[],5.88
+10.07.2024,Hopp M.,2,,,,,,"['3', '1', '6', '2']","['4', '4']","['3', '3', '6', '4']",[],[],6.20
+10.07.2024,Agwi M.,1,,,,,,[],"['4', '3', '6', '5']","['1', '0']",[],[],1.10

@@ -1,41 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Roehampton 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-16.07.,Stringer T.,0,,,,,,[],[],[],[],[],0
-16.07.,Breazu V. C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Mungia-Laukariz (Spain),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Stellenbosch 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Stellenbosch (South Africa),hard,header
-ITF MEN - SINGLES M25 Maputo (Mozambique),hard,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 2 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 18 (Serbia),clay,header
-22.09.2024,Stringer T.,0,,,,,,[],[],[],[],[],0
-22.09.2024,Pinter P. L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 17 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 14 (Serbia),clay,header
-06.08.2024,Stringer T.,0,,,,,,[],[],[],[],[],0
-06.08.2024,Carnevalle L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 13 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 12 (Serbia),clay,header
-24.07.2024,Stringer T.,0,,,,,,[],[],[],[],[],0
-24.07.2024,Bonsach G. K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 11 (Serbia),clay,header
-17.07.2024,Stringer T.,1,,,,,,[],[],[],[],[],0
-17.07.2024,Nedic A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 10 (Serbia),clay,header
-11.07.2024,Stringer T.,0,,,,,,[],[],[],[],[],0
-11.07.2024,Kellovsky D.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Stringer T.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Lulic N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-19.06.2024,Stringer T.,0,,,,,,[],[],[],[],[],0
-19.06.2024,Ionel N. D.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+12.08.,Story J.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.95
+12.08.,Stringer T.,0,,,,,,"['2', '4']",[],[],[],[],+6
+07.08.,Tarvet O.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.05
+07.08.,Stringer T.,0,,,,,,"['1', '2']",[],[],[],[],8.50
+05.08.,Stringer T.,2,,,,,,[],"['2', '2', '3', '3', '5', '3']","['1', '0', '4', '3']",[],[],1.90
+05.08.,Simkiss L.,1,,,,,,"['5', '3']","['1', '0', '3', '2']","['3', '3']",[],[],1.80
+20.06.,Damas M.,1,,,,,,"['3', '1']","['1', '0']",[],[],[],1.02
+20.06.,Stringer T.,0,,,,,,[],[],[],[],[],10.20
+19.06.,Stringer T.,2,,,,,,"['3', '4', '5', '4']","['3', '2', '5', '2']",[],[],[],-
+19.06.,Bertimon M.,0,,,,,,"['2', '0']","['3', '5']",[],[],[],-
+18.06.,Stringer T.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '3', '4', '4', '6', '6']",[],[],[],1.92
+18.06.,Garcia Paez L.,0,,,,,,[],"['1', '0', '4', '3', '6', '5']",[],[],[],1.78
+03.06.,Tiukaev R.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.80
+03.06.,Stringer T.,0,,,,,,"['1', '3']",[],[],[],[],1.90
+29.05.,Binda A.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['3', '1', '5', '3']",[],[],[],1.18
+29.05.,Stringer T.,0,,,,,,"['3', '3']","['2', '3']",[],[],[],4.38
+28.05.,Stringer T.,2,,,,,,"['1', '1', '3', '3']","['3', '3', '6', '4']","['3', '1', '5', '1']",[],[],1.99
+28.05.,Plunger M.,1,,,,,,"['1', '0', '2', '1', '5', '4']","['1', '0']","['2', '5']",[],[],1.73
+30.04.,Nedic A.,2,,,,,,"['3', '4']","['3', '1', '5', '1']",[],[],[],1.12
+30.04.,Stringer T.,0,,,,,,"['2', '0']","['2', '5']",[],[],[],5.35
+26.02.,Almazan Valiente I.,2,,,,,,"['3', '1']","['4', '2', '6', '2']","['2', '0', '4', '0']",[],[],1.23
+26.02.,Stringer T.,1,,,,,,"['2', '3', '6', '5']",[],[],[],[],3.81
+21.02.,Duran T.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '5', '2']",[],[],[],-
+21.02.,Stringer T.,0,,,,,,[],[],[],[],[],-
+10.12.2024,Doig C.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+10.12.2024,Stringer T.,0,,,,,,"['2', '0']",[],[],[],[],-
+03.12.2024,Roothman C.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['2', '0', '4', '0']",[],[],[],-
+03.12.2024,Stringer T.,0,,,,,,"['3', '5']",[],[],[],[],-
+07.11.2024,Coulibaly E.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '3', '2', '5', '2']",[],[],[],-
+07.11.2024,Stringer T.,0,,,,,,"['3', '5']","['2', '2']",[],[],[],-
+05.11.2024,Stringer T.,2,,,,,,"['2', '2', '6', '4']","['1', '1', '3', '3', '7', '5']",[],[],[],-
+05.11.2024,Asaba A.,0,,,,,,"['1', '0']","['1', '0', '3', '2']",[],[],[],-
+01.11.2024,Wehnelt K.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['3', '3', '5', '3']",[],[],[],-
+01.11.2024,Stringer T.,0,,,,,,"['3', '1']","['2', '1']",[],[],[],-
+31.10.2024,Stringer T.,2,,,,,,[],"['2', '0', '3', '1', '6', '2']","['3', '1']",[],[],-
+31.10.2024,Duran T.,1,,,,,,"['4', '2']","['1', '2']",[],[],[],-
+30.10.2024,Stringer T.,2,,,,,,"['3', '1', '5', '1']","['4', '3', '6', '3']",[],[],[],-
+30.10.2024,Heredia S.,0,,,,,,[],[],[],[],[],-
+23.10.2024,Price S.,2,,,,,,"['2', '1', '4', '1']","['3', '4']",[],[],[],-
+23.10.2024,Stringer T.,0,,,,,,[],"['3', '1']",[],[],[],-
+12.09.2024,Gulin S.,2,,,,,,"['1', '0', '2', '3', '4', '3', '6', '3']","['2', '2', '6', '4']",[],[],[],-
+12.09.2024,Stringer T.,0,,,,,,"['1', '1', '3', '1']","['2', '1']",[],[],[],-
+30.08.2024,Popovic S.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '1', '4', '1']",[],[],[],-
+30.08.2024,Stringer T.,0,,,,,,[],"['1', '1']",[],[],[],-
+29.08.2024,Stringer T.,2,,,,,,"['3', '1', '5', '1', '6', '4']","['4', '2', '6', '2']",[],[],[],-
+29.08.2024,Azoidis D.,0,,,,,,"['2', '5', '4', '5']",[],[],[],[],-
+28.08.2024,Stringer T.,2,,,,,,"['1', '2', '3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+28.08.2024,Stanisavljevic M.,0,,,,,,"['2', '0', '4', '2']",[],[],[],[],-
+15.08.2024,Novakovic N.,2,,,,,,"['3', '4']",[],"['2', '0', '5', '1', '6', '2']",[],[],-
+15.08.2024,Stringer T.,1,,,,,,"['3', '1']","['2', '1']","['2', '5']",[],[],-
+14.08.2024,Stringer T.,2,,,,,,"['3', '4', '5', '4']","['4', '4', '5', '5']","['1', '0', '3', '0', '5', '0']",[],[],-
+14.08.2024,Ivanov S.,1,,,,,,"['4', '2', '5', '5']","['2', '1', '5', '4']",[],[],[],-
+06.08.2024,Carnevalle L.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0', '4', '1', '5', '2']",[],[],[],-
+06.08.2024,Stringer T.,0,,,,,,"['1', '2']","['1', '3', '2', '4']",[],[],[],-
+31.07.2024,Monferrer E.,2,,,,,,"['1', '0', '2', '1', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+31.07.2024,Stringer T.,0,,,,,,"['1', '1', '3', '3']","['1', '5', '3', '5']",[],[],[],-

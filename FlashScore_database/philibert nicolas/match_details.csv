@@ -1,46 +1,21 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 26 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 45 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 37 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 45 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 37 (Tunisia),hard,header
-11.09.2024,Philibert N.,2,,,,,,[],[],[],[],[],0
-11.09.2024,Rodriguez R.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 35 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 34 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 33 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 23 (Tunisia),hard,header
-04.06.2024,Philibert N.,0,,,,,,[],[],[],[],[],0
-04.06.2024,Ianin N.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 10 (Tunisia),hard,header
-29.11.2023,Philibert N.,0,,,,,,[],[],[],[],[],0
-29.11.2023,Sinha A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 42 (Tunisia),hard,header
-18.10.2023,Philibert N.,0,,,,,,[],[],[],[],[],0
-18.10.2023,Fantini L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 5 (Tunisia),hard,header
-07.09.2023,Philibert N.,1,,,,,,[],[],[],[],[],0
-07.09.2023,van Wyk K.,2,,,,,,[],[],[],[],[],0
-06.09.2023,Philibert N.,2,,,,,,[],[],[],[],[],0
-06.09.2023,Dudun I.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 34 (Tunisia),hard,header
-23.08.2023,Philibert N.,0,,,,,,[],[],[],[],[],0
-23.08.2023,Poupinel L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 12 (Tunisia),hard,header
-23.03.2023,Philibert N.,1,,,,,,[],[],[],[],[],0
-23.03.2023,Mu T.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Philibert N.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Moceanu N.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 50 (Tunisia),hard,header
-21.12.2022,Philibert N.,0,,,,,,[],[],[],[],[],0
-21.12.2022,Bobrov B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 11 (Tunisia),hard,header
-30.11.2022,Philibert N.,0,,,,,,[],[],[],[],[],0
-30.11.2022,Jans J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 10 (Tunisia),hard,header
-22.11.2022,Philibert N.,0,,,,,,[],[],[],[],[],0
-22.11.2022,Gray A.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Dhamne M.,2,,,,,,"['2', '1', '6', '3']","['3', '1']",[],[],[],-
+13.08.,Philibert N.,0,,,,,,[],[],[],[],[],-
+02.07.,Makhlouf N.,2,,,,,,"['2', '0', '4', '2', '5', '5', '7', '5']","['1', '1', '2', '2', '4', '2', '6', '2']",[],[],[],1.01
+02.07.,Philibert N.,0,,,,,,"['1', '2', '3', '4', '5', '4']","['1', '0', '2', '1']",[],[],[],11.00
+04.06.,Dzhavakian Y.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '5', '4']",[],[],[],-
+04.06.,Philibert N.,0,,,,,,[],"['1', '1']",[],[],[],-
+23.04.,Barroso Campos A.,2,,,,,,"['2', '0', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.03
+23.04.,Philibert N.,0,,,,,,[],[],[],[],[],8.70
+06.11.2024,Rivet M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.08
+06.11.2024,Philibert N.,0,,,,,,[],[],[],[],[],6.88
+12.09.2024,Bax F.,2,,,,,,"['6', '4']","['3', '3', '6', '4']",[],[],[],1.03
+12.09.2024,Philibert N.,0,,,,,,[],"['1', '0']",[],[],[],9.80
+28.08.2024,Hsieh W.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '4', '1', '6', '3']",[],[],[],-
+28.08.2024,Philibert N.,0,,,,,,[],"['2', '4']",[],[],[],-
+22.08.2024,Wiskandt M.,2,,,,,,"['3', '1', '5', '1']",[],"['1', '0', '6', '3']",[],[],1.05
+22.08.2024,Philibert N.,1,,,,,,[],"['7', '5']",[],[],[],8.35
+21.08.2024,Philibert N.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['5', '3']",[],[],[],1.49
+21.08.2024,Schold T.,0,,,,,,"['2', '3']",[],[],[],[],2.50
+14.08.2024,Jadoun N.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.24
+14.08.2024,Philibert N.,0,,,,,,[],[],[],[],[],3.77

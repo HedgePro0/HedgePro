@@ -1,38 +1,69 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-06.08.,Marinescu M. R.,0,,,,,,[],[],[],[],[],0
-06.08.,Cherie Ligniere E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-15.07.,Marinescu M. R.,0,,,,,,[],[],[],[],[],0
-15.07.,Papoe C. G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Targu Mures (Romania),clay,header
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-ITF MEN - SINGLES M15 Oradea (Romania),clay,header
-ITF MEN - SINGLES M25 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES M15 Bucharest 3 (Romania),clay,header
-ITF MEN - SINGLES M15 Bistrita (Romania),clay,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos (Cyprus),clay,header
-ITF MEN - SINGLES M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 18 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
-05.11.2024,Marinescu M. R.,1,,,,,,[],[],[],[],[],0
-05.11.2024,Ionel N. D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-17.10.2024,Marinescu M. R.,2,,,,,,[],[],[],[],[],0
-17.10.2024,Dubrivnyy A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Targu Mures (Romania),clay,header
-27.09.2024,Marinescu M. R.,1,,,,,,[],[],[],[],[],0
-27.09.2024,Juarez F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Satu Mare 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Buzau (Romania),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+01.08.,Roncadelli F.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '4', '0', '5', '1']",[],[],[],1.25
+01.08.,Marinescu M. R.,0,,,,,,[],"['1', '4']",[],[],[],3.62
+31.07.,Marinescu M. R.,2,,,,,,"['4', '5']","['6', '5']","['1', '0', '3', '0', '5', '0']",[],[],4.48
+31.07.,Ionel N. D.,1,,,,,,"['3', '1', '7', '5']",[],[],[],[],1.17
+29.07.,Marinescu M. R.,2,,,,,,"['6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],1.76
+29.07.,Carteputreda D. C.,0,,,,,,[],[],[],[],[],1.81
+22.07.,Preda L.,2,,,,,,"['2', '2']","['1', '0', '3', '2']","['1', '0', '4', '1', '6', '1']",[],[],1.20
+22.07.,Marinescu M. R.,1,,,,,,"['2', '1', '4', '3', '6', '3']","['2', '2']",[],[],[],4.19
+25.06.,Denolly C.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['3', '1', '6', '2']",[],[],[],1.21
+25.06.,Marinescu M. R.,0,,,,,,"['1', '0']",[],[],[],[],4.04
+24.06.,Marinescu M. R.,2,,,,,,"['2', '1']","['3', '4']","['1', '1', '3', '1', '5', '1']",[],[],1.26
+24.06.,Konov S.,1,,,,,,[],"['4', '2']","['1', '0']",[],[],3.54
+19.06.,Snitari I.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '3']",[],[],[],1.36
+19.06.,Marinescu M. R.,0,,,,,,[],"['2', '2']",[],[],[],2.94
+18.06.,Marinescu M. R.,2,,,,,,"['2', '5']","['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],-
+18.06.,De Filippo E.,1,,,,,,"['2', '0', '4', '0']",[],[],[],[],-
+12.06.,Majdandzic M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0']",[],[],[],-
+12.06.,Marinescu M. R.,0,,,,,,[],"['2', '4']",[],[],[],-
+11.06.,Marinescu M. R.,2,,,,,,"['2', '0', '3', '1', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+11.06.,Ferri L.,0,,,,,,"['1', '2', '3', '4']",[],[],[],[],-
+29.05.,Cretu C.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '2', '5', '2']",[],[],[],1.20
+29.05.,Marinescu M. R.,0,,,,,,[],"['2', '2']",[],[],[],4.14
+28.05.,Marinescu M. R.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '6', '4']",[],[],[],1.06
+28.05.,Allen L.,0,,,,,,[],"['2', '3']",[],[],[],7.10
+22.05.,Palosi S.,2,,,,,,"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],-
+22.05.,Marinescu M. R.,0,,,,,,"['4', '5']",[],[],[],[],-
+21.05.,Marinescu M. R.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],-
+21.05.,Golescu R. A.,0,,,,,,[],"['1', '3']",[],[],[],-
+09.05.,Boitan G. A.,2,,,,,,"['5', '3']","['4', '3']",[],[],[],-
+09.05.,Marinescu M. R.,0,,,,,,[],[],[],[],[],-
+09.05.,Marinescu M. R.,2,,,,,,[],"['1', '0', '3', '2', '5', '2']","['1', '1', '3', '1', '4', '2', '6', '4']",[],[],-
+09.05.,Castagnola L.,1,,,,,,"['2', '1', '6', '3']","['2', '2', '3', '5', '5', '5']","['1', '0', '2', '3', '3', '4']",[],[],-
+07.05.,Marinescu M. R.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '3', '1', '4', '2']",[],[],[],-
+07.05.,Grintescu V. A.,0,,,,,,[],"['1', '2', '2', '3']",[],[],[],-
+25.03.,Christodoulou S.,2,,,,,,"['4', '2', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+25.03.,Marinescu M. R.,0,,,,,,"['3', '4']",[],[],[],[],-
+12.03.,Masjuan Ginel P.,2,,,,,,"['3', '1', '4', '2', '6', '2']","['1', '1', '3', '3', '5', '5', '7', '5']",[],[],[],-
+12.03.,Marinescu M. R.,0,,,,,,"['2', '3']","['1', '0', '2', '1', '5', '4']",[],[],[],-
+05.03.,Cazacu D. N.,2,,,,,,"['2', '0']","['1', '0', '2', '5']","['2', '0', '3', '1', '5', '1']",[],[],-
+05.03.,Marinescu M. R.,1,,,,,,"['4', '5']","['1', '1', '3', '1', '5', '1']","['1', '2']",[],[],-
+28.01.,Handel T.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.33
+28.01.,Marinescu M. R.,0,,,,,,"['1', '2']",[],[],[],[],2.95
+23.01.,Krutykh O.,2,,,,,,"['2', '0', '3', '1', '5', '3']","['1', '0', '3', '0']",[],[],[],-
+23.01.,Marinescu M. R.,0,,,,,,"['1', '2', '2', '3']",[],[],[],[],-
+23.01.,Marinescu M. R.,2,,,,,,"['1', '0', '4', '1', '5', '2']","['1', '3', '3', '3', '5', '3']",[],[],[],-
+23.01.,Martinez T.,0,,,,,,"['2', '4', '3', '5', '5', '5']","['1', '0', '3', '0']",[],[],[],-
+14.01.,Bielinskyi V.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1']",[],[],[],-
+14.01.,Marinescu M. R.,0,,,,,,[],[],[],[],[],-
+06.12.2024,Ionel N. D.,2,,,,,,"['2', '0', '5', '5', '7', '5']","['3', '1', '6', '2']",[],[],[],-
+06.12.2024,Marinescu M. R.,0,,,,,,"['1', '2', '3', '2']",[],[],[],[],-
+06.12.2024,Marinescu M. R.,2,,,,,,"['3', '3']","['1', '1']","['3', '4', '5', '4']",[],[],1.51
+06.12.2024,Ujvary M.,1,,,,,,"['2', '1', '4', '3']","['1', '0']","['2', '0']",[],[],2.42
+20.11.2024,Handel T.,2,,,,,,"['1', '1', '5', '5']","['1', '0', '5', '2']",[],[],[],1.31
+20.11.2024,Marinescu M. R.,0,,,,,,"['1', '0', '3', '2']",[],[],[],[],3.20
+13.11.2024,Tiurnev E.,2,,,,,,"['5', '3']","['3', '2', '5', '2']",[],[],[],1.22
+13.11.2024,Marinescu M. R.,0,,,,,,[],[],[],[],[],3.91
+25.10.2024,Kukasian A.,2,,,,,,"['6', '5']","['2', '1', '5', '2']",[],[],[],1.72
+25.10.2024,Marinescu M. R.,0,,,,,,[],"['3', '5']",[],[],[],2.00
+24.10.2024,Marinescu M. R.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '6', '2']",[],[],[],1.32
+24.10.2024,Ambarzumjan E.,0,,,,,,[],[],[],[],[],3.14
+23.10.2024,Marinescu M. R.,2,,,,,,[],"['1', '0']","['3', '1']",[],[],2.10
+23.10.2024,Arutiunian E.,1,,,,,,[],"['2', '2', '5', '3']","['4', '5']",[],[],1.67
+19.10.2024,Paz J. P.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.45
+19.10.2024,Marinescu M. R.,0,,,,,,"['1', '0']",[],[],[],[],2.59
+18.10.2024,Marinescu M. R.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+18.10.2024,Sarksian D.,0,,,,,,"['3', '4']",[],[],[],[],-
+16.10.2024,Marinescu M. R.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+16.10.2024,Kharlamov R.,0,,,,,,"['1', '4']",[],[],[],[],-

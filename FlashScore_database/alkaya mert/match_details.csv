@@ -1,29 +1,69 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Astana (Kazakhstan),hard,header
-08.08.,Alkaya M.,1,,,,,,[],[],[],[],[],0
-08.08.,Gerasimov E.,2,,,,,,[],[],[],[],[],0
-07.08.,Alkaya M.,2,,,,,,[],[],[],[],[],0
-07.08.,Tokuda R.,0,,,,,,[],[],[],[],[],0
-06.08.,Alkaya M.,2,,,,,,[],[],[],[],[],0
-06.08.,Klichnikov A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 4 (Tunisia),hard,header
-26.06.,Alkaya M.,0,,,,,,[],[],[],[],[],0
-26.06.,Bertrand R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 17 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Heraklion 3 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES M25 Doha (Qatar),hard,header
-ITF MEN - SINGLES M15 Doha (Qatar),hard,header
-ITF MEN - SINGLES M15 Antalya 21 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+25.06.,Alkaya M.,2,,,,,,"['2', '2', '5', '5']","['3', '1', '6', '2']","['2', '2', '5', '3', '6', '4']",[],[],1.64
+25.06.,Ouakaa A.,1,,,,,,"['1', '0', '4', '3', '6', '5']",[],"['1', '0', '4', '5']",[],[],2.19
+20.06.,Andaloro F.,2,,,,,,"['3', '2']","['1', '0', '5', '4']",[],[],[],1.43
+20.06.,Alkaya M.,0,,,,,,[],"['1', '1']",[],[],[],2.66
+19.06.,Alkaya M.,2,,,,,,[],"['3', '1']","['4', '3']",[],[],1.99
+19.06.,Bar Biryukov P.,1,,,,,,"['1', '0']",[],[],[],[],1.73
+17.06.,Alkaya M.,2,,,,,,"['4', '4', '6', '4']","['2', '0', '4', '0']",[],[],[],1.20
+17.06.,Ivanov S.,0,,,,,,"['1', '0']",[],[],[],[],4.09
+10.06.,Montes-De La Torre I.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['3', '5']","['2', '0', '4', '2', '6', '2']",[],[],1.21
+10.06.,Alkaya M.,1,,,,,,"['1', '3']","['2', '1', '5', '2']","['1', '2']",[],[],4.04
+01.06.,Echargui M.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],1.33
+01.06.,Alkaya M.,0,,,,,,[],[],[],[],[],3.09
+31.05.,Alkaya M.,2,,,,,,"['2', '0', '3', '1', '6', '2']","['2', '0', '5', '3']",[],[],[],1.91
+31.05.,Lumsden E.,0,,,,,,"['1', '2']","['3', '4']",[],[],[],1.79
+30.05.,Alkaya M.,2,,,,,,"['4', '4', '7', '5']","['3', '1', '5', '1']",[],[],[],2.24
+30.05.,Araujo P.,0,,,,,,"['2', '1']",[],[],[],[],1.59
+29.05.,Alkaya M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '1', '6', '5']",[],[],[],1.80
+29.05.,Ouakaa A.,0,,,,,,[],"['2', '4', '5', '5']",[],[],[],1.90
+28.05.,Alkaya M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0']",[],[],[],1.20
+28.05.,El Amine H.,0,,,,,,[],[],[],[],[],4.14
+21.05.,Klier Junior G.,2,,,,,,"['3', '4']","['3', '3']","['1', '0', '3', '2']",[],[],1.51
+21.05.,Alkaya M.,1,,,,,,"['3', '1', '5', '3']","['3', '2']","['2', '2']",[],[],2.42
+02.05.,Mazdrashki A.,2,,,,,,[],"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],2.44
+02.05.,Alkaya M.,1,,,,,,"['2', '0', '6', '2']",[],[],[],[],1.50
+01.05.,Alkaya M.,2,,,,,,[],"['1', '2']","['3', '3']",[],[],2.07
+01.05.,Clark E.,1,,,,,,[],"['2', '0', '3', '1', '5', '1']","['3', '2']",[],[],1.69
+30.04.,Alkaya M.,2,,,,,,"['2', '0', '5', '3']","['5', '4']",[],[],[],1.14
+30.04.,Camus C.,0,,,,,,"['3', '4']",[],[],[],[],4.80
+25.04.,Pieczkowski O.,2,,,,,,"['2', '1', '5', '2']","['2', '1']",[],[],[],1.73
+25.04.,Alkaya M.,0,,,,,,[],[],[],[],[],1.99
+24.04.,Alkaya M.,2,,,,,,"['3', '1']","['3', '1', '6', '2']","['3', '3', '6', '4']",[],[],2.69
+24.04.,McHugh A.,1,,,,,,"['3', '4', '6', '5']",[],"['1', '0']",[],[],1.42
+23.04.,Alkaya M.,2,,,,,,"['4', '4', '6', '4']","['4', '2', '6', '2']",[],[],[],1.73
+23.04.,Donald M.,0,,,,,,"['4', '3']",[],[],[],[],1.99
+15.04.,Aubriot A.,2,,,,,,"['4', '3']","['3', '2']",[],[],[],2.50
+15.04.,Alkaya M.,0,,,,,,[],[],[],[],[],1.48
+02.04.,Kellovsky D.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],[],1.85
+02.04.,Alkaya M.,0,,,,,,[],[],[],[],[],1.85
+28.03.,Mott B.,2,,,,,,"['1', '2', '3', '2', '5', '4']","['1', '0', '4', '1', '5', '2', '6', '3']",[],[],[],1.37
+28.03.,Alkaya M.,0,,,,,,"['2', '0', '3', '3']","['2', '4', '3', '5']",[],[],[],2.89
+27.03.,Alkaya M.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '5', '4']",[],[],[],3.04
+27.03.,Ilkel C.,0,,,,,,"['3', '2']","['1', '1']",[],[],[],1.34
+25.03.,Alkaya M.,2,,,,,,"['2', '4', '4', '4', '6', '4']","['6', '4']",[],[],[],1.29
+25.03.,Mosejczuk D.,0,,,,,,"['1', '0', '3', '0']",[],[],[],[],3.32
+18.03.,Dellavedova M.,2,,,,,,"['2', '1']","['1', '0']","['1', '0', '3', '0', '6', '1']",[],[],1.49
+18.03.,Alkaya M.,1,,,,,,"['4', '4', '7', '5']",[],[],[],[],2.47
+28.02.,Fuele M.,2,,,,,,"['4', '3']","['4', '2']","['5', '4']",[],[],3.54
+28.02.,Alkaya M.,1,,,,,,"['4', '4']",[],[],[],[],1.26
+27.02.,Alkaya M.,2,,,,,,"['1', '0', '5', '2']","['2', '3', '5', '4']",[],[],[],1.12
+27.02.,Timini A.,0,,,,,,[],"['2', '0']",[],[],[],5.20
+26.02.,Alkaya M.,2,,,,,,"['4', '3']","['2', '1', '4', '1']",[],[],[],-
+26.02.,Summers J.,0,,,,,,[],[],[],[],[],21.00
+22.02.,Pierre H.,2,,,,,,"['7', '5']","['4', '2']",[],[],[],-
+22.02.,Alkaya M.,0,,,,,,[],[],[],[],[],-
+21.02.,Alkaya M.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.01
+21.02.,Summers J.,0,,,,,,[],[],[],[],[],10.70
+08.02.,Ilkel C.,2,,,,,,"['1', '5']","['1', '1', '3', '1', '5', '1', '6', '2']","['5', '4']",[],[],1.26
+08.02.,Alkaya M.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '2', '5']",[],[],[],3.54
+07.02.,Alkaya M.,2,,,,,,"['2', '0']","['3', '2', '6', '3']",[],[],[],-
+07.02.,Karlovskiy E.,0,,,,,,[],[],[],[],[],-
+06.02.,Alkaya M.,2,,,,,,"['3', '2', '6', '3']","['6', '4']",[],[],[],1.32
+06.02.,Balciunas M.,0,,,,,,[],[],[],[],[],3.14
+04.02.,Alkaya M.,2,,,,,,"['1', '0', '3', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.55
+04.02.,Hamza Reguig S.,0,,,,,,"['1', '1']",[],[],[],[],2.33
+24.01.,Sharipov M.,2,,,,,,"['5', '5']","['4', '3']","['1', '0', '6', '3']",[],[],-
+24.01.,Alkaya M.,1,,,,,,"['1', '0']",[],[],[],[],-
+23.01.,Alkaya M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],3.54
+23.01.,Vanshelboim E.,0,,,,,,"['2', '5']",[],[],[],[],1.26

@@ -1,52 +1,41 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES M15 Ollersbach (Austria),clay,header
-ITF MEN - SINGLES M15 Opatija (Croatia),clay,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Kottingbrunn (Austria),clay,header
-ITF MEN - SINGLES M15 Ollersbach (Austria),clay,header
-ITF MEN - SINGLES M15 Opatija (Croatia),clay,header
-21.03.2024,Panak Y.,0,,,,,,[],[],[],[],[],0
-21.03.2024,Oradini G.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Panak Y.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Kaukovalta P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Rovinj (Croatia),clay,header
-13.03.2024,Panak Y.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Obradovic D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M15 Bad Waltersdorf (Austria),clay,header
-04.10.2023,Panak Y.,0,,,,,,[],[],[],[],[],0
-04.10.2023,Steiner M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES M15 Buschhausen (Germany),clay,header
-ITF MEN - SINGLES M15 Vienna (Austria),clay,header
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Meerbusch (Germany),clay,header
-ITF MEN - SINGLES M25 Pardubice (Czech Republic),clay,header
-21.09.2022,Panak Y.,0,,,,,,[],[],[],[],[],0
-21.09.2022,Kodat T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Allershausen (Germany),clay,header
-ITF MEN - SINGLES M15 Bad Waltersdorf 2 (Austria),clay,header
-26.08.2022,Panak Y.,0,,,,,,[],[],[],[],[],0
-26.08.2022,Bresciani L.,2,,,,,,[],[],[],[],[],0
-25.08.2022,Panak Y.,2,,,,,,[],[],[],[],[],0
-25.08.2022,Pokorny L.,1,,,,,,[],[],[],[],[],0
-24.08.2022,Panak Y.,2,,,,,,[],[],[],[],[],0
-24.08.2022,Kaufmann H. P.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bad Waltersdorf (Austria),clay,header
-18.08.2022,Panak Y.,1,,,,,,[],[],[],[],[],0
-18.08.2022,Bocchi L.,2,,,,,,[],[],[],[],[],0
-17.08.2022,Panak Y.,2,,,,,,[],[],[],[],[],0
-17.08.2022,Waldner N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bratislava (Slovakia),hard,header
-25.11.2020,Panak Y.,1,,,,,,[],[],[],[],[],0
-25.11.2020,Michnev P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Oberhaching (Germany),hard,header
-02.10.2018,Panak Y.,1,,,,,,[],[],[],[],[],0
-02.10.2018,Mayer P.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+28.11.2024,Mallory R.,1,,,,,,"['2', '1', '5', '2']","['1', '0']",[],[],[],6.23
+28.11.2024,Panak Y.,0,,,,,,[],[],[],[],[],1.09
+19.11.2024,Fenty A.,2,,,,,,"['1', '0', '3', '0', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],2.10
+19.11.2024,Panak Y.,0,,,,,,"['1', '3']",[],[],[],[],1.67
+24.10.2024,Paz J. P.,2,,,,,,[],"['3', '1']","['1', '0', '4', '1']",[],[],1.25
+24.10.2024,Panak Y.,1,,,,,,"['1', '0', '4', '1']",[],"['2', '4']",[],[],3.62
+23.10.2024,Panak Y.,2,,,,,,[],"['2', '0', '5', '1']","['2', '1', '3', '2', '5', '2']",[],[],1.21
+23.10.2024,Kharlamov R.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '5']","['2', '2', '3', '5']",[],[],4.04
+18.10.2024,Paz J. P.,2,,,,,,"['2', '1', '5', '4']","['2', '1']",[],[],[],1.27
+18.10.2024,Panak Y.,0,,,,,,"['2', '2']","['5', '5']",[],[],[],3.46
+17.10.2024,Panak Y.,2,,,,,,"['2', '3']","['3', '1', '6', '2']","['4', '2']",[],[],1.32
+17.10.2024,Van Herck L.,1,,,,,,"['3', '1', '4', '2']",[],[],[],[],3.14
+16.10.2024,Panak Y.,2,,,,,,"['3', '4', '4', '5']","['1', '2', '3', '2']","['2', '0', '4', '2', '5', '3', '6', '6']",[],[],1.88
+16.10.2024,Safonov A.,1,,,,,,"['2', '0', '5', '3', '6', '4']","['2', '0']","['1', '2', '3', '4', '4', '5', '6', '5']",[],[],1.82
+22.08.2024,Prihodko O.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.14
+22.08.2024,Panak Y.,0,,,,,,[],[],[],[],[],5.14
+21.08.2024,Panak Y.,2,,,,,,"['3', '1', '5', '1']","['3', '2', '4', '3', '6', '3']",[],[],[],1.49
+21.08.2024,Schlageter J.,0,,,,,,[],"['3', '3']",[],[],[],2.50
+15.08.2024,Giacomini L.,2,,,,,,"['1', '0', '5', '2']",[],"['2', '0', '4', '0']",[],[],1.30
+15.08.2024,Panak Y.,1,,,,,,[],"['5', '3']","['1', '4']",[],[],3.34
+14.08.2024,Panak Y.,2,,,,,,"['4', '2']",[],"['4', '3']",[],[],1.51
+14.08.2024,Schifris J.,1,,,,,,[],"['6', '4']",[],[],[],2.45
+17.01.2024,Masur D.,2,,,,,,"['5', '4']","['2', '1', '3', '4']",[],[],[],1.08
+17.01.2024,Panak Y.,0,,,,,,[],"['2', '2', '4', '2']",[],[],[],6.85
+19.09.2023,Avcibasi T.,2,,,,,,"['1', '0', '2', '1', '3', '2', '5', '2', '6', '3']","['3', '1', '5', '1']",[],[],[],4.42
+19.09.2023,Panak Y.,0,,,,,,"['1', '1', '2', '2', '3', '5']",[],[],[],[],1.18
+13.09.2023,Forejtek J.,2,,,,,,"['4', '4', '6', '4']",[],"['4', '3']",[],[],1.10
+13.09.2023,Panak Y.,1,,,,,,"['1', '0']",[],"['5', '5']",[],[],6.11
+30.08.2023,Kellovsky D.,2,,,,,,[],[],[],[],[],1.60
+30.08.2023,Panak Y.,1,,,,,,[],[],[],[],[],2.23
+25.08.2023,Raynel A.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1']",[],[],[],1.37
+25.08.2023,Panak Y.,0,,,,,,[],[],[],[],[],2.91
+24.08.2023,Panak Y.,2,,,,,,"['2', '1', '6', '5']","['2', '0', '4', '4', '7', '5']",[],[],[],2.43
+24.08.2023,Perruzza V.,0,,,,,,"['3', '3', '6', '6']","['1', '2', '4', '3']",[],[],[],1.51
+23.08.2023,Panak Y.,2,,,,,,"['2', '2', '5', '5', '7', '5']",[],"['5', '3']",[],[],2.03
+23.08.2023,Beckley A.,1,,,,,,"['2', '1', '5', '4']","['4', '3']",[],[],[],1.70
+26.04.2023,Wessels L.,2,,,,,,"['3', '3']","['2', '1', '6', '3']",[],[],[],1.15
+26.04.2023,Panak Y.,0,,,,,,"['1', '0']",[],[],[],[],4.88
+31.08.2022,Jahn J.,2,,,,,,"['1', '0', '3', '0', '5', '0']",[],"['2', '1', '4', '1', '6', '1']",[],[],1.28
+31.08.2022,Panak Y.,1,,,,,,[],"['3', '1', '6', '2']",[],[],[],3.46

@@ -1,42 +1,53 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Porto (Portugal),hard,header
-ITF MEN - SINGLES M15 Mungia-Laukariz (Spain),clay,header
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Monastir 7 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Ceuta (Spain),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Mungia-Laukariz (Spain),clay,header
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Monastir 7 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Ceuta (Spain),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-21.11.2024,Forcano I.,0,,,,,,[],[],[],[],[],0
-21.11.2024,Fenty A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES M15 Monastir 36 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 35 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Porto (Portugal),hard,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Mungia-Laukariz (Spain),clay,header
-ITF MEN - SINGLES M15 Monastir 17 (Tunisia),hard,header
-25.04.2024,Forcano I.,0,,,,,,[],[],[],[],[],0
-25.04.2024,Azoidis D.,2,,,,,,[],[],[],[],[],0
-23.04.2024,Forcano I.,2,,,,,,[],[],[],[],[],0
-23.04.2024,Browning T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 51 (Tunisia),hard,header
-21.12.2023,Forcano I.,0,,,,,,[],[],[],[],[],0
-21.12.2023,Gregg P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 49 (Tunisia),hard,header
-05.12.2023,Forcano I.,0,,,,,,[],[],[],[],[],0
-05.12.2023,Broska F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Monastir 31 (Tunisia),hard,header
-02.08.2023,Forcano I.,0,,,,,,[],[],[],[],[],0
-02.08.2023,Rubio Fierros A. F.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+24.07.,Elias G.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0']",[],[],[],1.02
+24.07.,Forcano I.,0,,,,,,"['2', '5']",[],[],[],[],8.50
+23.07.,Forcano I.,2,,,,,,"['1', '0', '2', '1', '5', '4', '6', '5']","['1', '0', '3', '0']","['1', '0', '3', '0', '5', '0']",[],[],3.32
+23.07.,Rossi L.,1,,,,,,"['1', '1', '4', '4', '5', '5']","['1', '3', '3', '3', '6', '4']",[],[],[],1.29
+18.06.,Zielinski M.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['3', '1', '6', '2']",[],[],[],1.39
+18.06.,Forcano I.,0,,,,,,"['1', '2']",[],[],[],[],2.81
+11.06.,Turriziani Alvarez A.,2,,,,,,"['1', '0']","['4', '3']",[],[],[],1.61
+11.06.,Forcano I.,0,,,,,,[],[],[],[],[],2.20
+02.04.,Echeverria J.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '2', '1', '5', '2']",[],[],[],1.06
+02.04.,Forcano I.,0,,,,,,[],"['1', '1']",[],[],[],7.20
+19.02.,Honda N.,2,,,,,,[],[],[],[],[],1.18
+19.02.,Forcano I.,0,,,,,,[],[],[],[],[],4.38
+12.12.2024,Orlov V.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '2', '4', '2', '6', '4']",[],[],[],1.07
+12.12.2024,Forcano I.,0,,,,,,[],"['2', '1', '3', '4']",[],[],[],7.31
+10.12.2024,Forcano I.,2,,,,,,"['2', '0', '3', '3', '5', '3']","['1', '2', '4', '3']",[],[],[],1.18
+10.12.2024,De Alba R.,0,,,,,,"['1', '2', '3', '2']","['2', '0']",[],[],[],4.38
+29.11.2024,Aguilar J. C. M.,2,,,,,,"['2', '0']","['1', '0']",[],[],[],-
+29.11.2024,Forcano I.,0,,,,,,[],[],[],[],[],-
+29.11.2024,Forcano I.,2,,,,,,"['2', '1']","['3', '1']",[],[],[],1.73
+29.11.2024,Bynoe E.,0,,,,,,"['3', '3']",[],[],[],[],1.99
+28.11.2024,Forcano I.,2,,,,,,"['1', '0', '4', '1', '6', '3']","['4', '2']",[],[],[],1.60
+28.11.2024,Krall L.,0,,,,,,"['2', '4']",[],[],[],[],2.22
+20.11.2024,Forcano I.,2,,,,,,"['2', '1', '4', '1']","['5', '4']",[],[],[],1.04
+20.11.2024,Munoz E.,0,,,,,,[],[],[],[],[],9.05
+15.10.2024,Hoang A.,2,,,,,,"['2', '0', '3', '1']","['1', '0']",[],[],[],1.18
+15.10.2024,Forcano I.,0,,,,,,"['1', '2']",[],[],[],[],4.38
+02.10.2024,Radulov I.,2,,,,,,"['5', '4', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.10
+02.10.2024,Forcano I.,0,,,,,,"['5', '5']",[],[],[],[],5.96
+06.09.2024,Loge J.,2,,,,,,[],[],"['1', '0', '4', '1', '6', '1']",[],[],1.28
+06.09.2024,Forcano I.,1,,,,,,"['4', '2']",[],[],[],[],3.43
+05.09.2024,Forcano I.,2,,,,,,"['1', '0', '2', '1']",[],[],[],[],4.47
+05.09.2024,Giacomini L.,0,,,,,,"['1', '1']","['2', '1', '4', '4']",[],[],[],1.18
+04.09.2024,Forcano I.,2,,,,,,[],"['2', '0', '6', '2']",[],[],[],-
+04.09.2024,Garbero F.,1,,,,,,[],[],[],[],[],-
+28.08.2024,Menichella S.,2,,,,,,"['3', '1']",[],"['6', '4']",[],[],2.28
+28.08.2024,Forcano I.,1,,,,,,[],"['5', '3']",[],[],[],1.58
+25.07.2024,Domingues J.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '4', '1']",[],[],[],1.10
+25.07.2024,Forcano I.,0,,,,,,[],[],[],[],[],6.09
+24.07.2024,Forcano I.,2,,,,,,"['1', '0']",[],"['1', '0']",[],[],6.41
+24.07.2024,De Schepper K.,1,,,,,,[],"['2', '0', '6', '2']","['3', '3']",[],[],1.09
+10.07.2024,Diez S.,2,,,,,,"['3', '1', '5', '1']","['2', '3', '3', '4', '5', '4']",[],[],[],1.18
+10.07.2024,Forcano I.,0,,,,,,[],"['2', '0', '4', '2']",[],[],[],4.47
+18.06.2024,Cervantes Tomas L.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '2', '5', '5']",[],[],[],1.66
+18.06.2024,Forcano I.,0,,,,,,[],"['2', '1', '4', '3']",[],[],[],2.13
+03.04.2024,Casanova H.,2,,,,,,"['2', '2', '5', '3']",[],"['1', '0', '4', '1', '6', '1']",[],[],1.09
+03.04.2024,Forcano I.,1,,,,,,"['2', '1']","['6', '4']",[],[],[],6.52
+06.03.2024,Iannaccone F.,2,,,,,,"['3', '2', '5', '2']","['2', '1']",[],[],[],1.06
+06.03.2024,Forcano I.,0,,,,,,[],[],[],[],[],7.60
+16.11.2023,Mena F.,2,,,,,,[],[],[],[],[],-
+16.11.2023,Forcano I.,1,,,,,,[],[],[],[],[],-
+15.11.2023,Forcano I.,2,,,,,,[],[],[],[],[],-
+15.11.2023,Rengifo F.,1,,,,,,[],[],[],[],[],-

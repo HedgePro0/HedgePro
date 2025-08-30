@@ -1,24 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES M15 Valencia 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-CHALLENGER MEN - SINGLES Montemar (Spain) - Qualification,clay,header
-ITF MEN - SINGLES M15 Valencia 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-CHALLENGER MEN - SINGLES Montemar (Spain) - Qualification,clay,header
-17.11.2024,Sevilla I.,0,,,,,,0,3,72%,39% (12/31),50% (6/12),50% (5/10),36% (10/28),25% (4/16),100% (1/1),42% (18/43),32% (14/44),37% (32/87),5,1,29% (2/7),13% (1/8),20% (3/15),[],[],[],[],[],0
-17.11.2024,Lopez Montagud C.,2,,,,,,1,1,64%,64% (18/28),75% (12/16),0% (0/1),61% (19/31),50% (6/12),50% (5/10),68% (30/44),58% (25/43),63% (55/87),5,0,88% (7/8),71% (5/7),80% (12/15),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-16.10.2024,Sevilla I.,2,,,,,,[],[],[],[],[],0
-16.10.2024,Cordoba C.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Madrid 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Madrid (Spain),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M25 Denia (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M25 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M25 Gandia (Spain),clay,header
-20.07.2022,Sevilla I.,0,,,,,,[],[],[],[],[],0
-20.07.2022,Hemery C.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+26.03.,Fomin S.,2,,,,,,[],"['1', '1', '4', '2', '7', '5']","['2', '0', '4', '0', '5', '5', '7', '5']",[],[],1.06
+26.03.,Sevilla I.,1,,,,,,"['6', '5']","['1', '0', '4', '5']","['1', '4', '3', '4', '5', '4']",[],[],7.20
+12.02.,Lopez Montagud C.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.05
+12.02.,Sevilla I.,0,,,,,,[],[],[],[],[],7.60
+05.02.,Gutierrez O. J.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.20
+05.02.,Sevilla I.,0,,,,,,[],[],[],[],[],4.19
+17.11.2024,Lopez Montagud C.,2,,,,,,1,1,64%,64% (18/28),75% (12/16),0% (0/1),61% (19/31),50% (6/12),50% (5/10),68% (30/44),58% (25/43),63% (55/87),5,0,88% (7/8),71% (5/7),80% (12/15),"['2', '0', '4', '2', '6', '2']","['2', '0', '4', '0']",[],[],[],1.11
+17.11.2024,Sevilla I.,0,,,,,,0,3,72%,39% (12/31),50% (6/12),50% (5/10),36% (10/28),25% (4/16),100% (1/1),42% (18/43),32% (14/44),37% (32/87),5,1,29% (2/7),13% (1/8),20% (3/15),"['2', '3']",[],[],[],[],5.93
+12.11.2024,Parisca I.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['4', '3', '6', '3']",[],[],[],1.33
+12.11.2024,Sevilla I.,0,,,,,,[],[],[],[],[],3.09
+17.10.2024,Barreto Sanchez D. A.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],-
+17.10.2024,Sevilla I.,0,,,,,,[],[],[],[],[],-
+11.09.2024,Amoros Ramos P.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '2', '1', '3', '2', '5', '4']","['2', '0', '4', '0', '6', '0']",[],[],1.42
+11.09.2024,Sevilla I.,1,,,,,,[],"['1', '1', '2', '2', '3', '3', '5', '5']",[],[],[],2.72
+04.09.2024,Benchetrit E.,2,,,,,,"['3', '1', '6', '2']","['2', '0']",[],[],[],1.15
+04.09.2024,Sevilla I.,0,,,,,,[],[],[],[],[],4.99
+12.08.2024,Alvarez Varona N.,2,,,,,,"['2', '0', '4', '2', '5', '3']","['2', '1', '4', '1', '6', '3']",[],[],[],1.07
+12.08.2024,Sevilla I.,0,,,,,,"['1', '2', '3', '4']","['2', '4']",[],[],[],7.50
+01.08.2024,Bulus C.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '3', '6', '4']",[],[],[],1.79
+01.08.2024,Sevilla I.,0,,,,,,[],"['2', '3', '4', '5']",[],[],[],1.93
+30.07.2024,Sevilla I.,2,,,,,,[],"['4', '4']","['1', '0', '4', '1', '5', '2']",[],[],8.80
+30.07.2024,Manzanera Pertusa A.,1,,,,,,"['3', '1']","['4', '3']","['2', '4', '3', '5', '5', '5']",[],[],1.04
+25.07.2024,Brancaccio R.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],[],1.04
+25.07.2024,Sevilla I.,0,,,,,,[],"['1', '1', '2', '4']",[],[],[],9.10
+23.07.2024,Sevilla I.,2,,,,,,"['5', '4']",[],"['5', '3']",[],[],2.62
+23.07.2024,Den Heijer G.,1,,,,,,[],"['3', '1', '5', '1']",[],[],[],1.45
+04.07.2024,Damas M.,2,,,,,,"['2', '2', '4', '2', '5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.04
+04.07.2024,Sevilla I.,0,,,,,,"['1', '0', '3', '4']","['1', '3']",[],[],[],9.10
+03.07.2024,Sevilla I.,2,,,,,,"['1', '2', '4', '5']","['4', '2', '5', '3']",[],[],[],7.70
+03.07.2024,Ferrari G.,0,,,,,,"['2', '0', '5', '3']","['3', '4']",[],[],[],1.06
+30.05.2024,Oliel Y.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.05
+30.05.2024,Sevilla I.,0,,,,,,"['1', '4']",[],[],[],[],8.45
+29.05.2024,Sevilla I.,2,,,,,,"['4', '3', '6', '3']","['2', '0', '3', '1', '4', '2']",[],[],[],1.99
+29.05.2024,Marques G.,0,,,,,,[],"['1', '2', '2', '3']",[],[],[],1.74

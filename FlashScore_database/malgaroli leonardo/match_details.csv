@@ -1,41 +1,73 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Bolzano (Italy),clay,header
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-17.07.,Malgaroli L.,1,,,,,,[],[],[],[],[],0
-17.07.,Grant W.,2,,,,,,[],[],[],[],[],0
-15.07.,Malgaroli L.,2,,,,,,[],[],[],[],[],0
-15.07.,Perfetti N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 6 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 2 (Italy),clay,header
-ITF MEN - SINGLES M15 Foggia (Italy),clay,header
-ITF MEN - SINGLES M25 Trimbach (Switzerland),hard,header
-ITF MEN - SINGLES M25 Trento (Italy),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh (Egypt),hard,header
-29.01.,Malgaroli L.,2,,,,,,[],[],[],[],[],0
-29.01.,Fossati C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 7 (Italy),clay,header
-ITF MEN - SINGLES M15 Bologna (Italy),clay,header
-ITF MEN - SINGLES M25 Lesa (Italy),clay,header
-ITF MEN - SINGLES M25 Bolzano (Italy),clay,header
-ITF MEN - SINGLES M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES M25 Padova (Italy),clay,header
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M25 Cattolica (Italy),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-25.04.2024,Malgaroli L.,0,,,,,,[],[],[],[],[],0
-25.04.2024,Kym J.,2,,,,,,[],[],[],[],[],0
-24.04.2024,Malgaroli L.,2,,,,,,[],[],[],[],[],0
-24.04.2024,Zayid M. S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 10 (Turkey),clay,header
-10.04.2024,Malgaroli L.,1,,,,,,[],[],[],[],[],0
-10.04.2024,Orlov V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Trento (Italy),hard,header
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M15 Pescara (Italy),clay,header
-ITF MEN - SINGLES M15 Perugia (Italy),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+30.07.,Oradini G.,2,,,,,,"['1', '0', '3', '0', '5', '0']",[],[],[],[],1.23
+30.07.,Malgaroli L.,0,,,,,,[],[],[],[],[],3.72
+29.07.,Malgaroli L.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['6', '4']",[],[],[],1.12
+29.07.,Mondazzi A.,0,,,,,,"['2', '0']",[],[],[],[],5.35
+27.06.,La Vela G.,2,,,,,,"['2', '0', '4', '0', '5', '1']",[],"['7', '5']",[],[],1.46
+27.06.,Malgaroli L.,1,,,,,,"['1', '4']","['3', '1', '5', '1']",[],[],[],2.56
+26.06.,Malgaroli L.,1,,,,,,"['1', '1', '3', '3']","['3', '1', '6', '2']",[],[],[],1.83
+26.06.,Paz J. P.,1,,,,,,"['1', '0', '2', '1', '5', '4']",[],[],[],[],1.87
+24.06.,Malgaroli L.,2,,,,,,"['2', '2']","['4', '2', '6', '2']","['3', '1', '5', '3']",[],[],2.73
+24.06.,Rottoli L.,1,,,,,,"['1', '0', '5', '4']",[],"['2', '3']",[],[],1.41
+06.05.,Baadi T.,2,,,,,,"['1', '1', '3', '1']","['2', '0', '4', '0', '6', '0']","['3', '1']",[],[],1.72
+06.05.,Malgaroli L.,1,,,,,,"['1', '0', '3', '4', '5', '4']",[],[],[],[],2.00
+14.04.,Gea A.,2,,,,,,"['2', '0', '3', '1', '5', '3']","['1', '0', '3', '0']",[],[],[],1.05
+14.04.,Malgaroli L.,0,,,,,,"['1', '2', '3', '4']",[],[],[],[],7.70
+08.04.,Den Ouden G.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '3', '6', '3']",[],[],[],1.07
+08.04.,Malgaroli L.,0,,,,,,[],"['3', '3']",[],[],[],6.60
+26.03.,Bouquet L.,1,,,,,,"['2', '0', '4', '0', '6', '0']",[],[],[],[],1.44
+26.03.,Malgaroli L.,0,,,,,,[],[],[],[],[],2.62
+05.03.,Karlovskiy E.,2,,,,,,"['3', '4', '6', '5']","['2', '1', '3', '2', '5', '2']",[],[],[],1.18
+05.03.,Malgaroli L.,0,,,,,,"['3', '1']","['2', '2']",[],[],[],4.47
+18.02.,Novak D.,2,,,,,,"['1', '0', '3', '0']","['3', '4', '5', '4']",[],[],[],1.06
+18.02.,Malgaroli L.,0,,,,,,"['1', '3']","['4', '2', '5', '5']",[],[],[],7.20
+05.02.,Ostapenkov D.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.24
+05.02.,Malgaroli L.,0,,,,,,[],"['1', '3']",[],[],[],3.72
+30.01.,Binda A.,2,,,,,,"['2', '1']","['4', '3']",[],[],[],1.18
+30.01.,Malgaroli L.,0,,,,,,[],[],[],[],[],4.38
+30.10.2024,Oradini G.,2,,,,,,[],"['3', '4', '5', '4']","['4', '3', '6', '5']",[],[],1.35
+30.10.2024,Malgaroli L.,1,,,,,,[],"['4', '2']","['5', '5']",[],[],2.99
+29.10.2024,Malgaroli L.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['5', '5', '7', '5']",[],[],[],1.25
+29.10.2024,Cattaneo L.,0,,,,,,[],"['3', '2']",[],[],[],3.62
+17.09.2024,Sanchez Jover C.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['1', '0']",[],[],[],1.16
+17.09.2024,Malgaroli L.,0,,,,,,"['2', '0']",[],[],[],[],4.31
+05.09.2024,Erhard M.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '3', '1', '4', '2', '6', '2']",[],[],[],1.14
+05.09.2024,Malgaroli L.,0,,,,,,[],"['1', '2', '2', '3']",[],[],[],5.14
+03.09.2024,Malgaroli L.,2,,,,,,"['3', '5']","['3', '2']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],1.26
+03.09.2024,Figl M.,1,,,,,,"['1', '0', '4', '1', '6', '3']",[],"['1', '5']",[],[],3.59
+20.08.2024,Brunold M.,2,,,,,,"['2', '2', '5', '3']","['2', '0']","['3', '2', '5', '2']",[],[],1.13
+20.08.2024,Malgaroli L.,1,,,,,,"['2', '1', '4', '5', '6', '5']",[],[],[],[],5.51
+01.08.2024,Ambrogi L. E.,2,,,,,,"['4', '4']","['1', '0', '4', '1']",[],[],[],1.32
+01.08.2024,Malgaroli L.,0,,,,,,"['2', '1']","['2', '4']",[],[],[],3.18
+31.07.2024,Malgaroli L.,2,,,,,,[],[],"['3', '1']",[],[],2.92
+31.07.2024,Oradini G.,1,,,,,,[],"['1', '0', '4', '1']",[],[],[],1.37
+30.07.2024,Malgaroli L.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1']",[],[],[],1.63
+30.07.2024,D'Agostino S.,0,,,,,,[],[],[],[],[],2.09
+26.07.2024,Cadenasso G.,2,,,,,,"['2', '0', '3', '1', '6', '4']","['4', '4']","['5', '3', '6', '4']",[],[],1.24
+26.07.2024,Malgaroli L.,1,,,,,,"['1', '2', '2', '3']","['1', '0', '5', '4']","['4', '5']",[],[],3.77
+25.07.2024,Malgaroli L.,1,,,,,,"['1', '2']","['2', '0', '6', '6']","['1', '0']",[],[],2.88
+25.07.2024,Pieri S.,1,,,,,,"['2', '0', '5', '3']","['1', '2', '6', '5']",[],[],[],1.38
+24.07.2024,Malgaroli L.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],2.24
+24.07.2024,Caniato C. A.,0,,,,,,"['2', '4']",[],[],[],[],1.60
+17.07.2024,Perego G.,2,,,,,,"['3', '1', '5', '1']","['3', '2', '6', '3']",[],[],[],1.41
+17.07.2024,Malgaroli L.,0,,,,,,"['2', '5']",[],[],[],[],2.75
+09.07.2024,Klizan M.,2,,,,,,"['2', '1', '4', '1', '6', '5']","['4', '5']",[],[],[],1.07
+09.07.2024,Malgaroli L.,0,,,,,,"['3', '5', '5', '5']","['3', '1']",[],[],[],7.28
+27.06.2024,Paz J. P.,2,,,,,,"['3', '1', '6', '4']","['3', '1', '6', '2']",[],[],[],1.36
+27.06.2024,Malgaroli L.,0,,,,,,"['2', '3']",[],[],[],[],2.97
+26.06.2024,Malgaroli L.,2,,,,,,"['1', '0', '3', '0', '4', '1', '6', '5']","['2', '1', '4', '1', '6', '3']",[],[],[],2.10
+26.06.2024,Coccioli A.,0,,,,,,"['1', '3', '2', '4', '5', '5']","['3', '5']",[],[],[],1.68
+18.06.2024,Picchione A.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '6', '3']",[],[],[],1.07
+18.06.2024,Malgaroli L.,0,,,,,,[],[],[],[],[],7.17
+21.02.2024,Serafini M.,2,,,,,,"['6', '4']","['4', '2', '6', '2']",[],[],[],1.23
+21.02.2024,Malgaroli L.,0,,,,,,[],[],[],[],[],3.86
+02.11.2023,Oradini G.,2,,,,,,[],"['6', '4']","['5', '3', '6', '4']",[],[],1.12
+02.11.2023,Malgaroli L.,1,,,,,,"['2', '1']",[],"['4', '5']",[],[],5.52
+01.11.2023,Malgaroli L.,2,,,,,,"['1', '0', '3', '2', '5', '2']",[],[],[],[],2.70
+01.11.2023,Bondioli F.,0,,,,,,"['2', '2']",[],[],[],[],1.42
+31.10.2023,Malgaroli L.,2,,,,,,"['3', '3', '6', '4']","['3', '1', '5', '3']",[],[],[],3.48
+31.10.2023,Tabacco F.,0,,,,,,"['2', '1']","['3', '4']",[],[],[],1.27
+09.08.2023,Buldorini P.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['3', '4', '5', '4']",[],[],[],1.50
+09.08.2023,Malgaroli L.,0,,,,,,[],"['3', '1']",[],[],[],2.50
+08.08.2023,Malgaroli L.,2,,,,,,"['1', '0', '2', '3', '4', '3']","['3', '4', '4', '5']","['1', '0', '6', '5']",[],[],1.86
+08.08.2023,Catini N.,1,,,,,,"['1', '1', '3', '1']","['2', '0', '5', '3', '7', '5']","['4', '4', '6', '6']",[],[],1.85

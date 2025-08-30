@@ -1,74 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Norman,hard,header
-24.10.2024,Hasson J.,0,,,,,,[],[],[],[],[],0
-24.10.2024,Svajda T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M25 Castelo Branco (Portugal),hard,header
-16.07.2024,Hasson J.,1,,,,,,[],[],[],[],[],0
-16.07.2024,Ribecai M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Oradea (Romania),clay,header
-12.06.2024,Hasson J.,0,,,,,,[],[],[],[],[],0
-12.06.2024,Gundacker J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M15 Norman,hard,header
-26.10.2023,Hasson J.,0,,,,,,[],[],[],[],[],0
-26.10.2023,Martinez A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Albuquerque,hard,header
-ITF MEN - SINGLES M25 Herzlia (Israel),hard,header
-09.08.2023,Hasson J.,0,,,,,,[],[],[],[],[],0
-09.08.2023,Peliwo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Raanana (Israel),hard,header
-04.08.2023,Hasson J.,0,,,,,,[],[],[],[],[],0
-04.08.2023,Oliel Y.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Hasson J.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Agarwal R.,1,,,,,,[],[],[],[],[],0
-02.08.2023,Hasson J.,2,,,,,,[],[],[],[],[],0
-02.08.2023,Weintraub B.,0,,,,,,[],[],[],[],[],0
-01.08.2023,Hasson J.,2,,,,,,[],[],[],[],[],0
-01.08.2023,Baron J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Netanya 2 (Israel),hard,header
-30.06.2023,Hasson J.,0,,,,,,[],[],[],[],[],0
-30.06.2023,Leshem E.,2,,,,,,[],[],[],[],[],0
-29.06.2023,Hasson J.,2,,,,,,[],[],[],[],[],0
-29.06.2023,Salton D.,0,,,,,,[],[],[],[],[],0
-28.06.2023,Hasson J.,2,,,,,,[],[],[],[],[],0
-28.06.2023,Shin M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Netanya (Israel),hard,header
-21.06.2023,Hasson J.,0,,,,,,[],[],[],[],[],0
-21.06.2023,van Wyk K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Norman,hard,header
-ITF MEN - SINGLES M15 Lubbock,hard,header
-23.09.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-23.09.2022,Farren C.,1,,,,,,[],[],[],[],[],0
-23.09.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-23.09.2022,Kissell C.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Champaign,hard,header
-ITF MEN - SINGLES M15 Herzlia (Israel),hard,header
-11.08.2022,Hasson J.,0,,,,,,[],[],[],[],[],0
-11.08.2022,Patael B.,2,,,,,,[],[],[],[],[],0
-10.08.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-10.08.2022,Weintraub B.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kfar Saba (Israel),hard,header
-04.08.2022,Hasson J.,1,,,,,,[],[],[],[],[],0
-04.08.2022,Patael B.,2,,,,,,[],[],[],[],[],0
-03.08.2022,Hasson J.,1,,,,,,[],[],[],[],[],0
-03.08.2022,Zemel Y.,0,,,,,,[],[],[],[],[],0
-01.08.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-01.08.2022,Canter A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Raanana (Israel),hard,header
-15.06.2022,Hasson J.,0,,,,,,[],[],[],[],[],0
-15.06.2022,Leshem E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Netanya (Israel),hard,header
-26.05.2022,Hasson J.,0,,,,,,[],[],[],[],[],0
-26.05.2022,Leshem E.,2,,,,,,[],[],[],[],[],0
-25.05.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-25.05.2022,Chikami S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Akko (Israel),hard,header
-19.05.2022,Hasson J.,0,,,,,,[],[],[],[],[],0
-19.05.2022,Leshem E.,2,,,,,,[],[],[],[],[],0
-18.05.2022,Hasson J.,2,,,,,,[],[],[],[],[],0
-18.05.2022,Goldenberg L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Jerusalem (Israel),hard,header
-11.05.2021,Hasson J.,1,,,,,,[],[],[],[],[],0
-11.05.2021,Corwin F.,2,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Others matches (World),-,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+18.09.2024,Baroni N.,2,,,,,,"['1', '4']","['6', '5']","['2', '1']",[],[],2.15
+18.09.2024,Hasson J.,1,,,,,,"['2', '0', '4', '0', '6', '2']",[],[],[],[],1.65
+01.11.2023,Lerby C.,2,,,,,,"['4', '4']","['1', '0', '4', '1']",[],[],[],1.69
+01.11.2023,Hasson J.,0,,,,,,"['2', '1']",[],[],[],[],2.05
+28.09.2023,Azkara A.,2,,,,,,[],"['3', '1', '7', '5']",[],[],[],1.90
+28.09.2023,Hasson J.,1,,,,,,"['5', '4']","['2', '3']",[],[],[],1.81
+27.09.2023,Hasson J.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '3']",[],[],[],1.86
+27.09.2023,Horovitz R.,0,,,,,,[],"['2', '3']",[],[],[],1.85
+29.10.2022,Martinez A.,2,,,,,,"['3', '2']","['1', '0', '3', '0', '5', '0']","['2', '1', '6', '5']",[],[],1.43
+29.10.2022,Hasson J.,1,,,,,,"['4', '4', '6', '4']",[],"['3', '3']",[],[],2.77
+28.10.2022,Hasson J.,2,,,,,,"['2', '0', '5', '3']","['3', '2']",[],[],[],3.44
+28.10.2022,Rodrigues D.,0,,,,,,"['2', '3']",[],[],[],[],1.30
+27.10.2022,Hasson J.,2,,,,,,"['4', '2']","['1', '0', '4', '3']",[],[],[],1.59
+27.10.2022,Pini F.,0,,,,,,[],"['2', '2']",[],[],[],2.26
+25.10.2022,Hasson J.,2,,,,,,[],[],[],[],[],1.43
+25.10.2022,Heng N.,0,,,,,,[],[],[],[],[],2.70
+24.09.2022,Bicknell B.,2,,,,,,"['2', '0']","['3', '3', '5', '3']",[],[],[],1.28
+24.09.2022,Hasson J.,0,,,,,,[],"['2', '1']",[],[],[],3.60
+21.09.2022,Hasson J.,2,,,,,,"['2', '0']","['1', '0', '3', '0', '6', '3']",[],[],[],1.57
+21.09.2022,Koshis C.,0,,,,,,[],"['2', '4']",[],[],[],2.31
+13.09.2022,Bangoura S.,2,,,,,,"['2', '1']","['3', '1', '5', '1']","['4', '3']",[],[],1.13
+13.09.2022,Hasson J.,1,,,,,,"['2', '2', '4', '2']",[],[],[],[],5.35
+20.08.2020,Gaponenko A.,2,,,,,,"['2', '1', '5', '2']","['3', '4']","['3', '1']",[],[],3.70
+20.08.2020,Hasson J.,1,,,,,,[],"['4', '2', '5', '3']",[],[],[],1.26
+19.08.2020,Cukierman D.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '3', '1']",[],[],[],1.10
+19.08.2020,Hasson J.,0,,,,,,[],"['1', '2']",[],[],[],6.70
+18.08.2020,Hasson J.,2,,,,,,"['4', '5', '6', '5']",[],[],[],[],1.22
+18.08.2020,Simon S.,0,,,,,,"['3', '1']",[],[],[],[],4.12
+17.08.2020,Oliel Y.,2,,,,,,"['4', '5']","['2', '1', '4', '3', '6', '3']","['3', '1']",[],[],1.06
+17.08.2020,Hasson J.,1,,,,,,"['5', '3', '7', '5']","['3', '3']",[],[],[],8.70
+13.08.2020,Cukierman D.,2,,,,,,"['1', '1', '3', '1']","['3', '2', '5', '2']",[],[],[],1.23
+13.08.2020,Hasson J.,0,,,,,,"['1', '0']",[],[],[],[],4.06
+12.08.2020,Hasson J.,2,,,,,,"['2', '0', '3', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.26
+12.08.2020,Gaponenko A.,0,,,,,,"['1', '2']",[],[],[],[],3.72

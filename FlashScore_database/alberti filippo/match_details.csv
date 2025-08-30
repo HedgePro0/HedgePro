@@ -1,30 +1,29 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-21.02.,Alberti F.,2,,,,,,[],[],[],[],[],0
-21.02.,Gimenez I.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Addis Ababa (Ethiopia),clay,header
-15.05.2024,Alberti F.,1,,,,,,[],[],[],[],[],0
-15.05.2024,Kalyanpur A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M15 Kish Island 4 (Iran),clay,header
-06.03.2024,Alberti F.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Jianu F. C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kish Island 3 (Iran),clay,header
-29.02.2024,Alberti F.,1,,,,,,[],[],[],[],[],0
-29.02.2024,Zhukov M.,2,,,,,,[],[],[],[],[],0
-28.02.2024,Alberti F.,2,,,,,,[],[],[],[],[],0
-28.02.2024,Horak V.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.,Henning P.,2,,,,,,"['3', '3']","['3', '3', '4', '4']","['1', '0', '2', '1', '5', '2']",[],[],1.04
+10.07.,Alberti F.,1,,,,,,"['3', '2', '4', '3']","['1', '0', '4', '3']","['1', '1']",[],[],8.20
+08.07.,Alberti F.,2,,,,,,"['2', '0', '5', '1']","['1', '0']","['2', '0', '3', '1']",[],[],1.62
+08.07.,Sarksian D.,1,,,,,,[],"['1', '1', '3', '1']","['1', '2']",[],[],2.18
+04.07.,Henning P.,2,,,,,,"['3', '3']","['1', '0', '4', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.07
+04.07.,Alberti F.,1,,,,,,"['3', '2']","['1', '1']",[],[],[],6.90
+03.07.,Alberti F.,2,,,,,,"['2', '0', '5', '3', '6', '4']","['4', '2', '6', '2']",[],[],[],3.54
+03.07.,Hudd E.,0,,,,,,"['1', '2', '4', '5']",[],[],[],[],1.26
+01.07.,Alberti F.,2,,,,,,"['4', '3', '6', '3']","['2', '2', '6', '4']",[],[],[],1.18
+01.07.,Matthysen L.,0,,,,,,[],"['2', '1']",[],[],[],4.38
+04.06.,Mashtakov N.,2,,,,,,"['5', '3']","['3', '4']","['3', '4', '5', '4']",[],[],1.19
+04.06.,Alberti F.,1,,,,,,[],"['3', '1', '6', '4']","['4', '2']",[],[],4.24
+29.05.,Bocchi L.,2,,,,,,"['1', '1']",[],"['1', '0', '5', '2']",[],[],1.35
+29.05.,Alberti F.,1,,,,,,"['1', '0', '5', '4']",[],[],[],[],2.99
+27.05.,Alberti F.,2,,,,,,"['3', '1', '6', '2']","['4', '2']",[],[],[],1.20
+27.05.,Kharlamov R.,0,,,,,,[],[],[],[],[],4.09
+14.05.,Kesharwani M.,2,,,,,,"['2', '0', '5', '3']",[],"['2', '0', '4', '2']",[],[],-
+14.05.,Alberti F.,1,,,,,,"['1', '2']","['3', '1']","['1', '2']",[],[],-
+07.05.,Covato M.,2,,,,,,[],[],"['6', '5']",[],[],2.85
+07.05.,Alberti F.,1,,,,,,"['5', '4']",[],[],[],[],1.38
+27.02.,Almazan Valiente I.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '3', '1', '7', '5']",[],[],[],1.19
+27.02.,Alberti F.,0,,,,,,[],"['1', '2', '3', '4']",[],[],[],4.23
+26.02.,Alberti F.,2,,,,,,[],"['4', '2']","['2', '1', '5', '4']",[],[],2.94
+26.02.,Gimenez I.,1,,,,,,"['2', '0', '5', '1']",[],"['2', '2']",[],[],1.36
+22.02.,Bastiaansen P.,2,,,,,,"['4', '2']","['1', '0', '5', '2']",[],[],[],1.41
+22.02.,Alberti F.,0,,,,,,[],[],[],[],[],2.73
+24.04.2024,Barreto Sanchez D. A.,2,,,,,,"['2', '0']","['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],1.05
+24.04.2024,Alberti F.,1,,,,,,"['1', '2', '3', '2', '6', '3']",[],[],[],[],8.55

@@ -1,69 +1,53 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Castelo Branco (Portugal),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-03.04.,Fomba L.,1,,,,,,[],[],[],[],[],0
-03.04.,Jones B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Poitiers (France),hard,header
-ITF MEN - SINGLES M25 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 45 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 41 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Poitiers (France),hard,header
-ITF MEN - SINGLES M25 Monastir 4 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 45 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 41 (Tunisia),hard,header
-09.10.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-09.10.2024,Sperle J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 40 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-ITF MEN - SINGLES M25+H Plaisir (France),hard,header
-ITF MEN - SINGLES M15 Dublin (Ireland),hard,header
-ITF MEN - SINGLES M15 Monastir 28 (Tunisia),hard,header
-11.07.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-11.07.2024,Pereira T.,1,,,,,,[],[],[],[],[],0
-09.07.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-09.07.2024,Efstathiou M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 27 (Tunisia),hard,header
-03.07.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-03.07.2024,Callejon H. S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-29.05.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-29.05.2024,Araujo P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 21 (Tunisia),hard,header
-25.05.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-25.05.2024,Pereira T.,2,,,,,,[],[],[],[],[],0
-24.05.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-24.05.2024,Little D.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-23.05.2024,Cook E.,0,,,,,,[],[],[],[],[],0
-22.05.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Bacaloni A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Azay-le-Rideau (France),hard,header
-18.04.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-18.04.2024,De Schepper K.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Nagel A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 13 (Tunisia),hard,header
-28.03.2024,Fomba L.,1,,,,,,[],[],[],[],[],0
-28.03.2024,Aubriot A.,2,,,,,,[],[],[],[],[],0
-27.03.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-27.03.2024,Szilvassy A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 12 (Tunisia),hard,header
-21.03.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-21.03.2024,Broska F.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Fomba L.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Lestir L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grenoble (France),hard,header
-07.02.2024,Fomba L.,0,,,,,,[],[],[],[],[],0
-07.02.2024,Masur D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M25 Harlingen,hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+16.07.,Malirz K.,2,,,,,,"['3', '2']",[],"['3', '4', '6', '5']",[],[],3.54
+16.07.,Fomba L.,1,,,,,,"['3', '3']",[],"['3', '1']",[],[],1.26
+23.04.,Buldorini P.,2,,,,,,"['2', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+23.04.,Fomba L.,0,,,,,,[],[],[],[],[],-
+01.04.,Fomba L.,2,,,,,,"['2', '0']",[],[],[],[],2.32
+01.04.,Marionneau L.,0,,,,,,[],[],[],[],[],1.55
+20.03.,Bax F.,2,,,,,,"['3', '3', '6', '4']","['4', '2', '6', '2']",[],[],[],-
+20.03.,Fomba L.,0,,,,,,"['2', '1']",[],[],[],[],-
+19.03.,Fomba L.,2,,,,,,"['1', '0']","['5', '3']","['5', '4']",[],[],-
+19.03.,Allen L.,1,,,,,,"['2', '2', '5', '3']",[],[],[],[],-
+05.03.,Delage P.,2,,,,,,"['6', '5']","['2', '1', '6', '3']",[],[],[],-
+05.03.,Fomba L.,0,,,,,,[],[],[],[],[],-
+26.11.2024,Ortenzi G. M.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],[],2.44
+26.11.2024,Fomba L.,0,,,,,,"['3', '5']",[],[],[],[],1.50
+21.11.2024,Deflandre L.,2,,,,,,"['2', '0', '4', '0']","['5', '4']",[],[],[],2.50
+21.11.2024,Fomba L.,0,,,,,,[],[],[],[],[],1.48
+20.11.2024,Fomba L.,2,,,,,,"['2', '3', '5', '4']","['1', '2', '2', '3', '4', '5']","['2', '1', '5', '2']",[],[],1.30
+20.11.2024,Pierre H.,1,,,,,,"['3', '1']","['2', '0', '3', '1', '4', '2', '6', '4']",[],[],[],3.30
+13.11.2024,Kirkin E.,2,,,,,,"['3', '5']","['4', '2']","['4', '3']",[],[],1.48
+13.11.2024,Fomba L.,1,,,,,,"['1', '0', '3', '0']",[],[],[],[],2.50
+08.11.2024,Donald M.,2,,,,,,"['3', '2']","['2', '0', '5', '1']","['1', '0', '6', '3']",[],[],1.90
+08.11.2024,Fomba L.,1,,,,,,"['3', '3']",[],[],[],[],1.80
+07.11.2024,Fomba L.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '6', '5']",[],[],[],1.79
+07.11.2024,Marionneau L.,0,,,,,,[],"['2', '2']",[],[],[],1.91
+06.11.2024,Fomba L.,2,,,,,,"['4', '2']","['2', '1']",[],[],[],1.01
+06.11.2024,Amiri F.,0,,,,,,[],[],[],[],[],12.30
+10.10.2024,Reco A.,2,,,,,,"['1', '0', '4', '3', '6', '3']",[],"['1', '0', '5', '4']",[],[],-
+10.10.2024,Fomba L.,1,,,,,,"['1', '1']","['1', '0', '6', '3']","['2', '2']",[],[],-
+03.10.2024,Andaloro F.,2,,,,,,[],"['1', '1', '6', '4']","['2', '0', '4', '0']",[],[],1.38
+03.10.2024,Fomba L.,1,,,,,,[],"['1', '0']","['1', '4']",[],[],2.85
+02.10.2024,Fomba L.,2,,,,,,[],"['3', '2']","['4', '3']",[],[],1.46
+02.10.2024,Martinez Gomez P.,1,,,,,,"['3', '2', '6', '3']",[],"['5', '5']",[],[],2.56
+27.09.2024,Celikbilek A.,2,,,,,,"['4', '3', '6', '3']","['2', '0']",[],[],[],1.19
+27.09.2024,Fomba L.,0,,,,,,[],[],[],[],[],4.24
+26.09.2024,Fomba L.,2,,,,,,"['3', '1', '6', '4']","['3', '1', '7', '5']",[],[],[],1.26
+26.09.2024,Hsieh W.,0,,,,,,"['3', '4']","['4', '5']",[],[],[],3.54
+25.09.2024,Fomba L.,2,,,,,,"['4', '4']","['3', '2', '6', '3']",[],[],[],2.37
+25.09.2024,Bittoun C.,0,,,,,,"['3', '2']",[],[],[],[],1.53
+11.09.2024,Fery A.,2,,,,,,"['4', '3']","['2', '1', '6', '3']",[],[],[],1.05
+11.09.2024,Fomba L.,0,,,,,,[],[],[],[],[],8.25
+06.08.2024,Murray F.,2,,,,,,"['6', '5']","['2', '1', '5', '2']",[],[],[],4.61
+06.08.2024,Fomba L.,0,,,,,,[],[],[],[],[],1.17
+16.11.2023,Tien L.,2,,,,,,"['4', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],1.19
+16.11.2023,Fomba L.,0,,,,,,[],[],[],[],[],4.31
+15.11.2023,Fomba L.,2,,,,,,"['5', '4']","['3', '2', '5', '2']",[],[],[],1.55
+15.11.2023,Ciric A.,0,,,,,,[],[],[],[],[],2.33
+01.11.2023,Planelles Ripoll G.,2,,,,,,"['2', '2', '4', '4']","['2', '0']",[],[],[],2.33
+01.11.2023,Fomba L.,0,,,,,,"['3', '2']",[],[],[],[],1.55
+26.10.2023,Holmgren A.,2,,,,,,"['2', '0']",[],"['3', '1']",[],[],1.22
+26.10.2023,Fomba L.,1,,,,,,[],"['4', '2']",[],[],[],3.93
+25.10.2023,Fomba L.,2,,,,,,"['3', '1', '6', '2']","['3', '1', '5', '1']",[],[],[],1.60
+25.10.2023,Kamrowski M.,0,,,,,,[],[],[],[],[],2.23

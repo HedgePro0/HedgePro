@@ -1,53 +1,83 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Roehampton 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Gentofte (Denmark),clay,header
-ITF MEN - SINGLES M15 Amstelveen (Netherlands),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Messina (Italy),clay,header
-ITF MEN - SINGLES M25 Bol 2 (Croatia),clay,header
-ITF MEN - SINGLES M25 Bol (Croatia),clay,header
-ITF MEN - SINGLES M25 Nottingham 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF MEN - SINGLES M25 Calabasas,hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 6 (Egypt),hard,header
-ITF MEN - SINGLES M25 Roehampton (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Glasgow (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Amstelveen (Netherlands),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Messina (Italy),clay,header
-ITF MEN - SINGLES M25 Bol 2 (Croatia),clay,header
-ITF MEN - SINGLES M25 Bol (Croatia),clay,header
-ITF MEN - SINGLES M25 Nottingham 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF MEN - SINGLES M25 Calabasas,hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 6 (Egypt),hard,header
-ITF MEN - SINGLES M25 Roehampton (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Glasgow (United Kingdom),hard,header
-30.01.,Martin T.,2,,,,,,[],[],[],[],[],0
-30.01.,Poling K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sunderland (United Kingdom),hard,header
-CHALLENGER MEN - SINGLES Nottingham 3 (United Kingdom) - Qualification,hard,header
-05.01.,Martin T.,0,,,,,,2,1,67%,62% (16/26),31% (4/13),0% (0/4),26% (10/39),59% (13/22),20% (1/5),51% (20/39),38% (23/61),43% (43/100),2,0,50% (4/8),11% (1/9),29% (5/17),[],[],[],[],[],0
-05.01.,Brancaccio R.,2,,,,,,4,2,64%,74% (29/39),41% (9/22),80% (4/5),38% (10/26),69% (9/13),100% (4/4),62% (38/61),49% (19/39),57% (57/100),8,0,89% (8/9),50% (4/8),71% (12/17),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES M25 Norwich (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Edgbaston (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 7 (Italy),clay,header
-ITF MEN - SINGLES M25 Pozzuoli (Italy),hard,header
-ITF MEN - SINGLES M25 Aldershot (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Roehampton 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M25 Roehampton (United Kingdom),grass,header
-ITF MEN - SINGLES M25 Nottingham 4 (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-05.07.2024,Martin T.,0,,,,,,[],[],[],[],[],0
-05.07.2024,Henning P.,2,,,,,,[],[],[],[],[],0
-04.07.2024,Martin T.,2,,,,,,[],[],[],[],[],0
-04.07.2024,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],0
-02.07.2024,Martin T.,1,,,,,,[],[],[],[],[],0
-02.07.2024,Bataljin L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-27.06.2024,Martin T.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Shah A.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Jubb P.,2,,,,,,"['4', '4', '6', '4']","['2', '0', '3', '1', '6', '4']",[],[],[],-6.5
+13.08.,Martin T.,0,,,,,,"['1', '0']","['1', '2', '4', '5']",[],[],[],1.97
+07.08.,Jubb P.,2,,,,,,"['2', '0', '6', '2']","['3', '1', '5', '3']",[],[],[],1.75
+07.08.,Martin T.,0,,,,,,[],"['2', '3']",[],[],[],18.0
+06.08.,Martin T.,1,,,,,,"['1', '0', '2', '1', '5', '2']","['2', '1']",[],[],[],1.28
+06.08.,Ceban M.,0,,,,,,"['1', '1']",[],[],[],[],3.40
+29.07.,Sigsgaard C.,2,,,,,,"['2', '0', '4', '2', '6', '4']","['2', '0']",[],[],[],1.01
+29.07.,Martin T.,0,,,,,,"['2', '3', '4', '5']","['3', '4']",[],[],[],10.70
+02.07.,Vasquez A.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['2', '1', '4', '1']",[],[],[],1.62
+02.07.,Martin T.,0,,,,,,"['2', '2']",[],[],[],[],2.18
+26.06.,Balciunas M.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '5', '4']",[],[],[],1.63
+26.06.,Martin T.,0,,,,,,[],"['4', '4']",[],[],[],2.16
+25.06.,Martin T.,2,,,,,,"['2', '2', '4', '2']","['1', '2', '3', '2', '6', '5']",[],[],[],1.47
+25.06.,De Jager J.,0,,,,,,"['2', '1']","['2', '0', '5', '5', '6', '6']",[],[],[],2.53
+10.06.,Tabacco F.,2,,,,,,[],"['2', '2', '4', '4']","['1', '0', '6', '3']",[],[],1.44
+10.06.,Martin T.,1,,,,,,"['4', '2']","['2', '1', '4', '3']",[],[],[],2.62
+28.05.,Dutra Da Silva D.,2,,,,,,[],"['2', '0', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.17
+28.05.,Martin T.,1,,,,,,"['5', '4']","['2', '3']",[],[],[],4.58
+21.05.,Pecotic M.,2,,,,,,"['2', '0', '5', '3']","['1', '2', '4', '3', '6', '3']",[],[],[],1.36
+21.05.,Martin T.,0,,,,,,"['1', '2']","['2', '0']",[],[],[],2.94
+06.05.,Martin A.,2,,,,,,"['7', '5']","['2', '2', '5', '3', '6', '4']",[],[],[],1.11
+06.05.,Martin T.,0,,,,,,[],"['1', '0', '4', '5']",[],[],[],5.55
+24.04.,Clarke J.,2,,,,,,"['3', '3', '5', '5', '7', '5']","['3', '1', '5', '1']",[],[],[],1.06
+24.04.,Martin T.,0,,,,,,"['3', '2', '5', '4']",[],[],[],[],7.50
+23.04.,Martin T.,2,,,,,,"['1', '1', '5', '3']","['4', '3', '5', '4']",[],[],[],3.14
+23.04.,Handel T.,0,,,,,,"['1', '0']","['4', '4']",[],[],[],1.32
+26.03.,Dickerson R.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['3', '1', '5', '3']",[],[],[],2.66
+26.03.,Martin T.,0,,,,,,"['2', '5']","['3', '4']",[],[],[],1.43
+20.03.,Monday J.,2,,,,,,"['1', '0']","['3', '2']",[],[],[],1.07
+20.03.,Martin T.,0,,,,,,[],[],[],[],[],6.95
+19.03.,Martin T.,2,,,,,,"['3', '1']","['2', '1', '3', '2', '5', '4', '6', '5']",[],[],[],1.14
+19.03.,Menichella S.,0,,,,,,[],"['2', '2', '4', '4', '5', '5']",[],[],[],4.95
+06.03.,Kouame M.,2,,,,,,[],"['4', '4']","['4', '3', '6', '5']",[],[],1.50
+06.03.,Martin T.,1,,,,,,"['2', '1', '5', '2']","['1', '0']","['4', '4', '6', '6']",[],[],2.44
+05.03.,Martin T.,2,,,,,,"['2', '0', '6', '2']","['5', '3']",[],[],[],1.23
+05.03.,Hooper L.,0,,,,,,[],[],[],[],[],3.81
+12.02.,Broady L.,2,,,,,,"['2', '0']","['2', '2', '6', '4']","['7', '5']",[],[],1.19
+12.02.,Martin T.,1,,,,,,"['1', '2', '4', '3']","['2', '1']",[],[],[],4.23
+31.01.,Searle H.,2,,,,,,"['3', '2', '4', '3']","['4', '3']",[],[],[],1.17
+31.01.,Martin T.,0,,,,,,"['3', '3']",[],[],[],[],4.57
+29.01.,Martin T.,2,,,,,,[],"['5', '3']","['2', '1', '6', '3']",[],[],2.62
+29.01.,Visker N.,1,,,,,,"['1', '0', '4', '1']",[],[],[],[],1.44
+23.01.,Peniston R.,2,,,,,,"['1', '0']","['6', '5']",[],[],[],1.10
+23.01.,Martin T.,0,,,,,,[],[],[],[],[],5.80
+22.01.,Martin T.,2,,,,,,"['2', '0']","['1', '0', '4', '1']",[],[],[],2.89
+22.01.,Bondioli F.,0,,,,,,[],[],[],[],[],1.37
+05.01.,Brancaccio R.,2,,,,,,4,2,64%,74% (29/39),41% (9/22),80% (4/5),38% (10/26),69% (9/13),100% (4/4),62% (38/61),49% (19/39),57% (57/100),8,0,89% (8/9),50% (4/8),71% (12/17),"['4', '4', '6', '4']","['2', '0', '5', '1']",[],[],[],1.14
+05.01.,Martin T.,0,,,,,,2,1,67%,62% (16/26),31% (4/13),0% (0/4),26% (10/39),59% (13/22),20% (1/5),51% (20/39),38% (23/61),43% (43/100),2,0,50% (4/8),11% (1/9),29% (5/17),"['1', '0']",[],[],[],[],5.00
+20.11.2024,Binda A.,2,,,,,,"['1', '0']",[],"['5', '3']",[],[],1.28
+20.11.2024,Martin T.,1,,,,,,[],"['2', '0']",[],[],[],3.40
+14.11.2024,Gengel M.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '3', '0']",[],[],[],1.13
+14.11.2024,Martin T.,0,,,,,,[],[],[],[],[],5.21
+13.11.2024,Martin T.,2,,,,,,"['6', '4']","['4', '4']","['7', '5']",[],[],1.32
+13.11.2024,Ibrahim K.,1,,,,,,[],"['1', '0', '5', '4']",[],[],[],3.14
+30.10.2024,Geerts M.,2,,,,,,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.09
+30.10.2024,Martin T.,0,,,,,,[],[],[],[],[],6.50
+16.10.2024,Matusevich A.,2,,,,,,"['3', '1']","['1', '0']",[],[],[],1.18
+16.10.2024,Martin T.,0,,,,,,[],[],[],[],[],4.47
+15.10.2024,Martin T.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['2', '1', '6', '3']",[],[],[],1.18
+15.10.2024,Thurner N.,0,,,,,,"['1', '0']",[],[],[],[],4.43
+18.09.2024,Catini N.,2,,,,,,"['6', '5']",[],"['1', '0', '3', '4', '6', '5']",[],[],1.86
+18.09.2024,Martin T.,1,,,,,,[],"['7', '5']","['2', '2', '4', '2']",[],[],1.86
+17.09.2024,Martin T.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0']",[],[],[],1.19
+17.09.2024,Mencaglia S.,0,,,,,,[],"['1', '3']",[],[],[],4.41
+12.09.2024,Peliwo F.,1,,,,,,"['2', '1', '5', '2', '6', '3']","['2', '0']",[],[],[],1.30
+12.09.2024,Martin T.,0,,,,,,"['3', '5']",[],[],[],[],3.34
+11.09.2024,Martin T.,2,,,,,,[],"['4', '4', '6', '4']","['1', '1', '3', '3', '6', '4']",[],[],1.14
+11.09.2024,Calvano G.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1']","['1', '0', '2', '1']",[],[],5.09
+16.08.2024,Cassone M.,2,,,,,,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.14
+16.08.2024,Martin T.,0,,,,,,[],[],[],[],[],5.24
+15.08.2024,Martin T.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],3.24
+15.08.2024,Strombachs R.,0,,,,,,[],[],[],[],[],1.31
+14.08.2024,Martin T.,2,,,,,,"['2', '1', '3', '2']","['1', '0', '3', '0', '6', '3']",[],[],[],-
+14.08.2024,Shaw M.,0,,,,,,"['2', '2']","['2', '4']",[],[],[],-
+07.08.2024,McCabe J.,2,,,,,,"['3', '1', '6', '4']","['4', '2', '6', '2']",[],[],[],1.17
+07.08.2024,Martin T.,0,,,,,,"['4', '5']",[],[],[],[],4.61
+31.07.2024,Mott B.,2,,,,,,"['2', '0', '5', '3']",[],"['3', '1', '5', '1']",[],[],1.30
+31.07.2024,Martin T.,1,,,,,,"['2', '3']","['2', '0']",[],[],[],3.34
+18.07.2024,Poullain L.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '7', '5']",[],[],[],1.20
+18.07.2024,Martin T.,0,,,,,,[],"['1', '4', '4', '5']",[],[],[],4.17
+17.07.2024,Martin T.,2,,,,,,"['1', '0', '5', '2']","['4', '5']",[],[],[],1.69
+17.07.2024,Shaw M.,0,,,,,,[],"['2', '0']",[],[],[],2.09

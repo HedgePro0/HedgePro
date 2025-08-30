@@ -1,12 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Ann Arbor,hard,header
-ITF MEN - SINGLES M25 Edwardsville,hard,header
-ITF MEN - SINGLES M25 Champaign,hard,header
-ITF MEN - SINGLES M25 East Lansing,hard,header
-ITF MEN - SINGLES M25 Dallas,hard,header
-ITF MEN - SINGLES M25 Decatur,hard,header
-ITF MEN - SINGLES M25 Edwardsville,hard,header
-ITF MEN - SINGLES M25 Champaign,hard,header
-ITF MEN - SINGLES M25 East Lansing,hard,header
-ITF MEN - SINGLES M25 Dallas,hard,header
-ITF MEN - SINGLES M25 Decatur,hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+05.10.2024,Corwin F.,2,,,,,,"['3', '1', '6', '2']","['2', '2', '6', '4']",[],[],[],2.18
+05.10.2024,Young G.,0,,,,,,[],"['1', '0']",[],[],[],1.62
+04.10.2024,Young G.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['3', '1']",[],[],[],1.26
+04.10.2024,Boulais J.,0,,,,,,[],"['4', '5']",[],[],[],3.54
+03.10.2024,Young G.,2,,,,,,"['1', '0', '4', '1', '5', '2']","['5', '4', '6', '5']",[],[],[],1.26
+03.10.2024,Kuhar M.,0,,,,,,"['2', '4']","['5', '5']",[],[],[],3.54
+01.10.2024,Young G.,2,,,,,,"['5', '3']","['6', '5']",[],[],[],1.45
+01.10.2024,McCormick T.,0,,,,,,[],[],[],[],[],2.59
+04.08.2024,Young G.,2,,,,,,"['6', '4']","['3', '2', '6', '3']",[],[],[],1.69
+04.08.2024,Kang K.,0,,,,,,[],[],[],[],[],2.08
+03.08.2024,Young G.,2,,,,,,"['3', '4']","['2', '0', '6', '2']","['2', '2']",[],[],1.55
+03.08.2024,Neff A.,1,,,,,,"['4', '2']",[],"['2', '1']",[],[],2.34
+02.08.2024,Young G.,2,,,,,,"['2', '1', '4', '1', '6', '3']",[],"['2', '0', '5', '1']",[],[],2.53
+02.08.2024,Martin A.,1,,,,,,"['2', '4']","['1', '0', '5', '2']",[],[],[],1.48
+01.08.2024,Young G.,2,,,,,,"['2', '2', '4', '2', '6', '4']","['2', '2', '6', '4']",[],[],[],1.45
+01.08.2024,Sinha A.,0,,,,,,"['1', '0', '4', '5']","['2', '1']",[],[],[],2.62
+31.07.2024,Young G.,2,,,,,,"['1', '0', '5', '2']","['1', '2', '6', '5']",[],[],[],1.62
+31.07.2024,Sakamoto R.,0,,,,,,"['3', '5']","['2', '0']",[],[],[],2.20
+26.07.2024,Ilagan A.,1,,,,,,"['1', '0', '3', '4', '5', '4']","['1', '0']",[],[],[],1.55
+26.07.2024,Young G.,0,,,,,,"['1', '1', '4', '2']",[],[],[],[],2.34
+25.07.2024,Young G.,2,,,,,,"['2', '1', '4', '3', '6', '5']","['3', '2']",[],[],[],1.67
+25.07.2024,Kim A.,0,,,,,,"['2', '2', '4', '4']","['3', '3']",[],[],[],2.11
+24.07.2024,Young G.,2,,,,,,"['3', '3', '6', '4']","['4', '2']",[],[],[],1.49
+24.07.2024,Wallart E.,0,,,,,,"['2', '1']",[],[],[],[],2.50
+18.07.2024,Kotzen A.,2,,,,,,[],"['6', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.53
+18.07.2024,Young G.,1,,,,,,"['2', '1', '6', '3']",[],[],[],[],2.39
+17.07.2024,Young G.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],1.86
+17.07.2024,Kotzen N. I.,0,,,,,,"['1', '5']",[],[],[],[],1.86
+10.07.2024,McHugh A.,2,,,,,,"['1', '0', '5', '2', '6', '5']","['1', '0']",[],[],[],1.45
+10.07.2024,Young G.,0,,,,,,"['3', '5', '5', '5']","['3', '3']",[],[],[],2.62
+03.08.2023,Al Allaf K.,2,,,,,,"['3', '4', '5', '4']","['3', '2']",[],[],[],1.61
+03.08.2023,Young G.,0,,,,,,"['3', '1']",[],[],[],[],2.21
+02.08.2023,Young G.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['1', '1']",[],[],[],3.42
+02.08.2023,Poling K.,0,,,,,,[],"['1', '0']",[],[],[],1.28

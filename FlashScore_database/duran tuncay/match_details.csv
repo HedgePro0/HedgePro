@@ -1,34 +1,81 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Astana (Kazakhstan),hard,header
-07.08.,Duran T.,0,,,,,,[],[],[],[],[],0
-07.08.,Arutiunian E.,1,,,,,,[],[],[],[],[],0
-06.08.,Duran T.,2,,,,,,[],[],[],[],[],0
-06.08.,Abdusamadov D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 25 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES M25 Doha (Qatar),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 21 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Zahra 2 (Kuwait),hard,header
-ITF MEN - SINGLES M25 Doha (Qatar),hard,header
-23.01.,Duran T.,0,,,,,,[],[],[],[],[],0
-23.01.,Barton H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.06.,Summers M.,2,,,,,,"['5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],4.28
+27.06.,Duran T.,0,,,,,,[],[],[],[],[],1.19
+26.06.,Duran T.,2,,,,,,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
+26.06.,Cosnet C.,0,,,,,,[],[],[],[],[],6.45
+24.06.,Duran T.,2,,,,,,"['2', '0']","['4', '3']",[],[],[],1.01
+24.06.,Urvaneja B. R.,0,,,,,,[],[],[],[],[],15.00
+20.06.,Dougaz A.,2,,,,,,"['4', '3']","['1', '0']",[],[],[],1.34
+20.06.,Duran T.,0,,,,,,[],[],[],[],[],3.04
+19.06.,Duran T.,2,,,,,,"['3', '1', '4', '2']","['3', '2', '5', '2']",[],[],[],1.09
+19.06.,Tsitsipas Pa.,0,,,,,,"['2', '3']",[],[],[],[],6.15
+18.06.,Duran T.,2,,,,,,"['4', '4', '6', '4']","['2', '0']",[],[],[],1.18
+18.06.,Alkotop Moh.,0,,,,,,"['4', '3']",[],[],[],[],4.38
+12.06.,Andaloro F.,2,,,,,,[],"['3', '1', '6', '2']",[],[],[],1.75
+12.06.,Duran T.,1,,,,,,"['3', '1']",[],[],[],[],1.96
+11.06.,Duran T.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['4', '2', '6', '2']",[],[],[],1.64
+11.06.,Rossi L.,0,,,,,,[],[],[],[],[],2.15
+30.05.,Lumsden E.,2,,,,,,"['2', '0', '6', '2']","['2', '2', '6', '4']",[],[],[],2.42
+30.05.,Duran T.,0,,,,,,[],"['2', '1']",[],[],[],1.51
+29.05.,Duran T.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '2', '5', '3']",[],[],[],1.29
+29.05.,Peliwo F.,0,,,,,,"['2', '5']","['1', '0']",[],[],[],3.32
+28.05.,Duran T.,2,,,,,,"['3', '1', '6', '2']","['3', '1', '4', '2', '6', '2']",[],[],[],1.30
+28.05.,Bronzetti A.,0,,,,,,[],"['2', '3']",[],[],[],3.26
+25.05.,Duran T.,2,,,,,,"['2', '0', '5', '1']","['4', '3', '6', '3']",[],[],[],1.57
+25.05.,Lumsden E.,0,,,,,,[],[],[],[],[],2.28
+24.05.,Duran T.,2,,,,,,"['5', '3']","['1', '2', '3', '2']",[],[],[],1.67
+24.05.,Hurrion M.,0,,,,,,[],"['2', '0']",[],[],[],2.10
+23.05.,Duran T.,2,,,,,,"['5', '3']","['3', '2', '6', '5']",[],[],[],2.58
+23.05.,Marcondes I.,0,,,,,,[],"['5', '5']",[],[],[],1.45
+22.05.,Duran T.,1,,,,,,"['1', '1', '3', '1', '5', '1']","['1', '0']",[],[],[],2.20
+22.05.,Araujo P.,0,,,,,,"['1', '0']",[],[],[],[],1.61
+21.05.,Duran T.,2,,,,,,"['1', '0', '2', '3', '4', '3', '6', '3']","['2', '2', '4', '4', '6', '4']",[],[],[],1.57
+21.05.,Mazdrashki A.,0,,,,,,"['1', '1', '3', '1']","['2', '1', '3', '2']",[],[],[],2.28
+27.04.,Pieczkowski O.,2,,,,,,"['2', '1', '6', '5']","['3', '2']",[],[],[],2.06
+27.04.,Duran T.,0,,,,,,"['4', '4']",[],[],[],[],1.68
+26.04.,Duran T.,2,,,,,,"['6', '4']","['2', '0', '6', '2']",[],[],[],3.54
+26.04.,Added D.,0,,,,,,[],[],[],[],[],1.26
+25.04.,Duran T.,2,,,,,,"['2', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.75
+25.04.,Buldorini P.,0,,,,,,[],[],[],[],[],1.96
+24.04.,Duran T.,2,,,,,,"['3', '1', '5', '1']","['1', '0']","['2', '0', '6', '2']",[],[],2.00
+24.04.,Vandermeersch C.,1,,,,,,[],"['1', '1', '3', '1', '5', '1']",[],[],[],1.72
+23.04.,Duran T.,2,,,,,,"['1', '0', '5', '4']","['1', '0', '5', '2']",[],[],[],1.40
+23.04.,Sakellaridis D.,0,,,,,,"['2', '2']",[],[],[],[],2.77
+19.04.,Story J.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '5', '1']",[],[],[],1.39
+19.04.,Duran T.,0,,,,,,[],[],[],[],[],2.81
+18.04.,Duran T.,2,,,,,,"['2', '0', '5', '1']","['4', '3']",[],[],[],3.09
+18.04.,Barroso Campos A.,0,,,,,,[],"['5', '5']",[],[],[],1.33
+17.04.,Duran T.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.81
+17.04.,Donald M.,0,,,,,,"['3', '2']",[],[],[],[],1.89
+16.04.,Duran T.,2,,,,,,"['2', '0', '6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],2.66
+16.04.,Knaff A.,0,,,,,,"['3', '4']","['2', '3']",[],[],[],1.43
+20.03.,Ilkel C.,2,,,,,,[],"['2', '0', '6', '2']","['2', '0', '6', '4']",[],[],1.14
+20.03.,Duran T.,1,,,,,,"['2', '0']",[],"['2', '3']",[],[],4.85
+19.03.,Duran T.,2,,,,,,"['1', '2', '3', '4', '5', '4']","['3', '1', '4', '2']",[],[],[],1.09
+19.03.,Tsitsipas Pa.,0,,,,,,"['2', '0', '4', '2', '5', '5']","['2', '3', '4', '5']",[],[],[],6.10
+28.02.,Ilkel C.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.21
+28.02.,Duran T.,0,,,,,,[],[],[],[],[],4.08
+27.02.,Duran T.,2,,,,,,"['2', '0']","['2', '1', '6', '3']",[],[],[],1.36
+27.02.,Faucon R.,0,,,,,,[],[],[],[],[],2.94
+26.02.,Duran T.,2,,,,,,"['2', '1', '6', '3']","['4', '2']",[],[],[],1.31
+26.02.,Ramskogler G.,0,,,,,,[],[],[],[],[],3.20
+22.02.,Ilkel C.,2,,,,,,"['2', '1']",[],[],[],[],1.21
+22.02.,Duran T.,0,,,,,,[],[],[],[],[],4.28
+22.02.,Duran T.,2,,,,,,"['1', '0', '6', '3']","['3', '1']",[],[],[],1.23
+22.02.,Eqbal I.,0,,,,,,[],[],[],[],[],3.81
+21.02.,Duran T.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '5', '2']",[],[],[],-
+21.02.,Stringer T.,0,,,,,,[],[],[],[],[],-
+08.02.,Nikles J.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.27
+08.02.,Duran T.,0,,,,,,[],[],[],[],[],3.46
+07.02.,Duran T.,2,,,,,,"['4', '2']","['6', '5']",[],[],[],2.62
+07.02.,Beauge M.,0,,,,,,[],[],[],[],[],1.44
+06.02.,Duran T.,2,,,,,,[],"['3', '1']","['2', '1']",[],[],1.34
+06.02.,Thurner N.,1,,,,,,"['4', '3']",[],[],[],[],3.03
+05.02.,Duran T.,2,,,,,,"['3', '2', '5', '2']",[],"['3', '3', '6', '4']",[],[],5.00
+05.02.,Crawford O.,1,,,,,,[],[],"['2', '1']",[],[],1.14
+21.01.,Duran T.,2,,,,,,"['4', '2', '6', '4']","['5', '3']",[],[],[],1.76
+21.01.,Tajima N.,0,,,,,,"['3', '4']",[],[],[],[],1.95
+27.11.2024,Juarez F.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '6', '4']",[],[],[],1.18
+27.11.2024,Duran T.,0,,,,,,[],"['3', '4']",[],[],[],4.38
+13.11.2024,Boitan G. A.,2,,,,,,"['2', '1', '5', '2']","['2', '1', '6', '3']",[],[],[],1.10
+13.11.2024,Duran T.,0,,,,,,[],[],[],[],[],6.12

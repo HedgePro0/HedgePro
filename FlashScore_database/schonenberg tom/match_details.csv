@@ -1,78 +1,37 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Lambermont (Belgium),clay,header
-ITF MEN - SINGLES M25 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES M25 Pardubice (Czech Republic),clay,header
-20.09.2023,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-20.09.2023,Rajski M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Oldenzaal (Netherlands),clay,header
-30.08.2023,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-30.08.2023,Merida Aguilar D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M25 Villers Les Nancy (France),hard,header
-09.11.2021,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-09.11.2021,Escoffier A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Hamburg (Germany),hard,header
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-09.12.2020,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-09.12.2020,Kumar O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 6 (Tunisia),hard,header
-13.10.2020,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-13.10.2020,Tenti F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 13 (Tunisia),hard,header
-23.09.2020,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-23.09.2020,Kocevar-Desman T.,2,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN International Premier League B (Germany),clay,header
-EXHIBITION - MEN International Premier League A (Germany),hard,header
-EXHIBITION - MEN International Premier League B (Germany),clay,header
-EXHIBITION - MEN DTB German Pro Series (Germany) - Second stage - Play Offs,clay,header
-EXHIBITION - MEN DTB German Pro Series (Germany),clay,header
-25.06.2020,Schonenberg T.,1,,,,,,[],[],[],[],[],0
-25.06.2020,Moeller M.,2,,,,,,[],[],[],[],[],0
-24.06.2020,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-24.06.2020,Wehnelt K.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Kaarst (Germany),hard,header
-30.01.2018,Boutillier R.,0,,,,,,[],[],[],[],[],0
-30.01.2018,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Oberhaching (Germany),hard,header
-11.10.2017,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-11.10.2017,Molleker R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Saarlouis (Germany),clay,header
-06.07.2017,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-06.07.2017,Negritu Ch.,2,,,,,,[],[],[],[],[],0
-05.07.2017,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-05.07.2017,Maier H.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Kamen (Germany),clay,header
-28.06.2017,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-28.06.2017,Razborsek N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Ueberlingen (Germany),clay,header
-25.08.2016,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-25.08.2016,Simon T.,2,,,,,,[],[],[],[],[],0
-24.08.2016,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-24.08.2016,Daubias H.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Trier (Germany),clay,header
-13.07.2016,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-13.07.2016,Netuschil M.,2,,,,,,[],[],[],[],[],0
-12.07.2016,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-12.07.2016,Von Hindte L.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Nussloch (Germany),hard,header
-ITF MEN - SINGLES Bath (United Kingdom),hard,header
-10.11.2015,Schonenberg T.,1,,,,,,[],[],[],[],[],0
-10.11.2015,Kocevar-Desman T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Ismaning (Germany),hard,header
-27.10.2015,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-27.10.2015,Otte O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Bad Salzdetfurth (Germany),hard,header
-16.10.2015,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-16.10.2015,Kapas A.,2,,,,,,[],[],[],[],[],0
-15.10.2015,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-15.10.2015,Luetjen J.,0,,,,,,[],[],[],[],[],0
-14.10.2015,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-14.10.2015,Netuschil M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Leimen (Germany),hard,header
-06.10.2015,Schonenberg T.,0,,,,,,[],[],[],[],[],0
-06.10.2015,Otte O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Hambach (Germany),hard,header
-03.10.2015,Schonenberg T.,1,,,,,,[],[],[],[],[],0
-03.10.2015,Sieber M.,2,,,,,,[],[],[],[],[],0
-02.10.2015,Schonenberg T.,2,,,,,,[],[],[],[],[],0
-02.10.2015,Torebko P.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+21.08.2024,Beauge M.,2,,,,,,"['4', '2']","['1', '0', '3', '0']",[],[],[],1.18
+21.08.2024,Schonenberg T.,0,,,,,,[],[],[],[],[],4.46
+26.08.2023,Gentzsch T.,2,,,,,,"['2', '3', '4', '3']","['1', '0', '3', '0']",[],[],[],1.27
+26.08.2023,Schonenberg T.,0,,,,,,"['3', '1']",[],[],[],[],3.48
+25.08.2023,Schonenberg T.,2,,,,,,"['1', '0', '3', '0', '5', '0']",[],"['2', '2', '6', '4']",[],[],1.93
+25.08.2023,Maute J.,1,,,,,,[],[],"['2', '1']",[],[],1.78
+24.08.2023,Schonenberg T.,2,,,,,,"['5', '4']",[],[],[],[],2.06
+24.08.2023,Carnevale-Miino T.,0,,,,,,[],[],[],[],[],1.68
+23.08.2023,Schonenberg T.,2,,,,,,[],"['5', '3']","['1', '0', '3', '0']",[],[],1.54
+23.08.2023,Funk A.,1,,,,,,"['5', '4']",[],"['3', '5']",[],[],2.36
+19.10.2021,Orlov V.,2,,,,,,"['1', '0', '4', '1', '6', '3']","['2', '4', '4', '4']",[],[],[],2.09
+19.10.2021,Schonenberg T.,0,,,,,,"['3', '5']","['2', '1', '4', '1']",[],[],[],1.70
+20.08.2020,Netuschil M.,2,,,,,,[],"['2', '2', '7', '5']","['3', '3', '6', '4']",[],[],1.35
+20.08.2020,Schonenberg T.,1,,,,,,"['4', '2']","['2', '1']","['3', '2']",[],[],3.12
+18.08.2020,Schonenberg T.,2,,,,,,"['4', '3']","['1', '0', '3', '0']",[],[],[],2.45
+18.08.2020,Lock B.,0,,,,,,[],[],[],[],[],1.53
+14.08.2020,Rosenkranz M.,2,,,,,,"['2', '1', '3', '2', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.12
+14.08.2020,Schonenberg T.,0,,,,,,"['2', '2']",[],[],[],[],5.90
+13.08.2020,Schonenberg T.,2,,,,,,[],"['5', '4']",[],[],[],1.24
+13.08.2020,Mannapov A.,0,,,,,,[],[],[],[],[],3.94
+12.08.2020,Gerch L.,2,,,,,,"['7', '5']",[],"['1', '0', '5', '2']",[],[],1.25
+12.08.2020,Schonenberg T.,1,,,,,,[],"['1', '0', '3', '0', '6', '1']",[],[],[],3.82
+11.08.2020,Peters F.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['3', '3']","['2', '0', '4', '4', '7', '5']",[],[],2.51
+11.08.2020,Schonenberg T.,1,,,,,,"['2', '2']","['3', '2', '6', '5']","['2', '3', '4', '3']",[],[],1.51
+10.08.2020,Netuschil M.,2,,,,,,"['3', '4']","['3', '3']",[],[],[],1.37
+10.08.2020,Schonenberg T.,0,,,,,,"['3', '1']","['1', '0']",[],[],[],3.01
+07.08.2020,Schonenberg T.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['2', '0', '4', '0']",[],[],[],1.30
+07.08.2020,Moraing O.,0,,,,,,"['2', '4']",[],[],[],[],3.48
+27.06.2020,Moeller M.,2,,,,,,[],"['2', '0', '4', '0']","['1', '0', '5', '4']",[],[],-
+27.06.2020,Schonenberg T.,1,,,,,,"['2', '1']",[],"['3', '3']",[],[],-
+26.06.2020,Schonenberg T.,2,,,,,,"['3', '4', '5', '4']","['2', '1', '5', '2']",[],[],[],2.27
+26.06.2020,Seifert S.,0,,,,,,"['4', '2']",[],[],[],[],1.61
+28.01.2016,Desein N.,2,,,,,,[],[],[],[],[],1.36
+28.01.2016,Schonenberg T.,0,,,,,,[],[],[],[],[],3.03
+27.01.2016,Schonenberg T.,2,,,,,,[],[],[],[],[],2.18
+27.01.2016,Panfil G.,0,,,,,,[],[],[],[],[],1.62

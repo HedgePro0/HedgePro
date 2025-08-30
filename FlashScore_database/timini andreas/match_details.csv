@@ -1,50 +1,59 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Kursumlijska Banja 12 (Serbia),clay,header
-25.07.,Timini A.,1,,,,,,[],[],[],[],[],0
-25.07.,Compagnucci T.,2,,,,,,[],[],[],[],[],0
-24.07.,Timini A.,2,,,,,,[],[],[],[],[],0
-24.07.,Pankin S.,0,,,,,,[],[],[],[],[],0
-23.07.,Timini A.,2,,,,,,[],[],[],[],[],0
-23.07.,Matovic N.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 11 (Serbia),clay,header
-19.07.,Timini A.,0,,,,,,[],[],[],[],[],0
-19.07.,Xilas I.,2,,,,,,[],[],[],[],[],0
-18.07.,Timini A.,2,,,,,,[],[],[],[],[],0
-18.07.,Pankin S.,1,,,,,,[],[],[],[],[],0
-16.07.,Timini A.,2,,,,,,[],[],[],[],[],0
-16.07.,Arzhankin A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Casablanca 2 (Morocco),clay,header
-ITF MEN - SINGLES M15 Casablanca (Morocco),clay,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Alaminos 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos (Cyprus),clay,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-22.02.,Timini A.,0,,,,,,[],[],[],[],[],0
-22.02.,Efstathiou M.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-01.02.,Timini A.,2,,,,,,[],[],[],[],[],0
-01.02.,Chanta T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-16.01.,Timini A.,2,,,,,,[],[],[],[],[],0
-16.01.,Mu T.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-ITF MEN - SINGLES M15 Heraklion 7 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M15 Limassol 2 (Cyprus),hard,header
-ITF MEN - SINGLES M15 Limassol (Cyprus),hard,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca 3 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-ITF MEN - SINGLES M15 Alaminos-Larnaca (Cyprus),clay,header
-25.04.2023,Timini A.,1,,,,,,[],[],[],[],[],0
-25.04.2023,Woerner P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Danderyd (Sweden),hard,header
-21.09.2022,Timini A.,0,,,,,,[],[],[],[],[],0
-21.09.2022,Mridha J.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+26.06.,Ratti L.,2,,,,,,"['2', '0']","['2', '1', '4', '3']",[],[],[],1.33
+26.06.,Timini A.,0,,,,,,[],"['2', '2']",[],[],[],3.09
+25.06.,Timini A.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '3', '6', '3']",[],[],[],1.18
+25.06.,Jaisinghani R.,0,,,,,,[],"['3', '3']",[],[],[],4.47
+19.06.,Otegui J. B.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['2', '2']","['2', '0', '5', '1']",[],[],1.65
+19.06.,Timini A.,1,,,,,,"['1', '5']","['2', '1', '4', '3']",[],[],[],2.13
+18.06.,Timini A.,2,,,,,,"['2', '0']","['2', '1']",[],[],[],3.40
+18.06.,Baadi T.,0,,,,,,[],[],[],[],[],1.28
+20.05.,Winter E.,2,,,,,,"['2', '2', '5', '3', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.16
+20.05.,Timini A.,0,,,,,,"['1', '0', '4', '5']",[],[],[],[],4.67
+15.05.,Marinkov P.,2,,,,,,"['1', '0', '5', '4', '6', '5']","['2', '1', '3', '2', '5', '2']",[],[],[],1.23
+15.05.,Timini A.,0,,,,,,"['3', '3', '5', '5']","['2', '2']",[],[],[],3.81
+14.05.,Timini A.,2,,,,,,"['5', '4']","['4', '5']","['1', '0', '4', '5']",[],[],2.44
+14.05.,Crowther C.,1,,,,,,[],"['3', '1', '6', '4']","['1', '1', '5', '3']",[],[],1.50
+08.05.,Sakellaridis D.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['2', '1', '3', '2', '6', '3']",[],[],[],1.36
+08.05.,Timini A.,0,,,,,,"['1', '4']","['2', '2']",[],[],[],2.94
+06.05.,Timini A.,2,,,,,,"['1', '0', '3', '2', '6', '3']","['5', '5', '7', '5']",[],[],[],1.56
+06.05.,Fiorentini A.,0,,,,,,"['1', '1']","['5', '4']",[],[],[],2.30
+26.03.,Hannestad B.,2,,,,,,"['2', '2', '3', '3', '4', '4', '6', '4']","['2', '4', '3', '5']","['1', '0', '3', '0', '5', '2']",[],[],1.59
+26.03.,Timini A.,1,,,,,,"['1', '0', '3', '2', '4', '3']","['1', '0', '4', '1', '5', '2', '6', '3']","['1', '3']",[],[],2.24
+21.03.,Alexandrescou Y. T.,2,,,,,,"['1', '1', '2', '2', '5', '5', '7', '5']","['1', '1', '2', '2', '4', '2', '5', '3']",[],[],[],1.70
+21.03.,Timini A.,0,,,,,,"['1', '0', '2', '1', '4', '3']","['1', '0', '2', '1', '3', '4', '4', '5']",[],[],[],2.03
+19.03.,Timini A.,2,,,,,,"['5', '3']","['1', '0', '3', '0', '5', '4']",[],[],[],3.14
+19.03.,Oetzbach A.,0,,,,,,[],"['2', '4', '4', '4']",[],[],[],1.32
+12.03.,Noce G. M.,2,,,,,,"['1', '0']","['1', '1', '3', '1', '5', '1']",[],[],[],1.90
+12.03.,Timini A.,0,,,,,,"['2', '2']","['1', '0']",[],[],[],1.80
+27.02.,Alkaya M.,2,,,,,,"['1', '0', '5', '2']","['2', '3', '5', '4']",[],[],[],1.12
+27.02.,Timini A.,0,,,,,,[],"['2', '0']",[],[],[],5.20
+26.02.,Timini A.,2,,,,,,"['5', '5']","['2', '1']",[],[],[],2.09
+26.02.,Taka Y.,0,,,,,,"['1', '0']",[],[],[],[],1.68
+21.02.,Timini A.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '5', '4']",[],[],[],1.03
+21.02.,Christoforakis P.,0,,,,,,[],"['3', '3']",[],[],[],8.70
+17.01.,Basic N.,2,,,,,,"['1', '1', '5', '3']",[],"['2', '0', '3', '1', '5', '1']",[],[],1.85
+17.01.,Timini A.,1,,,,,,"['1', '0']","['2', '0', '5', '1']","['1', '2']",[],[],1.85
+08.01.,Potenza L.,2,,,,,,"['3', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.35
+08.01.,Timini A.,0,,,,,,[],[],[],[],[],2.99
+11.12.2024,Juszczak P.,2,,,,,,"['2', '1']","['2', '2', '4', '2', '6', '2']",[],[],[],1.45
+11.12.2024,Timini A.,0,,,,,,"['3', '3']","['2', '1']",[],[],[],2.63
+20.11.2024,Soriano Barrera A.,2,,,,,,"['4', '2']","['1', '0', '4', '3', '6', '3']","['2', '0']",[],[],1.07
+20.11.2024,Timini A.,1,,,,,,"['3', '4']","['3', '3']",[],[],[],7.10
+13.11.2024,Setkic A.,2,,,,,,"['2', '0']","['1', '0', '3', '2', '5', '2']",[],[],[],1.65
+13.11.2024,Timini A.,0,,,,,,"['2', '3']","['1', '1']",[],[],[],2.13
+01.09.2024,Bigun K.,2,,,,,,"['3', '2']","['1', '0', '2', '1', '4', '1']",[],[],[],-
+01.09.2024,Timini A.,0,,,,,,[],"['1', '1']",[],[],[],-
+06.07.2024,Rottgering M.,2,,,,,,"['1', '2', '5', '4']","['6', '5']",[],[],[],-
+06.07.2024,Timini A.,0,,,,,,"['2', '0']",[],[],[],[],-
+03.06.2024,Woestendick C.,2,,,,,,"['3', '2', '4', '3', '6', '3']","['2', '0']","['4', '2', '6', '2']",[],[],-
+03.06.2024,Timini A.,1,,,,,,"['3', '3']","['2', '3', '4', '3']",[],[],[],-
+29.11.2023,Timini A.,0,,,,,,[],[],[],[],[],2.43
+29.11.2023,Sadaoui M.,0,,,,,,[],[],[],[],[],1.51
+23.11.2023,Moller E.,2,,,,,,[],[],[],[],[],1.04
+23.11.2023,Timini A.,0,,,,,,[],[],[],[],[],8.80
+22.11.2023,Timini A.,2,,,,,,[],[],[],[],[],3.48
+22.11.2023,Van Zijl T.,1,,,,,,[],[],[],[],[],1.27
+09.05.2023,Gima S.,2,,,,,,[],[],[],[],[],1.01
+09.05.2023,Timini A.,0,,,,,,[],[],[],[],[],11.50
+02.05.2023,Miceli M.,2,,,,,,[],[],[],[],[],1.12
+02.05.2023,Timini A.,1,,,,,,[],[],[],[],[],5.40

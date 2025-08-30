@@ -1,65 +1,45 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Forli (Italy),clay,header
-28.08.2024,Sorrentino L.,0,,,,,,[],[],[],[],[],0
-28.08.2024,Peliwo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Chieti (Italy),clay,header
-ITF MEN - SINGLES M15 Vrhnika (Slovenia),clay,header
-01.06.2024,Sorrentino L.,0,,,,,,[],[],[],[],[],0
-01.06.2024,Schiessl J. E.,2,,,,,,[],[],[],[],[],0
-31.05.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-31.05.2024,Wehnelt K.,1,,,,,,[],[],[],[],[],0
-30.05.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-30.05.2024,Rossi L.,0,,,,,,[],[],[],[],[],0
-28.05.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Alves M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Celje (Slovenia),clay,header
-24.05.2024,Sorrentino L.,1,,,,,,[],[],[],[],[],0
-24.05.2024,Schiessl J. E.,2,,,,,,[],[],[],[],[],0
-23.05.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-23.05.2024,Wehnelt K.,0,,,,,,[],[],[],[],[],0
-20.05.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-20.05.2024,Romano F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santa Margherita di Pula 5 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 4 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 3 (Italy),clay,header
-ITF MEN - SINGLES M15 Opatija (Croatia),clay,header
-21.03.2024,Sorrentino L.,1,,,,,,[],[],[],[],[],0
-21.03.2024,Sorger S.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-20.03.2024,Taylor J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Rovinj (Croatia),clay,header
-12.03.2024,Sorrentino L.,1,,,,,,[],[],[],[],[],0
-12.03.2024,Bielinskyi V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Porec (Croatia),clay,header
-05.03.2024,Sorrentino L.,0,,,,,,[],[],[],[],[],0
-05.03.2024,Marmousez L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 6 (Italy),clay,header
-CHALLENGER MEN - SINGLES Cassis (France) - Qualification,hard,header
-03.09.2023,Sorrentino L.,1,,,,,,8,5,62%,75% (54/72),47% (21/45),57% (4/7),26% (17/65),41% (18/44),17% (1/6),64% (75/117),32% (35/109),49% (110/226),82% (14/17),6% (1/17),44% (15/34),[],[],[],[],[],0
-03.09.2023,Moller E.,2,,,,,,9,5,60%,74% (48/65),59% (26/44),83% (5/6),25% (18/72),53% (24/45),43% (3/7),68% (74/109),36% (42/117),51% (116/226),94% (16/17),18% (3/17),56% (19/34),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Forli (Italy),clay,header
-ITF MEN - SINGLES M15 Caslano (Switzerland),clay,header
-25.08.2023,Sorrentino L.,1,,,,,,[],[],[],[],[],0
-25.08.2023,Brunold M.,2,,,,,,[],[],[],[],[],0
-24.08.2023,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-24.08.2023,Gramaticopolo B.,0,,,,,,[],[],[],[],[],0
-22.08.2023,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-22.08.2023,Feldbausch K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hyvinkaa (Finland),clay,header
-05.08.2023,Sorrentino L.,1,,,,,,[],[],[],[],[],0
-05.08.2023,Rivet M.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Sorrentino L.,0,,,,,,[],[],[],[],[],0
-03.08.2023,Giunta M.,0,,,,,,[],[],[],[],[],0
-03.08.2023,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-03.08.2023,Garcian A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vejle (Denmark),clay,header
-28.07.2023,Sorrentino L.,0,,,,,,[],[],[],[],[],0
-28.07.2023,Holmgren A.,2,,,,,,[],[],[],[],[],0
-27.07.2023,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-27.07.2023,Rossi L.,0,,,,,,[],[],[],[],[],0
-26.07.2023,Sorrentino L.,2,,,,,,[],[],[],[],[],0
-26.07.2023,Jansson O.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-ITF MEN - SINGLES M25 Padova (Italy),clay,header
-ITF MEN - SINGLES M25 Biella (Italy),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.06.2024,Marmousez L.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '4', '1']",[],[],[],1.20
+13.06.2024,Sorrentino L.,0,,,,,,[],[],[],[],[],4.27
+12.06.2024,Sorrentino L.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '4', '5']",[],[],[],2.50
+12.06.2024,Otegui J. B.,0,,,,,,"['1', '2']","['2', '2', '4', '2']",[],[],[],1.51
+11.06.2024,Sorrentino L.,2,,,,,,"['3', '1', '5', '5', '7', '5']","['3', '1']",[],[],[],1.41
+11.06.2024,de Marchi A.,0,,,,,,"['3', '4', '5', '4']",[],[],[],[],2.75
+24.04.2024,Kumar O.,2,,,,,,"['3', '2']","['1', '0', '2', '1', '5', '2']",[],[],[],1.24
+24.04.2024,Sorrentino L.,0,,,,,,[],"['1', '1']",[],[],[],3.12
+22.04.2024,Sorrentino L.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.01
+22.04.2024,De Carvalho V.,0,,,,,,[],[],[],[],[],18.00
+16.04.2024,Giunta M.,2,,,,,,[],"['1', '2', '3', '4', '5', '4']",[],[],[],2.08
+16.04.2024,Sorrentino L.,0,,,,,,[],"['2', '0', '4', '2']",[],[],[],1.69
+10.04.2024,Michalski D.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '2', '1', '4', '1']",[],[],[],1.15
+10.04.2024,Sorrentino L.,0,,,,,,[],"['1', '1']",[],[],[],5.03
+09.04.2024,Sorrentino L.,2,,,,,,"['3', '1', '5', '3']","['4', '3', '6', '3']",[],[],[],1.18
+09.04.2024,De Giorgio P.,0,,,,,,"['3', '4']",[],[],[],[],4.42
+31.10.2023,Kopp S.,2,,,,,,"['1', '0', '4', '1']",[],[],[],[],1.37
+31.10.2023,Sorrentino L.,0,,,,,,[],[],[],[],[],2.89
+20.09.2023,Piraino G.,2,,,,,,[],"['5', '3']","['2', '1', '6', '5']",[],[],1.93
+20.09.2023,Sorrentino L.,1,,,,,,"['2', '0', '4', '0']",[],"['2', '2']",[],[],1.78
+18.09.2023,Sorrentino L.,2,,,,,,[],"['2', '2', '4', '2']","['2', '1', '5', '4']",[],[],2.23
+18.09.2023,Jong A. M.,1,,,,,,"['5', '3']","['1', '0']","['2', '2']",[],[],1.60
+03.09.2023,Moller E.,2,,,,,,9,5,60%,74% (48/65),59% (26/44),83% (5/6),25% (18/72),53% (24/45),43% (3/7),68% (74/109),36% (42/117),51% (116/226),94% (16/17),18% (3/17),56% (19/34),"['4', '4']","['6', '5']","['1', '0']",[],[],-
+03.09.2023,Sorrentino L.,1,,,,,,8,5,62%,75% (54/72),47% (21/45),57% (4/7),26% (17/65),41% (18/44),17% (1/6),64% (75/117),32% (35/109),49% (110/226),82% (14/17),6% (1/17),44% (15/34),"['1', '0']",[],[],[],[],-
+31.08.2023,Tabacco G.,2,,,,,,"['2', '1', '4', '1']","['2', '1']",[],[],[],1.55
+31.08.2023,Sorrentino L.,0,,,,,,[],"['4', '4']",[],[],[],2.33
+30.08.2023,Sorrentino L.,2,,,,,,"['1', '0', '6', '3']","['2', '0', '6', '2']",[],[],[],2.21
+30.08.2023,Piraino G.,0,,,,,,[],[],[],[],[],1.61
+28.08.2023,Sorrentino L.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '1']",[],[],[],1.43
+28.08.2023,Buldorini P.,0,,,,,,[],[],[],[],[],2.67
+21.07.2023,Miceli M.,2,,,,,,"['2', '1']","['2', '1', '4', '1']",[],[],[],2.45
+21.07.2023,Sorrentino L.,0,,,,,,[],[],[],[],[],1.50
+20.07.2023,Sorrentino L.,2,,,,,,"['3', '2', '5', '2']",[],[],[],[],1.18
+20.07.2023,Militi Ribaldi A.,0,,,,,,[],[],[],[],[],4.37
+18.07.2023,Sorrentino L.,1,,,,,,"['6', '4']","['2', '0']",[],[],[],2.02
+18.07.2023,Roncadelli F.,0,,,,,,[],[],[],[],[],1.71
+13.07.2023,Vincent Ruggeri S.,2,,,,,,"['3', '1', '5', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.42
+13.07.2023,Sorrentino L.,0,,,,,,"['2', '5']",[],[],[],[],2.70
+11.07.2023,Sorrentino L.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '6', '2']",[],[],[],1.15
+11.07.2023,Campana F.,0,,,,,,[],[],[],[],[],4.89
+06.07.2023,Carboni L.,2,,,,,,"['2', '0']","['3', '2', '5', '2', '6', '3']",[],[],[],1.92
+06.07.2023,Sorrentino L.,0,,,,,,[],"['3', '5']",[],[],[],1.79
+05.07.2023,Sorrentino L.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['3', '1', '7', '5']",[],[],[],3.10
+05.07.2023,Arnaboldi F.,0,,,,,,[],"['2', '3']",[],[],[],1.33

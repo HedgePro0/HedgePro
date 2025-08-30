@@ -1,57 +1,79 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Edwardsville,hard,header
-ITF MEN - SINGLES M25 Champaign,hard,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Orlando,clay,header
-ITF MEN - SINGLES M15 Orlando,clay,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Montreal (Canada),hard,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Huamantla 7 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 6 (Mexico),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Guatemala (Guatemala),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M25 Idanha-a-Nova 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 2 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla (Mexico),hard,header
-ITF MEN - SINGLES M25 Champaign,hard,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Orlando,clay,header
-ITF MEN - SINGLES M15 Orlando,clay,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Montreal (Canada),hard,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Huamantla 7 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 6 (Mexico),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Santo Domingo 3 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Guatemala (Guatemala),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M25 Idanha-a-Nova 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 2 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla (Mexico),hard,header
-17.07.2024,Bynoe E.,1,,,,,,[],[],[],[],[],0
-17.07.2024,Hayen A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Quillota (Chile),clay,header
-09.04.2024,Bynoe E.,0,,,,,,[],[],[],[],[],0
-09.04.2024,Aguilar Cardozo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-12.03.2024,Bynoe E.,0,,,,,,[],[],[],[],[],0
-12.03.2024,Pecotic M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Palm Coast,clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+01.08.,Miladinovic M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '6', '3']",[],[],[],1.61
+01.08.,Bynoe E.,0,,,,,,[],"['1', '3']",[],[],[],2.20
+31.07.,Bynoe E.,2,,,,,,[],"['1', '0', '4', '1', '5', '2']",[],[],[],1.42
+31.07.,Arseneault M.,0,,,,,,[],"['2', '4']",[],[],[],2.69
+30.07.,Bynoe E.,1,,,,,,"['4', '3']","['3', '2']",[],[],[],10.70
+30.07.,Riedi L.,0,,,,,,[],[],[],[],[],1.01
+24.07.,Suresh D.,2,,,,,,"['4', '2']","['6', '5']",[],[],[],1.20
+24.07.,Bynoe E.,0,,,,,,[],[],[],[],[],4.18
+22.07.,Bynoe E.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '0', '6', '4']",[],[],[],6.80
+22.07.,Hussey G.,0,,,,,,"['2', '5']","['4', '5']",[],[],[],1.07
+17.07.,Dickerson R.,2,,,,,,[],[],[],[],[],1.48
+17.07.,Bynoe E.,0,,,,,,[],[],[],[],[],2.50
+15.07.,Bynoe E.,2,,,,,,[],[],[],[],[],1.91
+15.07.,Kuhar M.,0,,,,,,[],[],[],[],[],1.79
+10.07.,Kang K.,2,,,,,,"['4', '3']","['2', '1']",[],[],[],1.12
+10.07.,Bynoe E.,0,,,,,,[],[],[],[],[],5.35
+09.07.,Bynoe E.,2,,,,,,"['2', '0']","['2', '3', '4', '3', '5', '4']","['2', '1', '5', '2']",[],[],1.09
+09.07.,Pham H.,1,,,,,,"['2', '3', '4', '3', '6', '3']","['2', '0', '4', '4']",[],[],[],6.15
+10.06.,Bouzige M.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '5', '1']",[],[],[],1.14
+10.06.,Bynoe E.,0,,,,,,[],[],[],[],[],5.00
+04.06.,Cid Subervi R.,2,,,,,,"['1', '0', '4', '1', '5', '4', '6', '5']","['2', '2', '3', '3', '4', '4', '6', '4']",[],[],[],1.10
+04.06.,Bynoe E.,0,,,,,,"['4', '4', '5', '5']","['2', '1', '3', '2', '4', '3']",[],[],[],5.85
+20.05.,Kuzuhara B.,2,,,,,,"['2', '0', '5', '1']","['3', '4', '5', '4']",[],[],[],1.15
+20.05.,Bynoe E.,0,,,,,,"['2', '5']","['4', '2']",[],[],[],4.80
+17.05.,Lilov V.,2,,,,,,"['3', '1']","['1', '0', '5', '2', '6', '3']",[],[],[],1.37
+17.05.,Bynoe E.,0,,,,,,[],"['3', '5']",[],[],[],2.99
+16.05.,Bynoe E.,2,,,,,,"['2', '2', '4', '2']",[],"['1', '0', '6', '3']",[],[],2.11
+16.05.,Goncalves V.,1,,,,,,"['2', '1']","['7', '5']",[],[],[],1.66
+15.05.,Bynoe E.,2,,,,,,"['4', '3', '5', '4']","['3', '4']","['1', '0', '3', '0', '5', '0']",[],[],2.42
+15.05.,Shick B.,1,,,,,,"['4', '4']","['3', '1', '6', '4']",[],[],[],1.51
+13.05.,Bynoe E.,2,,,,,,"['2', '3', '4', '3']",[],"['4', '3', '5', '4']",[],[],3.79
+13.05.,Luis T.,1,,,,,,"['3', '1']","['2', '0', '4', '0', '6', '0']","['4', '4']",[],[],1.23
+01.05.,McCormick T.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['2', '0', '5', '1']",[],[],[],1.21
+01.05.,Bynoe E.,0,,,,,,"['2', '4']","['2', '5']",[],[],[],4.04
+30.04.,Bynoe E.,2,,,,,,"['1', '1', '3', '1', '4', '2', '5', '3']","['1', '4', '2', '5']","['2', '1', '5', '4']",[],[],3.54
+30.04.,Von der Schulenburg J.,1,,,,,,"['1', '0', '2', '3', '3', '4']","['2', '0', '4', '0', '5', '1', '6', '2']","['4', '4', '5', '5']",[],[],1.26
+23.04.,Hance K.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '2', '5', '2', '6', '3']",[],[],[],2.06
+23.04.,Bynoe E.,0,,,,,,[],"['1', '1', '3', '5']",[],[],[],1.68
+13.03.,Lapadat J.,2,,,,,,"['1', '0', '4', '5']","['1', '0', '3', '0', '6', '1']","['2', '0', '4', '2', '6', '4']",[],[],1.56
+13.03.,Bynoe E.,1,,,,,,"['2', '2', '4', '2', '6', '4']",[],"['1', '2', '4', '5']",[],[],2.30
+12.03.,Bynoe E.,2,,,,,,"['2', '0']","['3', '2', '6', '3']",[],[],[],2.00
+12.03.,Ross J.,0,,,,,,[],[],[],[],[],1.72
+19.02.,Ponwith N.,2,,,,,,"['1', '0']","['4', '2', '6', '2']","['2', '2', '4', '2', '6', '2']",[],[],1.53
+19.02.,Bynoe E.,1,,,,,,"['1', '1', '5', '3']",[],"['2', '1']",[],[],2.37
+12.02.,Bicknell B.,2,,,,,,[],"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.16
+12.02.,Bynoe E.,1,,,,,,"['2', '1', '5', '2']",[],[],[],[],4.62
+12.12.2024,Zhu E.,2,,,,,,"['1', '1', '2', '2', '4', '2', '5', '3']","['1', '2', '2', '3', '3', '4', '4', '5']","['2', '0', '3', '1', '5', '1', '6', '2']",[],[],1.16
+12.12.2024,Bynoe E.,1,,,,,,"['1', '0', '2', '1', '3', '4']","['2', '0', '3', '1', '4', '2', '5', '3']","['1', '2', '2', '5']",[],[],4.62
+11.12.2024,Bynoe E.,2,,,,,,"['2', '0', '4', '2']",[],"['2', '1']",[],[],2.13
+11.12.2024,Rivera L.,1,,,,,,"['1', '2']","['7', '5']",[],[],[],1.65
+04.12.2024,Ganesan A.,2,,,,,,"['1', '0', '4', '3']","['3', '2', '6', '5']",[],[],[],1.09
+04.12.2024,Bynoe E.,0,,,,,,"['1', '1']","['3', '3']",[],[],[],6.39
+29.11.2024,Forcano I.,2,,,,,,"['2', '1']","['3', '1']",[],[],[],1.73
+29.11.2024,Bynoe E.,0,,,,,,"['3', '3']",[],[],[],[],1.99
+28.11.2024,Bynoe E.,2,,,,,,"['2', '0', '5', '5', '6', '6']","['1', '0', '3', '0', '6', '3']",[],[],[],3.09
+28.11.2024,Bozemoj B.,0,,,,,,"['2', '3', '4', '3', '6', '5']","['3', '5']",[],[],[],1.33
+20.11.2024,Peck J.,2,,,,,,"['7', '5']","['3', '1', '6', '2']",[],[],[],1.69
+20.11.2024,Bynoe E.,0,,,,,,[],[],[],[],[],2.04
+06.11.2024,Buitrago N.,2,,,,,,"['4', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],3.09
+06.11.2024,Bynoe E.,0,,,,,,[],[],[],[],[],1.33
+03.10.2024,Dzhavakian Y.,2,,,,,,"['3', '3', '6', '4']","['3', '1']","['2', '1', '5', '2']",[],[],-
+03.10.2024,Bynoe E.,1,,,,,,"['1', '0']","['2', '3', '4', '3', '6', '3']",[],[],[],-
+02.10.2024,Bynoe E.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['2', '1', '6', '5']",[],[],[],2.24
+02.10.2024,Lechno-Wasiutynski F.,0,,,,,,"['1', '1']","['3', '3']",[],[],[],1.59
+20.09.2024,McKennon M.,2,,,,,,"['2', '0', '5', '1']","['2', '1', '4', '1']",[],[],[],1.34
+20.09.2024,Bynoe E.,0,,,,,,[],[],[],[],[],3.05
+19.09.2024,Bynoe E.,2,,,,,,[],"['1', '0', '3', '0', '4', '1']","['1', '0']",[],[],9.20
+19.09.2024,Erel Y.,1,,,,,,"['2', '1', '4', '1', '6', '1']","['1', '3', '3', '5']",[],[],[],1.04
+18.09.2024,Bynoe E.,1,,,,,,"['2', '4', '4', '4', '6', '4']","['3', '1']",[],[],[],2.02
+18.09.2024,Pogosian S.,0,,,,,,"['1', '0', '4', '1']",[],[],[],[],1.72
+20.08.2024,Gray A.,2,,,,,,"['2', '0']","['2', '3', '6', '5']",[],[],[],1.07
+20.08.2024,Bynoe E.,0,,,,,,[],"['3', '1']",[],[],[],7.50
+30.07.2024,Ribeiro E.,2,,,,,,"['2', '0']","['3', '2']","['1', '0']",[],[],1.28
+30.07.2024,Bynoe E.,1,,,,,,"['2', '3', '4', '3', '6', '3']",[],"['1', '1']",[],[],3.43
+25.07.2024,Rodriguez J. A.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['4', '2', '6', '2']",[],[],[],1.29
+25.07.2024,Bynoe E.,0,,,,,,[],[],[],[],[],3.37
+24.07.2024,Bynoe E.,2,,,,,,"['3', '1']",[],"['4', '2']",[],[],1.56
+24.07.2024,Perez B.,1,,,,,,[],[],"['3', '4']",[],[],2.32

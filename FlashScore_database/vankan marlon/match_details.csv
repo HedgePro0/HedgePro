@@ -1,49 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Slovenska Bistrica (Slovenia),clay,header
-08.08.,Vankan M.,1,,,,,,[],[],[],[],[],0
-08.08.,Fiorentini A.,2,,,,,,[],[],[],[],[],0
-07.08.,Vankan M.,2,,,,,,[],[],[],[],[],0
-07.08.,Petak D.,0,,,,,,[],[],[],[],[],0
-05.08.,Vankan M.,2,,,,,,[],[],[],[],[],0
-05.08.,Pillonel C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wels (Austria),clay,header
-02.08.,Vankan M.,0,,,,,,[],[],[],[],[],0
-02.08.,Slump S.,2,,,,,,[],[],[],[],[],0
-01.08.,Vankan M.,2,,,,,,[],[],[],[],[],0
-01.08.,Raynel A.,0,,,,,,[],[],[],[],[],0
-31.07.,Vankan M.,2,,,,,,[],[],[],[],[],0
-31.07.,Bilardo J.,0,,,,,,[],[],[],[],[],0
-30.07.,Vankan M.,2,,,,,,[],[],[],[],[],0
-30.07.,Kobierski J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Saarlouis (Germany),clay,header
-ITF MEN - SINGLES M15 Ljubljana (Slovenia),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 11 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 10 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 9 (Turkey),clay,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Naples,clay,header
-ITF MEN - SINGLES M15 Sunrise,clay,header
-ITF MEN - SINGLES M15 Palm Coast,clay,header
-30.01.,Vankan M.,2,,,,,,[],[],[],[],[],0
-30.01.,Segura M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15+H Bagnoles de l'Orne (France),clay,header
-ITF MEN - SINGLES M25 Hazebrouck (France),hard,header
-ITF MEN - SINGLES M15 Lujan (Argentina),clay,header
-ITF MEN - SINGLES M15 Azul (Argentina),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M25 Zlatibor (Serbia),clay,header
-25.09.2024,Vankan M.,2,,,,,,[],[],[],[],[],0
-25.09.2024,Fiorentini A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 18 (Serbia),clay,header
-23.09.2024,Vankan M.,2,,,,,,[],[],[],[],[],0
-23.09.2024,Kobierski J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 17 (Serbia),clay,header
-13.09.2024,Vankan M.,1,,,,,,[],[],[],[],[],0
-13.09.2024,Bellifemine A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Haren (Netherlands),clay,header
-ITF MEN - SINGLES M15 Slovenj Gradec (Slovenia),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+24.06.,Petak D.,2,,,,,,"['1', '0', '2', '1']","['1', '0', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],2.99
+24.06.,Vankan M.,1,,,,,,"['1', '1', '2', '2', '4', '2']",[],[],[],[],1.35
+17.06.,Filip J.,2,,,,,,"['4', '4', '6', '4']","['1', '1', '3', '1', '5', '1']",[],[],[],-
+17.06.,Vankan M.,0,,,,,,"['3', '2']","['1', '0']",[],[],[],-
+03.06.,Gima S.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['5', '3']",[],[],[],1.76
+03.06.,Vankan M.,1,,,,,,[],"['4', '5', '6', '5']",[],[],[],1.95
+22.04.,Nijboer R.,2,,,,,,"['1', '1', '3', '1', '4', '2', '6', '2']",[],"['1', '0']",[],[],1.34
+22.04.,Vankan M.,1,,,,,,"['1', '0', '2', '3']","['4', '3', '6', '3']",[],[],[],3.04
+16.04.,Gentzsch T.,1,,,,,,"['4', '2', '6', '2']","['3', '1']",[],[],[],-
+16.04.,Vankan M.,0,,,,,,[],[],[],[],[],-
+10.04.,Cuenin S.,2,,,,,,"['2', '2', '3', '3', '5', '5', '6', '6']","['2', '1', '3', '2', '4', '3', '6', '3']","['2', '2', '4', '4', '6', '4']",[],[],-
+10.04.,Vankan M.,1,,,,,,"['1', '0', '3', '2', '5', '4', '6', '5']","['2', '2', '3', '3']","['1', '0', '3', '2']",[],[],-
+09.04.,Vankan M.,2,,,,,,"['4', '2', '7', '5']",[],"['2', '1', '3', '2', '5', '2']",[],[],2.89
+09.04.,Cretu C.,1,,,,,,"['4', '5']","['2', '1', '4', '1', '6', '1']","['2', '2']",[],[],1.37
+03.04.,Slump S.,2,,,,,,"['2', '0', '6', '2']","['4', '2']",[],[],[],1.85
+03.04.,Vankan M.,0,,,,,,[],[],[],[],[],1.85
+02.04.,Vankan M.,2,,,,,,"['4', '5', '6', '5']","['3', '1', '7', '5']",[],[],[],2.50
+02.04.,Edmund K.,0,,,,,,"['3', '1', '6', '6']","['2', '3']",[],[],[],1.51
+27.03.,Gulin S.,2,,,,,,"['1', '0', '2', '1', '4', '1', '6', '1']","['1', '1', '3', '1', '4', '2', '5', '3']",[],[],[],-
+27.03.,Vankan M.,0,,,,,,"['1', '1']","['1', '0', '2', '3', '3', '4']",[],[],[],-
+26.03.,Vankan M.,2,,,,,,"['3', '2', '6', '5']","['2', '1', '5', '2']",[],[],[],1.35
+26.03.,Yazdani A.,0,,,,,,"['5', '5']",[],[],[],[],2.99
+21.03.,Chepelev A.,1,,,,,,"['1', '2']","['2', '0']",[],[],[],-
+21.03.,Vankan M.,0,,,,,,"['2', '0']",[],[],[],[],-
+20.03.,Vankan M.,2,,,,,,"['1', '0', '2', '1', '6', '5']",[],"['6', '5']",[],[],-
+20.03.,Lalami Laaroussi Y.,1,,,,,,"['1', '1', '4', '4', '6', '6']","['1', '0', '4', '1', '6', '1']","['6', '6']",[],[],-
+19.03.,Vankan M.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['2', '0', '5', '3']",[],[],[],-
+19.03.,Rottgering M.,0,,,,,,"['3', '5']","['3', '4']",[],[],[],-
+19.02.,Paty D.,2,,,,,,"['2', '2', '4', '2']","['4', '5', '6', '5']",[],[],[],-
+19.02.,Vankan M.,0,,,,,,"['1', '0']","['2', '0']",[],[],[],-
+13.02.,Maloney P.,2,,,,,,"['3', '3']","['5', '3']","['2', '1']",[],[],1.55
+13.02.,Vankan M.,1,,,,,,"['3', '2', '5', '4']",[],"['5', '5']",[],[],2.32
+12.02.,Vankan M.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '4', '3']",[],[],[],1.85
+12.02.,Corwin F.,0,,,,,,"['3', '5']","['2', '2']",[],[],[],1.85
+05.02.,Kennedy J.,2,,,,,,"['4', '2']","['1', '0', '4', '5', '6', '5']",[],[],[],2.50
+05.02.,Vankan M.,0,,,,,,[],"['1', '1', '5', '3']",[],[],[],1.48
+01.02.,Johns G.,2,,,,,,"['3', '1']",[],"['3', '1']",[],[],1.30
+01.02.,Vankan M.,1,,,,,,[],"['3', '1', '5', '1']",[],[],[],3.30
+31.01.,Vankan M.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['1', '1', '5', '3']",[],[],[],1.85
+31.01.,Wessels L.,0,,,,,,[],"['1', '0']",[],[],[],1.85
+30.01.,Vankan M.,2,,,,,,"['1', '0', '3', '0']","['3', '4', '4', '5', '6', '5']",[],[],[],-
+30.01.,Paty D.,0,,,,,,[],"['3', '1', '5', '3']",[],[],[],-
+22.01.,Bouquet L.,2,,,,,,"['1', '3']","['2', '0', '6', '4']","['2', '0', '4', '0', '6', '2']",[],[],-
+22.01.,Vankan M.,1,,,,,,"['1', '0', '3', '0', '4', '1']","['2', '3']","['1', '4']",[],[],-
+07.01.,Reco A.,1,,,,,,"['2', '2', '4', '2', '6', '2']","['2', '0']",[],[],[],-
+07.01.,Vankan M.,0,,,,,,"['1', '0']",[],[],[],[],-
+26.11.2024,Ribeiro de Almeida G.,2,,,,,,"['3', '3', '7', '5']","['2', '2', '7', '5']",[],[],[],1.99
+26.11.2024,Vankan M.,0,,,,,,"['3', '2']","['1', '0']",[],[],[],1.73
+21.11.2024,Rodriguez L. J.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '4', '0', '6', '4']",[],[],[],1.64
+21.11.2024,Vankan M.,0,,,,,,[],"['1', '4', '4', '5']",[],[],[],2.14
+19.11.2024,Vankan M.,2,,,,,,"['3', '1', '7', '5']","['3', '1', '5', '1']",[],[],[],-
+19.11.2024,Centurion Delvalle J. I.,0,,,,,,"['4', '5']",[],[],[],[],-
+23.10.2024,Sarksian D.,2,,,,,,"['5', '4']",[],"['4', '2']",[],[],2.75
+23.10.2024,Vankan M.,1,,,,,,[],[],[],[],[],1.41
+15.10.2024,Kukasian A.,2,,,,,,"['4', '3']",[],"['4', '2']",[],[],2.50
+15.10.2024,Vankan M.,1,,,,,,[],"['4', '2']","['3', '4']",[],[],1.48

@@ -1,48 +1,31 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Überlingen (Germany),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 2 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 2 (Serbia),clay,header
-26.04.2024,Maute J.,0,,,,,,[],[],[],[],[],0
-26.04.2024,Radjenovic V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Nussloch (Germany),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-24.11.2023,Maute J.,1,,,,,,[],[],[],[],[],0
-24.11.2023,Gea A.,2,,,,,,[],[],[],[],[],0
-22.11.2023,Maute J.,2,,,,,,[],[],[],[],[],0
-22.11.2023,Freund S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-15.11.2023,Maute J.,0,,,,,,[],[],[],[],[],0
-15.11.2023,Knaff A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Al Zahra 2 (Kuwait),hard,header
-01.11.2023,Maute J.,0,,,,,,[],[],[],[],[],0
-01.11.2023,Schell N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Al Zahra (Kuwait),hard,header
-25.10.2023,Maute J.,0,,,,,,[],[],[],[],[],0
-25.10.2023,Butulija B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 40 (Tunisia),hard,header
-05.10.2023,Maute J.,1,,,,,,[],[],[],[],[],0
-05.10.2023,Andre S.,2,,,,,,[],[],[],[],[],0
-04.10.2023,Maute J.,2,,,,,,[],[],[],[],[],0
-04.10.2023,Bhangdia J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-27.09.2023,Maute J.,0,,,,,,[],[],[],[],[],0
-27.09.2023,Lobanov A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Allershausen (Germany),clay,header
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Ueberlingen (Germany),clay,header
-ATP - SINGLES Stuttgart (Germany) - Qualification,grass,header
-04.06.2022,Maute J.,0,,,,,,6,2,63%,78% (31/40),39% (9/23),40% (2/5),13% (4/31),29% (6/21),0% (0/0),63% (40/63),19% (10/52),43% (50/115),70% (7/10),0% (0/9),37% (7/19),[],[],[],[],[],0
-04.06.2022,Moraing M.,2,,,,,,17,1,60%,87% (27/31),71% (15/21),0% (0/0),23% (9/40),61% (14/23),60% (3/5),81% (42/52),37% (23/63),57% (65/115),100% (9/9),30% (3/10),63% (12/19),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-19.01.2022,Maute J.,0,,,,,,[],[],[],[],[],0
-19.01.2022,Bourgois C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-11.11.2021,Maute J.,0,,,,,,[],[],[],[],[],0
-11.11.2021,Musialek A.,1,,,,,,[],[],[],[],[],0
-10.11.2021,Maute J.,2,,,,,,[],[],[],[],[],0
-10.11.2021,Trinker J.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+20.08.,Nagel A.,2,,,,,,"['2', '4', '5', '5']","['1', '0', '5', '2']","['3', '2', '5', '4']",[],[],1.35
+20.08.,Maute J.,1,,,,,,"['2', '1', '4', '1']","['3', '5']","['3', '3']",[],[],2.99
+14.08.2024,Gavrielides L.,2,,,,,,"['2', '0']","['2', '3', '5', '4']",[],[],[],1.25
+14.08.2024,Maute J.,0,,,,,,[],"['2', '0']",[],[],[],3.69
+26.06.2024,Purtseladze S.,2,,,,,,"['2', '1', '4', '1', '6', '1']",[],"['1', '0']",[],[],1.54
+26.06.2024,Maute J.,1,,,,,,[],"['1', '0', '4', '1', '6', '1']",[],[],[],2.36
+24.01.2024,Masur D.,2,,,,,,"['2', '3']","['3', '2']","['1', '0', '5', '2']",[],[],1.07
+24.01.2024,Maute J.,1,,,,,,"['3', '1', '7', '5']",[],[],[],[],7.38
+01.09.2023,Oetzbach A.,2,,,,,,"['2', '1', '4', '1']","['4', '3', '6', '3']",[],[],[],1.41
+01.09.2023,Maute J.,0,,,,,,[],[],[],[],[],2.74
+31.08.2023,Maute J.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],2.60
+31.08.2023,Majdandzic M.,0,,,,,,"['3', '5']",[],[],[],[],1.45
+30.08.2023,Maute J.,2,,,,,,"['2', '1', '3', '2', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],2.27
+30.08.2023,Lipp M.,0,,,,,,"['2', '2', '3', '3']",[],[],[],[],1.58
+25.08.2023,Schonenberg T.,2,,,,,,"['1', '0', '3', '0', '5', '0']",[],"['2', '2', '6', '4']",[],[],1.93
+25.08.2023,Maute J.,1,,,,,,[],[],"['2', '1']",[],[],1.78
+24.08.2023,Maute J.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['4', '2', '7', '5']",[],[],[],2.01
+24.08.2023,Henning B.,0,,,,,,[],"['3', '4']",[],[],[],1.72
+23.08.2023,Maute J.,2,,,,,,"['1', '3']",[],"['1', '0', '3', '0', '6', '3']",[],[],6.59
+23.08.2023,Sharipov M.,1,,,,,,"['1', '0', '3', '0', '4', '1']",[],"['2', '4']",[],[],1.08
+17.08.2022,Homberg M.,1,,,,,,"['1', '1', '2', '2', '4', '4', '6', '6']","['2', '1', '4', '3', '5', '4']","['1', '0']",[],[],2.23
+17.08.2022,Maute J.,1,,,,,,"['1', '0', '2', '1', '4', '3', '6', '5']","['2', '2', '4', '4']",[],[],[],1.61
+04.06.2022,Moraing M.,2,,,,,,17,1,60%,87% (27/31),71% (15/21),0% (0/0),23% (9/40),61% (14/23),60% (3/5),81% (42/52),37% (23/63),57% (65/115),100% (9/9),30% (3/10),63% (12/19),"['2', '1', '4', '1', '6', '1']",[],[],[],[],1.01
+04.06.2022,Maute J.,0,,,,,,6,2,63%,78% (31/40),39% (9/23),40% (2/5),13% (4/31),29% (6/21),0% (0/0),63% (40/63),19% (10/52),43% (50/115),70% (7/10),0% (0/9),37% (7/19),[],[],[],[],[],18.00
+18.05.2022,Skorilas A.,1,,,,,,[],[],[],[],[],2.63
+18.05.2022,Maute J.,0,,,,,,[],[],[],[],[],1.47
+11.05.2022,Nusdeo J. M.,2,,,,,,[],[],[],[],[],5.00
+11.05.2022,Maute J.,1,,,,,,[],[],[],[],[],1.16
+05.01.2022,Krumich M.,2,,,,,,[],"['4', '2', '6', '2']","['1', '1', '5', '3']",[],[],1.16
+05.01.2022,Maute J.,1,,,,,,[],[],"['1', '0']",[],[],5.05

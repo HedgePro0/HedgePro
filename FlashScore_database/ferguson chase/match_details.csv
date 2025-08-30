@@ -1,71 +1,39 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Wuning 2 (China),hard,header
-31.07.,Ferguson C.,0,,,,,,[],[],[],[],[],0
-31.07.,Kikuchi Y.,2,,,,,,[],[],[],[],[],0
-30.07.,Ferguson C.,2,,,,,,[],[],[],[],[],0
-30.07.,Tan J. D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wuning (China),hard,header
-25.07.,Ferguson C.,0,,,,,,[],[],[],[],[],0
-25.07.,Sumizawa D.,2,,,,,,[],[],[],[],[],0
-24.07.,Ferguson C.,2,,,,,,[],[],[],[],[],0
-24.07.,Nima D.,1,,,,,,[],[],[],[],[],0
-22.07.,Ferguson C.,2,,,,,,[],[],[],[],[],0
-22.07.,Chen C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Pathom (Thailand),hard,header
-17.07.,Ferguson C.,0,,,,,,[],[],[],[],[],0
-17.07.,Shiraishi H.,2,,,,,,[],[],[],[],[],0
-15.07.,Ferguson C.,2,,,,,,[],[],[],[],[],0
-15.07.,Koaykul K.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Changwon (South Korea),hard,header
-ITF MEN - SINGLES M15 Andong (South Korea),hard,header
-22.05.,Ferguson C.,0,,,,,,[],[],[],[],[],0
-22.05.,Chung Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-ITF MEN - SINGLES M25 Anning (China),clay,header
-ITF MEN - SINGLES M15 Luan 3 (China),hard,header
-ITF MEN - SINGLES M15 Nonthaburi 2 (Thailand),hard,header
-ITF MEN - SINGLES M15 Nonthaburi (Thailand),hard,header
-ITF MEN - SINGLES M25 Launceston (Australia),hard,header
-ITF MEN - SINGLES M25 Burnie (Australia),hard,header
-ITF MEN - SINGLES M25 Bali 3 (Indonesia),hard,header
-ITF MEN - SINGLES M25 Carrara (Australia),hard,header
-27.11.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-27.11.2024,Mott B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Brisbane (Australia),hard,header
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-16.07.2024,Ferguson C.,1,,,,,,[],[],[],[],[],0
-16.07.2024,Navasirisomboon J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-10.07.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-10.07.2024,Boosarawongse T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-05.07.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-05.07.2024,Becroft I.,2,,,,,,[],[],[],[],[],0
-04.07.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-04.07.2024,Jones M.,1,,,,,,[],[],[],[],[],0
-03.07.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Auytayakul S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Anseong (South Korea),clay,header
-15.06.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-15.06.2024,Ozolins K.,2,,,,,,[],[],[],[],[],0
-14.06.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-14.06.2024,Shin W.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-13.06.2024,Tajima N.,0,,,,,,[],[],[],[],[],0
-12.06.2024,Fukuda S.,1,,,,,,[],[],[],[],[],0
-12.06.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Daegu (South Korea),hard,header
-05.06.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-05.06.2024,Lee D. H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-30.05.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-30.05.2024,Te R.,2,,,,,,[],[],[],[],[],0
-29.05.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-29.05.2024,Lu P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Anning (China),clay,header
-24.05.2024,Ferguson C.,0,,,,,,[],[],[],[],[],0
-24.05.2024,Bai Y.,2,,,,,,[],[],[],[],[],0
-23.05.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-23.05.2024,Jin Y.,0,,,,,,[],[],[],[],[],0
-22.05.2024,Ferguson C.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Chang Tsu Li,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Wang X.,2,,,,,,"['5', '3']","['3', '2']",[],[],[],21.0
+13.08.,Ferguson C.,0,,,,,,[],[],[],[],[],1.82
+04.06.,Nam Ji S.,2,,,,,,"['2', '0', '4', '4']","['5', '4']",[],[],[],1.23
+04.06.,Ferguson C.,0,,,,,,"['1', '2', '4', '3']",[],[],[],[],3.81
+20.05.,Ferguson C.,2,,,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],1.45
+20.05.,Ogura K.,0,,,,,,[],[],[],[],[],2.59
+08.05.,Kubler J.,2,,,,,,"['2', '0', '5', '3']","['4', '3', '6', '3']",[],[],[],1.08
+08.05.,Ferguson C.,0,,,,,,"['1', '2']",[],[],[],[],6.50
+06.05.,Ferguson C.,2,,,,,,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],-
+06.05.,Zhu Z.,0,,,,,,[],[],[],[],[],-
+01.05.,Haliak M.,2,,,,,,"['3', '3', '5', '3']","['3', '2', '5', '4']",[],[],[],1.69
+01.05.,Ferguson C.,0,,,,,,"['3', '2']","['4', '4']",[],[],[],2.08
+29.04.,Ferguson C.,2,,,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],1.65
+29.04.,Vithoontien L.,0,,,,,,[],[],[],[],[],2.13
+22.04.,Leong M. W. K.,2,,,,,,"['1', '1', '6', '4']","['3', '1', '5', '1']",[],[],[],1.50
+22.04.,Ferguson C.,0,,,,,,"['1', '0']",[],[],[],[],2.44
+20.03.,Ferguson C.,2,,,,,,[],"['2', '2', '6', '4']","['2', '0', '3', '1', '6', '2']",[],[],1.29
+20.03.,Malaszszak M.,1,,,,,,"['5', '4']","['2', '1']","['1', '2']",[],[],3.32
+18.03.,Ferguson C.,2,,,,,,"['3', '1']","['3', '2', '5', '2']",[],[],[],2.14
+18.03.,Lee D. H.,0,,,,,,[],[],[],[],[],1.64
+12.03.,Tabacco G.,2,,,,,,"['1', '0', '3', '2', '6', '3']","['3', '3', '5', '3']",[],[],[],1.55
+12.03.,Ferguson C.,0,,,,,,"['1', '1']","['3', '2']",[],[],[],2.33
+26.02.,Bouzige M.,2,,,,,,"['3', '2']","['3', '1', '4', '2']","['1', '0', '3', '2', '6', '3']",[],[],1.53
+26.02.,Ferguson C.,1,,,,,,"['4', '4']","['2', '3']","['1', '1']",[],[],2.37
+20.02.,Jasika O.,2,,,,,,"['1', '1', '5', '5']","['4', '3']",[],[],[],1.05
+20.02.,Ferguson C.,0,,,,,,"['1', '0', '2', '1']",[],[],[],[],7.60
+19.02.,Ferguson C.,2,,,,,,[],"['3', '1']",[],[],[],2.75
+19.02.,Sinclair C.,0,,,,,,[],[],[],[],[],1.41
+04.01.,Chung H.,2,,,,,,"['1', '2', '3', '2']","['1', '0']","['2', '2', '4', '2', '6', '2']",[],[],1.28
+04.01.,Ferguson C.,1,,,,,,"['2', '0']","['2', '2', '5', '3']","['1', '0']",[],[],3.40
+03.01.,Ferguson C.,2,,,,,,"['3', '3', '5', '3']",[],"['2', '3']",[],[],4.43
+03.01.,Echargui M.,1,,,,,,"['2', '1']","['4', '2', '6', '2']","['3', '1']",[],[],1.18
+02.01.,Ferguson C.,2,,,,,,"['5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.95
+02.01.,Sumizawa D.,0,,,,,,[],"['1', '3']",[],[],[],1.76
+01.01.,Ferguson C.,2,,,,,,[],"['1', '1', '2', '2', '5', '3']","['1', '0', '6', '3']",[],[],2.94
+01.01.,Lee D. H.,1,,,,,,"['3', '2', '5', '2']","['1', '0', '2', '1']",[],[],[],1.36
+13.11.2024,Bradshaw J.,2,,,,,,[],"['4', '2']",[],[],[],1.24
+13.11.2024,Ferguson C.,0,,,,,,[],[],[],[],[],3.72

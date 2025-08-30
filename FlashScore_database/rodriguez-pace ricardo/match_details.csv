@@ -1,54 +1,59 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Santa Tecla 2 (El Salvador),hard,header
-26.07.,Rodriguez R.,0,,,,,,[],[],[],[],[],0
-26.07.,Fellin P. O.,2,,,,,,[],[],[],[],[],0
-25.07.,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-25.07.,Schachter N.,0,,,,,,[],[],[],[],[],0
-24.07.,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-24.07.,Jauregui Sainz De Rozas R.,0,,,,,,[],[],[],[],[],0
-23.07.,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-23.07.,Ogura K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santa Tecla (El Salvador),hard,header
-18.07.,Rodriguez R.,0,,,,,,[],[],[],[],[],0
-18.07.,Fellin P. O.,2,,,,,,[],[],[],[],[],0
-17.07.,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-17.07.,Kawachi K.,1,,,,,,[],[],[],[],[],0
-15.07.,Rodriguez R.,1,,,,,,[],[],[],[],[],0
-15.07.,Giunta M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Orlando,clay,header
-ITF MEN - SINGLES M15 Villahermosa (Mexico),hard,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M25 Calabasas,hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Santo Domingo 4 (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M15 Guatemala 2 (Guatemala),hard,header
-ITF MEN - SINGLES M15 Guatemala (Guatemala),hard,header
-ITF MEN - SINGLES M15 Monastir 38 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 37 (Tunisia),hard,header
-11.09.2024,Rodriguez R.,1,,,,,,[],[],[],[],[],0
-11.09.2024,Philibert N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 36 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 35 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 34 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 2 (Mexico),hard,header
-ATP - SINGLES Davis Cup - Group III (World) - Promotion,-,header
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M15 Kingston 3 (Jamaica),hard,header
-30.05.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],0
-30.05.2024,Grant W.,2,,,,,,[],[],[],[],[],0
-29.05.2024,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-29.05.2024,Benaim M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kingston (Jamaica),hard,header
-17.05.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],0
-17.05.2024,Fishback R.,2,,,,,,[],[],[],[],[],0
-16.05.2024,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-16.05.2024,Phillips J.,1,,,,,,[],[],[],[],[],0
-15.05.2024,Rodriguez R.,2,,,,,,[],[],[],[],[],0
-15.05.2024,Sheehy J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Villahermosa (Mexico),hard,header
-10.05.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],0
-10.05.2024,Rubio Fierros A. F.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+12.06.,Danilov S.,0,,,,,,"['1', '0', '3', '0']",[],[],[],[],-
+12.06.,Rodriguez R.,0,,,,,,[],[],[],[],[],-
+11.06.,Rodriguez R.,2,,,,,,"['1', '0', '2', '1', '4', '1', '6', '3']","['3', '1', '5', '1']",[],[],[],4.38
+11.06.,Kuhar M.,0,,,,,,"['1', '1', '2', '4']",[],[],[],[],1.18
+14.05.,Shick B.,2,,,,,,"['3', '1', '6', '4']","['2', '0', '6', '2']",[],[],[],1.53
+14.05.,Rodriguez R.,0,,,,,,"['4', '5']",[],[],[],[],2.37
+09.05.,Martin D.,2,,,,,,"['4', '2']","['1', '0', '2', '1', '6', '3']",[],[],[],1.07
+09.05.,Rodriguez R.,0,,,,,,[],"['1', '1']",[],[],[],6.60
+09.05.,Rodriguez R.,2,,,,,,"['2', '1', '6', '5']","['3', '2', '5', '2']",[],[],[],4.85
+09.05.,Fishback R.,0,,,,,,"['5', '5']","['3', '5', '5', '5']",[],[],[],1.14
+07.05.,Rodriguez R.,2,,,,,,"['2', '3', '4', '5']","['2', '0', '4', '0', '6', '0']","['2', '2', '3', '3', '5', '3']",[],[],1.06
+07.05.,Quiros Monterrey A.,1,,,,,,"['3', '1', '5', '3']",[],"['1', '0', '3', '2']",[],[],7.20
+23.04.,Palavestra I.,2,,,,,,"['4', '4', '7', '5']","['3', '1', '5', '3', '7', '5']",[],[],[],-
+23.04.,Rodriguez R.,0,,,,,,"['2', '1']","['3', '4', '4', '5']",[],[],[],-
+27.03.,Blanch Dar.,2,,,,,,"['3', '1', '5', '1']","['1', '2', '3', '2', '4', '3']",[],[],[],1.02
+27.03.,Rodriguez R.,0,,,,,,[],"['2', '0', '3', '3']",[],[],[],9.80
+26.03.,Rodriguez R.,2,,,,,,"['3', '3', '6', '4']","['2', '2', '4', '4', '6', '6']","['3', '2', '5', '2']",[],[],4.90
+26.03.,McKennon M.,1,,,,,,"['2', '1']","['2', '1', '4', '3', '6', '5']",[],[],[],1.14
+18.03.,Brumm J.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0', '4', '1']",[],[],[],1.18
+18.03.,Rodriguez R.,0,,,,,,[],"['1', '3']",[],[],[],4.43
+31.01.,Lajal M.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.02
+31.01.,Rodriguez R.,0,,,,,,[],[],[],[],[],15.00
+28.11.2024,Xilas I.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.39
+28.11.2024,Rodriguez R.,0,,,,,,"['1', '0']",[],[],[],[],2.81
+21.11.2024,Vithoontien L.,2,,,,,,"['3', '3', '5', '3']","['2', '1', '4', '1']",[],[],[],1.32
+21.11.2024,Rodriguez R.,0,,,,,,"['3', '2']",[],[],[],[],3.14
+20.11.2024,Rodriguez R.,2,,,,,,[],"['1', '1', '4', '2', '6', '4']","['3', '1', '6', '2']",[],[],3.32
+20.11.2024,Simonsson F.,1,,,,,,"['4', '2']","['1', '0', '3', '4']",[],[],[],1.29
+15.11.2024,McCormick T.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.11
+15.11.2024,Rodriguez R.,0,,,,,,"['3', '4']",[],[],[],[],5.80
+14.11.2024,Rodriguez R.,2,,,,,,"['4', '3', '6', '3']","['3', '1']","['4', '4']",[],[],2.08
+14.11.2024,Alvarado Berrospi A. O.,1,,,,,,[],"['2', '3', '4', '3']","['1', '0']",[],[],1.69
+13.11.2024,Rodriguez R.,2,,,,,,[],"['4', '2']","['6', '4']",[],[],3.40
+13.11.2024,Suarez B.,1,,,,,,[],"['4', '5', '6', '5']",[],[],[],1.28
+07.11.2024,Fenty A.,2,,,,,,"['1', '1', '3', '1']","['2', '1', '4', '3']",[],[],[],1.08
+07.11.2024,Rodriguez R.,0,,,,,,"['1', '0']","['3', '3']",[],[],[],6.50
+05.11.2024,Rodriguez R.,2,,,,,,"['3', '4']","['2', '2', '4', '2', '5', '3']",[],[],[],1.19
+05.11.2024,Hernandez Mariona K.,0,,,,,,"['2', '0']","['1', '0', '3', '4']",[],[],[],4.23
+17.09.2024,Loge J.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0']",[],[],[],1.12
+17.09.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],5.51
+04.09.2024,Larue L.,2,,,,,,"['2', '0', '4', '2']","['3', '2']",[],[],[],3.37
+04.09.2024,Rodriguez R.,0,,,,,,"['2', '3']",[],[],[],[],1.29
+28.08.2024,Campese C.,2,,,,,,"['4', '2', '5', '3']","['2', '1', '3', '2']",[],[],[],5.51
+28.08.2024,Rodriguez R.,0,,,,,,"['3', '4']","['2', '2']",[],[],[],1.12
+21.08.2024,Gabashvili T.,2,,,,,,"['6', '6']","['4', '3', '6', '3']",[],[],[],-
+21.08.2024,Rodriguez R.,0,,,,,,"['6', '5']",[],[],[],[],-
+30.07.2024,Perez B.,1,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],[],2.30
+30.07.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],1.57
+24.07.2024,Osorio J. S.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['4', '2']",[],[],[],1.81
+24.07.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],1.91
+22.06.2024,Rodriguez R.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+22.06.2024,Evans G.,0,,,,,,"['2', '0']",[],[],[],[],-
+21.06.2024,Rodriguez R.,2,,,,,,"['1', '0', '3', '2']","['1', '0', '4', '3', '6', '3']","['5', '3', '6', '4']",[],[],3.13
+21.06.2024,Roberts J.,1,,,,,,"['1', '1', '4', '4', '6', '4']","['3', '3']","['4', '5']",[],[],1.34
+19.06.2024,Rodriguez R.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '2']","['3', '3', '6', '6']",[],[],1.26
+19.06.2024,Winstead C.,1,,,,,,[],"['2', '2', '3', '3', '5', '3']","['2', '1', '6', '5']",[],[],3.72
+18.06.2024,Vallejo D.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+18.06.2024,Rodriguez R.,0,,,,,,[],[],[],[],[],-

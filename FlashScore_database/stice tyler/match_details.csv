@@ -1,34 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Santo Domingo (Dominican Republic),hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-ITF MEN - SINGLES M25 Santo Domingo (Dominican Republic),hard,header
-18.03.,Stice T.,2,,,,,,[],[],[],[],[],0
-18.03.,Kuzuhara B.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Huamantla 5 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 4 (Mexico),hard,header
-ITF MEN - SINGLES M15 Palm Coast,clay,header
-ITF MEN - SINGLES M15 Madrid 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Alcala de Henares (Spain),hard,header
-ITF MEN - SINGLES M15 Antalya 17 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Sintra (Portugal),hard,header
-ITF MEN - SINGLES M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Budapest (Hungary),hard,header
-ITF MEN - SINGLES M25 Southaven,hard,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M15 Norman,hard,header
-26.10.2023,Stice T.,1,,,,,,[],[],[],[],[],0
-26.10.2023,Fishback R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES M25 Southaven,hard,header
-ITF MEN - SINGLES M15 Pittsburgh,clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Zakaria F.,1,,,,,,"['2', '2', '3', '3', '5', '3']","['3', '2']",[],[],[],20.0
+13.08.,Stice T.,0,,,,,,"['2', '1', '3', '2']",[],[],[],[],1.75
+15.07.,Razeghi A.,2,,,,,,[],[],[],[],[],1.43
+15.07.,Stice T.,0,,,,,,[],[],[],[],[],2.66
+11.06.,Rivera H.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],1.54
+11.06.,Stice T.,0,,,,,,[],[],[],[],[],2.38
+06.06.,Tarvet O.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1']",[],[],[],1.12
+06.06.,Stice T.,0,,,,,,[],[],[],[],[],5.45
+05.06.,Stice T.,2,,,,,,[],[],"['6', '5']",[],[],2.11
+05.06.,Hulme M.,1,,,,,,"['3', '1']",[],"['6', '6']",[],[],1.66
+03.06.,Stice T.,2,,,,,,"['2', '0', '3', '1', '5', '3', '6', '6']","['3', '2', '5', '2']",[],[],[],2.32
+03.06.,Schachter N.,0,,,,,,"['1', '2', '3', '4', '4', '5', '6', '5']",[],[],[],[],1.55
+28.05.,Schachter N.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '4', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.68
+28.05.,Stice T.,1,,,,,,"['2', '4']","['1', '1', '3', '1', '7', '5']",[],[],[],2.09
+26.03.,Arseneault N.,2,,,,,,"['3', '4', '6', '5']","['1', '0', '3', '0', '6', '3']",[],[],[],1.39
+26.03.,Stice T.,0,,,,,,"['2', '0']","['3', '5']",[],[],[],2.81
+20.03.,Brunclik P.,2,,,,,,"['3', '3', '7', '5']","['2', '0', '6', '4']",[],[],[],1.21
+20.03.,Stice T.,0,,,,,,"['1', '0']","['1', '2']",[],[],[],4.04
+05.03.,Hernandez A.,2,,,,,,"['1', '1', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.23
+05.03.,Stice T.,0,,,,,,"['1', '0']",[],[],[],[],3.81
+01.03.,Tudorica A. N.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.27
+01.03.,Stice T.,0,,,,,,[],[],[],[],[],3.46
+28.02.,Stice T.,2,,,,,,"['2', '1', '4', '1']","['4', '5']","['5', '3']",[],[],2.66
+28.02.,Fellin P. O.,1,,,,,,[],"['2', '0']",[],[],[],1.43
+27.02.,Stice T.,2,,,,,,"['2', '1', '5', '2']","['2', '3', '5', '4']",[],[],[],1.67
+27.02.,Buitrago N.,0,,,,,,[],"['3', '1']",[],[],[],2.10
+25.02.,Stice T.,2,,,,,,"['1', '0']",[],[],[],[],1.23
+25.02.,Alvarado Berrospi A. O.,0,,,,,,[],[],[],[],[],3.81
+28.01.,Jones M.,2,,,,,,"['2', '4']","['2', '0', '6', '2']","['2', '0', '5', '5', '7', '5']",[],[],1.57
+28.01.,Stice T.,1,,,,,,"['1', '0', '3', '0']",[],"['1', '2', '4', '3']",[],[],2.28
+27.11.2024,Guerrieri A.,2,,,,,,"['1', '1', '4', '2', '6', '4']","['3', '1', '5', '1']",[],[],[],1.20
+27.11.2024,Stice T.,0,,,,,,"['1', '0', '3', '4']",[],[],[],[],4.14
+20.11.2024,Delage P.,2,,,,,,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.75
+20.11.2024,Stice T.,0,,,,,,[],[],[],[],[],1.96
+13.11.2024,Saritas G.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],1.54
+13.11.2024,Stice T.,0,,,,,,"['2', '4']","['1', '1', '2', '2', '3', '5']",[],[],[],2.35
+05.11.2024,Bennani K.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['1', '2', '3', '2', '6', '3']",[],[],[],1.45
+05.11.2024,Stice T.,0,,,,,,"['1', '0']","['2', '0']",[],[],[],2.58
+18.10.2024,Ayeni A.,2,,,,,,"['2', '0', '3', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.69
+18.10.2024,Stice T.,0,,,,,,"['1', '2', '2', '3']",[],[],[],[],2.09
+17.10.2024,Stice T.,2,,,,,,[],"['3', '2', '5', '2']","['1', '0', '2', '1', '4', '1']",[],[],1.31
+17.10.2024,Banthia S.,1,,,,,,"['3', '1', '6', '2']",[],"['1', '1']",[],[],3.38
+10.10.2024,Bourgue M.,2,,,,,,"['2', '0', '5', '5', '7', '5']","['2', '0', '4', '2', '6', '4']",[],[],[],1.26
+10.10.2024,Stice T.,0,,,,,,"['1', '2', '4', '3']","['2', '3', '3', '4']",[],[],[],3.54
+10.10.2024,Stice T.,2,,,,,,"['1', '2', '4', '3']","['3', '2', '5', '2']",[],[],[],1.17
+10.10.2024,Marques G.,0,,,,,,"['2', '0']",[],[],[],[],4.48
+08.09.2024,Stice T.,2,,,,,,"['2', '1']","['4', '4', '7', '5']","['4', '4', '6', '4']",[],[],2.53
+08.09.2024,Rossi L.,1,,,,,,"['3', '3', '5', '3']","['1', '0']","['2', '1']",[],[],1.48
+07.09.2024,Stice T.,2,,,,,,"['2', '1']","['1', '3', '3', '5', '5', '5', '7', '5']","['7', '5']",[],[],2.26
+07.09.2024,Jordan P.,1,,,,,,"['3', '3', '5', '3']","['1', '0', '3', '0', '5', '2']",[],[],[],1.59
+06.09.2024,Stice T.,2,,,,,,"['2', '1', '3', '4', '4', '5']","['5', '3']","['4', '3', '6', '3']",[],[],1.45
+06.09.2024,Krajci M.,1,,,,,,"['2', '2', '4', '2', '5', '3']",[],[],[],[],2.62
+05.09.2024,Stice T.,2,,,,,,[],"['1', '1', '3', '3', '6', '4']","['4', '2', '5', '3']",[],[],2.68
+05.09.2024,Kimhi O.,1,,,,,,"['3', '1', '5', '1']","['1', '0', '2', '1']","['3', '4']",[],[],1.43
+04.09.2024,Stice T.,2,,,,,,"['2', '1', '6', '5']","['3', '4', '6', '5']",[],[],[],1.20
+04.09.2024,Sallay P.,0,,,,,,"['3', '3']","['2', '0', '6', '6']",[],[],[],4.17
+27.08.2024,Poling K.,2,,,,,,"['1', '1', '2', '2', '5', '3']","['2', '1', '6', '3']",[],[],[],1.29
+27.08.2024,Stice T.,0,,,,,,"['1', '0', '2', '1']",[],[],[],[],3.37
+08.08.2024,Zheng M.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '3', '1']",[],[],[],1.12
+08.08.2024,Stice T.,0,,,,,,[],"['1', '2']",[],[],[],5.51
+06.08.2024,Stice T.,2,,,,,,"['3', '1', '5', '1', '6', '4']","['3', '1', '5', '3', '6', '4']",[],[],[],4.51
+06.08.2024,Nanda G.,0,,,,,,"['2', '5', '4', '5']","['2', '3', '4', '5']",[],[],[],1.18
+17.07.2024,Grant W.,2,,,,,,"['5', '5']","['1', '0', '3', '4', '6', '5']",[],[],[],1.37
+17.07.2024,Stice T.,0,,,,,,"['1', '0']","['1', '1', '4', '2']",[],[],[],2.99
+03.11.2023,Johns G.,2,,,,,,"['1', '0', '4', '1', '5', '2']","['3', '2', '5', '2']",[],[],[],1.34
+03.11.2023,Stice T.,0,,,,,,"['2', '4']",[],[],[],[],3.04
+02.11.2023,Stice T.,2,,,,,,"['6', '5']","['2', '1', '6', '3']",[],[],[],1.69
+02.11.2023,Sheehy J.,0,,,,,,[],[],[],[],[],2.05
+01.11.2023,Stice T.,2,,,,,,"['1', '1']","['1', '0', '3', '0']","['3', '1', '6', '2']",[],[],1.80
+01.11.2023,Alvarez Valdes L. C.,1,,,,,,"['1', '0']","['2', '4', '4', '4']",[],[],[],1.91
+25.10.2023,Stice T.,2,,,,,,"['3', '1', '5', '1']",[],"['2', '0']",[],[],2.27
+25.10.2023,Whitehouse M.,1,,,,,,[],"['3', '1']",[],[],[],1.58
+09.09.2023,Kaukovalta P.,2,,,,,,[],[],[],[],[],1.44
+09.09.2023,Stice T.,0,,,,,,[],[],[],[],[],2.63
+08.09.2023,Stice T.,2,,,,,,[],[],[],[],[],1.54
+08.09.2023,Summers M.,1,,,,,,[],[],[],[],[],2.36

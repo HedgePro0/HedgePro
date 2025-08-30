@@ -1,55 +1,67 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-15.07.,Kountourakis I.,1,,,,,,[],[],[],[],[],0
-15.07.,Caripi V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M25 Belgrade (Serbia),clay,header
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-CHALLENGER MEN - SINGLES Hersonissos 2 (Greece) - Qualification,hard,header
-09.03.,Kountourakis I.,0,,,,,,4,6,49%,52% (12/23),46% (11/24),43% (3/7),22% (8/36),43% (9/21),0% (0/4),49% (23/47),30% (17/57),38% (40/104),4,1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],0
-09.03.,Serafini M.,2,,,,,,1,2,63%,78% (28/36),57% (12/21),100% (4/4),48% (11/23),54% (13/24),57% (4/7),70% (40/57),51% (24/47),62% (64/104),6,0,100% (8/8),57% (4/7),80% (12/15),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 5 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-18.09.2024,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-18.09.2024,Tiurnev E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-13.03.2024,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Djuric B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh (Egypt),hard,header
-31.01.2024,Kountourakis I.,1,,,,,,[],[],[],[],[],0
-31.01.2024,Whitehouse M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M25 Heraklion 3 (Greece),hard,header
-29.11.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-29.11.2023,Benaim M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Heraklion (Greece),hard,header
-01.11.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-01.11.2023,Dalla Valle E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-25.10.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-25.10.2023,Den Ouden G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 3 (Greece),hard,header
-19.10.2023,Kountourakis I.,1,,,,,,[],[],[],[],[],0
-19.10.2023,Pontjodikromo S.,2,,,,,,[],[],[],[],[],0
-18.10.2023,Kountourakis I.,2,,,,,,[],[],[],[],[],0
-18.10.2023,Ng K. L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 9 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 8 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 7 (Serbia),clay,header
-ITF MEN - SINGLES M15 Heraklion 9 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 8 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 3 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 8 (Greece),hard,header
-23.11.2021,Kountourakis I.,0,,,,,,[],[],[],[],[],0
-23.11.2021,Wehnelt K.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+17.08.,Potenza L.,2,,,,,,1,0,71%,65% (22/34),79% (11/14),100% (2/2),36% (9/25),79% (19/24),56% (5/9),15,16,100% (2/2),69% (33/48),57% (28/49),63% (61/97),6,0,100% (7/7),71% (5/7),86% (12/14),"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],18.0
+17.08.,Kountourakis I.,0,,,,,,3,7,51%,64% (16/25),21% (5/24),44% (4/9),35% (12/34),21% (3/14),0% (0/2),11,35,40% (2/5),43% (21/49),31% (15/48),37% (36/97),4,1,29% (2/7),0% (0/7),14% (2/14),[],[],[],[],[],1.63
+10.08.,Kimhi O.,2,,,,,,0,0,70%,85% (28/33),57% (8/14),100% (1/1),44% (14/32),53% (18/34),40% (4/10),10,16,100% (3/3),77% (36/47),48% (32/66),60% (68/113),7,0,100% (8/8),44% (4/9),71% (12/17),"['2', '1', '5', '2']","['2', '1', '6', '3']",[],[],[],1.67
+10.08.,Kountourakis I.,0,,,,,,2,3,48%,56% (18/32),47% (16/34),60% (6/10),15% (5/33),43% (6/14),0% (0/1),17,46,50% (7/14),52% (34/66),23% (11/47),40% (45/113),3,0,56% (5/9),0% (0/8),29% (5/17),[],[],[],[],[],19.0
+09.07.,Covato M.,2,,,,,,"['4', '2', '7', '5']",[],[],[],[],2.32
+09.07.,Kountourakis I.,0,,,,,,"['4', '5']",[],[],[],[],1.55
+02.07.,Ouakaa A.,2,,,,,,"['2', '1', '5', '4']","['5', '5']",[],[],[],1.14
+02.07.,Kountourakis I.,0,,,,,,"['4', '4', '5', '5']","['1', '0']",[],[],[],5.00
+11.06.,Falabella L. A.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],-
+11.06.,Kountourakis I.,0,,,,,,"['2', '5']",[],[],[],[],-
+05.06.,Gagliardo L.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '5', '2']",[],[],[],1.20
+05.06.,Kountourakis I.,0,,,,,,[],[],[],[],[],4.14
+04.06.,Kountourakis I.,2,,,,,,"['2', '2']","['6', '4']","['2', '0', '3', '1', '6', '2']",[],[],1.15
+04.06.,Todorovic L.,1,,,,,,"['1', '0', '4', '3']",[],"['1', '2']",[],[],4.80
+28.05.,Kirkin E.,2,,,,,,"['4', '4']","['2', '1']",[],[],[],1.10
+28.05.,Kountourakis I.,0,,,,,,"['2', '1']",[],[],[],[],5.90
+09.05.,Tsitsipas Pe.,2,,,,,,[],"['2', '3', '4', '3']",[],[],[],1.59
+09.05.,Kountourakis I.,0,,,,,,[],"['3', '1']",[],[],[],2.24
+07.05.,Kountourakis I.,2,,,,,,"['6', '5']","['4', '3']",[],[],[],1.92
+07.05.,Host T.,0,,,,,,[],[],[],[],[],1.78
+20.03.,Kuhar M.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '4', '2']",[],[],[],1.33
+20.03.,Kountourakis I.,0,,,,,,[],"['2', '3']",[],[],[],3.09
+19.03.,Kountourakis I.,2,,,,,,"['4', '4']",[],"['4', '2', '6', '2']",[],[],1.50
+19.03.,Horoz A.,1,,,,,,"['4', '3']","['4', '2']",[],[],[],2.44
+09.03.,Serafini M.,2,,,,,,1,2,63%,78% (28/36),57% (12/21),100% (4/4),48% (11/23),54% (13/24),57% (4/7),70% (40/57),51% (24/47),62% (64/104),6,0,100% (8/8),57% (4/7),80% (12/15),"['2', '0', '5', '1']","['1', '0', '3', '0']",[],[],[],1.30
+09.03.,Kountourakis I.,0,,,,,,4,6,49%,52% (12/23),46% (11/24),43% (3/7),22% (8/36),43% (9/21),0% (0/4),49% (23/47),30% (17/57),38% (40/104),4,1,43% (3/7),0% (0/8),20% (3/15),[],[],[],[],[],3.35
+27.02.,Cina F.,2,,,,,,"['1', '1', '4', '2']","['3', '2']",[],[],[],1.03
+27.02.,Kountourakis I.,0,,,,,,"['1', '0']",[],[],[],[],9.10
+26.02.,Kountourakis I.,2,,,,,,"['2', '1']","['2', '0']",[],[],[],-
+26.02.,Derepasko T.,0,,,,,,"['3', '3']",[],[],[],[],-
+05.02.,Balshaw F.,2,,,,,,[],"['3', '2']","['3', '1']",[],[],1.25
+05.02.,Kountourakis I.,1,,,,,,[],"['4', '4']",[],[],[],3.62
+13.12.2024,Safwat M.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],1.10
+13.12.2024,Kountourakis I.,0,,,,,,"['1', '2', '2', '5']",[],[],[],[],6.07
+12.12.2024,Kountourakis I.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1']",[],[],[],-
+12.12.2024,Dzhavakian Y.,0,,,,,,[],[],[],[],[],-
+11.12.2024,Kountourakis I.,2,,,,,,"['1', '0']","['3', '1', '6', '4']",[],[],[],3.81
+11.12.2024,Kroslak J.,0,,,,,,"['3', '3']","['4', '5']",[],[],[],1.23
+28.11.2024,Fajta P.,2,,,,,,"['2', '0']","['3', '2']",[],[],[],1.06
+28.11.2024,Kountourakis I.,0,,,,,,[],"['4', '4']",[],[],[],7.32
+27.11.2024,Kountourakis I.,2,,,,,,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.29
+27.11.2024,Poritskyi A.,0,,,,,,"['2', '4']","['5', '5']",[],[],[],3.32
+16.10.2024,Lavizzari M.,2,,,,,,"['3', '1']","['1', '0', '5', '2']",[],[],[],1.85
+16.10.2024,Kountourakis I.,0,,,,,,"['3', '4']",[],[],[],[],1.85
+28.08.2024,Pisaric A.,2,,,,,,"['3', '4', '6', '5']","['3', '2']",[],[],[],1.35
+28.08.2024,Kountourakis I.,0,,,,,,"['3', '1']",[],[],[],[],3.02
+17.01.2024,Zima L.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '5', '2']",[],[],[],1.31
+17.01.2024,Kountourakis I.,0,,,,,,[],[],[],[],[],3.24
+21.09.2023,Popovic S.,2,,,,,,[],[],[],[],[],1.19
+21.09.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],4.23
+20.09.2023,Kountourakis I.,2,,,,,,[],[],[],[],[],3.22
+20.09.2023,Drinic M.,1,,,,,,[],[],[],[],[],1.31
+13.09.2023,Dancu V. A.,2,,,,,,[],[],[],[],[],1.22
+13.09.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],3.93
+31.08.2023,Obradovic D.,2,,,,,,[],[],[],[],[],1.07
+31.08.2023,Kountourakis I.,0,,,,,,[],[],[],[],[],6.97
+30.08.2023,Kountourakis I.,2,,,,,,[],[],[],[],[],1.74
+30.08.2023,Djosic N.,1,,,,,,[],[],[],[],[],1.98
+08.11.2022,Gima S.,2,,,,,,[],[],[],[],[],1.08
+08.11.2022,Kountourakis I.,1,,,,,,[],[],[],[],[],7.20
+02.11.2022,Mu T.,2,,,,,,[],[],[],[],[],1.10
+02.11.2022,Kountourakis I.,0,,,,,,[],[],[],[],[],6.35
+25.05.2022,Whitehouse M.,2,,,,,,[],[],[],[],[],1.19
+25.05.2022,Kountourakis I.,0,,,,,,[],[],[],[],[],4.52
+18.05.2022,Lajal M.,2,,,,,,[],[],[],[],[],1.05
+18.05.2022,Kountourakis I.,0,,,,,,[],[],[],[],[],9.00

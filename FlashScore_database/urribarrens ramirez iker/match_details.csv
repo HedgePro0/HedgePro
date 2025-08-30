@@ -1,26 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M15 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Tarragona (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M25 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES M15 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Tarragona (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M25 Les Franqueses del Valles (Spain),hard,header
-15.03.,Urribarrens Ramirez I.,0,,,,,,[],[],[],[],[],0
-15.03.,Diez S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M25 Sabadell (Spain),clay,header
-ITF MEN - SINGLES M25 Benicarlo (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES M25 Santander (Spain),clay,header
-ITF MEN - SINGLES M25 Denia (Spain),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.,Simakin I.,2,,,,,,"['7', '5']","['2', '0', '4', '0']",[],[],[],1.11
+10.07.,Urribarrens Ramirez I.,0,,,,,,[],[],[],[],[],5.50
+09.07.,Urribarrens Ramirez I.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '5', '2']",[],[],[],1.01
+09.07.,Bravo A.,0,,,,,,[],"['2', '4']",[],[],[],10.50
+01.07.,Pedrico Kravtsov A.,2,,,,,,"['2', '3', '4', '5', '6', '5']","['1', '0']",[],[],[],1.23
+01.07.,Urribarrens Ramirez I.,0,,,,,,"['2', '0', '4', '2']","['5', '5']",[],[],[],3.81
+24.04.,Bonsach G. K.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.61
+24.04.,Urribarrens Ramirez I.,0,,,,,,[],[],[],[],[],2.20
+23.04.,Urribarrens Ramirez I.,2,,,,,,"['2', '0', '6', '2']","['3', '1', '5', '1']",[],[],[],1.40
+23.04.,Garcia Paez L.,0,,,,,,[],[],[],[],[],2.77
+26.03.,Sanchez Izquierdo N.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.07
+26.03.,Urribarrens Ramirez I.,0,,,,,,"['3', '3']",[],[],[],[],6.70
+21.03.,Martin Tiffon P.,2,,,,,,"['1', '0', '3', '2', '6', '3']","['2', '2', '3', '3', '6', '4']",[],[],[],1.03
+21.03.,Urribarrens Ramirez I.,0,,,,,,"['1', '1']","['2', '1', '3', '2']",[],[],[],9.00
+20.03.,Urribarrens Ramirez I.,2,,,,,,"['2', '0', '3', '1', '7', '5']","['2', '2', '4', '2', '6', '2']",[],[],[],2.20
+20.03.,Wessels L.,0,,,,,,"['1', '2', '2', '3']","['2', '1']",[],[],[],1.61
+17.10.2024,Lopez Morillo I.,2,,,,,,"['1', '0', '4', '1', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],1.06
+17.10.2024,Urribarrens Ramirez I.,0,,,,,,"['3', '5']","['1', '0']",[],[],[],7.50
+15.10.2024,Urribarrens Ramirez I.,2,,,,,,"['4', '2', '5', '3', '6', '4']","['2', '2', '3', '3', '5', '3']",[],[],[],-
+15.10.2024,Talavera Cortes E.,0,,,,,,"['3', '4', '4', '5']","['1', '0', '3', '2']",[],[],[],-
+15.08.2024,Alvarez Varona N.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '4', '1']",[],[],[],1.18
+15.08.2024,Urribarrens Ramirez I.,0,,,,,,[],[],[],[],[],4.51
+14.08.2024,Urribarrens Ramirez I.,2,,,,,,"['2', '0', '5', '1']","['1', '2', '3', '2']",[],[],[],3.24
+14.08.2024,De Schepper K.,0,,,,,,[],"['2', '0']",[],[],[],1.31
+12.08.2024,Urribarrens Ramirez I.,2,,,,,,"['2', '0']","['2', '0', '6', '2']","['4', '2', '5', '3']",[],[],1.09
+12.08.2024,Avendano Cadena M.,1,,,,,,"['2', '3', '6', '5']",[],"['3', '4']",[],[],6.63
+06.08.2024,Plans J.,2,,,,,,"['1', '0', '4', '5', '6', '5']","['1', '1', '3', '1']",[],[],[],2.72
+06.08.2024,Urribarrens Ramirez I.,0,,,,,,"['3', '3', '5', '3', '6', '6']","['1', '0', '4', '5']",[],[],[],1.42
+01.08.2024,Alvarez Varona N.,2,,,,,,"['3', '4']","['4', '2']",[],[],[],1.10
+01.08.2024,Urribarrens Ramirez I.,0,,,,,,"['3', '1']",[],[],[],[],6.09
+31.07.2024,Urribarrens Ramirez I.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['2', '1', '5', '4']",[],[],[],1.51
+31.07.2024,Regas Luis Ni.,0,,,,,,"['1', '3', '3', '5']","['4', '4']",[],[],[],2.45
+12.07.2024,Barroso Campos A.,2,,,,,,"['1', '2', '4', '5']","['3', '2', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],1.09
+12.07.2024,Urribarrens Ramirez I.,1,,,,,,"['2', '0', '3', '1', '6', '4']",[],[],[],[],6.41
+11.07.2024,Urribarrens Ramirez I.,2,,,,,,"['3', '1', '4', '4']","['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],1.58
+11.07.2024,Becerra Otarola I. A.,1,,,,,,"['2', '3', '4', '3', '5', '4']",[],[],[],[],2.28
+09.07.2024,Urribarrens Ramirez I.,2,,,,,,"['1', '1', '4', '4']","['1', '0', '5', '2']","['3', '4', '5', '4']",[],[],5.88
+09.07.2024,Palan D.,1,,,,,,"['1', '0', '3', '2']","['3', '5']","['2', '0']",[],[],1.11
+25.06.2024,Dussin L.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],1.37
+25.06.2024,Urribarrens Ramirez I.,0,,,,,,"['2', '4']","['1', '3']",[],[],[],2.99
+01.05.2024,Radulov I.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['2', '0', '4', '0']","['2', '2', '3', '3', '5', '3']",[],[],1.20
+01.05.2024,Urribarrens Ramirez I.,1,,,,,,"['3', '5']","['1', '4', '3', '4', '5', '4']","['1', '0', '3', '2']",[],[],4.17
+08.11.2023,Zekic M.,2,,,,,,"['1', '0']","['1', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],-
+08.11.2023,Urribarrens Ramirez I.,1,,,,,,"['1', '1', '3', '1', '5', '1']","['1', '0']",[],[],[],-
+27.09.2023,De Krom M.,2,,,,,,"['1', '1', '3', '1', '6', '2']","['2', '0', '5', '3', '6', '4']",[],[],[],1.17
+27.09.2023,Urribarrens Ramirez I.,0,,,,,,"['1', '0']","['3', '4', '4', '5']",[],[],[],4.57
+22.08.2023,Callejon H. S.,2,,,,,,"['1', '0', '2', '1', '4', '1', '5', '2']","['1', '0', '2', '1']","['1', '0', '4', '3', '6', '3']",[],[],1.51
+22.08.2023,Urribarrens Ramirez I.,1,,,,,,"['1', '1', '2', '4']","['1', '1', '2', '2', '4', '2', '6', '2']","['2', '2']",[],[],2.43
+28.07.2023,Vanshelboim E.,2,,,,,,"['2', '1', '5', '2']","['3', '2', '6', '3']",[],[],[],1.23
+28.07.2023,Urribarrens Ramirez I.,0,,,,,,[],[],[],[],[],3.83
+27.07.2023,Urribarrens Ramirez I.,2,,,,,,"['1', '1', '2', '2', '4', '2']","['2', '3']","['2', '1', '6', '3']",[],[],4.62
+27.07.2023,Gill F.,1,,,,,,"['1', '0', '2', '1']","['3', '1', '4', '2', '6', '2']",[],[],[],1.17
+26.07.2023,Urribarrens Ramirez I.,2,,,,,,"['1', '2', '4', '5', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.41
+26.07.2023,Revelli G.,0,,,,,,"['2', '0', '5', '3']",[],[],[],[],2.73
+05.04.2023,Gaubas V.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '2', '3', '2', '5', '2']",[],[],[],1.12
+05.04.2023,Urribarrens Ramirez I.,0,,,,,,"['2', '4']","['2', '0']",[],[],[],5.50

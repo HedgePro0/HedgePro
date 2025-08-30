@@ -1,33 +1,69 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Brisbane (Australia),hard,header
-07.08.,Yamanaka T.,1,,,,,,[],[],[],[],[],0
-07.08.,Aguiard E.,2,,,,,,[],[],[],[],[],0
-06.08.,Yamanaka T.,2,,,,,,[],[],[],[],[],0
-06.08.,Stevens Z.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-31.07.,Yamanaka T.,0,,,,,,[],[],[],[],[],0
-31.07.,Visaya A.,2,,,,,,[],[],[],[],[],0
-29.07.,Yamanaka T.,2,,,,,,[],[],[],[],[],0
-29.07.,Kurniawan L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Luan 6 (China),hard,header
-ITF MEN - SINGLES M15 Luan 5 (China),hard,header
-ITF MEN - SINGLES M15 Luan 4 (China),hard,header
-15.05.,Yamanaka T.,2,,,,,,[],[],[],[],[],0
-15.05.,Isomura K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Osaka 2 (Japan),hard,header
-ITF MEN - SINGLES M15 Osaka (Japan),hard,header
-ITF MEN - SINGLES M15 Kashiwa (Japan),hard,header
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-ITF MEN - SINGLES M15 Nishi-Tokyo (Japan),hard,header
-ITF MEN - SINGLES M15 Hinode (Japan),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh (Egypt),hard,header
-29.01.,Yamanaka T.,2,,,,,,[],[],[],[],[],0
-29.01.,Shvangiradze A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Bali 3 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali 4 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Monastir 48 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 47 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Yanagawa City (Japan),hard,header
-ITF MEN - SINGLES M15 Tanagura (Japan),hard,header
-ITF MEN - SINGLES M15 Bali 2 (Indonesia),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+30.05.,Sumizawa D.,2,,,,,,[],"['1', '0', '4', '3']",[],[],[],2.53
+30.05.,Yamanaka T.,0,,,,,,[],"['1', '1']",[],[],[],1.47
+29.05.,Yamanaka T.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['3', '2', '6', '3']",[],[],[],1.15
+29.05.,Charoenphon Y.,0,,,,,,"['2', '0']",[],[],[],[],4.75
+28.05.,Yamanaka T.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],1.07
+28.05.,Zhang Y. W.,0,,,,,,[],"['2', '3']",[],[],[],7.00
+24.05.,Xiao L.,2,,,,,,"['4', '2', '6', '2']","['4', '4']",[],[],[],1.91
+24.05.,Yamanaka T.,0,,,,,,[],"['4', '3']",[],[],[],1.79
+23.05.,Yamanaka T.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],2.18
+23.05.,Yamasaki J.,0,,,,,,[],[],[],[],[],1.62
+22.05.,Yamanaka T.,2,,,,,,[],"['3', '1', '5', '1']",[],[],[],1.12
+22.05.,Joyce J.,0,,,,,,[],[],[],[],[],5.35
+21.05.,Yamanaka T.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.26
+21.05.,Jin Y.,0,,,,,,[],[],[],[],[],3.54
+17.05.,Cui J.,2,,,,,,[],"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.24
+17.05.,Yamanaka T.,1,,,,,,[],[],[],[],[],3.72
+16.05.,Yamanaka T.,2,,,,,,"['4', '5']",[],"['1', '1']",[],[],2.04
+16.05.,Palan D.,1,,,,,,"['3', '1', '6', '4']",[],"['1', '0']",[],[],1.69
+14.05.,Yamanaka T.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0']",[],[],[],1.34
+14.05.,Du Y.,0,,,,,,[],[],[],[],[],3.04
+22.04.,Marinkov P.,2,,,,,,"['2', '2', '7', '5']",[],"['4', '4', '6', '4']",[],[],1.68
+22.04.,Yamanaka T.,1,,,,,,"['1', '0']","['1', '0', '3', '0', '5', '0']","['2', '1']",[],[],2.09
+16.04.,Ichikawa T.,2,,,,,,"['2', '1', '5', '4']",[],[],[],[],2.15
+16.04.,Yamanaka T.,0,,,,,,"['2', '2', '5', '5']",[],[],[],[],1.64
+05.04.,Shiraishi H.,2,,,,,,"['1', '0', '4', '1']","['2', '1', '5', '2']",[],[],[],1.34
+05.04.,Yamanaka T.,0,,,,,,"['2', '4']",[],[],[],[],3.04
+04.04.,Yamanaka T.,2,,,,,,"['4', '4', '7', '5']","['2', '0', '4', '0']",[],[],[],2.26
+04.04.,Isomura K.,0,,,,,,"['4', '3']",[],[],[],[],1.58
+02.04.,Yamanaka T.,2,,,,,,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.36
+02.04.,Tomida Y.,0,,,,,,[],[],[],[],[],2.94
+28.03.,Peliwo F.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.74
+28.03.,Yamanaka T.,0,,,,,,[],"['1', '5', '3', '5']",[],[],[],1.97
+27.03.,Yamanaka T.,2,,,,,,"['3', '2', '5', '4']","['2', '0', '5', '1']",[],[],[],3.32
+27.03.,Nakagawa N.,0,,,,,,"['4', '4', '5', '5']",[],[],[],[],1.29
+26.03.,Yamanaka T.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.45
+26.03.,Shibano K.,0,,,,,,"['1', '3']",[],[],[],[],2.59
+19.03.,Tabata R.,2,,,,,,"['1', '0']",[],"['2', '0']",[],[],2.20
+19.03.,Yamanaka T.,1,,,,,,[],"['4', '2']","['4', '5']",[],[],1.61
+12.03.,Lee J.,2,,,,,,[],"['3', '3', '5', '3', '6', '4']","['5', '5']",[],[],3.26
+12.03.,Yamanaka T.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '5']","['1', '0']",[],[],1.30
+12.02.,Krajci M.,2,,,,,,"['1', '0', '5', '4']","['1', '0']","['1', '0', '4', '1', '6', '1']",[],[],1.66
+12.02.,Yamanaka T.,1,,,,,,"['3', '3']","['4', '4', '7', '5']",[],[],[],2.11
+30.01.,Arutiunian E.,2,,,,,,"['2', '1', '4', '1', '6', '5']","['1', '0']",[],[],[],1.63
+30.01.,Yamanaka T.,0,,,,,,"['3', '5', '5', '5']",[],[],[],[],2.16
+01.01.,Huang T.,2,,,,,,"['3', '2', '5', '2']","['3', '2']","['2', '1']",[],[],1.85
+01.01.,Yamanaka T.,1,,,,,,"['3', '5']","['4', '4', '6', '4']",[],[],[],1.85
+24.12.2024,Arutiunian E.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '4', '1']",[],[],[],2.08
+24.12.2024,Yamanaka T.,0,,,,,,"['2', '4']",[],[],[],[],1.69
+29.11.2024,Erel Y.,2,,,,,,"['3', '3', '4', '4']","['2', '0', '5', '1']","['1', '0', '3', '2', '5', '2']",[],[],1.18
+29.11.2024,Yamanaka T.,1,,,,,,"['3', '2', '4', '3', '6', '5']",[],"['2', '2']",[],[],4.38
+28.11.2024,Yamanaka T.,2,,,,,,"['3', '1', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.85
+28.11.2024,Hamza Reguig S.,0,,,,,,"['2', '3']",[],[],[],[],1.85
+27.11.2024,Yamanaka T.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '3', '1', '5', '1']",[],[],[],1.37
+27.11.2024,Elamin A.,0,,,,,,[],"['1', '2']",[],[],[],2.89
+22.11.2024,Lumsden E.,2,,,,,,"['3', '3', '5', '3', '6', '4']","['2', '0', '6', '2']",[],[],[],1.37
+22.11.2024,Yamanaka T.,0,,,,,,"['2', '1', '4', '5']",[],[],[],[],2.89
+21.11.2024,Yamanaka T.,2,,,,,,[],"['3', '1', '6', '2']","['3', '1', '6', '2']",[],[],1.62
+21.11.2024,Oetzbach A.,1,,,,,,"['1', '0']",[],[],[],[],2.18
+19.11.2024,Yamanaka T.,2,,,,,,"['4', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],1.26
+19.11.2024,Bacaloni A.,0,,,,,,[],[],[],[],[],3.54
+01.11.2024,Kawahashi Y.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.46
+01.11.2024,Yamanaka T.,0,,,,,,[],[],[],[],[],2.56
+31.10.2024,Yamanaka T.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '4', '1']",[],[],[],1.05
+31.10.2024,Kono Y.,0,,,,,,[],[],[],[],[],8.05
+30.10.2024,Yamanaka T.,2,,,,,,"['2', '0', '5', '1']","['1', '2', '5', '4']",[],[],[],-
+30.10.2024,Niinomi G.,0,,,,,,[],"['2', '0']",[],[],[],-
+26.10.2024,Shin W.,2,,,,,,"['2', '1', '5', '4', '6', '5']","['2', '5', '4', '5', '6', '5']",[],[],[],1.23
+26.10.2024,Yamanaka T.,0,,,,,,"['4', '4', '5', '5']","['2', '0', '5', '1', '6', '6']",[],[],[],3.81

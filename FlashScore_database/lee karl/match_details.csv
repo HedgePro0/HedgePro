@@ -1,24 +1,49 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Rancho Santa Fe,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-EXHIBITION - MEN UTR Pro Match Series (World),hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Rancho Santa Fe,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-EXHIBITION - MEN UTR Pro Match Series (World),hard,header
-14.02.2021,Lee K. K.,2,,,,,,[],[],[],[],[],0
-14.02.2021,Mendoza A.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+08.07.,Rolland D.,2,,,,,,"['4', '2']","['1', '0', '4', '1']",[],[],[],-
+08.07.,Lee K. K.,0,,,,,,[],[],[],[],[],-
+02.07.,Goncalves V.,2,,,,,,"['3', '2', '6', '3']","['2', '0', '4', '2', '5', '3']",[],[],[],3.40
+02.07.,Lee K. K.,0,,,,,,[],"['2', '3', '3', '4', '4', '5']",[],[],[],1.28
+19.06.,Kang K.,2,,,,,,"['3', '1']","['2', '1']","['3', '1', '6', '2']",[],[],1.37
+19.06.,Lee K. K.,1,,,,,,[],"['2', '2', '4', '2']",[],[],[],2.89
+18.06.,Lee K. K.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['2', '0', '5', '1']",[],[],[],-
+18.06.,Danilov S.,0,,,,,,"['3', '3']","['2', '5']",[],[],[],-
+11.06.,Perez A.,2,,,,,,"['2', '0', '6', '2']","['2', '2', '5', '3']",[],[],[],1.10
+11.06.,Lee K. K.,0,,,,,,[],"['2', '1']",[],[],[],6.46
+28.05.,Liu L.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],-
+28.05.,Lee K. K.,0,,,,,,"['3', '5']","['1', '0']",[],[],[],-
+13.07.2024,Nanda G.,2,,,,,,[],"['1', '1', '3', '1', '7', '5']","['1', '1', '3', '1', '5', '1', '6', '2']",[],[],1.25
+13.07.2024,Lee K. K.,1,,,,,,"['3', '2', '5', '2']","['1', '0', '4', '5']","['1', '0', '2', '5']",[],[],3.69
+12.07.2024,Lee K. K.,2,,,,,,"['1', '0', '5', '2']","['5', '4']",[],[],[],2.05
+12.07.2024,Sarr J.,0,,,,,,"['3', '5']",[],[],[],[],1.70
+11.07.2024,Lee K. K.,2,,,,,,"['1', '0']","['5', '4']",[],[],[],1.45
+11.07.2024,Thayne W.,0,,,,,,[],[],[],[],[],2.62
+10.07.2024,Lee K. K.,2,,,,,,[],"['4', '2']",[],[],[],1.63
+10.07.2024,Strode E.,1,,,,,,[],[],[],[],[],2.18
+04.07.2024,van Loben Sels E.,2,,,,,,[],"['2', '1']","['2', '0', '5', '1']",[],[],2.36
+04.07.2024,Lee K. K.,1,,,,,,"['2', '1', '4', '1', '6', '1']","['5', '5']",[],[],[],1.54
+03.07.2024,Lee K. K.,2,,,,,,"['1', '2']","['2', '0', '4', '0']",[],[],[],2.72
+03.07.2024,Ponwith N.,0,,,,,,"['2', '0']","['1', '4']",[],[],[],1.42
+26.06.2024,Lee K. K.,2,,,,,,"['2', '0', '3', '3', '5', '3', '6', '6']","['3', '2', '6', '3']",[],[],[],2.62
+26.06.2024,Brumm J.,0,,,,,,"['1', '2', '3', '2', '4', '5', '6', '5']",[],[],[],[],1.45
+14.07.2023,Dostanic S.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],1.26
+14.07.2023,Lee K. K.,0,,,,,,[],[],[],[],[],3.56
+13.07.2023,Lee K. K.,2,,,,,,"['3', '2']","['5', '3']",[],[],[],1.60
+13.07.2023,Menichella S.,0,,,,,,"['3', '3']",[],[],[],[],2.23
+12.07.2023,Lee K. K.,2,,,,,,"['1', '0', '5', '2']","['5', '4']",[],[],[],1.56
+12.07.2023,Osorio J. S.,0,,,,,,[],[],[],[],[],2.31
+07.07.2023,Angele J. F.,2,,,,,,"['7', '5']","['3', '1']",[],[],[],1.19
+07.07.2023,Lee K. K.,0,,,,,,[],[],[],[],[],4.28
+06.07.2023,Lee K. K.,1,,,,,,"['1', '0', '2', '1', '3', '2']",[],[],[],[],7.80
+06.07.2023,Boyer T.,0,,,,,,"['1', '1', '2', '2']",[],[],[],[],1.06
+05.07.2023,Lee K. K.,2,,,,,,"['1', '0', '4', '1']","['3', '2']","['2', '1']",[],[],-
+05.07.2023,Chopra K.,1,,,,,,"['3', '5']","['3', '3', '6', '4']",[],[],[],-
+14.02.2021,Kang K.,2,,,,,,"['1', '0', '3', '2']","['3', '3', '5', '3']",[],[],[],3.11
+14.02.2021,Lee K. K.,0,,,,,,"['1', '1', '5', '5']","['3', '2']",[],[],[],1.35
+11.02.2021,Strode I.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.50
+11.02.2021,Lee K. K.,0,,,,,,[],[],[],[],[],2.51
+10.02.2021,Ortlip J.,2,,,,,,"['2', '1', '4', '1']","['1', '2', '2', '3']","['1', '0', '3', '0', '5', '0']",[],[],1.23
+10.02.2021,Lee K. K.,1,,,,,,"['2', '4']","['2', '0', '3', '1', '4', '2', '6', '2']",[],[],[],3.94
+09.02.2021,Sarkissian A.,2,,,,,,[],"['1', '2', '6', '5']","['4', '2', '6', '2']",[],[],1.61
+09.02.2021,Lee K. K.,1,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '6', '6']",[],[],[],2.27
+08.02.2021,Lee K. K.,2,,,,,,"['2', '2']","['1', '0', '4', '1', '6', '1']","['2', '0', '6', '4']",[],[],-
+08.02.2021,Adamson A.,1,,,,,,"['1', '0', '3', '2', '6', '3']",[],"['1', '2']",[],[],-

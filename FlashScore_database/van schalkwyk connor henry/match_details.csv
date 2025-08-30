@@ -1,41 +1,43 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-01.02.,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-01.02.,Wong C. H.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M15 Hillcrest 2 (South Africa),hard,header
-04.07.2024,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Martin T.,2,,,,,,[],[],[],[],[],0
-02.07.2024,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-02.07.2024,Aggarwal P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-23.06.2024,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],0
-23.06.2024,Henning P.,2,,,,,,[],[],[],[],[],0
-22.06.2024,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-22.06.2024,Badenhorst D.,0,,,,,,[],[],[],[],[],0
-21.06.2024,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-21.06.2024,Flores J.,0,,,,,,[],[],[],[],[],0
-20.06.2024,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-20.06.2024,Fantini L.,0,,,,,,[],[],[],[],[],0
-19.06.2024,van Schalkwyk C. H.,2,,,,,,[],[],[],[],[],0
-19.06.2024,Aleshchev A.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-02.11.2022,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],0
-02.11.2022,Rankin M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 15 (Egypt),hard,header
-26.10.2022,van Schalkwyk C. H.,1,,,,,,[],[],[],[],[],0
-26.10.2022,Bar Biryukov P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 14 (Egypt),hard,header
-19.10.2022,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],0
-19.10.2022,Boros A.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES US Open (USA),hard,header
-ATP - SINGLES Davis Cup - Group III (World) - Promotion,-,header
-ATP - SINGLES Davis Cup - Group III (World),-,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-BOYS - SINGLES French Open (France),clay,header
-BOYS - SINGLES Australian Open (Australia),hard,header
-ITF MEN - SINGLES M25 Johannesburg / Ellispark (South Africa),hard,header
-22.09.2021,van Schalkwyk C. H.,1,,,,,,[],[],[],[],[],0
-22.09.2021,Pervolarakis M.,2,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group IV (World),-,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+02.02.,Wong C.,2,,,,,,[],[],[],[],[],1.19
+02.02.,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],4.83
+20.07.2024,van Schalkwyk C. H.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '3']",[],[],[],-
+20.07.2024,Coulibaly F.,0,,,,,,[],"['2', '4']",[],[],[],-
+20.07.2024,Lock B.,2,,,,,,"['3', '1', '5', '1']",[],"['4', '2']",[],[],1.29
+20.07.2024,van Schalkwyk C. H.,1,,,,,,[],[],[],[],[],3.43
+18.07.2024,van Schalkwyk C. H.,2,,,,,,"['3', '1', '6', '2']","['4', '2']",[],[],[],1.13
+18.07.2024,Monnou S.,0,,,,,,[],[],[],[],[],5.48
+17.07.2024,van Schalkwyk C. H.,2,,,,,,[],[],"['1', '0', '4', '1', '6', '1']",[],[],-
+17.07.2024,Bulus C.,1,,,,,,"['5', '3']",[],[],[],[],-
+16.07.2024,van Schalkwyk C. H.,2,,,,,,"['1', '2', '3', '2', '4', '3', '5', '4']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],[],1.18
+16.07.2024,Asaba A.,0,,,,,,"['2', '0', '3', '3', '4', '4']","['1', '5']",[],[],[],4.47
+10.08.2023,van Schalkwyk C. H.,1,,,,,,"['3', '1', '5', '1']",[],[],[],[],-
+10.08.2023,Languina Y.,0,,,,,,[],[],[],[],[],-
+09.08.2023,van Schalkwyk C. H.,2,,,,,,"['4', '2']","['1', '0', '4', '3']",[],[],[],-
+09.08.2023,Badza B.,0,,,,,,[],"['1', '1']",[],[],[],-
+07.09.2022,Privara P. B.,2,,,,,,"['7', '5']","['2', '0', '4', '0']",[],[],[],-
+07.09.2022,van Schalkwyk C. H.,0,,,,,,[],"['1', '4']",[],[],[],-
+05.09.2022,van Schalkwyk C. H.,2,,,,,,"['1', '0']","['1', '0', '3', '0']",[],[],[],-
+05.09.2022,Boika L.,0,,,,,,[],"['3', '5']",[],[],[],-
+13.08.2022,van Schalkwyk C. H.,2,,,,,,"['2', '1', '4', '1', '5', '2', '6', '3']","['1', '1', '3', '1', '4', '2', '6', '4']",[],[],[],-
+13.08.2022,Sibanda M. D. A.,0,,,,,,"['2', '4', '3', '5']","['1', '0', '2', '3', '3', '4']",[],[],[],-
+12.08.2022,Dlimi Y.,2,,,,,,"['1', '0', '2', '1', '4', '1', '5', '4', '6', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],-
+12.08.2022,van Schalkwyk C. H.,0,,,,,,"['1', '1', '2', '4', '4', '4', '5', '5']","['1', '1']",[],[],[],-
+11.08.2022,van Schalkwyk C. H.,2,,,,,,"['3', '1', '6', '2']","['1', '1', '4', '4', '6', '6']","['3', '2', '5', '4']",[],[],-
+11.08.2022,Sahtali T.,1,,,,,,[],"['1', '0', '3', '2', '6', '5']","['4', '4']",[],[],-
+10.08.2022,van Schalkwyk C. H.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],-
+10.08.2022,Njogu A.,0,,,,,,[],[],[],[],[],-
+02.07.2022,Barbier Gazeu P.,2,,,,,,"['3', '1']","['2', '3']","['2', '0']",[],[],-
+02.07.2022,van Schalkwyk C. H.,1,,,,,,"['4', '5']","['2', '0']",[],[],[],-
+29.05.2022,Jucha W.,2,,,,,,[],"['1', '0', '4', '1']",[],[],[],-
+29.05.2022,van Schalkwyk C. H.,0,,,,,,[],[],[],[],[],-
+22.01.2022,Jones L. R.,2,,,,,,"['3', '3', '5', '3']","['2', '1', '5', '2']",[],[],[],-
+22.01.2022,van Schalkwyk C. H.,0,,,,,,"['2', '1', '4', '5']",[],[],[],[],-
+25.06.2021,van Schalkwyk C. H.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+25.06.2021,Tayebwa F.,0,,,,,,[],[],[],[],[],-
+24.06.2021,van Schalkwyk C. H.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1']",[],[],[],-
+24.06.2021,Biboussy D. F.,0,,,,,,[],[],[],[],[],-
+23.06.2021,van Schalkwyk C. H.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+23.06.2021,Andre F.,0,,,,,,[],[],[],[],[],-
+21.06.2021,van Schalkwyk C. H.,2,,,,,,"['1', '0', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+21.06.2021,Mosarwa T.,0,,,,,,"['5', '5']",[],[],[],[],-

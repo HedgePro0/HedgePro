@@ -1,79 +1,51 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Dallas,hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ITF MEN - SINGLES M15 Huamantla (Mexico),hard,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M25 Norman,hard,header
-ITF MEN - SINGLES M15 Winston-Salem,hard,header
-ITF MEN - SINGLES M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 2 (Mexico),hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ITF MEN - SINGLES M15 Huamantla (Mexico),hard,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M25 Norman,hard,header
-ITF MEN - SINGLES M15 Winston-Salem,hard,header
-ITF MEN - SINGLES M15 Huamantla 3 (Mexico),hard,header
-ITF MEN - SINGLES M15 Huamantla 2 (Mexico),hard,header
-24.07.2024,Van Emburgh J.,2,,,,,,[],[],[],[],[],0
-24.07.2024,Valdez Guzon J. P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Huamantla (Mexico),hard,header
-18.07.2024,Van Emburgh J.,1,,,,,,[],[],[],[],[],0
-18.07.2024,Sau Franco A.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Van Emburgh J.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Ruiz Velasco Hermida S.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M25 Tulsa,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Kingston 3 (Jamaica),hard,header
-28.05.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-28.05.2024,Martin D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kingston 2 (Jamaica),hard,header
-23.05.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Borg L.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Van Emburgh J.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Nestola F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Villahermosa (Mexico),hard,header
-08.05.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-08.05.2024,Esquici L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Xalapa (Mexico),hard,header
-02.05.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-02.05.2024,McHugh A.,2,,,,,,[],[],[],[],[],0
-01.05.2024,Van Emburgh J.,2,,,,,,[],[],[],[],[],0
-01.05.2024,Schachter N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-10.04.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-10.04.2024,Peliwo F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-26.03.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-26.03.2024,Klizan M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 3 (Greece),hard,header
-20.03.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-20.03.2024,Guerrieri A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-13.03.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Skorilas A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Poitiers (France),hard,header
-06.03.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-06.03.2024,McHugh A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Wesley Chapel,hard,header
-ITF MEN - SINGLES M25 Ithaca,hard,header
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M25 Austin,hard,header
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M15 Norman,hard,header
-26.10.2023,Van Emburgh J.,1,,,,,,[],[],[],[],[],0
-26.10.2023,Fishback R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ithaca,hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-13.09.2023,Van Emburgh J.,1,,,,,,[],[],[],[],[],0
-13.09.2023,Rocha F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sintra (Portugal),hard,header
-06.09.2023,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-06.09.2023,Wendelken H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Idanha-a-Nova 2 (Portugal),hard,header
-30.08.2023,Van Emburgh J.,0,,,,,,[],[],[],[],[],0
-30.08.2023,Marques G.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+09.07.,Cook E.,2,,,,,,"['5', '3']","['2', '1', '6', '5']",[],[],[],2.69
+09.07.,Van Emburgh J.,0,,,,,,[],"['5', '5']",[],[],[],1.42
+19.03.,Svajda T.,2,,,,,,"['3', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.06
+19.03.,Van Emburgh J.,0,,,,,,[],[],[],[],[],7.20
+30.01.,Wallart E.,2,,,,,,"['3', '1', '4', '2']","['1', '0', '3', '0']",[],[],[],1.30
+30.01.,Van Emburgh J.,0,,,,,,"['2', '3']",[],[],[],[],3.30
+29.01.,Van Emburgh J.,2,,,,,,"['4', '3', '6', '5']","['3', '2', '5', '2']",[],[],[],-
+29.01.,Delgadillo A.,0,,,,,,"['4', '4']",[],[],[],[],-
+20.11.2024,McCormick T.,2,,,,,,[],"['2', '0', '4', '0']",[],[],[],1.16
+20.11.2024,Van Emburgh J.,0,,,,,,[],"['1', '4']",[],[],[],4.62
+13.11.2024,Kim A.,2,,,,,,"['5', '3']","['3', '4', '6', '5']",[],[],[],1.08
+13.11.2024,Van Emburgh J.,0,,,,,,[],"['2', '0']",[],[],[],6.88
+23.10.2024,Becroft I.,2,,,,,,"['2', '0', '5', '1']",[],"['2', '1', '6', '3']",[],[],1.19
+23.10.2024,Van Emburgh J.,1,,,,,,[],"['6', '4']",[],[],[],4.23
+16.10.2024,Gray S.,2,,,,,,[],"['1', '0', '3', '0', '5', '0']","['2', '1']",[],[],-
+16.10.2024,Van Emburgh J.,1,,,,,,"['2', '1', '4', '1', '6', '1']",[],[],[],[],-
+01.08.2024,Mbithi M.,2,,,,,,"['2', '0', '6', '2']","['1', '1', '3', '1']",[],[],[],1.54
+01.08.2024,Van Emburgh J.,0,,,,,,[],"['1', '0']",[],[],[],2.36
+30.07.2024,Van Emburgh J.,2,,,,,,"['2', '0', '5', '3', '6', '4']","['2', '0', '4', '0']",[],[],[],1.43
+30.07.2024,Pena E.,0,,,,,,"['2', '3', '4', '5']",[],[],[],[],2.68
+25.07.2024,Rubio Fierros A. F.,2,,,,,,"['1', '0']","['2', '0']","['1', '0', '3', '0', '4', '1', '6', '1']",[],[],1.29
+25.07.2024,Van Emburgh J.,1,,,,,,"['1', '1', '4', '2']",[],"['1', '3']",[],[],3.37
+03.07.2024,Knaff A.,2,,,,,,"['3', '1', '4', '2', '6', '4']","['2', '0', '5', '3', '6', '4']",[],[],[],1.12
+03.07.2024,Van Emburgh J.,0,,,,,,"['2', '3', '3', '4']","['3', '4', '4', '5']",[],[],[],5.56
+25.06.2024,Kwiatkowski T. S.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0']",[],[],[],1.06
+25.06.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],8.00
+18.06.2024,Ilagan A.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.13
+18.06.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],5.46
+04.06.2024,Charlton J.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '2', '3', '5', '4']",[],[],[],-
+04.06.2024,Van Emburgh J.,0,,,,,,[],"['1', '1', '3', '1']",[],[],[],-
+24.04.2024,Woestendick C.,2,,,,,,"['2', '1', '3', '2', '6', '5']","['2', '1', '3', '2', '5', '2']",[],[],[],1.86
+24.04.2024,Van Emburgh J.,0,,,,,,"['2', '2', '5', '5']","['2', '2', '3', '5']",[],[],[],1.86
+24.01.2024,Overmyer K.,2,,,,,,"['1', '1', '3', '1', '7', '5']","['2', '2', '5', '3']",[],[],[],3.43
+24.01.2024,Van Emburgh J.,0,,,,,,"['1', '0', '4', '5']","['1', '0']",[],[],[],1.28
+17.01.2024,Papoe R. M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.20
+17.01.2024,Van Emburgh J.,0,,,,,,[],[],[],[],[],4.22
+15.11.2023,Murgett F.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.75
+15.11.2023,Van Emburgh J.,0,,,,,,[],[],[],[],[],1.97
+08.11.2023,Koenig L.,2,,,,,,"['4', '2']","['3', '2']",[],[],[],1.79
+08.11.2023,Van Emburgh J.,0,,,,,,"['3', '4']",[],[],[],[],1.92
+02.11.2023,Schachter N.,2,,,,,,"['4', '4', '6', '4']","['4', '2']",[],[],[],1.58
+02.11.2023,Van Emburgh J.,0,,,,,,"['1', '0']",[],[],[],[],2.27
+01.11.2023,Van Emburgh J.,2,,,,,,"['2', '1', '5', '2']","['4', '5']",[],[],[],1.94
+01.11.2023,Manuel M.,0,,,,,,[],"['5', '3']",[],[],[],1.77
+06.10.2023,Draxl L.,2,,,,,,"['4', '2', '6', '2']","['2', '0']",[],[],[],1.11
+06.10.2023,Van Emburgh J.,0,,,,,,[],[],[],[],[],5.90
+05.10.2023,Van Emburgh J.,2,,,,,,[],"['3', '1']","['2', '1']",[],[],3.22
+05.10.2023,Corwin F.,1,,,,,,"['2', '1']",[],[],[],[],1.31
+03.10.2023,Van Emburgh J.,2,,,,,,"['4', '5']",[],"['5', '4']",[],[],2.43
+03.10.2023,Martin D.,1,,,,,,"['2', '0']",[],"['5', '5']",[],[],1.51

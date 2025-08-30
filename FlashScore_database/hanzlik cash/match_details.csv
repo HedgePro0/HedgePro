@@ -1,39 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-13.06.2024,Hanzlik C.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Filin N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M25 Calabasas,hard,header
-ITF MEN - SINGLES M25 Bakersfield,hard,header
-ITF MEN - SINGLES M25 Saint-Augustin (Canada),hard,header
-25.10.2023,Hanzlik C.,1,,,,,,[],[],[],[],[],0
-25.10.2023,Mayo K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Las Vegas,hard,header
-ITF MEN - SINGLES M25 Decatur,hard,header
-ITF MEN - SINGLES M25 Edwardsville,hard,header
-ITF MEN - SINGLES M25 Champaign,hard,header
-ITF MEN - SINGLES M15 Irvine,hard,header
-ITF MEN - SINGLES M15 Los Angeles,hard,header
-ITF MEN - SINGLES M15 San Diego,hard,header
-ITF MEN - SINGLES M15 Rancho Santa Fe,hard,header
-CHALLENGER MEN - SINGLES Coquimbo (Chile) - Qualification,clay,header
-ITF MEN - SINGLES M15 Tacarigua 2 (Trinidad and Tobago),hard,header
-ITF MEN - SINGLES M15 Tacarigua (Trinidad and Tobago),hard,header
-18.04.2023,Hanzlik C.,0,,,,,,[],[],[],[],[],0
-18.04.2023,Ciocanu A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-23.02.2023,Hanzlik C.,0,,,,,,[],[],[],[],[],0
-23.02.2023,Brown P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M15 Winston-Salem,hard,header
-ITF MEN - SINGLES M15 Ithaca,hard,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M15 Albuquerque,hard,header
-ITF MEN - SINGLES M15 Fayetteville,hard,header
-ITF MEN - SINGLES M15 Champaign,hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.2024,Kuhar M.,2,,,,,,"['2', '1', '6', '5']","['3', '2', '5', '2']",[],[],[],1.23
+10.07.2024,Hanzlik C.,0,,,,,,"['2', '2']",[],[],[],[],3.86
+03.07.2024,Bullard J.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['1', '0', '5', '2']",[],[],[],1.69
+03.07.2024,Hanzlik C.,0,,,,,,"['2', '0']",[],[],[],[],2.08
+26.06.2024,Vithoontien L.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['4', '3']",[],[],[],1.62
+26.06.2024,Hanzlik C.,0,,,,,,"['1', '0']",[],[],[],[],2.20
+29.05.2024,Shepp A.,2,,,,,,"['6', '5']","['5', '4']",[],[],[],2.22
+29.05.2024,Hanzlik C.,0,,,,,,[],[],[],[],[],1.61
+20.03.2024,Holmgren A.,2,,,,,,"['4', '3']","['3', '1', '7', '5']",[],[],[],1.07
+20.03.2024,Hanzlik C.,0,,,,,,"['4', '4']","['4', '5']",[],[],[],7.17
+15.03.2024,Wu Tung-Lin,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '5', '1']",[],[],[],1.13
+15.03.2024,Hanzlik C.,0,,,,,,[],[],[],[],[],5.46
+14.03.2024,Hanzlik C.,2,,,,,,[],"['4', '2']","['2', '3']",[],[],1.57
+14.03.2024,Strode I.,1,,,,,,"['4', '3']",[],"['2', '0']",[],[],2.30
+13.03.2024,Hanzlik C.,2,,,,,,[],"['5', '3']","['1', '0']",[],[],4.22
+13.03.2024,Broom C.,1,,,,,,"['2', '1', '5', '2']",[],[],[],[],1.20
+18.10.2023,Grant W.,2,,,,,,"['2', '1', '4', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.73
+18.10.2023,Hanzlik C.,0,,,,,,[],[],[],[],[],2.00
+06.08.2023,Hanzlik C.,2,,,,,,"['3', '3']","['2', '0', '3', '1', '5', '1']","['2', '1', '4', '1']",[],[],3.04
+06.08.2023,Nakagawa N.,1,,,,,,"['2', '1', '4', '3']","['1', '2']","['3', '5']",[],[],1.34
+05.08.2023,Hanzlik C.,2,,,,,,"['4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],2.12
+05.08.2023,Heck H.,0,,,,,,[],[],[],[],[],1.66
+04.08.2023,Hanzlik C.,2,,,,,,"['4', '3']","['1', '0', '3', '2', '6', '3']",[],[],[],2.86
+04.08.2023,Baris O.,0,,,,,,[],"['2', '2']",[],[],[],1.38
+03.08.2023,Hanzlik C.,2,,,,,,"['2', '0', '4', '0']","['4', '5']",[],[],[],5.26
+03.08.2023,Braswell M.,0,,,,,,"['1', '4']","['5', '3']",[],[],[],1.13
+02.08.2023,Hanzlik C.,2,,,,,,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.13
+02.08.2023,Pena E.,0,,,,,,[],[],[],[],[],5.36
+25.07.2023,Mitsui S.,2,,,,,,"['3', '4']","['3', '4', '5', '4']","['3', '2', '5', '4']",[],[],1.30
+25.07.2023,Hanzlik C.,1,,,,,,"['3', '1', '7', '5']","['3', '1']","['3', '3']",[],[],3.28
+20.07.2023,Miyoshi K.,2,,,,,,"['2', '0']","['3', '4']","['4', '2', '6', '2']",[],[],2.17
+20.07.2023,Hanzlik C.,1,,,,,,[],"['2', '0', '5', '3']",[],[],[],1.63
+19.07.2023,Hanzlik C.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0']",[],[],[],1.59
+19.07.2023,Rollins P.,0,,,,,,[],[],[],[],[],2.25
+28.06.2023,Dostanic S.,2,,,,,,"['2', '1', '5', '2']","['4', '3']",[],[],[],1.34
+28.06.2023,Hanzlik C.,0,,,,,,[],"['5', '5']",[],[],[],3.04
+22.06.2023,Seggerman R.,2,,,,,,"['1', '0', '6', '3']","['2', '0', '5', '3']",[],[],[],1.56
+22.06.2023,Hanzlik C.,0,,,,,,[],"['2', '3']",[],[],[],2.31
+20.06.2023,Hanzlik C.,2,,,,,,"['3', '4', '5', '4']","['1', '2', '2', '3', '4', '3']",[],[],[],2.09
+20.06.2023,Goodger J.,0,,,,,,"['4', '2']","['2', '0', '3', '1']",[],[],[],1.68
+16.06.2023,Kotzen A.,2,,,,,,"['1', '4']","['5', '3']","['2', '1', '4', '1']",[],[],1.26
+16.06.2023,Hanzlik C.,1,,,,,,"['2', '0', '4', '0']",[],[],[],[],3.56
+15.06.2023,Hanzlik C.,2,,,,,,"['2', '0', '6', '2']","['3', '1']","['3', '3', '7', '5']",[],[],1.90
+15.06.2023,Nordquist A.,1,,,,,,[],"['3', '4', '4', '4', '6', '5', '7', '5']","['1', '0']",[],[],1.81
+14.06.2023,Hanzlik C.,2,,,,,,"['2', '0']","['2', '0']","['1', '0', '4', '1']",[],[],2.36
+14.06.2023,Al Allaf K.,1,,,,,,"['1', '2', '4', '3']",[],[],[],[],1.54
+01.06.2023,Catry R.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '3', '2', '5', '2']",[],[],[],1.41
+01.06.2023,Hanzlik C.,0,,,,,,[],"['2', '2']",[],[],[],2.74
+31.05.2023,Hanzlik C.,2,,,,,,[],"['4', '4', '7', '5']","['2', '0', '5', '1']",[],[],2.70
+31.05.2023,Kaliyanda Poonacha N.,1,,,,,,"['2', '0', '4', '0']","['4', '3']",[],[],[],1.42
+26.04.2023,Rahman Y.,2,,,,,,[],[],[],[],[],1.45
+26.04.2023,Hanzlik C.,0,,,,,,[],[],[],[],[],2.60
+16.11.2022,Bernard A.,2,,,,,,"['2', '3', '3', '4', '5', '4', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.77
+16.11.2022,Hanzlik C.,0,,,,,,"['3', '1', '4', '2', '5', '5']",[],[],[],[],1.96
+08.11.2022,Samuel T.,2,,,,,,"['3', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.25
+08.11.2022,Hanzlik C.,0,,,,,,[],[],[],[],[],3.68
+02.11.2022,Mitsui S.,1,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.45
+02.11.2022,Hanzlik C.,0,,,,,,[],[],[],[],[],2.62
+28.10.2022,Petrovic A.,2,,,,,,"['5', '3']","['1', '2']","['2', '0', '4', '0', '6', '0']",[],[],2.56
+28.10.2022,Hanzlik C.,1,,,,,,[],"['2', '0']",[],[],[],1.49
+27.10.2022,Hanzlik C.,2,,,,,,"['4', '2', '6', '4']","['2', '0', '3', '1', '4', '2']",[],[],[],1.70
+27.10.2022,Bryde T.,0,,,,,,"['4', '5']","['1', '2', '2', '3']",[],[],[],2.08
+26.10.2022,Hanzlik C.,2,,,,,,"['2', '0', '6', '2']","['3', '1', '5', '1']",[],[],[],1.33
+26.10.2022,Nava E.,0,,,,,,[],[],[],[],[],3.13
+30.09.2022,Wallin O.,2,,,,,,[],"['5', '3']","['2', '1', '4', '1', '6', '3']",[],[],2.06
+30.09.2022,Hanzlik C.,1,,,,,,"['3', '1']",[],"['2', '4']",[],[],1.73
+29.09.2022,Hanzlik C.,2,,,,,,"['4', '3']",[],"['3', '1', '5', '1']",[],[],1.65
+29.09.2022,McKennon M.,1,,,,,,[],"['3', '1', '5', '1']",[],[],[],2.16
+28.09.2022,Hanzlik C.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '3', '0']",[],[],[],1.66
+28.09.2022,Boyd K. L.,0,,,,,,"['1', '0']",[],[],[],[],2.14
+21.09.2022,Moroni F.,2,,,,,,"['2', '3']","['3', '1', '5', '1']",[],[],[],2.16
+21.09.2022,Hanzlik C.,0,,,,,,"['2', '0']",[],[],[],[],1.65
+15.09.2022,Vallejo D.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['1', '1', '5', '3']",[],[],[],1.43
+15.09.2022,Hanzlik C.,0,,,,,,"['1', '3']","['1', '0']",[],[],[],2.69
+14.09.2022,Hanzlik C.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.36
+14.09.2022,Brown A.,0,,,,,,[],[],[],[],[],2.98

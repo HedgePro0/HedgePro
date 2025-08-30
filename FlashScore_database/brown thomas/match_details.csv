@@ -1,52 +1,29 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Edgbaston (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Santiago (Chile),clay,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Santiago (Chile),clay,header
-20.04.2024,Brown T.,0,,,,,,[],[],[],[],[],0
-20.04.2024,Mena F.,2,,,,,,[],[],[],[],[],0
-19.04.2024,Brown T.,2,,,,,,[],[],[],[],[],0
-19.04.2024,Becerra Otarola I. A.,1,,,,,,[],[],[],[],[],0
-18.04.2024,Brown T.,2,,,,,,[],[],[],[],[],0
-18.04.2024,Vithoontien L.,1,,,,,,[],[],[],[],[],0
-17.04.2024,Brown T.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Kuhar M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Quillota (Chile),clay,header
-10.04.2024,Brown T.,1,,,,,,[],[],[],[],[],0
-10.04.2024,Salazar A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Palm Coast,clay,header
-ITF MEN - SINGLES M15 East Lansing,hard,header
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-ITF MEN - SINGLES M25 Decatur,hard,header
-ITF MEN - SINGLES M15 Pittsburgh,clay,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-19.07.2023,Brown T.,1,,,,,,[],[],[],[],[],0
-19.07.2023,Monzon I.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo 3 (Dominican Republic),hard,header
-28.06.2023,Brown T.,1,,,,,,[],[],[],[],[],0
-28.06.2023,Baadi T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-22.06.2023,Brown T.,0,,,,,,[],[],[],[],[],0
-22.06.2023,Stice T.,2,,,,,,[],[],[],[],[],0
-20.06.2023,Brown T.,2,,,,,,[],[],[],[],[],0
-20.06.2023,Ribeiro Lago E.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Xalapa (Mexico),hard,header
-17.05.2023,Brown T.,0,,,,,,[],[],[],[],[],0
-17.05.2023,Van Emburgh J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Sunrise,clay,header
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-23.02.2023,Brown T.,0,,,,,,[],[],[],[],[],0
-23.02.2023,Clark E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo (Dominican Republic),hard,header
-16.02.2023,Brown T.,0,,,,,,[],[],[],[],[],0
-16.02.2023,Angele J. F.,2,,,,,,[],[],[],[],[],0
-15.02.2023,Brown T.,2,,,,,,[],[],[],[],[],0
-15.02.2023,Rusher A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Wesley Chapel,hard,header
-ITF MEN - SINGLES M15 Boca Raton,clay,header
-ITF MEN - SINGLES M15 Quito (Ecuador),clay,header
-25.05.2022,Brown T.,0,,,,,,[],[],[],[],[],0
-25.05.2022,Rodriguez R.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+15.10.2024,Searle H.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '4', '0', '6', '0']",[],[],[],1.13
+15.10.2024,Brown T.,0,,,,,,[],[],[],[],[],5.31
+01.05.2024,Bermejo F.,2,,,,,,"['1', '2']","['3', '2', '5', '2']","['2', '1']",[],[],7.50
+01.05.2024,Brown T.,1,,,,,,"['2', '0', '3', '1', '6', '2']",[],[],[],[],1.07
+14.02.2024,Andrade A.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '2', '1', '4', '3', '6', '3']",[],[],[],1.19
+14.02.2024,Brown T.,0,,,,,,[],"['1', '1', '2', '2']",[],[],[],4.27
+14.11.2023,Salvestre D.,2,,,,,,"['2', '2', '5', '3']","['5', '4']",[],[],[],1.55
+14.11.2023,Brown T.,0,,,,,,"['2', '1']",[],[],[],[],2.33
+24.10.2023,Hudd E.,2,,,,,,"['3', '1']","['2', '1', '4', '1']",[],[],[],1.23
+24.10.2023,Brown T.,0,,,,,,[],[],[],[],[],3.96
+02.08.2023,Ozolins K.,2,,,,,,"['3', '1']","['2', '1', '4', '1', '5', '2']",[],[],[],1.61
+02.08.2023,Brown T.,0,,,,,,[],"['2', '4']",[],[],[],2.21
+26.07.2023,Banerjee S.,2,,,,,,"['2', '2', '5', '3']","['5', '3', '6', '4']",[],[],[],1.36
+26.07.2023,Brown T.,0,,,,,,"['2', '1']",[],[],[],[],2.95
+02.05.2023,Nanda G.,2,,,,,,"['2', '1']",[],"['4', '2']",[],[],1.18
+02.05.2023,Brown T.,1,,,,,,"['5', '5']","['1', '0', '4', '1']",[],[],[],4.36
+27.04.2023,Martin D.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '4', '0']",[],[],[],1.69
+27.04.2023,Brown T.,0,,,,,,[],[],[],[],[],2.05
+26.04.2023,Brown T.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['3', '1', '5', '1']",[],[],[],3.15
+26.04.2023,Aubriot A.,0,,,,,,"['1', '0']",[],[],[],[],1.32
+13.04.2023,Bangoura S.,2,,,,,,[],[],[],[],[],-
+13.04.2023,Brown T.,0,,,,,,[],[],[],[],[],-
+26.01.2023,Svajda Z.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.05
+26.01.2023,Brown T.,0,,,,,,[],[],[],[],[],8.00
+25.01.2023,Brown T.,2,,,,,,"['1', '0', '6', '5']","['2', '3', '4', '3', '6', '5']",[],[],[],6.85
+25.01.2023,King D.,0,,,,,,"['1', '1']","['2', '0', '4', '4']",[],[],[],1.07
+16.11.2022,Den Ouden G.,2,,,,,,"['5', '3']","['4', '3', '6', '3']",[],[],[],1.25
+16.11.2022,Brown T.,0,,,,,,[],[],[],[],[],3.70

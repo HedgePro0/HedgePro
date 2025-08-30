@@ -1,59 +1,63 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Kursumlijska Banja 14 (Serbia),clay,header
-07.08.,Butulija B.,1,,,,,,[],[],[],[],[],0
-07.08.,Yazdani A.,2,,,,,,[],[],[],[],[],0
-06.08.,Butulija B.,2,,,,,,[],[],[],[],[],0
-06.08.,Kunitsyn A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 13 (Serbia),clay,header
-30.07.,Butulija B.,0,,,,,,[],[],[],[],[],0
-30.07.,Gulin S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 12 (Serbia),clay,header
-24.07.,Butulija B.,1,,,,,,[],[],[],[],[],0
-24.07.,Serafini M.,2,,,,,,[],[],[],[],[],0
-23.07.,Butulija B.,2,,,,,,[],[],[],[],[],0
-23.07.,Madzarevic L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 11 (Serbia),clay,header
-18.07.,Butulija B.,0,,,,,,[],[],[],[],[],0
-18.07.,Serafini M.,2,,,,,,[],[],[],[],[],0
-16.07.,Butulija B.,2,,,,,,[],[],[],[],[],0
-16.07.,Jorgensen S. G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M25 Belgrade (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 3 (Serbia),clay,header
-ITF MEN - SINGLES M25 Kursumlijska Banja (Serbia),clay,header
-ITF MEN - SINGLES M15 Shymkent (Kazakhstan),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Lannion (France),hard,header
-ITF MEN - SINGLES M25 Nussloch (Germany),hard,header
-ITF MEN - SINGLES M15 Szabolcsveresmart 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Szabolcsveresmart (Hungary),hard,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 13 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Madrid 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Budapest 2 (Hungary),hard,header
-05.09.2024,Butulija B.,0,,,,,,[],[],[],[],[],0
-05.09.2024,Thanos A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Budapest (Hungary),hard,header
-ITF MEN - SINGLES M25 Idanha-a-Nova 2 (Portugal),hard,header
-ITF MEN - SINGLES M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 29 (Tunisia),hard,header
-17.07.2024,Butulija B.,1,,,,,,[],[],[],[],[],0
-17.07.2024,Benchakroun M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 28 (Tunisia),hard,header
-11.07.2024,Butulija B.,1,,,,,,[],[],[],[],[],0
-11.07.2024,Hamza Reguig S.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Butulija B.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Hermassi R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 27 (Tunisia),hard,header
-04.07.2024,Butulija B.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Elicha Navas G.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Butulija B.,2,,,,,,[],[],[],[],[],0
-03.07.2024,De Gabriele A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Kursumlijska Banja 2 (Serbia),clay,header
-05.06.2024,Butulija B.,1,,,,,,[],[],[],[],[],0
-05.06.2024,Vojinovic L.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+11.06.,Fernandez B.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],[],1.99
+11.06.,Butulija B.,0,,,,,,[],[],[],[],[],1.73
+05.06.,Agamenone F.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '6', '4']",[],[],[],1.05
+05.06.,Butulija B.,0,,,,,,[],"['1', '2']",[],[],[],7.30
+04.06.,Butulija B.,1,,,,,,"['1', '0', '2', '1', '4', '1']","['1', '0']",[],[],[],4.54
+04.06.,Ionel N. D.,0,,,,,,"['1', '1', '2', '4']",[],[],[],[],1.18
+22.05.,Dinev D.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['2', '0', '4', '0', '6', '4']",[],[],[],1.58
+22.05.,Butulija B.,0,,,,,,"['1', '0']","['1', '4', '3', '4']",[],[],[],2.26
+21.05.,Butulija B.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],-
+21.05.,Madzarevic L.,0,,,,,,[],[],[],[],[],26.00
+15.05.,Djuric B.,2,,,,,,"['3', '1']","['1', '0', '2', '1']",[],[],[],1.05
+15.05.,Butulija B.,0,,,,,,[],"['1', '1']",[],[],[],7.70
+14.05.,Butulija B.,2,,,,,,"['4', '3', '6', '3']","['2', '0', '4', '4', '6', '4']",[],[],[],1.18
+14.05.,Stanisavljevic M.,0,,,,,,[],"['2', '3', '4', '3']",[],[],[],4.38
+08.05.,Topo M.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
+08.05.,Butulija B.,0,,,,,,[],[],[],[],[],6.45
+07.05.,Butulija B.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.03
+07.05.,Sasko W.,0,,,,,,[],[],[],[],[],9.10
+23.04.,Vanshelboim E.,2,,,,,,"['1', '4', '3', '4']","['1', '0', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],1.07
+23.04.,Butulija B.,1,,,,,,"['2', '0', '4', '0', '6', '4']",[],[],[],[],6.65
+03.04.,Purtseladze S.,2,,,,,,"['3', '4']","['2', '0', '6', '4']",[],[],[],1.06
+03.04.,Butulija B.,0,,,,,,"['4', '2']","['4', '5']",[],[],[],7.40
+02.04.,Butulija B.,2,,,,,,"['1', '0']","['3', '4']","['3', '3', '5', '3']",[],[],2.24
+02.04.,Bilardo J.,1,,,,,,[],"['3', '1', '5', '3']","['3', '2']",[],[],1.59
+26.03.,Kivattsev K.,2,,,,,,"['2', '0', '6', '2']","['4', '2']",[],[],[],1.17
+26.03.,Butulija B.,0,,,,,,[],[],[],[],[],4.57
+19.03.,Ibrahim K.,2,,,,,,"['5', '3']",[],"['4', '4', '6', '4']",[],[],2.66
+19.03.,Butulija B.,1,,,,,,[],"['4', '2']","['1', '0']",[],[],1.43
+21.02.,Hudd E.,1,,,,,,"['5', '5']",[],[],[],[],1.39
+21.02.,Butulija B.,0,,,,,,"['3', '2']",[],[],[],[],2.81
+20.02.,Butulija B.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0']",[],[],[],1.45
+20.02.,Camus C.,0,,,,,,[],[],[],[],[],2.58
+19.02.,Butulija B.,2,,,,,,"['1', '0', '3', '0']","['4', '5']","['4', '2', '5', '3']",[],[],2.24
+19.02.,Bittoun C.,1,,,,,,"['2', '4', '4', '4', '6', '4']","['4', '2']","['3', '4']",[],[],1.59
+22.01.,Engel J.,2,,,,,,[],"['6', '5']","['3', '2', '5', '2']",[],[],1.08
+22.01.,Butulija B.,1,,,,,,"['1', '0', '6', '3']",[],[],[],[],6.50
+06.11.2024,Paris T.,2,,,,,,"['3', '1', '6', '2']",[],"['3', '2', '5', '2']",[],[],1.18
+06.11.2024,Butulija B.,1,,,,,,[],[],[],[],[],4.38
+29.10.2024,Kravchenko G.,2,,,,,,"['2', '1', '4', '1']","['3', '2']",[],[],[],1.14
+29.10.2024,Butulija B.,0,,,,,,[],"['3', '3']",[],[],[],5.05
+15.10.2024,Loge J.,2,,,,,,"['2', '0', '5', '1']","['1', '2']","['6', '5']",[],[],1.25
+15.10.2024,Butulija B.,1,,,,,,"['2', '5', '4', '5']","['2', '0', '7', '5']",[],[],[],3.62
+10.10.2024,Gengel M.,2,,,,,,"['3', '1', '6', '2']","['2', '0']",[],[],[],1.15
+10.10.2024,Butulija B.,0,,,,,,[],[],[],[],[],4.95
+09.10.2024,Butulija B.,2,,,,,,"['4', '3', '6', '3']","['2', '2', '5', '5']",[],[],[],1.85
+09.10.2024,Khazime D.,0,,,,,,[],"['2', '1', '5', '4']",[],[],[],1.85
+19.09.2024,McKennon M.,2,,,,,,"['5', '3']",[],"['2', '0']",[],[],1.18
+19.09.2024,Butulija B.,1,,,,,,[],"['2', '0', '5', '1']",[],[],[],4.42
+18.09.2024,Butulija B.,2,,,,,,"['2', '0', '5', '1']","['3', '2', '5', '2']",[],[],[],2.61
+18.09.2024,Speziali F.,0,,,,,,[],[],[],[],[],1.45
+11.09.2024,Gonzalez Fernandez M.,2,,,,,,[],"['2', '1', '5', '2']","['3', '4', '5', '4']",[],[],1.06
+11.09.2024,Butulija B.,1,,,,,,"['3', '2', '6', '3']",[],"['4', '2']",[],[],7.80
+03.09.2024,Butulija B.,2,,,,,,"['1', '0']","['2', '0']","['3', '2', '6', '3']",[],[],-
+03.09.2024,Bartakovics M.,1,,,,,,"['5', '5']",[],[],[],[],-
+27.08.2024,Kis Balazs R.,2,,,,,,[],"['5', '4']",[],[],[],2.83
+27.08.2024,Butulija B.,0,,,,,,[],[],[],[],[],1.39
+20.08.2024,McKennon M.,2,,,,,,"['2', '0', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.33
+20.08.2024,Butulija B.,0,,,,,,[],[],[],[],[],3.12
+07.08.2024,Ahti V.,2,,,,,,[],[],"['2', '0', '4', '0']",[],[],2.03
+07.08.2024,Butulija B.,1,,,,,,[],"['2', '0', '5', '1']",[],[],[],1.71
+24.07.2024,Makhlouf N.,2,,,,,,"['1', '2', '2', '3', '4', '3', '6', '3']","['1', '1']",[],[],[],1.86
+24.07.2024,Butulija B.,0,,,,,,"['2', '0', '3', '1']","['1', '0']",[],[],[],1.86

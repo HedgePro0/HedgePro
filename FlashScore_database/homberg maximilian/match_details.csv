@@ -1,47 +1,63 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES M15 Uslar (Germany),clay,header
-ITF MEN - SINGLES M15 Uslar (Germany),clay,header
-17.07.,Homberg M.,1,,,,,,[],[],[],[],[],0
-17.07.,Barsukov N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Telfs (Austria),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 9 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 8 (Serbia),clay,header
-25.06.,Homberg M.,2,,,,,,[],[],[],[],[],0
-25.06.,Torrealba B.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M15 Prijedor (Bosnia and Herzegovina),clay,header
-ITF MEN - SINGLES M25 Calabasas,hard,header
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Huamantla 5 (Mexico),hard,header
-ITF MEN - SINGLES M15 Überlingen (Germany),clay,header
-ITF MEN - SINGLES M15 Umag (Croatia),clay,header
-11.07.2024,Homberg M.,0,,,,,,[],[],[],[],[],0
-11.07.2024,Poljicak M.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Homberg M.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Dominko S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Marburg (Germany),clay,header
-ITF MEN - SINGLES M25 Klosters (Switzerland),clay,header
-27.06.2024,Homberg M.,0,,,,,,[],[],[],[],[],0
-27.06.2024,Nikles J.,2,,,,,,[],[],[],[],[],0
-25.06.2024,Homberg M.,2,,,,,,[],[],[],[],[],0
-25.06.2024,Schlagenhauf N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sarajevo (Bosnia and Herzegovina),clay,header
-06.06.2024,Homberg M.,0,,,,,,[],[],[],[],[],0
-06.06.2024,Markovic S.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Homberg M.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Thurner N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ueberlingen (Germany),clay,header
-ITF MEN - SINGLES M15 Warmbad Villach (Austria),clay,header
-18.05.2022,Homberg M.,1,,,,,,[],[],[],[],[],0
-18.05.2022,Hubner E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Allershausen (Germany),clay,header
-ITF MEN - SINGLES M15 Bad Waltersdorf (Austria),clay,header
-24.08.2021,Homberg M.,0,,,,,,[],[],[],[],[],0
-24.08.2021,Oberleitner N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Warmbad-Villach (Austria),clay,header
-19.08.2021,Homberg M.,0,,,,,,[],[],[],[],[],0
-19.08.2021,Heller P.,2,,,,,,[],[],[],[],[],0
-17.08.2021,Homberg M.,2,,,,,,[],[],[],[],[],0
-17.08.2021,Nareyka B. M.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+21.08.,Gentzsch T.,2,,,,,,"['1', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.19
+21.08.,Homberg M.,0,,,,,,"['1', '1', '4', '1']",[],[],[],[],4.24
+20.08.,Homberg M.,2,,,,,,"['1', '1', '3', '1', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],1.65
+20.08.,Lipp M.,0,,,,,,"['1', '0', '2', '3']",[],[],[],[],2.13
+31.07.,Dutra Da Silva D.,2,,,,,,"['2', '0', '7', '5']","['2', '0', '4', '0']",[],[],[],1.30
+31.07.,Homberg M.,0,,,,,,"['2', '3']",[],[],[],[],3.30
+30.07.,Homberg M.,2,,,,,,"['4', '2', '6', '2']","['3', '3']",[],[],[],5.05
+30.07.,Torres J. B.,0,,,,,,[],"['1', '0']",[],[],[],1.13
+10.07.,D'Agostino S.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '3', '6', '3']",[],[],[],2.33
+10.07.,Homberg M.,0,,,,,,[],"['2', '2']",[],[],[],1.55
+09.07.,Homberg M.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '5', '2']",[],[],[],1.83
+09.07.,Hipfl N.,0,,,,,,"['3', '5']",[],[],[],[],1.87
+03.07.,Lobanov A.,2,,,,,,"['1', '0', '2', '1', '5', '4']","['3', '2', '5', '2']",[],[],[],3.26
+03.07.,Homberg M.,0,,,,,,"['1', '1', '2', '2']",[],[],[],[],1.30
+01.07.,Homberg M.,2,,,,,,"['4', '2', '6', '4']",[],"['5', '3']",[],[],1.49
+01.07.,Markovic S.,1,,,,,,"['3', '4']","['3', '2']",[],[],[],2.47
+27.06.,Stankovic S.,2,,,,,,"['2', '0']","['2', '1', '4', '1', '5', '2']",[],[],[],1.75
+27.06.,Homberg M.,0,,,,,,"['1', '2']","['2', '4']",[],[],[],1.96
+26.06.,Homberg M.,2,,,,,,[],"['3', '1', '5', '1']","['2', '1']",[],[],1.32
+26.06.,Gustafsson F.,1,,,,,,"['1', '0']",[],[],[],[],3.14
+11.06.,Rocha F.,2,,,,,,"['1', '0', '4', '1']","['3', '2', '4', '3', '6', '3']",[],[],[],1.91
+11.06.,Homberg M.,0,,,,,,[],"['3', '3']",[],[],[],1.79
+24.05.,Castagnola L.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['1', '5']","['4', '2', '5', '3']",[],[],1.49
+24.05.,Homberg M.,1,,,,,,"['2', '1']","['1', '0', '3', '0', '5', '0']","['3', '4']",[],[],2.47
+22.05.,Homberg M.,2,,,,,,"['2', '0', '6', '2']","['3', '1', '6', '2']",[],[],[],1.30
+22.05.,Bieldiugin T.,0,,,,,,[],[],[],[],[],3.26
+22.05.,Homberg M.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '2']","['2', '0', '3', '1', '5', '1']",[],[],2.89
+22.05.,Fajta P.,1,,,,,,[],"['2', '2', '4', '4']","['1', '2']",[],[],1.37
+14.05.,Bennani R.,2,,,,,,"['3', '3']","['1', '0', '6', '5']",[],[],[],1.80
+14.05.,Homberg M.,0,,,,,,"['2', '1']","['3', '3']",[],[],[],1.90
+26.03.,Nanda G.,2,,,,,,[],"['3', '2', '6', '3']","['3', '1']",[],[],-
+26.03.,Homberg M.,1,,,,,,"['7', '5']",[],[],[],[],-
+09.01.,Broska F.,2,,,,,,"['1', '2', '2', '3', '4', '3', '6', '3']",[],"['6', '4']",[],[],1.18
+09.01.,Homberg M.,1,,,,,,"['2', '0', '3', '1']","['2', '1']",[],[],[],4.43
+07.01.,Homberg M.,2,,,,,,"['2', '0', '5', '1']","['3', '4']","['1', '0', '3', '0']",[],[],1.50
+07.01.,Ivanov S.,1,,,,,,[],"['4', '2', '6', '4']",[],[],[],2.44
+28.11.2024,Rivera L.,2,,,,,,"['1', '0', '5', '2']","['1', '4']","['3', '1', '4', '2']",[],[],3.81
+28.11.2024,Homberg M.,1,,,,,,[],"['2', '0', '4', '0']","['2', '3']",[],[],1.23
+26.11.2024,Homberg M.,2,,,,,,"['4', '2', '6', '2']","['7', '5']",[],[],[],1.11
+26.11.2024,Chayka A.,0,,,,,,[],[],[],[],[],5.63
+18.08.2024,Homberg M.,2,,,,,,"['1', '0', '4', '1']",[],"['5', '3']",[],[],2.79
+18.08.2024,Wehnelt K.,1,,,,,,[],"['3', '1', '5', '1']",[],[],[],1.40
+17.08.2024,Homberg M.,2,,,,,,"['2', '1', '6', '5']",[],"['1', '1', '3', '1']",[],[],2.47
+17.08.2024,Nagel A.,1,,,,,,"['5', '5']","['5', '3']","['1', '0']",[],[],1.50
+16.08.2024,Homberg M.,2,,,,,,"['6', '4']","['4', '2']",[],[],[],2.72
+16.08.2024,Egea F. E.,0,,,,,,[],[],[],[],[],1.42
+15.08.2024,Homberg M.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '6', '2']",[],[],[],1.07
+15.08.2024,Eichenseher D.,0,,,,,,[],[],[],[],[],7.12
+14.08.2024,Homberg M.,2,,,,,,"['1', '1', '3', '1', '6', '2']",[],"['5', '3']",[],[],1.31
+14.08.2024,Oezcelik M.,1,,,,,,"['1', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],3.24
+04.07.2024,Gadamauri B.,2,,,,,,"['4', '2']","['2', '3', '3', '4', '6', '5']",[],[],[],1.07
+04.07.2024,Homberg M.,0,,,,,,[],"['3', '1', '4', '2']",[],[],[],7.39
+03.07.2024,Homberg M.,2,,,,,,"['1', '1', '5', '5']","['2', '1', '6', '3']",[],[],[],1.69
+03.07.2024,Niedner N.,0,,,,,,"['1', '0', '2', '1']",[],[],[],[],2.06
+18.08.2022,Rehberg M. H.,2,,,,,,"['2', '1', '4', '1']","['2', '1', '4', '1']",[],[],[],1.03
+18.08.2022,Homberg M.,0,,,,,,[],"['2', '4']",[],[],[],9.70
+17.08.2022,Homberg M.,1,,,,,,"['1', '1', '2', '2', '4', '4', '6', '6']","['2', '1', '4', '3', '5', '4']","['1', '0']",[],[],2.23
+17.08.2022,Maute J.,1,,,,,,"['1', '0', '2', '1', '4', '3', '6', '5']","['2', '2', '4', '4']",[],[],[],1.61
+02.09.2021,Veldheer M.,2,,,,,,"['3', '1', '5', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],1.14
+02.09.2021,Homberg M.,0,,,,,,"['3', '4']","['2', '2']",[],[],[],5.40
+01.09.2021,Homberg M.,2,,,,,,"['1', '0', '3', '0', '5', '4']","['1', '2', '3', '2', '6', '3']",[],[],[],-
+01.09.2021,Olsson O.,0,,,,,,"['2', '4', '4', '4']","['2', '0']",[],[],[],-

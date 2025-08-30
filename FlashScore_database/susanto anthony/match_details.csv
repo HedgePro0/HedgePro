@@ -1,67 +1,39 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Bali (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-31.07.,Susanto A.,1,,,,,,[],[],[],[],[],0
-31.07.,Sekulic P.,2,,,,,,[],[],[],[],[],0
-30.07.,Susanto A.,2,,,,,,[],[],[],[],[],0
-30.07.,Mugelli P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Maanshan 5 (China),hard,header
-09.07.,Susanto A.,2,,,,,,[],[],[],[],[],0
-09.07.,Lu P.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Bali 3 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali 4 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali 3 (Indonesia),hard,header
-ITF MEN - SINGLES M25 Kalaburagi (India),hard,header
-ITF MEN - SINGLES M25 Qian Daohu (China),hard,header
-ITF MEN - SINGLES M25 Bali (Indonesia),hard,header
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-28.08.2024,Susanto A.,0,,,,,,[],[],[],[],[],0
-28.08.2024,Aguiard E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 6 (Thailand),hard,header
-17.07.2024,Susanto A.,0,,,,,,[],[],[],[],[],0
-17.07.2024,Suresh D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 5 (Thailand),hard,header
-11.07.2024,Susanto A.,1,,,,,,[],[],[],[],[],0
-11.07.2024,Park S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 4 (Thailand),hard,header
-04.07.2024,Susanto A.,0,,,,,,[],[],[],[],[],0
-04.07.2024,Suksumrarn T.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Susanto A.,2,,,,,,[],[],[],[],[],0
-03.07.2024,Hall F.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group III (World),-,header
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Kuala Lumpur (Malaysia),hard,header
-29.11.2023,Suksumrarn T.,1,,,,,,[],[],[],[],[],0
-29.11.2023,Susanto A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jakarta 7 (Indonesia),hard,header
-15.08.2023,Susanto A.,0,,,,,,[],[],[],[],[],0
-15.08.2023,Lee J. M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jakarta 6 (Indonesia),hard,header
-08.08.2023,Susanto A.,0,,,,,,[],[],[],[],[],0
-08.08.2023,Fukuda S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Jakarta 4 (Indonesia),hard,header
-ITF MEN - SINGLES M25 Jakarta 5 (Indonesia),hard,header
-07.06.2023,Susanto A.,1,,,,,,[],[],[],[],[],0
-07.06.2023,Inui Y.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jakarta 4 (Indonesia),hard,header
-31.05.2023,Susanto A.,0,,,,,,[],[],[],[],[],0
-31.05.2023,Barki J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jakarta 3 (Indonesia),hard,header
-26.04.2023,Susanto A.,0,,,,,,[],[],[],[],[],0
-26.04.2023,Matsuda K.,2,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - World Group II (World) - Preliminary,-,header
-ITF MEN - SINGLES M15 Jakarta 2 (Indonesia),hard,header
-25.01.2023,Susanto A.,1,,,,,,[],[],[],[],[],0
-25.01.2023,Dev S D P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Jakarta (Indonesia),hard,header
-19.01.2023,Susanto A.,0,,,,,,[],[],[],[],[],0
-19.01.2023,Weber A.,2,,,,,,[],[],[],[],[],0
-18.01.2023,Susanto A.,2,,,,,,[],[],[],[],[],0
-18.01.2023,Susanto D. A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Jakarta 2 (Indonesia),hard,header
-16.08.2022,Susanto A.,0,,,,,,[],[],[],[],[],0
-16.08.2022,Sasikumar M.,2,,,,,,[],[],[],[],[],0
-ATP - SINGLES Davis Cup - Group II (World),-,header
-ATP - SINGLES Davis Cup - Group II (World),-,header
-09.04.2017,Susanto A.,2,,,,,,[],[],[],[],[],0
-09.04.2017,Alawadhi A.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+12.08.,Klintcharov A.,2,,,,,,"['2', '0', '5', '3']","['3', '2']",[],[],[],1.67
+12.08.,Susanto A.,0,,,,,,"['1', '2']",[],[],[],[],19.0
+06.08.,Isomura K.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0', '4', '5', '6', '5']",[],[],[],1.18
+06.08.,Susanto A.,0,,,,,,"['2', '2']","['2', '2', '4', '2']",[],[],[],4.54
+10.07.,Chanta T.,2,,,,,,"['2', '0', '4', '2']","['6', '5']",[],[],[],1.12
+10.07.,Susanto A.,0,,,,,,"['1', '2']",[],[],[],[],5.25
+31.12.2024,Barki N. A.,2,,,,,,"['3', '1']","['3', '2', '6', '3']",[],[],[],1.21
+31.12.2024,Susanto A.,0,,,,,,[],[],[],[],[],4.08
+24.12.2024,Yamasaki J.,2,,,,,,"['2', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.17
+24.12.2024,Susanto A.,0,,,,,,[],[],[],[],[],4.48
+17.12.2024,Barki N. A.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['4', '2']",[],[],[],1.55
+17.12.2024,Susanto A.,0,,,,,,[],[],[],[],[],2.32
+21.11.2024,Chappell N.,2,,,,,,"['1', '0', '3', '2', '5', '2', '6', '3']","['2', '0', '4', '0', '6', '2']",[],[],[],1.14
+21.11.2024,Susanto A.,0,,,,,,"['1', '1', '3', '5']","['1', '4']",[],[],[],5.05
+20.11.2024,Susanto A.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['6', '6']","['1', '0', '3', '2', '5', '4', '6', '5']",[],[],1.32
+20.11.2024,Choudhary P.,1,,,,,,[],"['6', '5']","['1', '1', '4', '4', '5', '5', '6', '6']",[],[],3.14
+31.10.2024,Xiao L.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '4', '1']",[],[],[],1.14
+31.10.2024,Susanto A.,0,,,,,,[],[],[],[],[],5.00
+30.10.2024,Susanto A.,2,,,,,,"['4', '4', '7', '5']","['2', '0']",[],[],[],1.57
+30.10.2024,Yang X.,0,,,,,,"['1', '0']",[],[],[],[],2.28
+03.09.2024,Lorusso L.,2,,,,,,"['5', '5']","['4', '3', '6', '5']",[],[],[],1.22
+03.09.2024,Susanto A.,0,,,,,,"['2', '1']","['4', '4']",[],[],[],3.96
+11.06.2024,Alam S.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['3', '2']",[],[],[],-
+11.06.2024,Susanto A.,0,,,,,,"['1', '2']",[],[],[],[],-
+04.02.2024,Loglo K.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],1.71
+04.02.2024,Susanto A.,0,,,,,,[],[],[],[],[],2.06
+03.02.2024,Setodji T.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1']",[],[],[],1.09
+03.02.2024,Susanto A.,0,,,,,,[],[],[],[],[],6.65
+21.06.2023,De Bakker T.,2,,,,,,[],[],[],[],[],1.66
+21.06.2023,Susanto A.,0,,,,,,[],[],[],[],[],16.0
+04.02.2023,Ly Nam H.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],[],1.01
+04.02.2023,Susanto A.,0,,,,,,[],[],[],[],[],13.00
+04.02.2018,Otico J. B. D.,2,,,,,,"['2', '1', '6', '3']","['3', '3', '5', '3']",[],[],[],-
+04.02.2018,Susanto A.,0,,,,,,[],"['1', '0']",[],[],[],-
+07.04.2017,Maqdes A.,3,,,,,,"['1', '0', '3', '2']","['1', '0', '3', '2']",[],"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",1.40
+07.04.2017,Susanto A.,2,,,,,,"['1', '1']","['1', '1', '4', '4', '6', '4']","['4', '2']",[],[],2.98
+05.02.2017,Lim A.,2,,,,,,"['2', '1', '4', '1', '6', '5']","['1', '0', '4', '3', '6', '3']",[],[],[],-
+05.02.2017,Susanto A.,0,,,,,,"['3', '5', '5', '5']","['3', '3']",[],[],[],-

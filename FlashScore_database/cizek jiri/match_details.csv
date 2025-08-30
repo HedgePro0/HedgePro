@@ -1,39 +1,33 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-CHALLENGER MEN - SINGLES Tampere (Finland) - Qualification,clay,header
-20.07.,Cizek J.,0,,,,,,4,3,43%,75% (15/20),26% (7/27),29% (2/7),23% (6/26),42% (8/19),100% (1/1),47% (22/47),31% (14/45),39% (36/92),4,0,38% (3/8),13% (1/8),25% (4/16),[],[],[],[],[],0
-20.07.,Molcan A.,2,,,,,,2,3,58%,77% (20/26),58% (11/19),0% (0/1),25% (5/20),74% (20/27),71% (5/7),69% (31/45),53% (25/47),61% (56/92),6,0,88% (7/8),63% (5/8),75% (12/16),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Ceska Lipa (Czech Republic),clay,header
-ITF MEN - SINGLES M25 Bol 2 (Croatia),clay,header
-CHALLENGER MEN - SINGLES Ostrava (Czech Republic) - Qualification,clay,header
-27.04.,Cizek J.,0,,,,,,3,2,56%,60% (24/40),25% (8/32),50% (6/12),37% (15/41),56% (10/18),67% (4/6),44% (32/72),42% (25/59),44% (57/131),4,3,33% (3/9),40% (4/10),37% (7/19),[],[],[],[],[],0
-27.04.,Houkes M.,2,,,,,,2,2,69%,63% (26/41),44% (8/18),33% (2/6),40% (16/40),75% (24/32),50% (6/12),58% (34/59),56% (40/72),56% (74/131),6,0,60% (6/10),67% (6/9),63% (12/19),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Ahmedabad (India),hard,header
-ITF MEN - SINGLES M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M25 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-ITF MEN - SINGLES M15 Pardubice (Czech Republic),clay,header
-ITF MEN - SINGLES M15 Bielsko Biala (Poland),clay,header
-ITF MEN - SINGLES M15 Umag (Croatia),clay,header
-12.07.2024,Cizek J.,0,,,,,,[],[],[],[],[],0
-12.07.2024,Denolly C.,2,,,,,,[],[],[],[],[],0
-11.07.2024,Cizek J.,2,,,,,,[],[],[],[],[],0
-11.07.2024,Andre S.,0,,,,,,[],[],[],[],[],0
-10.07.2024,Cizek J.,2,,,,,,[],[],[],[],[],0
-10.07.2024,Markovina D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Jablonec nad Nisou 2 (Czech Republic),clay,header
-31.08.2023,Cizek J.,0,,,,,,[],[],[],[],[],0
-31.08.2023,Stodder T.,2,,,,,,[],[],[],[],[],0
-29.08.2023,Cizek J.,2,,,,,,[],[],[],[],[],0
-29.08.2023,Larwig N.,0,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Pardubicka juniorka (Czech Republic),clay,header
-ITF MEN - SINGLES M25 Prague (Czech Republic),clay,header
-17.05.2023,Cizek J.,0,,,,,,[],[],[],[],[],0
-17.05.2023,Donald M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alaminos-Larnaca (Cyprus),clay,header
-26.04.2023,Cizek J.,0,,,,,,[],[],[],[],[],0
-26.04.2023,Bouzige M.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Pardubicka juniorka (Czech Republic),clay,header
-ITF MEN - SINGLES M25 Most (Czech Republic),clay,header
-18.05.2022,Cizek J.,0,,,,,,[],[],[],[],[],0
-18.05.2022,Wunderlich Y.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+20.07.,Molcan A.,2,,,,,,2,3,58%,77% (20/26),58% (11/19),0% (0/1),25% (5/20),74% (20/27),71% (5/7),69% (31/45),53% (25/47),61% (56/92),6,0,88% (7/8),63% (5/8),75% (12/16),"['1', '0', '3', '2', '5', '2']","['1', '0', '3', '0']",[],[],[],16.0
+20.07.,Cizek J.,0,,,,,,4,3,43%,75% (15/20),26% (7/27),29% (2/7),23% (6/26),42% (8/19),100% (1/1),47% (22/47),31% (14/45),39% (36/92),4,0,38% (3/8),13% (1/8),25% (4/16),"['1', '1']",[],[],[],[],1.56
+10.06.,Siniakov D.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],1.36
+10.06.,Cizek J.,0,,,,,,"['1', '2', '2', '5']","['2', '4']",[],[],[],2.94
+28.05.,Poljicak M.,2,,,,,,[],"['1', '0']","['1', '0', '3', '0']",[],[],1.06
+28.05.,Cizek J.,1,,,,,,[],[],[],[],[],7.20
+27.04.,Houkes M.,2,,,,,,2,2,69%,63% (26/41),44% (8/18),33% (2/6),40% (16/40),75% (24/32),50% (6/12),58% (34/59),56% (40/72),56% (74/131),6,0,60% (6/10),67% (6/9),63% (12/19),"['1', '1', '2', '2', '5', '3', '6', '4']","['2', '0', '4', '0']",[],[],[],1.01
+27.04.,Cizek J.,0,,,,,,3,2,56%,60% (24/40),25% (8/32),50% (6/12),37% (15/41),56% (10/18),67% (4/6),44% (32/72),42% (25/59),44% (57/131),4,3,33% (3/9),40% (4/10),37% (7/19),"['1', '0', '2', '1', '4', '5']","['2', '5']",[],[],[],12.50
+20.03.,Binda A.,2,,,,,,"['3', '1', '6', '2']","['2', '2', '5', '5', '7', '5']",[],[],[],1.04
+20.03.,Cizek J.,0,,,,,,[],"['2', '1', '4', '3']",[],[],[],8.20
+18.03.,Cizek J.,2,,,,,,"['3', '4', '4', '5']","['4', '5']","['4', '2']",[],[],-
+18.03.,Kesharwani M.,1,,,,,,"['2', '0', '5', '3', '7', '5']","['5', '3']",[],[],[],-
+12.02.,Oberleitner N.,2,,,,,,"['1', '0', '4', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.12
+12.02.,Cizek J.,0,,,,,,[],[],[],[],[],5.40
+05.02.,Pavlovic L.,2,,,,,,"['2', '1']","['2', '1', '6', '5']","['1', '0', '4', '1', '6', '1']",[],[],1.04
+05.02.,Cizek J.,1,,,,,,"['2', '2', '7', '5']","['2', '2']",[],[],[],8.60
+15.01.,Fita Juan S.,1,,,,,,"['6', '5']","['1', '0']",[],[],[],1.99
+15.01.,Cizek J.,0,,,,,,[],[],[],[],[],1.73
+13.11.2024,Soriano Barrera A.,2,,,,,,"['3', '1', '4', '2']","['2', '1', '4', '1']",[],[],[],1.03
+13.11.2024,Cizek J.,0,,,,,,"['2', '3']",[],[],[],[],9.65
+19.09.2024,Kupcic J.,2,,,,,,"['4', '3', '6', '3']","['3', '3', '5', '3']",[],[],[],1.02
+19.09.2024,Cizek J.,0,,,,,,[],"['1', '0']",[],[],[],11.50
+18.09.2024,Cizek J.,2,,,,,,"['1', '0', '3', '0']","['3', '2']",[],[],[],-
+18.09.2024,Bien D.,0,,,,,,[],[],[],[],[],-
+14.08.2024,La Serna J. M.,2,,,,,,"['2', '0', '4', '2', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.08
+14.08.2024,Cizek J.,0,,,,,,"['1', '2', '3', '4']",[],[],[],[],6.90
+01.08.2023,Kumstat J.,2,,,,,,[],"['4', '3', '6', '3']",[],[],[],-
+01.08.2023,Cizek J.,0,,,,,,[],[],[],[],[],-
+31.07.2023,Cizek J.,2,,,,,,"['2', '1', '4', '3']","['6', '4']",[],[],[],-
+31.07.2023,Smejkal S.,0,,,,,,"['3', '3', '5', '5']",[],[],[],[],-
+07.08.2022,Homola P.,2,,,,,,[],[],[],[],[],-
+07.08.2022,Cizek J.,0,,,,,,[],[],[],[],[],-

@@ -1,35 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-02.08.,Ghazouani Durand Y.,1,,,,,,[],[],[],[],[],0
-02.08.,Bertimon M.,2,,,,,,[],[],[],[],[],0
-01.08.,Ghazouani Durand Y.,2,,,,,,[],[],[],[],[],0
-01.08.,Hamza Reguig S.,0,,,,,,[],[],[],[],[],0
-31.07.,Ghazouani Durand Y.,2,,,,,,[],[],[],[],[],0
-31.07.,Kukasian A.,0,,,,,,[],[],[],[],[],0
-29.07.,Ghazouani Durand Y.,2,,,,,,[],[],[],[],[],0
-29.07.,Chabalgoity P. H.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25+H Bastia-Lucciana (France),clay,header
-ITF MEN - SINGLES M25+H Ajaccio (France),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Grasse (France),clay,header
-ITF MEN - SINGLES M15 Gyula (Hungary),clay,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M25 Saint-Dizier (France),hard,header
-ITF MEN - SINGLES M25 Toulouse-Balma (France),hard,header
-CHALLENGER MEN - SINGLES Cherbourg (France) - Qualification,hard,header
-09.03.,Ghazouani Durand Y.,1,,,,,,5,2,69%,73% (43/59),48% (13/27),40% (2/5),30% (17/57),44% (19/43),29% (2/7),65% (56/86),36% (36/100),49% (92/186),3,1,80% (12/15),13% (2/15),47% (14/30),[],[],[],[],[],0
-09.03.,Broska F.,2,,,,,,4,5,57%,70% (40/57),56% (24/43),71% (5/7),27% (16/59),52% (14/27),60% (3/5),64% (64/100),35% (30/86),51% (94/186),7,0,87% (13/15),20% (3/15),53% (16/30),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Poitiers (France),hard,header
-ITF MEN - SINGLES M15 Lannion (France),hard,header
-ITF MEN - SINGLES M25 Esch/Alzette (Luxembourg),hard,header
-ITF MEN - SINGLES M15 Madrid 3 (Spain),hard,header
-ITF MEN - SINGLES M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES M15 Villers-les-Nancy (France),hard,header
-ITF MEN - SINGLES M15 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES M15 Trnava (Slovakia),hard,header
-ITF MEN - SINGLES M25+H Plaisir (France),hard,header
-ITF MEN - SINGLES M25+H Bagneres-de-Bigorre (France),hard,header
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M15 Rognac (France),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+07.08.,Callejon H. S.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '5']",[],[],[],20.5
+07.08.,Ghazouani Durand Y.,0,,,,,,[],"['1', '3', '5', '5']",[],[],[],1.63
+06.08.,Ghazouani Durand Y.,2,,,,,,"['3', '3', '5', '5', '7', '5']","['1', '1', '3', '1', '6', '2']",[],[],[],2.62
+06.08.,Pascual Ferra R.,0,,,,,,"['2', '1', '5', '4']","['1', '0']",[],[],[],1.44
+05.08.,Ghazouani Durand Y.,2,,,,,,"['5', '5', '7', '5']","['1', '1', '3', '1', '4', '2', '6', '2']",[],[],[],1.01
+05.08.,Perez I.,0,,,,,,"['3', '2']","['1', '0', '2', '3']",[],[],[],10.70
+10.07.,Schwaerzler J. J.,2,,,,,,"['3', '4']","['3', '1']","['1', '0', '3', '0', '5', '0']",[],[],1.13
+10.07.,Ghazouani Durand Y.,1,,,,,,"['4', '2', '5', '3']",[],[],[],[],5.00
+08.07.,Ghazouani Durand Y.,2,,,,,,"['1', '1', '5', '3']","['1', '0']",[],[],[],1.50
+08.07.,Freire Da Silva A.,0,,,,,,"['1', '0', '4', '5']",[],[],[],[],2.44
+03.07.,Malige M.,2,,,,,,"['2', '1', '4', '1', '6', '3']",[],"['2', '3', '4', '5']",[],[],1.48
+03.07.,Ghazouani Durand Y.,1,,,,,,"['2', '4']","['1', '0', '3', '0', '6', '1']","['3', '1', '4', '2']",[],[],2.50
+02.07.,Ghazouani Durand Y.,2,,,,,,"['2', '1', '4', '1']","['3', '2', '5', '4']",[],[],[],1.47
+02.07.,Marinkov P.,0,,,,,,"['3', '5']","['4', '4', '5', '5']",[],[],[],2.53
+26.06.,Montes-De La Torre I.,2,,,,,,"['4', '3', '6', '3']","['3', '1', '5', '1']",[],[],[],1.05
+26.06.,Ghazouani Durand Y.,0,,,,,,[],[],[],[],[],7.80
+25.06.,Ghazouani Durand Y.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '4', '4', '5', '6', '5']",[],[],[],1.59
+25.06.,Pascual Ferra R.,0,,,,,,"['1', '2']","['1', '1', '4', '2', '5', '3', '6', '6']",[],[],[],2.28
+24.06.,Ghazouani Durand Y.,2,,,,,,[],"['1', '0', '4', '1', '6', '1']","['3', '3']",[],[],1.28
+24.06.,Stearns P.,1,,,,,,[],[],"['3', '2']",[],[],3.40
+21.06.,Moroni F.,2,,,,,,"['3', '4', '5', '4']","['4', '3', '6', '3']",[],[],[],1.32
+21.06.,Ghazouani Durand Y.,0,,,,,,"['3', '1']",[],[],[],[],3.14
+20.06.,Ghazouani Durand Y.,2,,,,,,"['4', '4', '6', '4']","['2', '4']","['3', '1', '5', '1']",[],[],1.45
+20.06.,Javia D.,1,,,,,,"['2', '1']","['1', '0', '3', '0', '5', '2']",[],[],[],2.59
+19.06.,Ghazouani Durand Y.,2,,,,,,"['2', '1', '3', '2', '6', '3']",[],"['2', '0']",[],[],2.37
+19.06.,Pow L.,1,,,,,,"['2', '2']","['1', '0', '3', '0']","['3', '4']",[],[],1.53
+18.06.,Ghazouani Durand Y.,2,,,,,,"['4', '2', '6', '2']","['1', '1', '4', '2', '6', '2']",[],[],[],1.14
+18.06.,Ryan Ziegann S.,0,,,,,,[],"['1', '0']",[],[],[],4.85
+03.06.,Bailly G. A.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['2', '1', '4', '3']",[],[],[],1.10
+03.06.,Ghazouani Durand Y.,0,,,,,,"['2', '0', '3', '5']","['2', '2']",[],[],[],5.70
+27.05.,Cerny M.,2,,,,,,"['1', '0', '3', '2']","['3', '2', '4', '3', '6', '3']",[],[],[],1.82
+27.05.,Ghazouani Durand Y.,0,,,,,,"['1', '1']","['3', '3']",[],[],[],1.93
+03.04.,Wallin O.,2,,,,,,"['2', '1', '3', '2', '6', '5']","['2', '1']",[],[],[],1.68
+03.04.,Ghazouani Durand Y.,0,,,,,,"['2', '2', '3', '3']",[],[],[],[],2.09
+02.04.,Ghazouani Durand Y.,2,,,,,,"['4', '4', '5', '5', '7', '5']","['2', '0', '5', '1']",[],[],[],1.12
+02.04.,Berger A.,0,,,,,,"['4', '3', '5', '4']",[],[],[],[],5.20
+27.03.,Freire Da Silva A.,2,,,,,,"['4', '4']",[],"['4', '2', '5', '3']",[],[],2.81
+27.03.,Ghazouani Durand Y.,1,,,,,,"['4', '3']","['2', '0', '4', '0']","['3', '4']",[],[],1.39
+26.03.,Ghazouani Durand Y.,2,,,,,,"['2', '2', '3', '3']",[],"['5', '4']",[],[],3.14
+26.03.,Poullain L.,1,,,,,,"['2', '1', '3', '2']","['3', '1', '6', '2']",[],[],[],1.32
+19.03.,Taguchi R.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['2', '2', '5', '3']",[],[],[],2.62
+19.03.,Ghazouani Durand Y.,0,,,,,,"['2', '2']","['2', '1', '4', '5']",[],[],[],1.44
+09.03.,Broska F.,2,,,,,,4,5,57%,70% (40/57),56% (24/43),71% (5/7),27% (16/59),52% (14/27),60% (3/5),64% (64/100),35% (30/86),51% (94/186),7,0,87% (13/15),20% (3/15),53% (16/30),"['3', '2']","['2', '0']","['6', '5']",[],[],1.26
+09.03.,Ghazouani Durand Y.,1,,,,,,5,2,69%,73% (43/59),48% (13/27),40% (2/5),30% (17/57),44% (19/43),29% (2/7),65% (56/86),36% (36/100),49% (92/186),3,1,80% (12/15),13% (2/15),47% (14/30),"['3', '3', '5', '3']",[],[],[],[],3.63
+04.03.,De Schepper K.,2,,,,,,"['6', '5']","['2', '1']",[],[],[],1.62
+04.03.,Ghazouani Durand Y.,0,,,,,,[],[],[],[],[],2.18
+20.02.,Stewart H.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['2', '4', '3', '5']","['2', '3', '4', '3', '5', '4']",[],[],1.29
+20.02.,Ghazouani Durand Y.,1,,,,,,"['3', '1']","['1', '0', '4', '1', '5', '2', '6', '3']","['3', '1', '4', '4']",[],[],3.32
+19.02.,Ghazouani Durand Y.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']",[],[],[],1.27
+19.02.,Vassard A.,0,,,,,,[],[],[],[],[],3.46
+22.01.,Den Ouden G.,1,,,,,,"['1', '0', '6', '5']",[],[],[],[],1.30
+22.01.,Ghazouani Durand Y.,0,,,,,,"['5', '5', '6', '6']","['2', '1', '4', '1']",[],[],[],3.30
+28.11.2024,Cesar Porras J.,2,,,,,,"['2', '1', '3', '2']","['2', '1', '4', '1']",[],[],[],1.29
+28.11.2024,Ghazouani Durand Y.,0,,,,,,"['2', '2']",[],[],[],[],3.32
+27.11.2024,Ghazouani Durand Y.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.70
+27.11.2024,Winter Lopez B.,0,,,,,,"['1', '0']",[],[],[],[],2.03
+25.10.2024,Geerts M.,2,,,,,,"['4', '2']","['3', '2', '5', '2']",[],[],[],1.18
+25.10.2024,Ghazouani Durand Y.,0,,,,,,[],[],[],[],[],4.43
+24.10.2024,Ghazouani Durand Y.,2,,,,,,"['2', '0', '4', '0']","['3', '2']","['5', '3', '6', '4']",[],[],2.37
+24.10.2024,Malige M.,1,,,,,,[],"['4', '4']","['4', '5']",[],[],1.53
+23.10.2024,Ghazouani Durand Y.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['7', '5']",[],[],[],1.14
+23.10.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],5.10
+15.10.2024,Garcian A.,2,,,,,,"['1', '0', '2', '1', '4', '1', '6', '1']","['2', '2', '5', '3']",[],[],[],1.85
+15.10.2024,Ghazouani Durand Y.,0,,,,,,"['1', '1']","['1', '0']",[],[],[],1.85
+03.10.2024,Massard L.,2,,,,,,[],"['1', '0', '2', '1', '4', '1', '6', '3']","['2', '0', '3', '1']",[],[],1.51
+03.10.2024,Ghazouani Durand Y.,1,,,,,,"['4', '2', '6', '2']","['1', '1', '3', '5']","['1', '2']",[],[],2.42
+02.10.2024,Ghazouani Durand Y.,2,,,,,,"['2', '0', '5', '1']","['2', '1']",[],[],[],1.59
+02.10.2024,Opitz J.,0,,,,,,[],[],[],[],[],2.15
+26.09.2024,Pawelski M.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '3', '6', '5']",[],[],[],1.44
+26.09.2024,Ghazouani Durand Y.,0,,,,,,[],"['1', '1', '5', '5', '6', '6']",[],[],[],2.62
+24.09.2024,Ghazouani Durand Y.,2,,,,,,"['1', '0', '2', '1', '3', '2', '6', '3']","['2', '4']","['1', '1', '3', '1', '5', '3']",[],[],1.25
+24.09.2024,Poertner L.,1,,,,,,"['1', '1', '2', '2']","['1', '0', '3', '0', '5', '2']","['1', '0', '3', '4']",[],[],3.62
+12.09.2024,Chidekh C.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],[],1.14
+12.09.2024,Ghazouani Durand Y.,0,,,,,,[],[],[],[],[],5.08
+11.09.2024,Ghazouani Durand Y.,2,,,,,,[],"['3', '3']","['4', '3', '5', '4']",[],[],2.32
+11.09.2024,Wendelken H.,1,,,,,,"['2', '1', '4', '1']","['1', '0']","['4', '4']",[],[],1.56

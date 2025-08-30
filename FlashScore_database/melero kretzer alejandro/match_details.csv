@@ -1,40 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-31.07.,Melero K. A.,0,,,,,,[],[],[],[],[],0
-31.07.,Wallart E.,2,,,,,,[],[],[],[],[],0
-30.07.,Melero K. A.,2,,,,,,[],[],[],[],[],0
-30.07.,Tessa L.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 29 (Tunisia),hard,header
-23.07.,Melero K. A.,0,,,,,,[],[],[],[],[],0
-23.07.,Baroni N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 25 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Madrid 4 (Spain),clay,header
-ITF MEN - SINGLES M15 Madrid 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Alcala de Henares (Spain),hard,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M25 Denia (Spain),clay,header
-ITF MEN - SINGLES M15 Telde 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Telde (Spain),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M15 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
-ITF MEN - SINGLES M15 Madrid 3 (Spain),clay,header
-ITF MEN - SINGLES M15 Madrid 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M15 Vigo (Spain),clay,header
-ITF MEN - SINGLES M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M25 Gurb (Spain),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M25 Palmanova (Spain),clay,header
-ITF MEN - SINGLES M15+H Bagnoles de l'Orne (France),clay,header
-26.01.2023,Melero K. A.,0,,,,,,[],[],[],[],[],0
-26.01.2023,Catarina L.,2,,,,,,[],[],[],[],[],0
-25.01.2023,Melero K. A.,2,,,,,,[],[],[],[],[],0
-25.01.2023,Darras M.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+25.06.,Ryan Ziegann S.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '3', '2', '5', '2']",[],[],[],3.09
+25.06.,Melero K. A.,0,,,,,,"['3', '1']","['1', '1']",[],[],[],1.33
+04.12.2024,Manzanera Pertusa A.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '3', '1', '6', '6']",[],[],[],1.34
+04.12.2024,Melero K. A.,0,,,,,,[],"['1', '2', '2', '3', '6', '5']",[],[],[],3.04
+26.11.2024,Naw H.,2,,,,,,"['3', '2', '6', '3']","['2', '0']",[],[],[],1.12
+26.11.2024,Melero K. A.,0,,,,,,[],[],[],[],[],5.37
+20.11.2024,Marrero Curbelo I.,2,,,,,,"['2', '0', '6', '2']","['3', '1']","['1', '0', '4', '1']",[],[],1.19
+20.11.2024,Melero K. A.,1,,,,,,[],"['2', '3']",[],[],[],4.32
+16.10.2024,Parisca I.,2,,,,,,[],"['1', '0', '3', '0']",[],[],[],1.70
+16.10.2024,Melero K. A.,0,,,,,,[],[],[],[],[],1.98
+24.07.2024,Midon L.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.12
+24.07.2024,Melero K. A.,0,,,,,,[],[],[],[],[],5.72
+16.04.2024,Pedrico Kravtsov A.,0,,,,,,"['1', '0', '3', '2']",[],[],[],[],1.98
+16.04.2024,Melero K. A.,0,,,,,,"['1', '1']",[],[],[],[],1.75
+11.04.2024,Curras Abasolo T.,2,,,,,,"['2', '0', '4', '2', '6', '4']","['5', '5']","['2', '0', '5', '5', '7', '5']",[],[],1.92
+11.04.2024,Melero K. A.,1,,,,,,"['2', '3', '3', '4']","['3', '2', '6', '5']","['1', '2', '3', '2']",[],[],1.80
+10.04.2024,Melero K. A.,2,,,,,,"['4', '4']","['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],1.14
+10.04.2024,Ambarzumjan E.,1,,,,,,"['3', '2']",[],[],[],[],5.19
+04.04.2024,Fernandez Flores D.,2,,,,,,"['2', '4']","['2', '0']","['3', '2', '4', '3', '5', '4', '6', '5']",[],[],1.69
+04.04.2024,Melero K. A.,1,,,,,,"['1', '0', '3', '0', '5', '2']",[],"['3', '3', '4', '4', '5', '5']",[],[],2.06
+02.04.2024,Melero K. A.,2,,,,,,"['2', '1', '3', '2']","['2', '0', '5', '1', '6', '2']",[],[],[],1.37
+02.04.2024,Oliver Moratalla V.,0,,,,,,"['2', '2', '4', '4']","['2', '5']",[],[],[],2.92
+20.03.2024,Alcala Gurri M.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '0', '5', '1']",[],[],[],1.24
+20.03.2024,Melero K. A.,0,,,,,,"['1', '4']",[],[],[],[],3.77
+15.03.2024,Decamps G.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0']",[],[],[],1.28
+15.03.2024,Melero K. A.,0,,,,,,[],[],[],[],[],3.43
+14.03.2024,Melero K. A.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '1']",[],[],2.20
+14.03.2024,Jones M.,1,,,,,,"['5', '3']",[],[],[],[],1.62
+13.03.2024,Melero K. A.,2,,,,,,"['1', '2']","['3', '2']","['1', '0', '5', '2']",[],[],1.60
+13.03.2024,Rocens M.,1,,,,,,"['2', '0', '7', '5']",[],[],[],[],2.24
+05.03.2024,Soriano Barrera A.,2,,,,,,"['3', '1']","['1', '0']",[],[],[],1.40
+05.03.2024,Melero K. A.,0,,,,,,[],[],[],[],[],2.79
+07.12.2023,Martin Tiffon P.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '6', '3']",[],[],[],1.11
+07.12.2023,Melero K. A.,0,,,,,,[],[],[],[],[],5.90
+05.12.2023,Melero K. A.,2,,,,,,[],"['3', '1', '5', '1']","['2', '3', '5', '4', '6', '5']",[],[],1.73
+05.12.2023,Markes C.,1,,,,,,"['2', '0', '5', '1']",[],"['2', '0', '5', '5']",[],[],2.00
+29.11.2023,Echeverria J.,2,,,,,,"['1', '0']","['3', '4', '6', '5']",[],[],[],1.38
+29.11.2023,Melero K. A.,0,,,,,,[],"['3', '1']",[],[],[],2.70
+17.11.2023,Gimeno Valero C.,2,,,,,,"['1', '0', '6', '3']","['2', '0', '4', '0', '5', '1']",[],[],[],1.15
+17.11.2023,Melero K. A.,0,,,,,,[],"['1', '4']",[],[],[],4.89
+16.11.2023,Melero K. A.,2,,,,,,"['2', '2', '5', '3', '6', '4']",[],"['3', '1']",[],[],2.45
+16.11.2023,Manzanera Pertusa A.,1,,,,,,"['1', '0', '4', '5']","['1', '0', '5', '2']",[],[],[],1.50
+15.11.2023,Melero K. A.,2,,,,,,"['2', '0', '6', '4']","['1', '3']","['3', '3', '5', '3', '7', '5']",[],[],1.40
+15.11.2023,Naharro D.,1,,,,,,"['3', '4']","['1', '0', '3', '0', '5', '2']","['2', '1', '4', '5']",[],[],2.78
+17.10.2023,Lopez San Martin A.,2,,,,,,"['1', '2', '3', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],1.18
+17.10.2023,Melero K. A.,0,,,,,,"['2', '0', '3', '3']",[],[],[],[],4.42
+12.10.2023,Gavrielides L.,2,,,,,,"['4', '3', '6', '3']","['4', '2']",[],[],[],1.54
+12.10.2023,Melero K. A.,0,,,,,,[],[],[],[],[],2.36
+11.10.2023,Melero K. A.,2,,,,,,"['2', '1', '5', '2']","['2', '1']","['2', '0', '4', '2']",[],[],1.24
+11.10.2023,Moret J.,1,,,,,,[],"['3', '3', '5', '3']","['1', '2']",[],[],3.73
+03.10.2023,Brosset S.,2,,,,,,"['2', '0', '4', '2']","['1', '0', '3', '2']",[],[],[],2.27
+03.10.2023,Melero K. A.,0,,,,,,"['1', '2']","['1', '1', '4', '4']",[],[],[],1.58
+27.09.2023,Bonsach G. K.,2,,,,,,"['1', '0', '3', '0', '6', '5']","['1', '0', '4', '1']",[],[],[],2.67
+27.09.2023,Melero K. A.,0,,,,,,"['1', '3', '5', '5']",[],[],[],[],1.43
+03.09.2023,Hrazdil J.,2,,,,,,[],"['2', '0']","['4', '3']",[],[],-
+03.09.2023,Melero K. A.,1,,,,,,"['3', '1']",[],[],[],[],-
+12.07.2023,Williams C.,2,,,,,,"['4', '3']","['5', '4']",[],[],[],-
+12.07.2023,Melero K. A.,0,,,,,,[],[],[],[],[],-
+11.07.2023,Melero K. A.,2,,,,,,"['1', '0', '3', '0']","['2', '1', '6', '3']",[],[],[],-
+11.07.2023,Rice K.,0,,,,,,"['3', '5']",[],[],[],[],-
+08.07.2023,Melero K. A.,2,,,,,,"['2', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+08.07.2023,Vulpitta G.,0,,,,,,[],[],[],[],[],-
+27.06.2023,Coulibaly E.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0']",[],[],[],1.14
+27.06.2023,Melero K. A.,0,,,,,,"['2', '4']",[],[],[],[],5.15
+04.06.2023,Coman M. A.,2,,,,,,"['3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],-
+04.06.2023,Melero K. A.,0,,,,,,"['3', '4']","['1', '4']",[],[],[],-
+17.05.2023,Blanch Dar.,2,,,,,,"['3', '1', '6', '4']",[],"['2', '0', '4', '0', '5', '3']",[],[],3.54
+17.05.2023,Melero K. A.,1,,,,,,"['4', '5']","['1', '0', '5', '2']","['1', '4', '3', '4', '4', '5']",[],[],1.26
+04.04.2023,Damas M.,2,,,,,,"['3', '3', '5', '5', '6', '6']","['1', '0', '4', '3', '6', '3']",[],[],[],1.45
+04.04.2023,Melero K. A.,0,,,,,,"['2', '1', '4', '3', '6', '5']","['2', '2']",[],[],[],2.60
+17.03.2023,Marti Pujolras A.,2,,,,,,"['5', '5']","['2', '1']","['1', '0', '3', '0', '4', '3', '6', '3']",[],[],1.09
+17.03.2023,Melero K. A.,1,,,,,,"['1', '0']","['4', '4', '7', '5']","['1', '3', '3', '3']",[],[],6.30
+16.03.2023,Melero K. A.,2,,,,,,"['2', '5']","['1', '1', '4', '2']","['1', '2', '4', '3']",[],[],4.52
+16.03.2023,Gill F.,1,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '4']","['2', '0']",[],[],1.17
+14.03.2023,Melero K. A.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1', '5', '4']",[],[],[],7.50
+14.03.2023,Gerch L.,0,,,,,,[],"['2', '4', '4', '4']",[],[],[],1.06

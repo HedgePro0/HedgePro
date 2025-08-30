@@ -1,54 +1,47 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Koszalin (Poland),clay,header
-ITF MEN - SINGLES M15 Szczawno (Poland),clay,header
-ITF MEN - SINGLES M25 Bielsko Biala (Poland),clay,header
-ITF MEN - SINGLES M15 Szczawno (Poland),clay,header
-ITF MEN - SINGLES M25 Bielsko Biala (Poland),clay,header
-17.08.2023,Terczynski M.,1,,,,,,[],[],[],[],[],0
-17.08.2023,Barnat J.,2,,,,,,[],[],[],[],[],0
-15.08.2023,Terczynski M.,2,,,,,,[],[],[],[],[],0
-15.08.2023,Migdalski M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Budapest (Hungary),hard,header
-08.09.2022,Terczynski M.,1,,,,,,[],[],[],[],[],0
-08.09.2022,Pokorny L.,2,,,,,,[],[],[],[],[],0
-06.09.2022,Terczynski M.,2,,,,,,[],[],[],[],[],0
-06.09.2022,Matuszewski G.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Szabolcsveresmart (Hungary),clay,header
-31.08.2022,Terczynski M.,0,,,,,,[],[],[],[],[],0
-31.08.2022,Novansky M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Poznan (Poland),clay,header
-25.08.2022,Terczynski M.,0,,,,,,[],[],[],[],[],0
-25.08.2022,Kravchenko G.,2,,,,,,[],[],[],[],[],0
-24.08.2022,Terczynski M.,2,,,,,,[],[],[],[],[],0
-24.08.2022,Bienkiewicz J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wroclaw (Poland),clay,header
-30.06.2022,Terczynski M.,1,,,,,,[],[],[],[],[],0
-30.06.2022,Borg L.,2,,,,,,[],[],[],[],[],0
-28.06.2022,Terczynski M.,2,,,,,,[],[],[],[],[],0
-28.06.2022,Satral J.,1,,,,,,[],[],[],[],[],0
-ATP - SINGLES Stuttgart (Germany) - Qualification,grass,header
-04.06.2022,Terczynski M.,0,,,,,,3,4,64%,52% (22/42),42% (10/24),50% (5/10),23% (9/39),63% (10/16),17% (1/6),48% (32/66),35% (19/55),42% (51/121),44% (4/9),13% (1/8),29% (5/17),[],[],[],[],[],0
-04.06.2022,Rodionov J.,2,,,,,,6,1,71%,77% (30/39),38% (6/16),83% (5/6),48% (20/42),58% (14/24),50% (5/10),65% (36/55),52% (34/66),58% (70/121),88% (7/8),56% (5/9),71% (12/17),[],[],[],[],[],0
-EXHIBITION - MEN Mistrzostwa Polski (Poland),clay,header
-15.07.2020,Terczynski M.,2,,,,,,[],[],[],[],[],0
-15.07.2020,Bronka A.,0,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Mistrzostwa Polski (Poland) - Qualification,clay,header
-13.07.2020,Terczynski M.,2,,,,,,[],[],[],[],[],0
-13.07.2020,Borkowski M.,1,,,,,,[],[],[],[],[],0
-13.07.2020,Terczynski M.,2,,,,,,[],[],[],[],[],0
-13.07.2020,Andrzejczuk A.,0,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Poland Tour (Poland),clay,header
-06.07.2020,Terczynski M.,2,,,,,,[],[],[],[],[],0
-06.07.2020,Szic S.,0,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN Others matches (World),-,header
-07.05.2020,Terczynski M.,1,,,,,,[],[],[],[],[],0
-07.05.2020,Gajewski K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Saarlouis (Germany),clay,header
-03.07.2018,Terczynski M.,1,,,,,,[],[],[],[],[],0
-03.07.2018,Antonescu V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Santa Margherita di Pula 3 (Italy),clay,header
-21.03.2018,Terczynski M.,0,,,,,,[],[],[],[],[],0
-21.03.2018,Lopez-Perez E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Loughborough (United Kingdom),hard,header
-26.10.2016,Terczynski M.,0,,,,,,[],[],[],[],[],0
-26.10.2016,Simon T.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+07.09.2023,Rajski M.,2,,,,,,[],[],[],[],[],1.13
+07.09.2023,Terczynski M.,0,,,,,,[],[],[],[],[],5.41
+06.09.2023,Terczynski M.,2,,,,,,[],[],[],[],[],1.66
+06.09.2023,Lis M.,0,,,,,,[],[],[],[],[],2.12
+31.08.2023,Rajski M.,2,,,,,,[],[],[],[],[],1.12
+31.08.2023,Terczynski M.,1,,,,,,[],[],[],[],[],5.42
+04.06.2022,Rodionov J.,2,,,,,,6,1,71%,77% (30/39),38% (6/16),83% (5/6),48% (20/42),58% (14/24),50% (5/10),65% (36/55),52% (34/66),58% (70/121),88% (7/8),56% (5/9),71% (12/17),"['1', '0', '3', '0', '5', '2']","['2', '1', '6', '3']",[],[],[],1.02
+04.06.2022,Terczynski M.,0,,,,,,3,4,64%,52% (22/42),42% (10/24),50% (5/10),23% (9/39),63% (10/16),17% (1/6),48% (32/66),35% (19/55),42% (51/121),44% (4/9),13% (1/8),29% (5/17),"['2', '4']",[],[],[],[],14.50
+16.07.2020,Majchrzak K.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],1.02
+16.07.2020,Terczynski M.,0,,,,,,[],[],[],[],[],13.00
+07.07.2020,Rajski M.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.18
+07.07.2020,Terczynski M.,0,,,,,,[],[],[],[],[],4.76
+05.06.2020,Dembek M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],-
+05.06.2020,Terczynski M.,0,,,,,,[],[],[],[],[],-
+04.06.2020,Dembek M.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.30
+04.06.2020,Terczynski M.,0,,,,,,"['1', '3']",[],[],[],[],3.42
+03.06.2020,Kolasinski F.,2,,,,,,"['3', '1', '4', '2', '6', '2']",[],[],[],[],-
+03.06.2020,Terczynski M.,0,,,,,,"['2', '3']",[],[],[],[],-
+03.06.2020,Michalski D.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']","['4', '2', '7', '4', '9', '6']",[],[],-
+03.06.2020,Terczynski M.,1,,,,,,[],"['3', '3', '5', '3']","['5', '7']",[],[],-
+02.06.2020,Rajski M.,2,,,,,,"['1', '1']","['4', '4', '6', '4']","['7', '4']",[],[],1.30
+02.06.2020,Terczynski M.,1,,,,,,"['1', '0', '4', '3']","['3', '2']",[],[],[],3.46
+02.06.2020,Zielinski J.,2,,,,,,[],"['2', '2', '4', '2']","['1', '3', '2', '3', '4', '4', '6', '6', '7', '6', '10', '6']",[],[],1.30
+02.06.2020,Terczynski M.,1,,,,,,"['2', '1']","['1', '0']","['2', '0', '3', '0', '4', '2', '6', '5']",[],[],3.46
+23.05.2020,Terczynski M.,2,,,,,,"['2', '1', '4', '1']","['3', '4', '6', '5']",[],[],[],1.47
+23.05.2020,Adamek M.,0,,,,,,[],"['4', '2']",[],[],[],2.63
+22.05.2020,Adamek M.,2,,,,,,"['3', '4', '5', '4']","['1', '0']","['2', '3', '5', '3', '6', '3', '8', '4', '9', '4']",[],[],5.30
+22.05.2020,Terczynski M.,1,,,,,,"['4', '2']","['1', '1', '4', '2', '6', '2']","['2', '0', '4', '7']",[],[],1.14
+21.05.2020,Wojcik Y.,2,,,,,,"['6', '4']","['3', '1', '5', '3']",[],[],[],2.63
+21.05.2020,Terczynski M.,0,,,,,,[],"['2', '3']",[],[],[],1.42
+21.05.2020,Galka J.,2,,,,,,"['3', '1', '6', '2']","['4', '2']",[],[],[],3.36
+21.05.2020,Terczynski M.,0,,,,,,[],[],[],[],[],1.31
+20.05.2020,Nazaruk D.,2,,,,,,"['1', '1', '4', '4', '6', '4']","['3', '1']",[],[],[],2.61
+20.05.2020,Terczynski M.,0,,,,,,"['1', '0', '4', '3']",[],[],[],[],1.45
+20.05.2020,Wozniak M.,2,,,,,,"['2', '0', '6', '4']","['4', '2', '6', '2']",[],[],[],4.58
+20.05.2020,Terczynski M.,0,,,,,,"['4', '5']",[],[],[],[],1.17
+09.05.2020,Terczynski M.,2,,,,,,"['1', '0', '3', '0', '5', '0']",[],"['2', '0', '5', '1']",[],[],-
+09.05.2020,Wojcik Y.,1,,,,,,[],"['4', '2']",[],[],[],-
+08.05.2020,Terczynski M.,2,,,,,,"['2', '0', '3', '1', '4', '2', '6', '2']","['1', '0', '4', '1']",[],[],[],1.61
+08.05.2020,Wojcik Y.,0,,,,,,"['1', '2', '2', '3']",[],[],[],[],2.28
+07.05.2020,Terczynski M.,2,,,,,,"['2', '1', '6', '5']","['1', '1', '3', '1']",[],[],[],1.05
+07.05.2020,Adamek M.,0,,,,,,"['5', '5', '6', '6']","['1', '0']",[],[],[],8.60
+06.05.2020,Terczynski M.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '2']",[],[],[],-
+06.05.2020,Bedra M.,0,,,,,,[],"['2', '4']",[],[],[],-
+06.05.2020,Terczynski M.,2,,,,,,"['2', '1', '6', '3']","['2', '0', '5', '1']",[],[],[],-
+06.05.2020,Mlazga A.,0,,,,,,[],[],[],[],[],-

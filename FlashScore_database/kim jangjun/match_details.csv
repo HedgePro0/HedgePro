@@ -1,49 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Tokyo (Japan),hard,header
-ITF MEN - SINGLES M15 Daegu (South Korea),hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES M15 Anseong (South Korea),clay,header
-ITF MEN - SINGLES M15 Daegu (South Korea),hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES M15 Anseong (South Korea),clay,header
-12.06.2024,Kim J.,1,,,,,,[],[],[],[],[],0
-12.06.2024,Miyoshi K.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M15 Kashiwa (Japan),hard,header
-04.04.2024,Kim J.,0,,,,,,[],[],[],[],[],0
-04.04.2024,Hsu Y. H.,2,,,,,,[],[],[],[],[],0
-02.04.2024,Kim J.,2,,,,,,[],[],[],[],[],0
-02.04.2024,Roh H.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-27.03.2024,Kim J.,0,,,,,,[],[],[],[],[],0
-27.03.2024,Taguchi R.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Australian Open (Australia),hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES M25 Anseong (South Korea),clay,header
-22.06.2023,Kim J.,0,,,,,,[],[],[],[],[],0
-22.06.2023,Ichikawa T.,2,,,,,,[],[],[],[],[],0
-21.06.2023,Kim J.,2,,,,,,[],[],[],[],[],0
-21.06.2023,Kim Y. S.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Changwon (South Korea),hard,header
-15.06.2023,Kim J.,0,,,,,,[],[],[],[],[],0
-15.06.2023,Lee J. M.,2,,,,,,[],[],[],[],[],0
-14.06.2023,Kim J.,2,,,,,,[],[],[],[],[],0
-14.06.2023,Lee J.,0,,,,,,[],[],[],[],[],0
-BOYS - SINGLES French Open (France),clay,header
-CHALLENGER MEN - SINGLES Seoul (South Korea),hard,header
-11.10.2022,Kim J.,0,,,,,,1,2,51%,48% (12/25),29% (7/24),33% (3/9),26% (5/19),23% (3/13),100% (1/1),39% (19/49),25% (8/32),33% (27/81),25% (2/8),14% (1/7),20% (3/15),[],[],[],[],[],0
-11.10.2022,Hijikata R.,2,,,,,,3,1,59%,74% (14/19),77% (10/13),0% (0/1),52% (13/25),71% (17/24),67% (6/9),75% (24/32),61% (30/49),67% (54/81),86% (6/7),75% (6/8),80% (12/15),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Daegu (South Korea),hard,header
-31.08.2022,Kim J.,1,,,,,,[],[],[],[],[],0
-31.08.2022,Kawachi K.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Changwon (South Korea),hard,header
-25.08.2022,Kim J.,0,,,,,,[],[],[],[],[],0
-25.08.2022,Kawahashi Y.,2,,,,,,[],[],[],[],[],0
-23.08.2022,Kim J.,2,,,,,,[],[],[],[],[],0
-23.08.2022,Pavlekovich Smith T.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Anseong (South Korea),clay,header
-17.08.2022,Kim J.,0,,,,,,[],[],[],[],[],0
-17.08.2022,Niki T.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+03.07.,Matsuoka S.,2,,,,,,"['2', '1', '4', '1']","['3', '2', '5', '2']",[],[],[],2.24
+03.07.,Kim J.,0,,,,,,[],[],[],[],[],1.59
+02.07.,Kim J.,2,,,,,,[],"['6', '4']","['2', '0']",[],[],4.23
+02.07.,Isomura K.,1,,,,,,"['3', '2']",[],"['4', '5']",[],[],1.19
+29.05.,Chu S.,2,,,,,,"['2', '3', '4', '3']","['5', '4']",[],[],[],1.73
+29.05.,Kim J.,0,,,,,,"['2', '0']",[],[],[],[],1.99
+27.05.,Kim J.,2,,,,,,"['1', '1', '3', '5']","['1', '1', '3', '1']","['2', '1', '4', '1']",[],[],1.35
+27.05.,Hwang D.,1,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0']","['3', '5']",[],[],2.99
+04.09.2024,Robertson C.,2,,,,,,"['2', '1', '6', '3']","['3', '1', '4', '2', '6', '4']",[],[],[],-
+04.09.2024,Kim J.,0,,,,,,[],"['2', '3', '4', '5']",[],[],[],-
+03.09.2024,Kim J.,2,,,,,,"['3', '2']","['3', '1', '6', '2']",[],[],[],-
+03.09.2024,Battiston A.,0,,,,,,"['4', '4']",[],[],[],[],-
+01.09.2024,Kim J.,2,,,,,,"['2', '0', '5', '1']","['4', '3']",[],[],[],-
+01.09.2024,Iutkin I.,0,,,,,,[],[],[],[],[],-
+10.07.2024,Robertson C.,2,,,,,,[],"['2', '1']","['4', '2']",[],[],-
+10.07.2024,Kim J.,1,,,,,,"['6', '4']","['4', '4']",[],[],[],-
+07.07.2024,Kim J.,2,,,,,,"['5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+07.07.2024,Kennedy J.,0,,,,,,[],[],[],[],[],-
+02.06.2024,Robertson C.,2,,,,,,"['1', '0', '4', '5']","['4', '2']","['1', '0', '3', '0', '5', '4']",[],[],-
+02.06.2024,Kim J.,1,,,,,,"['1', '1', '5', '3']",[],"['1', '3', '3', '3']",[],[],-
+24.01.2024,Omarkhanov A.,2,,,,,,"['1', '2', '4', '3', '6', '3']",[],"['2', '0', '4', '0', '6', '0']",[],[],-
+24.01.2024,Kim J.,1,,,,,,"['2', '0']","['6', '5']",[],[],[],-
+22.01.2024,Kim J.,2,,,,,,"['2', '1']","['2', '0', '4', '2', '6', '4']",[],[],[],-
+22.01.2024,Host T.,0,,,,,,"['4', '4']","['1', '2', '3', '4']",[],[],[],-
+20.01.2024,Kim J.,2,,,,,,[],"['2', '0', '6', '2']","['3', '3', '5', '3']",[],[],-
+20.01.2024,Tabata R.,1,,,,,,"['6', '5']",[],"['3', '2', '4', '5']",[],[],-
+04.09.2023,Pacheco Mendez R.,2,,,,,,"['3', '2', '5', '2']","['2', '1']",[],[],[],-
+04.09.2023,Kim J.,0,,,,,,[],[],[],[],[],-
+09.07.2023,Fonseca J.,2,,,,,,"['3', '4', '6', '5']","['1', '0', '4', '1', '5', '2']",[],[],[],-
+09.07.2023,Kim J.,0,,,,,,"['4', '2']","['2', '4']",[],[],[],-
+04.06.2023,Prizmic D.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1']",[],[],[],-
+04.06.2023,Kim J.,0,,,,,,[],[],[],[],[],-
+11.10.2022,Hijikata R.,2,,,,,,3,1,59%,74% (14/19),77% (10/13),0% (0/1),52% (13/25),71% (17/24),67% (6/9),75% (24/32),61% (30/49),67% (54/81),86% (6/7),75% (6/8),80% (12/15),"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '2', '6', '2']",[],[],[],1.01
+11.10.2022,Kim J.,0,,,,,,1,2,51%,48% (12/25),29% (7/24),33% (3/9),26% (5/19),23% (3/13),100% (1/1),39% (19/49),25% (8/32),33% (27/81),25% (2/8),14% (1/7),20% (3/15),[],"['1', '2']",[],[],[],13.00

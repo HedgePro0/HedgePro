@@ -1,36 +1,67 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Slovenska Bistrica (Slovenia),clay,header
-07.08.,Sakellaridis D.,2,,,,,,[],[],[],[],[],0
-07.08.,Pinter P. L.,0,,,,,,[],[],[],[],[],0
-06.08.,Sakellaridis D.,2,,,,,,[],[],[],[],[],0
-06.08.,Pel S.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Koszalin (Poland),clay,header
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-16.07.,Sakellaridis D.,1,,,,,,[],[],[],[],[],0
-16.07.,Matijasic G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-ITF MEN - SINGLES M15 Store (Slovenia),clay,header
-ITF MEN - SINGLES M15 Zagreb (Croatia),clay,header
-ITF MEN - SINGLES M25 Klosters (Switzerland),clay,header
-ITF MEN - SINGLES M25 Villeneuve-Loubet (France),clay,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-ITF MEN - SINGLES M15 Heraklion 4 (Greece),hard,header
-ITF MEN - SINGLES M15 Monastir 17 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 16 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 15 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 14 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 12 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 10 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 9 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 6 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 4 (Tunisia),hard,header
-29.01.,Sakellaridis D.,2,,,,,,[],[],[],[],[],0
-29.01.,Schifris J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Gunzinger T.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '4']",[],[],[],3.30
+27.08.,Sakellaridis D.,0,,,,,,[],"['4', '4']",[],[],[],1.30
+30.07.,Bojarski A.,2,,,,,,"['3', '2']","['2', '1']","['2', '0', '3', '1', '4', '2', '6', '4']",[],[],2.42
+30.07.,Sakellaridis D.,1,,,,,,"['3', '3', '7', '5']","['4', '4']","['1', '2', '2', '3', '4', '5']",[],[],1.51
+10.07.,Loge J.,2,,,,,,"['1', '0']","['2', '1', '5', '4']","['3', '1', '5', '3']",[],[],1.31
+10.07.,Sakellaridis D.,1,,,,,,"['2', '2', '6', '4']","['3', '3', '5', '5']","['3', '4']",[],[],3.20
+09.07.,Sakellaridis D.,2,,,,,,"['4', '2', '5', '3']","['3', '2', '5', '2']",[],[],[],1.45
+09.07.,Kriznik M.,0,,,,,,"['3', '4']","['3', '5']",[],[],[],2.59
+03.07.,Cadenasso G.,2,,,,,,"['2', '3', '4', '3']","['3', '1']",[],[],[],1.22
+03.07.,Sakellaridis D.,0,,,,,,"['2', '0', '4', '4']",[],[],[],[],3.91
+02.07.,Sakellaridis D.,2,,,,,,"['2', '0', '5', '1']","['3', '4', '5', '4', '6', '5']",[],[],[],2.62
+02.07.,Prechtel S.,0,,,,,,[],"['4', '2', '5', '5']",[],[],[],1.44
+26.06.,Mashtakov N.,2,,,,,,"['1', '1', '4', '2', '6', '2']","['2', '0', '5', '1']",[],[],[],1.40
+26.06.,Sakellaridis D.,0,,,,,,"['1', '0']","['2', '5']",[],[],[],2.77
+25.06.,Sakellaridis D.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '2', '1', '6', '3']",[],[],[],2.94
+25.06.,Ujvary M.,0,,,,,,"['1', '2']","['1', '1']",[],[],[],1.36
+17.06.,Karma N.,2,,,,,,"['6', '4']","['4', '4', '6', '6']",[],[],[],2.81
+17.06.,Sakellaridis D.,0,,,,,,[],"['2', '1', '6', '5']",[],[],[],1.39
+11.06.,Gadamauri B.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.17
+11.06.,Sakellaridis D.,0,,,,,,"['1', '1']",[],[],[],[],4.62
+10.06.,Sakellaridis D.,2,,,,,,"['1', '4']","['3', '1', '6', '2']","['2', '0', '4', '4']",[],[],2.66
+10.06.,Marionneau L.,1,,,,,,"['2', '0', '4', '0', '5', '1']",[],"['1', '2', '3', '2']",[],[],1.43
+22.05.,Zakaria F.,2,,,,,,"['5', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.39
+22.05.,Sakellaridis D.,0,,,,,,[],[],[],[],[],2.81
+21.05.,Sakellaridis D.,2,,,,,,"['1', '1', '3', '1']","['1', '0', '4', '1', '6', '3']",[],[],[],1.28
+21.05.,Loureiro J. V. C.,0,,,,,,"['1', '0']","['2', '4']",[],[],[],3.40
+14.05.,Christodoulou S.,2,,,,,,"['2', '1', '3', '4', '5', '4']","['1', '0', '3', '0']",[],[],[],2.16
+14.05.,Sakellaridis D.,0,,,,,,"['2', '2', '4', '2']",[],[],[],[],1.63
+09.05.,Marrero Curbelo I.,2,,,,,,"['3', '3']","['1', '2', '3', '2', '6', '3']",[],[],[],1.72
+09.05.,Sakellaridis D.,0,,,,,,"['2', '1']","['2', '0']",[],[],[],2.00
+08.05.,Sakellaridis D.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['2', '1', '3', '2', '6', '3']",[],[],[],1.36
+08.05.,Timini A.,0,,,,,,"['1', '4']","['2', '2']",[],[],[],2.94
+07.05.,Sakellaridis D.,2,,,,,,"['2', '3', '4', '3', '5', '4']","['1', '0', '3', '0', '5', '2']",[],[],[],2.42
+07.05.,Vales A.,0,,,,,,"['2', '0', '4', '4']","['2', '4', '3', '5']",[],[],[],1.51
+02.05.,Moroni F.,2,,,,,,"['2', '1', '4', '1']","['3', '2', '5', '2']",[],[],[],1.31
+02.05.,Sakellaridis D.,0,,,,,,"['2', '4']",[],[],[],[],3.20
+01.05.,Sakellaridis D.,2,,,,,,"['3', '2']","['2', '0', '5', '1']",[],[],[],4.70
+01.05.,Donnet E.,0,,,,,,"['3', '3']","['2', '5']",[],[],[],1.15
+30.04.,Sakellaridis D.,1,,,,,,"['3', '1', '5', '5', '7', '5']","['2', '0']",[],[],[],2.26
+30.04.,Buldorini P.,0,,,,,,"['3', '4', '5', '4']",[],[],[],[],1.58
+23.04.,Duran T.,2,,,,,,"['1', '0', '5', '4']","['1', '0', '5', '2']",[],[],[],1.40
+23.04.,Sakellaridis D.,0,,,,,,"['2', '2']",[],[],[],[],2.77
+16.04.,Clark E.,2,,,,,,"['1', '0', '5', '2']","['2', '1', '4', '1', '5', '2']",[],[],[],1.55
+16.04.,Sakellaridis D.,0,,,,,,[],"['2', '4']",[],[],[],2.33
+09.04.,Sciahbasi L.,2,,,,,,"['1', '0', '4', '1']","['2', '1', '5', '4']","['2', '0', '6', '2']",[],[],1.85
+09.04.,Sakellaridis D.,1,,,,,,[],"['4', '4', '5', '5']",[],[],[],1.85
+03.04.,Pierre H.,2,,,,,,"['1', '0', '3', '0', '4', '1', '6', '1']","['2', '0']","['1', '0', '4', '3', '5', '4', '6', '5']",[],[],-
+03.04.,Sakellaridis D.,1,,,,,,"['1', '3']","['1', '2', '4', '3', '6', '3']","['1', '1', '4', '4', '5', '5']",[],[],-
+02.04.,Sakellaridis D.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '0']","['3', '2']",[],[],4.43
+02.04.,Ehrenschneider N.,1,,,,,,"['3', '4', '4', '5']","['2', '4']","['4', '4']",[],[],1.18
+29.03.,Potenza L.,2,,,,,,"['1', '2', '4', '5']","['3', '2', '5', '2']","['2', '1', '5', '4']",[],[],1.16
+29.03.,Sakellaridis D.,1,,,,,,"['2', '0', '4', '2', '6', '4']",[],"['3', '3']",[],[],4.50
+28.03.,Sakellaridis D.,2,,,,,,"['3', '1', '4', '2']","['2', '1', '5', '2']",[],[],[],1.51
+28.03.,Khamis Y.,0,,,,,,"['2', '3']",[],[],[],[],2.42
+27.03.,Sakellaridis D.,2,,,,,,"['4', '2']","['3', '1']","['1', '0', '4', '5', '6', '5']",[],[],3.09
+27.03.,Beauge M.,1,,,,,,"['3', '4', '6', '5']",[],"['2', '2', '4', '2']",[],[],1.33
+26.03.,Sakellaridis D.,2,,,,,,"['3', '1', '4', '2']","['5', '4']",[],[],[],2.22
+26.03.,Balshaw F.,0,,,,,,"['2', '3', '3', '4']",[],[],[],[],1.60
+12.03.,Donald M.,2,,,,,,"['1', '3', '2', '4']","['2', '0', '4', '0', '5', '1']","['1', '0', '3', '4', '6', '5']",[],[],1.38
+12.03.,Sakellaridis D.,1,,,,,,"['1', '0', '3', '0', '4', '1']","['1', '4']","['2', '2', '4', '2']",[],[],2.85
+05.03.,Angelini L.,2,,,,,,"['2', '1', '4', '1']","['1', '2', '3', '2']",[],[],[],1.82
+05.03.,Sakellaridis D.,0,,,,,,"['3', '5']","['2', '0']",[],[],[],1.88
+12.02.,Fantini L.,2,,,,,,"['1', '0', '2', '5']","['2', '0', '4', '0', '6', '0']","['3', '1', '5', '3']",[],[],1.73
+12.02.,Sakellaridis D.,1,,,,,,"['1', '1', '3', '1', '5', '1']",[],"['3', '4']",[],[],2.00
+06.02.,Mrva M.,2,,,,,,"['1', '2', '3', '2', '6', '3']","['1', '1', '3', '3', '4', '4', '7', '5']",[],[],[],1.17
+06.02.,Sakellaridis D.,0,,,,,,"['2', '0']","['1', '0', '3', '2', '4', '3']",[],[],[],4.48

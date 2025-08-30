@@ -1,53 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Santiago (Chile),clay,header
-ITF MEN - SINGLES M15 Santiago 3 (Chile),clay,header
-ITF MEN - SINGLES M15 Santiago 2 (Chile),clay,header
-ITF MEN - SINGLES M25 Gandia (Spain),clay,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Santiago (Chile),clay,header
-ITF MEN - SINGLES M15 Santiago 3 (Chile),clay,header
-ITF MEN - SINGLES M15 Santiago 2 (Chile),clay,header
-ITF MEN - SINGLES M25 Gandia (Spain),clay,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Santiago (Chile),clay,header
-18.04.2024,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-18.04.2024,Mena F.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Cabrera M. A.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Romano G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Quillota (Chile),clay,header
-09.04.2024,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-09.04.2024,Bancalari A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo 2 (Dominican Republic),hard,header
-13.03.2024,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-13.03.2024,Andrade A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Concepcion 2 (Chile),clay,header
-CHALLENGER MEN - SINGLES Temuco (Chile) - Qualification,hard,header
-26.11.2023,Cabrera M. A.,0,,,,,,1,0,71%,50% (18/36),60% (9/15),43% (3/7),23% (9/40),55% (18/33),11% (1/9),53% (27/51),37% (27/73),44% (54/124),56% (5/9),11% (1/9),33% (6/18),[],[],[],[],[],0
-26.11.2023,Mena F.,2,,,,,,5,5,55%,78% (31/40),45% (15/33),89% (8/9),50% (18/36),40% (6/15),57% (4/7),63% (46/73),47% (24/51),56% (70/124),89% (8/9),44% (4/9),67% (12/18),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Morelia (Mexico),hard,header
-ITF MEN - SINGLES M25 Zapopan (Mexico),clay,header
-10.10.2023,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-10.10.2023,Rodriguez J. A.,2,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Antofagasta (Chile) - Qualification,clay,header
-17.09.2023,Cabrera M. A.,0,,,,,,0,2,80%,46% (24/52),46% (6/13),0% (0/5),33% (15/46),62% (33/53),33% (3/9),46% (30/65),46% (46/99),46% (76/164),50% (5/10),30% (3/10),40% (8/20),[],[],[],[],[],0
-17.09.2023,Otegui J. B.,2,,,,,,3,13,46%,72% (33/46),38% (20/53),67% (6/9),54% (28/52),54% (7/13),100% (5/5),54% (53/99),54% (35/65),54% (88/164),70% (7/10),50% (5/10),60% (12/20),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Belem (Brazil),hard,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Santo Domingo de los Tsachilas 2 (Ecuador),clay,header
-12.04.2023,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-12.04.2023,Aboian L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo 2 (Dominican Republic),hard,header
-01.12.2022,Cabrera M. A.,1,,,,,,[],[],[],[],[],0
-01.12.2022,Den Ouden G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-24.11.2022,Cabrera M. A.,1,,,,,,[],[],[],[],[],0
-24.11.2022,Cid Subervi R.,2,,,,,,[],[],[],[],[],0
-23.11.2022,Simeunovic S.,0,,,,,,[],[],[],[],[],0
-23.11.2022,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Boca Raton,clay,header
-ITF MEN - SINGLES M25 Guayaquil (Ecuador),clay,header
-10.08.2022,Cabrera M. A.,0,,,,,,[],[],[],[],[],0
-10.08.2022,Mouilleron Salvo M.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+16.01.,Nunez D. A.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.22
+16.01.,Cabrera M. A.,0,,,,,,[],[],[],[],[],3.91
+15.01.,Cabrera M. A.,2,,,,,,"['2', '3']","['3', '3', '6', '4']","['4', '2', '5', '3']",[],[],4.19
+15.01.,Barreiros Reyes M.,1,,,,,,"['2', '0', '4', '2']","['1', '0']","['3', '4']",[],[],1.20
+04.12.2024,Cundom J.,2,,,,,,"['3', '4']","['1', '0', '3', '0', '5', '0']","['1', '2', '2', '3', '5', '4']",[],[],1.36
+04.12.2024,Cabrera M. A.,1,,,,,,"['3', '1', '6', '4']",[],"['2', '0', '3', '1']",[],[],2.94
+26.11.2024,Garcia Longo N.,2,,,,,,"['1', '2', '3', '4', '5', '4']","['1', '0', '2', '1', '6', '5']",[],[],[],2.16
+26.11.2024,Cabrera M. A.,0,,,,,,"['2', '0', '3', '1']","['1', '1', '5', '5']",[],[],[],1.63
+17.07.2024,Gill F.,2,,,,,,"['3', '3', '5', '3']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+17.07.2024,Cabrera M. A.,0,,,,,,"['2', '1']",[],[],[],[],13.40
+15.05.2024,Habib H.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.08
+15.05.2024,Cabrera M. A.,0,,,,,,[],[],[],[],[],7.01
+24.04.2024,Haviland R.,2,,,,,,"['2', '2', '5', '3']","['4', '3']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],1.45
+24.04.2024,Cabrera M. A.,1,,,,,,"['2', '1']","['4', '4', '6', '4']","['2', '0', '3', '1']",[],[],2.62
+13.12.2023,Villanueva G.,2,,,,,,[],[],[],[],[],1.01
+13.12.2023,Cabrera M. A.,0,,,,,,[],[],[],[],[],12.00
+12.12.2023,Cabrera M. A.,2,,,,,,[],[],[],[],[],1.07
+12.12.2023,Herrera B.,0,,,,,,[],[],[],[],[],7.03
+26.11.2023,Mena F.,2,,,,,,5,5,55%,78% (31/40),45% (15/33),89% (8/9),50% (18/36),40% (6/15),57% (4/7),63% (46/73),47% (24/51),56% (70/124),89% (8/9),44% (4/9),67% (12/18),"['2', '1', '4', '1']","['3', '2', '4', '3']",[],[],[],1.04
+26.11.2023,Cabrera M. A.,0,,,,,,1,0,71%,50% (18/36),60% (9/15),43% (3/7),23% (9/40),55% (18/33),11% (1/9),53% (27/51),37% (27/73),44% (54/124),56% (5/9),11% (1/9),33% (6/18),[],"['3', '3']",[],[],[],9.40
+17.10.2023,Vithoontien L.,2,,,,,,[],[],[],[],[],1.30
+17.10.2023,Cabrera M. A.,0,,,,,,[],[],[],[],[],3.32
+17.09.2023,Otegui J. B.,2,,,,,,3,13,46%,72% (33/46),38% (20/53),67% (6/9),54% (28/52),54% (7/13),100% (5/5),54% (53/99),54% (35/65),54% (88/164),70% (7/10),50% (5/10),60% (12/20),"['1', '0', '4', '3']","['1', '1', '3', '1', '6', '2']",[],[],[],1.11
+17.09.2023,Cabrera M. A.,0,,,,,,0,2,80%,46% (24/52),46% (6/13),0% (0/5),33% (15/46),62% (33/53),33% (3/9),46% (30/65),46% (46/99),46% (76/164),50% (5/10),30% (3/10),40% (8/20),"['2', '2', '4', '4']","['1', '0']",[],[],[],6.08
+17.08.2023,Klier Junior G.,2,,,,,,[],[],[],[],[],1.06
+17.08.2023,Cabrera M. A.,0,,,,,,[],[],[],[],[],7.50
+16.08.2023,Cabrera M. A.,2,,,,,,[],[],[],[],[],1.01
+16.08.2023,Lima E.,0,,,,,,[],[],[],[],[],18.00
+03.05.2023,Brumm J.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '4', '2']",[],[],[],1.13
+03.05.2023,Cabrera M. A.,0,,,,,,[],"['1', '2']",[],[],[],5.25
+26.04.2023,Horovitz R.,2,,,,,,"['3', '3', '5', '3']","['3', '2', '5', '2', '6', '3']",[],[],[],-
+26.04.2023,Cabrera M. A.,0,,,,,,"['3', '2']","['3', '5']",[],[],[],-
+16.11.2022,Benitez Chavarriaga J. M.,2,,,,,,"['5', '4']","['3', '2']",[],[],[],1.08
+16.11.2022,Cabrera M. A.,0,,,,,,[],[],[],[],[],7.10

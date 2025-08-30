@@ -1,47 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M25 Porto (Portugal),hard,header
-ITF MEN - SINGLES M25 Castelo Branco (Portugal),hard,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M25 Tarragona (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M25 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES M25 Castelo Branco (Portugal),hard,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M25 Tarragona (Spain),clay,header
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M25 Les Franqueses del Valles (Spain),hard,header
-13.03.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],0
-13.03.,Kuhn N.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
-ITF MEN - SINGLES M15 Villena 2 (Spain),hard,header
-ITF MEN - SINGLES M15 Villena (Spain),hard,header
-ITF MEN - SINGLES M15 Santiago 3 (Chile),clay,header
-CHALLENGER MEN - SINGLES Temuco (Chile),hard,header
-26.11.2024,Fernandez Flores D.,1,,,,,,1,1,82%,63% (55/87),42% (8/19),67% (8/12),15% (8/54),53% (23/43),33% (1/3),59% (63/106),32% (31/97),46% (94/203),5,1,71% (10/14),7% (1/15),38% (11/29),[],[],[],[],[],0
-26.11.2024,Kovacevic A.,2,,,,,,5,6,56%,85% (46/54),47% (20/43),67% (2/3),37% (32/87),58% (11/19),33% (4/12),68% (66/97),41% (43/106),54% (109/203),5,0,93% (14/15),29% (4/14),62% (18/29),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Sintra (Portugal),hard,header
-ITF MEN - SINGLES M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Madrid (Spain),clay,header
-ITF MEN - SINGLES M25 Santander (Spain),clay,header
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
-06.08.2024,Fernandez Flores D.,2,,,,,,[],[],[],[],[],0
-06.08.2024,Pascual Ferra R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Porto (Portugal),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+05.08.,Echeverria J.,2,,,,,,"['5', '3']","['2', '1', '4', '1']",[],[],[],1.26
+05.08.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],3.35
+23.07.,Echargui M.,2,,,,,,"['2', '0', '6', '6']","['1', '0', '5', '2']","['1', '0', '3', '0']",[],[],1.10
+23.07.,Fernandez Flores D.,1,,,,,,"['3', '4', '6', '5']",[],[],[],[],5.90
+16.07.,Castro F. M.,2,,,,,,"['3', '1']","['2', '1']",[],[],[],5.45
+16.07.,Fernandez Flores D.,0,,,,,,[],"['2', '2']",[],[],[],1.11
+08.07.,Sun F.,2,,,,,,[],"['4', '3']","['1', '0', '3', '0', '4', '1']",[],[],1.27
+08.07.,Fernandez Flores D.,1,,,,,,"['6', '4']",[],"['1', '3']",[],[],3.46
+25.06.,Montes-De La Torre I.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1']",[],[],[],-
+25.06.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],-
+25.06.,Fernandez Flores D.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '4', '1']",[],[],[],1.03
+25.06.,Pilet C.,0,,,,,,"['3', '1']","['2', '4']",[],[],[],8.90
+18.06.,Moroni F.,2,,,,,,"['5', '3']","['1', '2', '3', '2']","['1', '0', '6', '3']",[],[],-
+18.06.,Fernandez Flores D.,1,,,,,,[],"['2', '0', '3', '3', '6', '4']",[],[],[],-
+11.06.,Escoffier A.,2,,,,,,"['3', '1']","['3', '4', '4', '5', '6', '5']",[],[],[],1.28
+11.06.,Fernandez Flores D.,0,,,,,,"['4', '5']","['3', '1', '5', '3']",[],[],[],3.40
+06.06.,Rossi L.,2,,,,,,"['2', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],1.90
+06.06.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],1.80
+05.06.,Fernandez Flores D.,2,,,,,,"['1', '1', '6', '4']","['3', '1', '5', '1']",[],[],[],1.39
+05.06.,D'Agostino S.,0,,,,,,"['1', '0']",[],[],[],[],2.81
+03.06.,Fernandez Flores D.,2,,,,,,"['1', '0', '4', '1']","['3', '2', '6', '3']",[],[],[],1.28
+03.06.,Ivanov S.,0,,,,,,[],[],[],[],[],3.40
+22.04.,Juan Mano A.,2,,,,,,"['1', '1', '3', '1', '5', '1']","['3', '4', '5', '4']",[],[],[],2.56
+22.04.,Fernandez Flores D.,0,,,,,,"['1', '0']","['2', '0']",[],[],[],1.46
+10.04.,Mikrut L.,2,,,,,,"['5', '5', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],1.18
+10.04.,Fernandez Flores D.,0,,,,,,"['3', '2']",[],[],[],[],4.43
+09.04.,Fernandez Flores D.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0']",[],[],[],1.27
+09.04.,Kukasian A.,0,,,,,,[],[],[],[],[],3.46
+03.04.,Gakhov I.,2,,,,,,"['4', '2']","['5', '4']",[],[],[],1.14
+03.04.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],4.90
+01.04.,Fernandez Flores D.,2,,,,,,"['1', '0', '3', '0']","['2', '1']","['1', '1', '3', '1', '4', '2']",[],[],1.54
+01.04.,Bonsach G. K.,1,,,,,,"['2', '4']","['2', '2', '4', '2']","['1', '0', '2', '3']",[],[],2.35
+26.03.,Brancaccio R.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '4', '1']",[],[],[],1.11
+26.03.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],5.45
+21.03.,Parisca I.,2,,,,,,"['1', '2', '2', '3', '4', '3', '5', '4']","['1', '0', '2', '1', '6', '3']",[],[],[],1.85
+21.03.,Fernandez Flores D.,0,,,,,,"['2', '0', '3', '1', '4', '4']","['1', '1']",[],[],[],1.85
+20.03.,Fernandez Flores D.,2,,,,,,[],"['1', '0', '4', '1']","['2', '1', '5', '4']",[],[],1.12
+20.03.,Sheyngezikht L.,1,,,,,,"['4', '2', '6', '2']",[],"['4', '4']",[],[],5.40
+05.03.,Andaloro F.,2,,,,,,"['2', '3']","['2', '1']","['2', '1', '6', '3']",[],[],1.42
+05.03.,Fernandez Flores D.,1,,,,,,"['3', '1', '6', '4']",[],[],[],[],2.70
+25.02.,Brancaccio R.,2,,,,,,"['3', '1', '5', '1']","['5', '4']",[],[],[],1.23
+25.02.,Fernandez Flores D.,0,,,,,,[],[],[],[],[],3.81
+21.02.,Slump S.,2,,,,,,"['4', '3']","['2', '1', '4', '1', '6', '3']",[],[],[],2.00
+21.02.,Fernandez Flores D.,0,,,,,,[],"['2', '4']",[],[],[],1.72
+20.02.,Fernandez Flores D.,2,,,,,,"['1', '0', '4', '1']","['1', '0']","['2', '0', '4', '2', '6', '2']",[],[],5.35
+20.02.,Radulov I.,1,,,,,,[],"['1', '1', '3', '1', '5', '1']","['1', '2']",[],[],1.12
+19.02.,Fernandez Flores D.,1,,,,,,"['4', '3']","['1', '0']",[],[],[],-
+19.02.,Carrascosa Diaz M.,0,,,,,,[],[],[],[],[],11.70
+03.12.2024,Bruna N.,2,,,,,,[],"['5', '3']","['1', '0', '4', '1', '6', '3']",[],[],7.04
+03.12.2024,Fernandez Flores D.,1,,,,,,"['1', '0']",[],"['2', '4']",[],[],1.07
+26.11.2024,Kovacevic A.,2,,,,,,5,6,56%,85% (46/54),47% (20/43),67% (2/3),37% (32/87),58% (11/19),33% (4/12),68% (66/97),41% (43/106),54% (109/203),5,0,93% (14/15),29% (4/14),62% (18/29),"['3', '4']","['3', '1', '5', '1']","['1', '0']",[],[],1.07
+26.11.2024,Fernandez Flores D.,1,,,,,,1,1,82%,63% (55/87),42% (8/19),67% (8/12),15% (8/54),53% (23/43),33% (1/3),59% (63/106),32% (31/97),46% (94/203),5,1,71% (10/14),7% (1/15),38% (11/29),"['3', '1']",[],[],[],[],9.30
+15.11.2024,Sanchez Izquierdo N.,2,,,,,,"['2', '5']","['2', '0', '4', '0']","['1', '0', '4', '1', '6', '3']",[],[],1.31
+15.11.2024,Fernandez Flores D.,1,,,,,,"['2', '0', '4', '0']",[],"['2', '4']",[],[],3.38
+13.11.2024,Fernandez Flores D.,2,,,,,,"['4', '2', '7', '5']","['5', '3']",[],[],[],2.14
+13.11.2024,Laurent T.,0,,,,,,"['3', '4']",[],[],[],[],1.64
+17.10.2024,Echeverria J.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],1.61
+17.10.2024,Fernandez Flores D.,0,,,,,,"['1', '3']",[],[],[],[],2.20
+10.10.2024,Gonzalez Fernandez M.,2,,,,,,"['1', '0', '3', '0', '5', '2']","['2', '1', '4', '1', '6', '1']",[],[],[],2.24
+10.10.2024,Fernandez Flores D.,0,,,,,,"['2', '4', '3', '5']",[],[],[],[],1.59
+09.10.2024,Fernandez Flores D.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],2.89
+09.10.2024,Vrbensky M.,0,,,,,,"['1', '2']",[],[],[],[],1.37
+02.10.2024,Erhard M.,2,,,,,,"['1', '0', '4', '1', '6', '5']","['5', '5']",[],[],[],1.23
+02.10.2024,Fernandez Flores D.,0,,,,,,"['2', '4', '4', '4', '6', '6']","['1', '0']",[],[],[],3.81
+26.09.2024,Buse I.,2,,,,,,"['3', '4']","['1', '1', '4', '2', '6', '2']",[],[],[],1.09
+26.09.2024,Fernandez Flores D.,0,,,,,,"['2', '0']","['1', '0']",[],[],[],6.23
+25.09.2024,Fernandez Flores D.,2,,,,,,[],"['3', '1', '5', '1']","['1', '0', '5', '2']",[],[],2.89
+25.09.2024,Engel J.,1,,,,,,"['3', '1', '5', '1']",[],[],[],[],1.37
+04.09.2024,Lerby C.,2,,,,,,"['5', '5']","['1', '0', '3', '2', '5', '2']","['1', '0', '2', '1', '6', '3']",[],[],3.37
+04.09.2024,Fernandez Flores D.,1,,,,,,"['1', '0']","['1', '1']","['1', '1']",[],[],1.29
+21.08.2024,Barreto Sanchez D. A.,2,,,,,,"['4', '3']","['2', '2']","['2', '0', '5', '3']",[],[],1.59
+21.08.2024,Fernandez Flores D.,1,,,,,,"['4', '4']","['1', '0', '6', '5']","['2', '3']",[],[],2.26
+20.08.2024,Fernandez Flores D.,2,,,,,,"['3', '1', '5', '3']","['1', '0', '4', '3', '6', '3']",[],[],[],1.84
+20.08.2024,Winter Lopez B.,0,,,,,,"['3', '4']","['1', '1']",[],[],[],1.88
+08.08.2024,Sanchez Quilez A.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['3', '3']","['1', '0', '3', '0', '5', '4', '6', '5']",[],[],1.75
+08.08.2024,Fernandez Flores D.,1,,,,,,"['3', '5']","['3', '2', '4', '3', '6', '3']","['1', '3', '4', '4', '5', '5']",[],[],1.98

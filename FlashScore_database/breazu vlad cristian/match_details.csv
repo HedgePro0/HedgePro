@@ -1,55 +1,49 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-07.08.,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-07.08.,Turcanu R. D.,2,,,,,,[],[],[],[],[],0
-06.08.,Breazu V. C.,2,,,,,,[],[],[],[],[],0
-06.08.,Messina J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-17.07.,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-17.07.,Snitari I.,2,,,,,,[],[],[],[],[],0
-16.07.,Breazu V. C.,2,,,,,,[],[],[],[],[],0
-16.07.,Stringer T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Targu Mures (Romania),clay,header
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-ITF MEN - SINGLES M15 Buzau (Romania),clay,header
-ITF MEN - SINGLES M15 Constanta 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Arad (Romania),clay,header
-ITF MEN - SINGLES M15 Targu Jiu (Romania),clay,header
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-07.08.2024,Breazu V. C.,1,,,,,,[],[],[],[],[],0
-07.08.2024,Chayka A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Bucharest 4 (Romania),clay,header
-18.07.2024,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-18.07.2024,Ambrogi L. E.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Breazu V. C.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Vanta V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Satu Mare (Romania),clay,header
-24.06.2024,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-24.06.2024,Nesterov P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES M15 Constanta 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Bucharest 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Targu Jiu (Romania),clay,header
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-10.08.2023,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-10.08.2023,Boitan G. A.,2,,,,,,[],[],[],[],[],0
-09.08.2023,Breazu V. C.,2,,,,,,[],[],[],[],[],0
-09.08.2023,Coman M. A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Belgrade (Serbia),clay,header
-28.06.2023,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-28.06.2023,Cungu R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Constanta (Romania),clay,header
-07.09.2022,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-07.09.2022,Snitari I.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Szabolcsveresmart (Hungary),clay,header
-31.08.2022,Breazu V. C.,0,,,,,,[],[],[],[],[],0
-31.08.2022,Velcz Z.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-03.08.2022,Breazu V. C.,1,,,,,,[],[],[],[],[],0
-03.08.2022,Lazarov A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bucharest (Romania),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+30.07.,Snitari I.,2,,,,,,"['6', '4']","['4', '4', '6', '4']",[],[],[],1.17
+30.07.,Breazu V. C.,0,,,,,,[],"['2', '1']",[],[],[],4.57
+23.07.,Caniato C. A.,2,,,,,,"['6', '4']","['3', '1', '5', '3']",[],[],[],1.20
+23.07.,Breazu V. C.,0,,,,,,[],"['3', '4']",[],[],[],4.14
+25.06.,Tomescu D. A.,2,,,,,,"['3', '1']","['2', '3', '5', '4']",[],[],[],1.19
+25.06.,Breazu V. C.,0,,,,,,[],"['3', '1']",[],[],[],4.19
+24.06.,Breazu V. C.,2,,,,,,"['2', '0', '4', '0']","['1', '4']","['2', '0', '4', '0', '6', '0']",[],[],1.85
+24.06.,Pieleanu R. T.,1,,,,,,"['2', '5']","['2', '0', '4', '0', '5', '1']",[],[],[],1.85
+18.06.,Schiessl J. E.,2,,,,,,"['2', '1']","['2', '1', '5', '2']",[],[],[],1.27
+18.06.,Breazu V. C.,0,,,,,,[],"['3', '5']",[],[],[],3.46
+10.09.2024,Ciavarella N.,2,,,,,,"['2', '0']","['1', '0', '5', '4']",[],[],[],1.19
+10.09.2024,Breazu V. C.,0,,,,,,[],"['4', '4']",[],[],[],4.37
+04.09.2024,Chirita I. A.,2,,,,,,"['1', '2', '4', '3', '5', '4']","['2', '1']",[],[],[],1.43
+04.09.2024,Breazu V. C.,0,,,,,,"['2', '0', '4', '4']","['3', '3']",[],[],[],2.68
+22.08.2024,Balshaw F.,2,,,,,,"['3', '2']","['1', '0', '3', '2', '5', '2']",[],[],[],2.10
+22.08.2024,Breazu V. C.,0,,,,,,[],"['2', '2']",[],[],[],1.68
+21.08.2024,Breazu V. C.,2,,,,,,"['1', '0', '3', '0']","['1', '2', '4', '5']","['1', '1', '4', '4', '6', '4']",[],[],1.29
+21.08.2024,Ifi N.,1,,,,,,"['2', '4']","['2', '0', '5', '3']","['1', '0', '4', '3']",[],[],3.37
+20.08.2024,Breazu V. C.,2,,,,,,"['2', '1', '4', '1']","['3', '2', '5', '2']",[],[],[],1.04
+20.08.2024,Szoke A. G.,0,,,,,,[],[],[],[],[],8.90
+16.08.2024,Stirbu C. T.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '5', '4']",[],[],[],1.68
+16.08.2024,Breazu V. C.,0,,,,,,"['2', '3']","['1', '1']",[],[],[],2.10
+15.08.2024,Breazu V. C.,2,,,,,,"['3', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],-
+15.08.2024,Chirita I. A.,0,,,,,,"['4', '4']",[],[],[],[],-
+14.08.2024,Breazu V. C.,2,,,,,,[],"['1', '0', '3', '2', '4', '3', '6', '3']","['2', '0', '4', '2']",[],[],1.77
+14.08.2024,Bilardo J.,1,,,,,,"['3', '1', '6', '2']","['1', '1', '3', '3']","['1', '2']",[],[],1.95
+07.08.2024,Chayka A.,2,,,,,,"['3', '1']",[],"['2', '2', '4', '2', '6', '4']",[],[],3.24
+07.08.2024,Breazu V. C.,1,,,,,,[],"['3', '1']","['1', '0', '4', '5']",[],[],1.31
+24.07.2024,Saraiva Dos Santos P. A.,2,,,,,,[],"['1', '0', '3', '0']",[],[],[],1.71
+24.07.2024,Breazu V. C.,0,,,,,,[],[],[],[],[],2.03
+12.09.2023,La Vela G.,2,,,,,,[],[],[],[],[],1.28
+12.09.2023,Breazu V. C.,0,,,,,,[],[],[],[],[],3.42
+07.09.2023,Tomescu D. A.,2,,,,,,[],[],[],[],[],1.11
+07.09.2023,Breazu V. C.,1,,,,,,[],[],[],[],[],5.68
+06.09.2023,Breazu V. C.,2,,,,,,[],[],[],[],[],1.26
+06.09.2023,Agostini S.,1,,,,,,[],[],[],[],[],3.56
+31.08.2023,Dancu V. A.,2,,,,,,[],[],[],[],[],1.38
+31.08.2023,Breazu V. C.,0,,,,,,[],[],[],[],[],2.86
+30.08.2023,Breazu V. C.,2,,,,,,[],[],[],[],[],1.19
+30.08.2023,Allen L.,0,,,,,,[],[],[],[],[],4.23
+17.08.2023,Rodriguez L. J.,2,,,,,,[],[],[],[],[],1.12
+17.08.2023,Breazu V. C.,0,,,,,,[],[],[],[],[],5.52
+16.08.2023,Breazu V. C.,2,,,,,,[],[],[],[],[],2.00
+16.08.2023,Antonescu V.,0,,,,,,[],[],[],[],[],1.73
+26.05.2022,Capecchi D.,2,,,,,,[],[],[],[],[],1.10
+26.05.2022,Breazu V. C.,0,,,,,,[],[],[],[],[],6.70
+24.05.2022,Breazu V. C.,2,,,,,,[],[],[],[],[],-
+24.05.2022,Cazacu D. N.,0,,,,,,[],[],[],[],[],-

@@ -1,50 +1,77 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 27 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 26 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 23 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 7 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 15 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-ITF MEN - SINGLES M15 Monastir 26 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 24 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 23 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 7 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Antalya 3 (Turkey),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 17 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 15 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 14 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 4 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 3 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-02.10.2024,Maamoun K.M.,0,,,,,,[],[],[],[],[],0
-02.10.2024,Bassem Sobhy M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-26.09.2024,Bassem Sobhy M.,2,,,,,,[],[],[],[],[],0
-26.09.2024,Kirci K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vienna (Austria),clay,header
-28.08.2024,Bassem Sobhy M.,2,,,,,,[],[],[],[],[],0
-28.08.2024,Graski J.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+14.08.,Bassem Sobhy M.,2,,,,,,"['1', '0', '2', '1', '5', '4']","['1', '0', '5', '4']",[],[],[],1.66
+14.08.,Nolan W.,0,,,,,,"['1', '1', '3', '3']","['2', '2']",[],[],[],20.0
+13.08.,Bassem Sobhy M.,2,,,,,,"['5', '3']","['1', '0']",[],[],[],19.0
+13.08.,Pokorny L.,0,,,,,,[],"['5', '5']",[],[],[],1.75
+09.07.,Phillips D.,2,,,,,,"['4', '4', '5', '5']","['2', '0', '4', '0']","['2', '1']",[],[],2.20
+09.07.,Bassem Sobhy M.,1,,,,,,"['4', '3', '5', '4', '6', '5']","['1', '4']",[],[],[],1.61
+04.07.,Bassem Sobhy M.,0,,,,,,[],[],[],[],[],4.62
+04.07.,Williams C.,0,,,,,,"['1', '0']",[],[],[],[],1.17
+03.07.,Bassem Sobhy M.,2,,,,,,"['1', '1']","['5', '3']","['1', '0', '4', '1']",[],[],2.85
+03.07.,Bouchelaghem C.,1,,,,,,"['1', '0', '4', '3']",[],"['3', '5']",[],[],1.38
+01.07.,Bassem Sobhy M.,1,,,,,,"['2', '0', '5', '3']",[],[],[],[],3.54
+01.07.,Tiurnev E.,0,,,,,,"['3', '4']",[],[],[],[],1.26
+17.06.,Saraiva Dos Santos P. A.,2,,,,,,"['3', '2', '6', '3']","['4', '4', '6', '4']",[],[],[],2.26
+17.06.,Bassem Sobhy M.,0,,,,,,[],"['1', '0']",[],[],[],1.58
+11.06.,Ryan Ziegann S.,2,,,,,,[],"['5', '4', '6', '5']","['1', '0', '4', '1']",[],[],3.54
+11.06.,Bassem Sobhy M.,1,,,,,,"['4', '2', '6', '2']","['5', '5']","['3', '5']",[],[],1.26
+05.06.,Pereira T.,2,,,,,,"['2', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.20
+05.06.,Bassem Sobhy M.,0,,,,,,[],[],[],[],[],4.14
+04.06.,Bassem Sobhy M.,1,,,,,,"['5', '4']",[],[],[],[],1.44
+04.06.,Hamza Reguig S.,0,,,,,,[],[],[],[],[],2.62
+25.04.,Arutiunian E.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '4', '1', '6', '1']",[],[],[],1.49
+25.04.,Bassem Sobhy M.,0,,,,,,"['2', '1']",[],[],[],[],2.47
+24.04.,Bassem Sobhy M.,2,,,,,,"['3', '2', '4', '5']","['2', '2', '7', '5']",[],[],[],4.13
+24.04.,Gray A.,0,,,,,,"['3', '3', '5', '3']","['2', '1']",[],[],[],1.20
+23.04.,Bassem Sobhy M.,2,,,,,,"['2', '0', '4', '0']",[],"['2', '0', '4', '2', '6', '4']",[],[],1.28
+23.04.,Wieland L.,1,,,,,,[],"['4', '2']","['1', '2', '4', '5']",[],[],3.40
+16.04.,Purtseladze S.,2,,,,,,"['4', '5']","['3', '1', '7', '5']","['5', '5']",[],[],1.18
+16.04.,Bassem Sobhy M.,1,,,,,,"['5', '3']","['4', '5']","['2', '1']",[],[],4.38
+03.04.,Stewart H.,2,,,,,,"['1', '0']","['1', '0']","['1', '0', '3', '0']",[],[],1.10
+03.04.,Bassem Sobhy M.,1,,,,,,[],"['4', '4', '6', '4']",[],[],[],5.65
+02.04.,Bassem Sobhy M.,2,,,,,,"['4', '5']","['2', '0', '4', '0']",[],[],[],1.18
+02.04.,Stanke C.,0,,,,,,"['5', '3']",[],[],[],[],4.43
+27.03.,Arutiunian E.,2,,,,,,[],"['2', '0']",[],[],[],1.32
+27.03.,Bassem Sobhy M.,0,,,,,,[],"['2', '3']",[],[],[],3.14
+26.03.,Bassem Sobhy M.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.63
+26.03.,Herman L.,0,,,,,,[],[],[],[],[],2.16
+19.03.,Ribecai M.,2,,,,,,"['2', '1']","['5', '4', '6', '5']",[],[],[],1.21
+19.03.,Bassem Sobhy M.,0,,,,,,[],"['5', '5']",[],[],[],4.04
+13.03.,Paldanius O.,2,,,,,,"['2', '0', '4', '0']",[],"['1', '0', '4', '1', '6', '1']",[],[],1.41
+13.03.,Bassem Sobhy M.,1,,,,,,[],"['2', '0']",[],[],[],2.73
+12.03.,Zakaria F.,0,,,,,,"['1', '0']",[],[],[],[],1.25
+12.03.,Bassem Sobhy M.,0,,,,,,"['1', '1']",[],[],[],[],3.62
+20.02.,Zakaria F.,2,,,,,,"['2', '0', '5', '3', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.23
+20.02.,Bassem Sobhy M.,0,,,,,,"['3', '4', '4', '5']",[],[],[],[],3.81
+19.02.,Bassem Sobhy M.,2,,,,,,"['3', '3', '7', '5']","['3', '1', '6', '2']",[],[],[],2.08
+19.02.,Sciahbasi L.,0,,,,,,"['2', '1']",[],[],[],[],1.69
+12.02.,Cadenasso G.,2,,,,,,[],"['2', '3']","['3', '2', '5', '2']",[],[],1.30
+12.02.,Bassem Sobhy M.,1,,,,,,[],"['2', '0', '6', '4']",[],[],[],3.30
+23.01.,Ionel N. D.,2,,,,,,"['2', '0', '4', '0']","['2', '3', '3', '4', '6', '5']",[],[],[],1.26
+23.01.,Bassem Sobhy M.,0,,,,,,[],"['3', '1', '4', '2']",[],[],[],3.72
+23.01.,Bassem Sobhy M.,2,,,,,,"['1', '0', '6', '3']","['2', '0', '5', '1', '6', '2']",[],[],[],1.50
+23.01.,Plosnic L.,0,,,,,,[],"['2', '5']",[],[],[],2.44
+27.11.2024,Ursu V.,2,,,,,,[],"['3', '1', '6', '2']","['2', '0', '6', '2']",[],[],1.23
+27.11.2024,Bassem Sobhy M.,1,,,,,,"['3', '2', '5', '2']",[],[],[],[],3.79
+20.11.2024,Zakaria F.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '5']",[],[],[],1.85
+20.11.2024,Bassem Sobhy M.,0,,,,,,[],"['2', '2', '5', '3']",[],[],[],1.85
+06.11.2024,Milojevic N.,2,,,,,,"['5', '4']",[],"['2', '2', '5', '3']",[],[],-
+06.11.2024,Bassem Sobhy M.,1,,,,,,[],"['3', '1']","['2', '1']",[],[],-
+02.11.2024,Borg L.,2,,,,,,[],"['7', '5']","['2', '0', '5', '1']",[],[],1.31
+02.11.2024,Bassem Sobhy M.,1,,,,,,"['3', '1']",[],[],[],[],3.20
+01.11.2024,Bassem Sobhy M.,2,,,,,,"['5', '5', '7', '5']","['5', '3']",[],[],[],-
+01.11.2024,Philippov E.,0,,,,,,"['3', '2']",[],[],[],[],-
+31.10.2024,Bassem Sobhy M.,2,,,,,,"['5', '4']","['4', '5']",[],[],[],1.33
+31.10.2024,Ianin N.,0,,,,,,[],"['4', '2']",[],[],[],3.09
+30.10.2024,Bassem Sobhy M.,2,,,,,,"['6', '4']","['2', '0', '4', '2', '6', '2']",[],[],[],1.62
+30.10.2024,Schlageter J.,0,,,,,,[],"['1', '2']",[],[],[],2.18
+24.10.2024,Bertran P.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.27
+24.10.2024,Bassem Sobhy M.,0,,,,,,"['1', '2', '2', '5']",[],[],[],[],3.46
+23.10.2024,Bassem Sobhy M.,2,,,,,,"['1', '0']","['3', '1', '6', '2']","['3', '1']",[],[],1.23
+23.10.2024,Brown P.,1,,,,,,"['2', '2', '5', '3']",[],"['4', '5']",[],[],3.81
+16.10.2024,Bozemoj B.,2,,,,,,"['1', '0', '4', '3']","['1', '0', '2', '1', '3', '2', '5', '4']",[],[],[],2.14
+16.10.2024,Bassem Sobhy M.,0,,,,,,"['3', '3']","['1', '1', '2', '2', '3', '3']",[],[],[],1.64
+04.10.2024,Story J.,2,,,,,,"['3', '1']","['4', '3']",[],[],[],1.25
+04.10.2024,Bassem Sobhy M.,0,,,,,,[],"['4', '4']",[],[],[],3.62
+03.10.2024,Bassem Sobhy M.,2,,,,,,"['2', '1']","['3', '1', '5', '1']",[],[],[],2.73
+03.10.2024,McKennon M.,0,,,,,,"['5', '5']",[],[],[],[],1.41

@@ -1,10 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Swan Hill (Australia),grass,header
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-ITF MEN - SINGLES M25 Brisbane (Australia),hard,header
-ITF MEN - SINGLES M25 Cairns 2 (Australia),hard,header
-ITF MEN - SINGLES M15 Papamoa (New Zealand),hard,header
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-ITF MEN - SINGLES M25 Brisbane (Australia),hard,header
-ITF MEN - SINGLES M25 Cairns 2 (Australia),hard,header
-ITF MEN - SINGLES M15 Papamoa (New Zealand),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+19.03.,Braithwaite T.,2,,,,,,"['2', '0', '3', '1']","['1', '0', '5', '2', '6', '3']",[],[],[],1.15
+19.03.,Pade C.,0,,,,,,"['1', '2']","['3', '5']",[],[],[],4.80
+11.12.2024,Bouzige M.,2,,,,,,"['2', '0', '5', '1', '6', '2']","['2', '0', '4', '2', '6', '2']",[],[],[],1.02
+11.12.2024,Pade C.,0,,,,,,"['2', '5']","['2', '3']",[],[],[],10.00
+12.11.2024,Sach T.,2,,,,,,"['3', '1', '6', '6']","['1', '0', '4', '3', '6', '3']",[],[],[],1.46
+12.11.2024,Pade C.,0,,,,,,"['2', '3', '6', '5']","['1', '1']",[],[],[],2.56
+10.10.2024,Sekulic P.,2,,,,,,"['3', '1']","['2', '3']","['2', '0', '5', '1']",[],[],1.03
+10.10.2024,Pade C.,1,,,,,,[],"['2', '0', '4', '2']","['2', '5']",[],[],9.50
+09.10.2024,Pade C.,2,,,,,,[],"['4', '3', '6', '3']",[],[],[],6.99
+09.10.2024,Hulme M.,0,,,,,,[],[],[],[],[],1.07
+20.12.2023,Bradshaw J.,2,,,,,,[],[],[],[],[],1.02
+20.12.2023,Pade C.,0,,,,,,[],[],[],[],[],11.60
+19.12.2023,Pade C.,2,,,,,,[],[],[],[],[],8.15
+19.12.2023,Oplustil P.,0,,,,,,[],[],[],[],[],1.05

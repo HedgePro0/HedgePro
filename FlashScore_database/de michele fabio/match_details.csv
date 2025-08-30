@@ -1,58 +1,35 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Montesilvano (Italy),clay,header
-ITF MEN - SINGLES M15 Antalya 19 (Turkey),clay,header
-ITF MEN - SINGLES M15 San Gregorio di Catania (Italy),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M15 Kalmar (Sweden),clay,header
-ITF MEN - SINGLES M15 San Gregorio di Catania (Italy),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M15 Kalmar (Sweden),clay,header
-15.05.2024,De Michele F.,1,,,,,,[],[],[],[],[],0
-15.05.2024,Renard L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santa Margherita di Pula 6 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 5 (Italy),clay,header
-ITF MEN - SINGLES M15 Monastir 12 (Tunisia),hard,header
-19.03.2024,De Michele F.,0,,,,,,[],[],[],[],[],0
-19.03.2024,Potenza L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-13.03.2024,De Michele F.,1,,,,,,[],[],[],[],[],0
-13.03.2024,Reitano S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 10 (Tunisia),hard,header
-06.03.2024,De Michele F.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Beckley A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 4 (Turkey),clay,header
-28.02.2024,De Michele F.,0,,,,,,[],[],[],[],[],0
-28.02.2024,Gimeno Valero C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 6 (Tunisia),hard,header
-08.02.2024,De Michele F.,0,,,,,,[],[],[],[],[],0
-08.02.2024,Alkotop M.,2,,,,,,[],[],[],[],[],0
-06.02.2024,De Michele F.,2,,,,,,[],[],[],[],[],0
-06.02.2024,Gobat A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 5 (Tunisia),hard,header
-31.01.2024,De Michele F.,1,,,,,,[],[],[],[],[],0
-31.01.2024,Kukasian A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 44 (Tunisia),hard,header
-02.11.2023,De Michele F.,0,,,,,,[],[],[],[],[],0
-02.11.2023,Pieczkowski O.,2,,,,,,[],[],[],[],[],0
-31.10.2023,De Michele F.,2,,,,,,[],[],[],[],[],0
-31.10.2023,Pan Y.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 13 (Egypt),hard,header
-12.10.2023,De Michele F.,1,,,,,,[],[],[],[],[],0
-12.10.2023,Nesterov P.,2,,,,,,[],[],[],[],[],0
-11.10.2023,De Michele F.,2,,,,,,[],[],[],[],[],0
-11.10.2023,Perruzza V.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-04.10.2023,De Michele F.,0,,,,,,[],[],[],[],[],0
-04.10.2023,Zakaria F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pozzuoli (Italy),hard,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES US Open (USA) - Qualification,hard,header
-ITF MEN - SINGLES M15 Perugia (Italy),clay,header
-ITF MEN - SINGLES M15 Gubbio (Italy),clay,header
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-BOYS - SINGLES Wimbledon (United Kingdom) - Qualification,grass,header
-07.07.2023,De Michele F.,2,,,,,,[],[],[],[],[],0
-07.07.2023,Shah A.,0,,,,,,[],[],[],[],[],0
-06.07.2023,De Michele F.,2,,,,,,[],[],[],[],[],0
-06.07.2023,Hooper L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Frascati (Italy),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+05.08.,Figl M.,2,,,,,,"['3', '2', '6', '3']","['4', '4', '6', '4']",[],[],[],1.60
+05.08.,De Michele F.,0,,,,,,[],"['1', '0']",[],[],[],2.22
+11.12.2024,Compagnucci T.,2,,,,,,"['3', '3', '7', '5']","['3', '1', '5', '1']",[],[],[],1.19
+11.12.2024,De Michele F.,0,,,,,,"['1', '0']",[],[],[],[],4.23
+04.11.2024,Brunclik P.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.26
+04.11.2024,De Michele F.,0,,,,,,"['3', '5']",[],[],[],[],3.54
+16.10.2024,Cesar Porras J.,2,,,,,,"['2', '3', '4', '3', '5', '4']","['2', '1', '4', '3']",[],[],[],1.16
+16.10.2024,De Michele F.,0,,,,,,"['3', '1', '4', '4']","['2', '2', '4', '4']",[],[],[],4.67
+30.04.2024,Sanchez Jover C.,2,,,,,,"['1', '1', '3', '1', '6', '2']","['3', '3', '6', '4']",[],[],[],1.10
+30.04.2024,De Michele F.,0,,,,,,"['1', '0']","['3', '0']",[],[],[],6.25
+22.04.2024,Lopez Montagud C.,2,,,,,,"['1', '0', '3', '0', '5', '4']","['1', '0', '5', '4']",[],[],[],1.09
+22.04.2024,De Michele F.,0,,,,,,"['2', '4', '4', '4']","['2', '2']",[],[],[],6.52
+13.09.2023,Fossati C.,2,,,,,,"['2', '2', '6', '4']",[],"['2', '0']",[],[],1.88
+13.09.2023,De Michele F.,1,,,,,,"['1', '0']","['6', '5']",[],[],[],1.83
+06.09.2023,Fonseca J.,2,,,,,,"['5', '3']","['2', '1']",[],[],[],-
+06.09.2023,De Michele F.,0,,,,,,[],[],[],[],[],-
+04.09.2023,De Michele F.,2,,,,,,"['2', '1']","['1', '1', '2', '4']","['1', '0', '6', '3']",[],[],-
+04.09.2023,Forbes M.,1,,,,,,"['4', '4']","['1', '0', '2', '1', '4', '1', '6', '3']",[],[],[],-
+03.09.2023,De Michele F.,2,,,,,,"['1', '0']","['4', '3']",[],[],[],-
+03.09.2023,Djuric B.,0,,,,,,[],[],[],[],[],-
+01.09.2023,De Michele F.,2,,,,,,"['2', '1']",[],"['1', '0', '4', '1', '7', '2']",[],[],-
+01.09.2023,Baierl C.,1,,,,,,[],"['1', '0', '4', '1', '6', '1']",[],[],[],-
+31.08.2023,De Michele F.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '4', '1']",[],[],[],-
+31.08.2023,Takekata S.,0,,,,,,[],[],[],[],[],-
+26.07.2023,Mazza M.,2,,,,,,"['1', '0', '6', '3']","['3', '1', '5', '1']",[],[],[],1.30
+26.07.2023,De Michele F.,0,,,,,,[],[],[],[],[],3.28
+19.07.2023,Sciahbasi L.,2,,,,,,[],"['3', '1', '5', '1']","['1', '0', '2', '1', '4', '1', '6', '3']",[],[],1.57
+19.07.2023,De Michele F.,1,,,,,,"['3', '1', '5', '1']",[],"['1', '1', '3', '5']",[],[],2.29
+11.07.2023,Bigun K.,2,,,,,,"['2', '2', '7', '5']","['3', '1']",[],[],[],-
+11.07.2023,De Michele F.,0,,,,,,"['1', '0']",[],[],[],[],-
+09.07.2023,De Michele F.,2,,,,,,"['4', '4']","['3', '1']","['2', '1']",[],[],-
+09.07.2023,Dahlin M.,1,,,,,,"['2', '1', '5', '4']",[],[],[],[],-
+06.06.2023,Compagnucci T.,2,,,,,,"['3', '2']","['2', '1', '6', '3']",[],[],[],1.09
+06.06.2023,De Michele F.,0,,,,,,[],[],[],[],[],6.25

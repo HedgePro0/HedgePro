@@ -1,39 +1,85 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Elvas (Portugal),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M25 Mataro (Spain),clay,header
-ITF MEN - SINGLES M25 Vic (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell (Spain),clay,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Loule (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo (Portugal),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M25 Mataro (Spain),clay,header
-ITF MEN - SINGLES M25 Vic (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell (Spain),clay,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Loule (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo (Portugal),hard,header
-14.03.,Curras Abasolo T.,0,,,,,,[],[],[],[],[],0
-14.03.,Zhou Y.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Quinta Do Lago (Portugal),hard,header
-ITF MEN - SINGLES M25 Faro (Portugal),hard,header
-ITF MEN - SINGLES M25 Vila Real de Santo Antonio (Portugal),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES M15 Madrid 4 (Spain),clay,header
-CHALLENGER MEN - SINGLES Maia (Portugal) - Qualification,clay,header
-24.11.2024,Curras Abasolo T.,0,,,,,,2,3,64%,52% (22/42),38% (9/24),55% (6/11),26% (6/23),31% (5/16),100% (1/1),46% (30/65),28% (11/39),39% (41/104),2,0,44% (4/9),13% (1/8),29% (5/17),[],[],[],[],[],0
-24.11.2024,Ovcharenko O.,2,,,,,,1,0,59%,74% (17/23),69% (11/16),0% (0/1),48% (20/42),63% (15/24),45% (5/11),72% (28/39),54% (35/65),61% (63/104),8,0,88% (7/8),56% (5/9),71% (12/17),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Vale do Lobo 3 (Portugal),hard,header
-ITF MEN - SINGLES M25 Vale do Lobo 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Sintra 2 (Portugal),hard,header
-ITF MEN - SINGLES M25 Sintra (Portugal),hard,header
-ITF MEN - SINGLES M15 Madrid (Spain),clay,header
-ITF MEN - SINGLES M25 Oviedo (Spain),clay,header
-ITF MEN - SINGLES M25 Santander (Spain),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+27.08.,Vives Marcos P.,2,,,,,,"['1', '0', '3', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],1.15
+27.08.,Curras Abasolo T.,0,,,,,,"['1', '1']",[],[],[],[],4.75
+26.08.,Curras Abasolo T.,2,,,,,,"['3', '2', '6', '3']","['3', '1', '5', '3']",[],[],[],1.45
+26.08.,Jimenez A.,0,,,,,,[],"['3', '4']",[],[],[],2.59
+12.08.,Bobichon M.,1,,,,,,"['1', '1', '3', '1', '6', '2']","['2', '0']","['2', '0', '4', '0']",[],[],20.0
+12.08.,Curras Abasolo T.,1,,,,,,"['1', '0']","['1', '2', '4', '3']",[],[],[],1.74
+24.06.,Fernandes R.,1,,,,,,"['3', '1', '5', '1']","['1', '0', '2', '1', '3', '2', '5', '2']",[],[],[],3.91
+24.06.,Curras Abasolo T.,0,,,,,,[],"['1', '1', '2', '2']",[],[],[],1.22
+05.06.,Vasa E.,2,,,,,,"['4', '2']","['3', '4', '5', '4']",[],[],[],1.55
+05.06.,Curras Abasolo T.,0,,,,,,[],"['2', '0']",[],[],[],2.32
+04.06.,Curras Abasolo T.,2,,,,,,"['2', '1', '3', '2', '6', '3']","['1', '1', '4', '4']",[],[],[],4.14
+04.06.,Alcala Gurri M.,0,,,,,,"['2', '2']","['1', '0', '3', '2']",[],[],[],1.20
+27.05.,Parisca I.,2,,,,,,"['3', '1', '5', '3']","['2', '1', '4', '5']","['3', '2', '5', '2']",[],[],2.89
+27.05.,Curras Abasolo T.,1,,,,,,"['3', '4']","['2', '2', '5', '3', '7', '5']",[],[],[],1.37
+22.05.,Zapata Miralles B.,2,,,,,,"['1', '1', '3', '1', '5', '3', '6', '4']","['2', '2', '4', '2', '6', '2']",[],[],[],1.24
+22.05.,Curras Abasolo T.,0,,,,,,"['1', '0', '2', '3', '4', '5']","['1', '0']",[],[],[],3.72
+21.05.,Curras Abasolo T.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1', '5', '2']",[],[],[],1.06
+21.05.,Zusman R.,0,,,,,,[],"['2', '4']",[],[],[],7.20
+14.05.,Gerch L.,2,,,,,,"['5', '5']","['1', '0', '5', '4']",[],[],[],1.55
+14.05.,Curras Abasolo T.,0,,,,,,"['4', '3']","['4', '4']",[],[],[],2.32
+30.04.,Alcala Gurri M.,2,,,,,,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.21
+30.04.,Curras Abasolo T.,0,,,,,,[],[],[],[],[],4.09
+27.04.,Wallin O.,2,,,,,,"['3', '1', '5', '1']","['4', '3']",[],[],[],1.70
+27.04.,Curras Abasolo T.,0,,,,,,[],[],[],[],[],2.03
+26.04.,Curras Abasolo T.,2,,,,,,"['2', '0', '3', '1', '5', '1', '6', '2']","['3', '1', '4', '2', '6', '2']",[],[],[],2.69
+26.04.,Callejon H. S.,0,,,,,,"['1', '2', '2', '5']","['2', '3']",[],[],[],1.42
+25.04.,Curras Abasolo T.,2,,,,,,"['3', '1', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.45
+25.04.,Bonsach G. K.,0,,,,,,"['2', '3']",[],[],[],[],2.59
+24.04.,Curras Abasolo T.,2,,,,,,"['1', '0', '3', '4']","['2', '0', '4', '0']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],2.24
+24.04.,Sanchez Quilez A.,1,,,,,,"['2', '2', '4', '2', '5', '3']","['2', '5']","['1', '1', '2', '4']",[],[],1.59
+23.04.,Curras Abasolo T.,2,,,,,,"['1', '1', '3', '1', '6', '2']","['2', '0', '6', '2']",[],[],[],1.10
+23.04.,Sau Franco A.,0,,,,,,"['1', '0']",[],[],[],[],5.80
+19.03.,Araujo P.,2,,,,,,"['2', '0', '4', '4', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.33
+19.03.,Curras Abasolo T.,0,,,,,,"['1', '2', '3', '2']",[],[],[],[],3.09
+08.03.,Boitan G. A.,2,,,,,,"['2', '0', '6', '4']","['1', '1', '3', '1', '5', '1', '7', '5']",[],[],[],1.27
+08.03.,Curras Abasolo T.,0,,,,,,"['2', '3']","['1', '0', '2', '5', '4', '5']",[],[],[],3.26
+08.03.,Curras Abasolo T.,2,,,,,,"['1', '0', '5', '4']","['1', '1', '6', '4']","['4', '4', '6', '4']",[],[],2.15
+08.03.,Krumich M.,1,,,,,,"['1', '1', '5', '5']","['1', '0']","['1', '0']",[],[],1.64
+06.03.,Curras Abasolo T.,2,,,,,,"['3', '1', '6', '4']","['2', '2', '3', '3']",[],[],[],3.40
+06.03.,Bertrand R.,0,,,,,,"['4', '5']","['2', '1', '3', '2']",[],[],[],1.28
+01.03.,Pereira T.,2,,,,,,"['3', '1', '6', '4']","['1', '1', '2', '4', '5', '5']",[],[],[],1.37
+01.03.,Curras Abasolo T.,0,,,,,,"['2', '3']","['1', '0', '2', '1', '4', '1']",[],[],[],2.99
+27.02.,Curras Abasolo T.,2,,,,,,"['3', '2', '5', '4']","['4', '3', '5', '4']",[],[],[],5.00
+27.02.,Kasnikowski M.,0,,,,,,"['3', '3']","['4', '4']",[],[],[],1.13
+26.02.,Curras Abasolo T.,2,,,,,,[],"['3', '3', '6', '4']","['2', '0', '4', '0']",[],[],2.09
+26.02.,Hjorth P.,1,,,,,,"['2', '0', '5', '1']","['2', '1']",[],[],[],1.68
+14.02.,Kopp S.,2,,,,,,"['1', '0', '4', '3']","['2', '1']",[],[],[],1.29
+14.02.,Curras Abasolo T.,0,,,,,,"['2', '2']","['5', '5']",[],[],[],3.32
+13.02.,Curras Abasolo T.,2,,,,,,"['2', '0', '5', '1', '6', '2']","['3', '1', '5', '3']",[],[],[],6.05
+13.02.,Bertrand R.,0,,,,,,"['2', '5']","['3', '4']",[],[],[],1.09
+12.02.,Curras Abasolo T.,2,,,,,,"['2', '4']","['4', '2', '6', '4']","['2', '0', '4', '0']",[],[],4.52
+12.02.,Fomin S.,1,,,,,,"['1', '0', '4', '1']","['4', '5']",[],[],[],1.17
+08.01.,Loge J.,2,,,,,,"['1', '0']","['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],1.69
+08.01.,Curras Abasolo T.,1,,,,,,"['3', '3', '6', '4']",[],[],[],[],2.08
+07.12.2024,De Krom M.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '4', '2', '6', '2']",[],[],[],1.08
+07.12.2024,Curras Abasolo T.,0,,,,,,[],"['1', '2']",[],[],[],6.72
+06.12.2024,Curras Abasolo T.,2,,,,,,[],"['6', '4']","['2', '0', '4', '0', '7', '5']",[],[],2.33
+06.12.2024,Masjuan Ginel P.,1,,,,,,"['3', '1']",[],"['2', '5', '4', '5']",[],[],1.55
+05.12.2024,Curras Abasolo T.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['2', '1', '4', '3', '6', '3']",[],[],[],6.12
+05.12.2024,Damas M.,0,,,,,,"['1', '1']","['2', '2']",[],[],[],1.10
+04.12.2024,Curras Abasolo T.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '0']",[],[],[],1.90
+04.12.2024,Alvarez Sarmiento M. L.,0,,,,,,"['1', '4']",[],[],[],[],1.80
+24.11.2024,Ovcharenko O.,2,,,,,,1,0,59%,74% (17/23),69% (11/16),0% (0/1),48% (20/42),63% (15/24),45% (5/11),72% (28/39),54% (35/65),61% (63/104),8,0,88% (7/8),56% (5/9),71% (12/17),"['1', '0', '4', '1']","['1', '2', '3', '2', '6', '3']",[],[],[],1.17
+24.11.2024,Curras Abasolo T.,0,,,,,,2,3,64%,52% (22/42),38% (9/24),55% (6/11),26% (6/23),31% (5/16),100% (1/1),46% (30/65),28% (11/39),39% (41/104),2,0,44% (4/9),13% (1/8),29% (5/17),[],"['2', '0']",[],[],[],4.70
+20.11.2024,Gonzalez Fernandez M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.28
+20.11.2024,Curras Abasolo T.,0,,,,,,[],[],[],[],[],3.40
+12.11.2024,Echeverria J.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '2', '5', '3']",[],[],[],1.16
+12.11.2024,Curras Abasolo T.,0,,,,,,[],"['1', '0']",[],[],[],4.67
+18.10.2024,Domingues J.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['4', '4']",[],[],[],1.17
+18.10.2024,Curras Abasolo T.,0,,,,,,[],"['2', '1']",[],[],[],4.48
+17.10.2024,Curras Abasolo T.,2,,,,,,"['2', '0', '3', '1', '4', '2', '6', '4']",[],"['2', '0', '5', '3', '6', '4']",[],[],1.71
+17.10.2024,Lopez N.,1,,,,,,"['1', '2', '2', '3', '4', '5']","['1', '0', '3', '0', '5', '0']","['3', '4', '4', '5']",[],[],2.01
+10.10.2024,Cretu C.,2,,,,,,"['2', '5']","['2', '2', '3', '3', '4', '4', '6', '4']","['2', '2', '4', '2', '6', '2']",[],[],1.25
+10.10.2024,Curras Abasolo T.,1,,,,,,"['3', '1', '5', '1']","['2', '1', '3', '2', '4', '3']","['1', '0']",[],[],3.62
+04.09.2024,Izquierdo Luque R.,2,,,,,,"['2', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.63
+04.09.2024,Curras Abasolo T.,0,,,,,,[],[],[],[],[],2.18
+27.08.2024,Alvarez Varona N.,2,,,,,,[],"['1', '0', '3', '0', '6', '1']","['3', '3', '5', '3']",[],[],1.04
+27.08.2024,Curras Abasolo T.,1,,,,,,"['1', '0', '6', '3']",[],"['2', '1']",[],[],9.00
+20.08.2024,Alvarez Varona N.,2,,,,,,"['4', '2']","['1', '0', '6', '3']",[],[],[],1.11
+20.08.2024,Curras Abasolo T.,0,,,,,,[],[],[],[],[],5.99
+13.08.2024,Nijboer R.,2,,,,,,"['1', '0', '3', '4', '5', '4']","['1', '0', '3', '0', '6', '1']",[],[],[],1.18
+13.08.2024,Curras Abasolo T.,0,,,,,,"['1', '1', '3', '1']",[],[],[],[],4.47
+04.07.2024,Cekirge K.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '6', '3']","['2', '0', '4', '2']",[],[],1.79
+04.07.2024,Curras Abasolo T.,1,,,,,,"['3', '5', '5', '5', '7', '5']",[],"['2', '3']",[],[],1.93

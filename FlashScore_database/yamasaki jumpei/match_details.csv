@@ -1,48 +1,65 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Singapore (Singapore),hard,header
-07.08.,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-07.08.,Matsuoka S.,2,,,,,,[],[],[],[],[],0
-05.08.,Yamasaki J.,2,,,,,,[],[],[],[],[],0
-05.08.,Oki Y.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Harmon (Guam),hard,header
-ITF MEN - SINGLES M15 Karuizawa (Japan),clay,header
-ITF MEN - SINGLES M15 Luan 5 (China),hard,header
-ITF MEN - SINGLES M15 Luan 4 (China),hard,header
-ITF MEN - SINGLES M15 Karuizawa (Japan),clay,header
-ITF MEN - SINGLES M15 Luan 5 (China),hard,header
-ITF MEN - SINGLES M15 Luan 4 (China),hard,header
-15.05.,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-15.05.,Shin W.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Osaka 2 (Japan),hard,header
-ITF MEN - SINGLES M15 Osaka (Japan),hard,header
-ITF MEN - SINGLES M15 Tsukuba (Japan),hard,header
-ITF MEN - SINGLES M15 Nishi-Tokyo (Japan),hard,header
-ITF MEN - SINGLES M15 Hinode (Japan),hard,header
-ITF MEN - SINGLES M15 Maanshan 2 (China),hard,header
-ITF MEN - SINGLES M15 Maanshan (China),hard,header
-ITF MEN - SINGLES M15 Bali 4 (Indonesia),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-14.05.2024,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-14.05.2024,Bouquier A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-08.05.2024,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-08.05.2024,Wiskandt M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 18 (Tunisia),hard,header
-03.05.2024,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-03.05.2024,Parker S.,2,,,,,,[],[],[],[],[],0
-02.05.2024,Yamasaki J.,2,,,,,,[],[],[],[],[],0
-02.05.2024,Saraiva Dos Santos P. A.,0,,,,,,[],[],[],[],[],0
-01.05.2024,Yamasaki J.,2,,,,,,[],[],[],[],[],0
-01.05.2024,Zhu M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nakhon Si Thammarat 2 (Thailand),hard,header
-22.02.2024,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-22.02.2024,Ly Nam H.,2,,,,,,[],[],[],[],[],0
-21.02.2024,Yamasaki J.,2,,,,,,[],[],[],[],[],0
-21.02.2024,Vithoontien L.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Yanagawa 2 (Japan),hard,header
-ITF MEN - SINGLES M15 Yanagawa (Japan),hard,header
-ITF MEN - SINGLES M25 Gold Coast (Australia),hard,header
-30.11.2023,Yamasaki J.,0,,,,,,[],[],[],[],[],0
-30.11.2023,Pearson K.,2,,,,,,[],[],[],[],[],0
-29.11.2023,Yamasaki J.,2,,,,,,[],[],[],[],[],0
-29.11.2023,Ly Nam H.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+11.06.,Sinclair C.,2,,,,,,"['4', '2']","['3', '2', '4', '3']","['1', '0', '2', '1', '6', '3']",[],[],1.87
+11.06.,Yamasaki J.,1,,,,,,[],"['3', '3', '5', '5', '7', '5']","['1', '1']",[],[],1.83
+06.06.,Fukuda S.,2,,,,,,"['2', '0', '3', '1', '5', '1']","['1', '0', '3', '2', '6', '3']",[],[],[],1.95
+06.06.,Yamasaki J.,0,,,,,,"['1', '2']","['1', '1']",[],[],[],1.76
+05.06.,Yamasaki J.,2,,,,,,"['4', '2', '6', '2']","['2', '0', '5', '3']",[],[],[],1.25
+05.06.,Lee J.,0,,,,,,[],"['1', '2']",[],[],[],3.62
+04.06.,Yamasaki J.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],-
+04.06.,Yukawa Y.,0,,,,,,[],[],[],[],[],-
+23.05.,Yamanaka T.,2,,,,,,"['2', '0', '4', '0']","['2', '1', '4', '1', '6', '1']",[],[],[],2.18
+23.05.,Yamasaki J.,0,,,,,,[],[],[],[],[],1.62
+22.05.,Yamasaki J.,2,,,,,,[],"['6', '4']","['2', '0', '4', '0', '6', '0']",[],[],-
+22.05.,Li Z.,1,,,,,,"['3', '1']",[],[],[],[],-
+20.05.,Yamasaki J.,1,,,,,,"['6', '6']",[],[],[],[],2.06
+20.05.,Mo Y. C.,0,,,,,,"['6', '5']",[],[],[],[],1.68
+13.05.,Yamasaki J.,2,,,,,,"['2', '1', '3', '2', '4', '3', '6', '3']","['2', '0', '4', '0']",[],[],[],1.23
+13.05.,Chen X. D.,0,,,,,,"['2', '2', '3', '3']",[],[],[],[],3.79
+26.04.,Imai S.,2,,,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],1.32
+26.04.,Yamasaki J.,0,,,,,,[],[],[],[],[],3.14
+25.04.,Yamasaki J.,2,,,,,,"['2', '1', '6', '3']","['2', '0']",[],[],[],1.55
+25.04.,Kusuhara Y.,0,,,,,,[],[],[],[],[],2.32
+24.04.,Shiraishi H.,1,,,,,,"['1', '0']","['3', '1']",[],[],[],1.45
+24.04.,Yamasaki J.,1,,,,,,"['4', '4']","['3', '4']","['2', '0']",[],[],2.59
+22.04.,Yamasaki J.,2,,,,,,"['3', '1']","['1', '0', '2', '1']",[],[],[],1.19
+22.04.,Okamura I.,0,,,,,,[],"['1', '1']",[],[],[],4.28
+18.04.,Tokuda R.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['4', '3']",[],[],[],1.55
+18.04.,Yamasaki J.,0,,,,,,"['1', '4']",[],[],[],[],2.33
+17.04.,Yamasaki J.,2,,,,,,"['2', '0', '5', '3']","['3', '4', '5', '4']",[],[],[],2.42
+17.04.,Marinkov P.,0,,,,,,"['2', '3']","['4', '2']",[],[],[],1.51
+16.04.,Yamasaki J.,2,,,,,,"['2', '0', '4', '0']","['4', '5', '6', '5']",[],[],[],1.68
+16.04.,Matsumura R.,0,,,,,,[],"['3', '1']",[],[],[],2.09
+27.03.,Hsu Y. H.,2,,,,,,"['5', '5', '7', '5']","['2', '0', '4', '0', '5', '1', '6', '2']",[],[],[],1.17
+27.03.,Yamasaki J.,0,,,,,,"['3', '2']","['1', '4', '2', '5']",[],[],[],4.48
+25.03.,Yamasaki J.,2,,,,,,"['5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.26
+25.03.,Sugaya Y.,0,,,,,,[],[],[],[],[],3.54
+20.03.,Shiraishi H.,2,,,,,,"['2', '2', '4', '4', '7', '5']","['2', '2', '5', '3']",[],[],[],1.45
+20.03.,Yamasaki J.,0,,,,,,"['2', '1', '3', '2']","['2', '1']",[],[],[],2.59
+18.03.,Yamasaki J.,2,,,,,,"['4', '3']","['1', '0']",[],[],[],1.19
+18.03.,Itsusaki S.,0,,,,,,[],[],[],[],[],4.19
+13.03.,Bouzige M.,2,,,,,,"['1', '2', '3', '2', '4', '3']","['4', '5', '6', '5']",[],[],[],-
+13.03.,Yamasaki J.,0,,,,,,"['2', '0', '3', '3']","['2', '0']",[],[],[],-
+13.03.,Yamasaki J.,2,,,,,,"['4', '3', '6', '3']","['4', '2']",[],[],[],1.14
+13.03.,Covato M.,0,,,,,,[],[],[],[],[],4.90
+05.03.,Trongcharoenchaikul W.,2,,,,,,"['6', '5']",[],"['3', '2']",[],[],2.66
+05.03.,Yamasaki J.,1,,,,,,[],"['3', '1', '6', '2']","['5', '5']",[],[],1.43
+27.02.,Zhang T.,2,,,,,,"['2', '0']","['3', '1']","['2', '1']",[],[],1.71
+27.02.,Yamasaki J.,1,,,,,,"['1', '2', '4', '3']",[],[],[],[],2.01
+26.02.,Yamasaki J.,2,,,,,,"['1', '0', '4', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],1.92
+26.02.,Ichikawa T.,0,,,,,,"['2', '2']","['1', '1', '3', '5']",[],[],[],1.78
+25.12.2024,Charlton J.,2,,,,,,"['4', '5']","['6', '4']","['3', '1', '5', '1']",[],[],2.12
+25.12.2024,Yamasaki J.,1,,,,,,"['5', '3']",[],[],[],[],1.66
+24.12.2024,Yamasaki J.,2,,,,,,"['2', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.17
+24.12.2024,Susanto A.,0,,,,,,[],[],[],[],[],4.48
+30.12.2023,Lee D. H.,2,,,,,,[],[],[],[],[],1.64
+30.12.2023,Yamasaki J.,1,,,,,,[],[],[],[],[],2.17
+29.12.2023,Yamasaki J.,2,,,,,,[],[],[],[],[],2.01
+29.12.2023,Kumasaka T.,0,,,,,,[],[],[],[],[],1.73
+28.12.2023,Yamasaki J.,2,,,,,,[],[],[],[],[],1.40
+28.12.2023,Sueoka Y.,0,,,,,,[],[],[],[],[],2.79
+26.12.2023,Yamasaki J.,2,,,,,,[],[],[],[],[],1.61
+26.12.2023,Nishiwaki K.,0,,,,,,[],[],[],[],[],2.22
+22.12.2023,Shiraishi H.,2,,,,,,[],[],[],[],[],-
+22.12.2023,Yamasaki J.,0,,,,,,[],[],[],[],[],-
+22.12.2023,Yamasaki J.,2,,,,,,[],[],[],[],[],1.91
+22.12.2023,Matsuda K.,1,,,,,,[],[],[],[],[],1.80

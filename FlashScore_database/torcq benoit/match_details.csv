@@ -1,26 +1,15 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Eupen (Belgium),clay,header
-07.08.,Torcq B.,0,,,,,,[],[],[],[],[],0
-07.08.,Visker N.,2,,,,,,[],[],[],[],[],0
-06.08.,Torcq B.,2,,,,,,[],[],[],[],[],0
-06.08.,Verwerft L. G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Lambermont (Belgium),clay,header
-ITF MEN - SINGLES M25 Koksijde (Belgium),clay,header
-ITF MEN - SINGLES M25 Duffel (Belgium),clay,header
-ITF MEN - SINGLES M15 Lambermont (Belgium),clay,header
-ITF MEN - SINGLES M25 Koksijde (Belgium),clay,header
-ITF MEN - SINGLES M25 Duffel (Belgium),clay,header
-19.06.2024,Torcq B.,0,,,,,,[],[],[],[],[],0
-19.06.2024,Kopp S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Caltanissetta (Italy),clay,header
-ITF MEN - SINGLES M15 Telde 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-15.11.2023,Torcq B.,0,,,,,,[],[],[],[],[],0
-15.11.2023,Elsayed A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 3 (Greece),hard,header
-18.10.2023,Torcq B.,0,,,,,,[],[],[],[],[],0
-18.10.2023,Nicod J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pazardzhik 2 (Bulgaria),clay,header
-04.10.2023,Torcq B.,0,,,,,,[],[],[],[],[],0
-04.10.2023,Dodig M.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.08.,Moeller M.,2,,,,,,"['1', '0', '3', '0', '4', '1', '5', '2']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+13.08.,Torcq B.,0,,,,,,"['1', '3', '2', '4']",[],[],[],[],-
+02.04.,Cervantes Tomas L.,2,,,,,,"['3', '1', '6', '2']","['3', '3', '5', '3']",[],[],[],1.17
+02.04.,Torcq B.,0,,,,,,[],"['3', '2']",[],[],[],4.53
+20.08.2024,Eriksson S.,2,,,,,,"['1', '1', '3', '3', '6', '4']","['2', '2', '5', '3']",[],[],[],1.14
+20.08.2024,Torcq B.,0,,,,,,"['1', '0', '3', '2']","['2', '1']",[],[],[],5.08
+13.08.2024,Basile A.,2,,,,,,"['3', '1', '5', '1']","['2', '3']",[],[],[],1.23
+13.08.2024,Torcq B.,0,,,,,,[],"['3', '1']",[],[],[],3.86
+04.06.2024,Ribecai M.,2,,,,,,"['3', '4', '6', '5']","['1', '0', '3', '2', '5', '2']",[],[],[],1.07
+04.06.2024,Torcq B.,0,,,,,,"['3', '1']","['2', '2']",[],[],[],7.11
+18.04.2024,Blanch Dar.,2,,,,,,"['4', '2', '6', '4']","['3', '3', '5', '3']",[],[],[],1.03
+18.04.2024,Torcq B.,0,,,,,,"['4', '5']","['2', '1']",[],[],[],9.55
+16.04.2024,Torcq B.,2,,,,,,"['3', '5', '5', '5', '6', '6']","['1', '0', '3', '0', '5', '0']",[],[],[],1.03
+16.04.2024,Helguera Casado L.,0,,,,,,"['1', '0', '5', '2', '6', '5']","['1', '5']",[],[],[],10.50

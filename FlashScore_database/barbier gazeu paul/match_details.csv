@@ -1,74 +1,45 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Roehampton 2 (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Dublin (Ireland),hard,header
-30.07.,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-30.07.,Ponchet M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 9 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 8 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kampala (Uganda),clay,header
-ITF MEN - SINGLES M25 Kampala (Uganda),clay,header
-ITF MEN - SINGLES M25 Kigali 2 (Rwanda),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 15 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 11 (Serbia),clay,header
-17.07.2024,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-17.07.2024,Parisca I.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Grasse (France),clay,header
-04.06.2024,Barbier Gazeu P.,1,,,,,,[],[],[],[],[],0
-04.06.2024,Gaio F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Deauville (France),clay,header
-23.05.2024,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Vatutin A.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Barbier Gazeu P.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Van Sambeek F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja (Serbia),clay,header
-20.04.2024,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-20.04.2024,Ivanov S. A.,0,,,,,,[],[],[],[],[],0
-19.04.2024,Barbier Gazeu P.,2,,,,,,[],[],[],[],[],0
-19.04.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 3 (Tunisia),hard,header
-17.01.2024,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-17.01.2024,Bittoun C.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-11.01.2024,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-11.01.2024,Negritu Ch.,2,,,,,,[],[],[],[],[],0
-10.01.2024,Barbier Gazeu P.,2,,,,,,[],[],[],[],[],0
-10.01.2024,Hamza Reguig S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 50 (Tunisia),hard,header
-13.12.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-13.12.2023,Jones M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 49 (Tunisia),hard,header
-07.12.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-07.12.2023,Bertrand R.,2,,,,,,[],[],[],[],[],0
-06.12.2023,Barbier Gazeu P.,2,,,,,,[],[],[],[],[],0
-06.12.2023,Salle F.,1,,,,,,[],[],[],[],[],0
-BOYS - SINGLES US Open (USA),hard,header
-ITF MEN - SINGLES M15 Eindhoven (Netherlands),clay,header
-01.08.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-01.08.2023,Paardekooper S.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
-ITF MEN - SINGLES M15 Monastir 25 (Tunisia),hard,header
-20.06.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-20.06.2023,Braithwaite T.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES French Open (France),clay,header
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
-17.05.2023,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-17.05.2023,La Serna J. M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Villers-les-Nancy (France),hard,header
-01.11.2022,Barbier Gazeu P.,1,,,,,,[],[],[],[],[],0
-01.11.2022,Nagel A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 41 (Tunisia),hard,header
-18.10.2022,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-18.10.2022,Rocha H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 40 (Tunisia),hard,header
-11.10.2022,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-11.10.2022,Bittoun C.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES US Open (USA),hard,header
-ITF MEN - SINGLES M15 Kottingbrunn (Austria),clay,header
-27.07.2022,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-27.07.2022,Ferrari F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Uriage (France),clay,header
-12.07.2022,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],0
-12.07.2022,Garcian A.,2,,,,,,[],[],[],[],[],0
-BOYS - SINGLES Wimbledon (United Kingdom),grass,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+06.08.,Wendelken H.,2,,,,,,"['3', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],1.22
+06.08.,Barbier Gazeu P.,0,,,,,,"['3', '3']","['3', '5']",[],[],[],3.91
+02.07.,Loncarevic A.,2,,,,,,[],"['3', '1', '6', '2']","['4', '2', '6', '2']",[],[],3.26
+02.07.,Barbier Gazeu P.,1,,,,,,"['3', '1']",[],[],[],[],1.30
+28.06.,Popovic S.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '4', '0']",[],[],[],1.53
+28.06.,Barbier Gazeu P.,0,,,,,,[],[],[],[],[],2.37
+27.06.,Barbier Gazeu P.,2,,,,,,"['2', '1', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.68
+27.06.,Fernandez B.,0,,,,,,"['3', '5']",[],[],[],[],2.09
+26.06.,Barbier Gazeu P.,2,,,,,,[],"['6', '4']","['4', '2']",[],[],2.59
+26.06.,Chepelev A.,1,,,,,,"['1', '0']",[],[],[],[],1.45
+25.06.,Barbier Gazeu P.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['4', '2']",[],[],[],1.03
+25.06.,Lulic N.,0,,,,,,[],[],[],[],[],9.20
+17.10.2024,Neuchrist M.,2,,,,,,"['4', '3']","['1', '0', '5', '4']",[],[],[],1.26
+17.10.2024,Barbier Gazeu P.,0,,,,,,[],"['3', '3']",[],[],[],3.54
+12.10.2024,Neuchrist M.,2,,,,,,"['3', '2', '6', '3']",[],"['2', '0']",[],[],1.19
+12.10.2024,Barbier Gazeu P.,1,,,,,,[],"['6', '5']",[],[],[],4.19
+11.10.2024,Barbier Gazeu P.,2,,,,,,"['3', '3', '5', '3', '6', '4']","['2', '0']",[],[],[],1.79
+11.10.2024,Iradukunda G.,0,,,,,,"['3', '2', '4', '5']",[],[],[],[],1.91
+10.10.2024,Barbier Gazeu P.,2,,,,,,"['3', '1']","['2', '3', '6', '5']",[],[],[],1.67
+10.10.2024,Schachter N.,0,,,,,,[],"['2', '0']",[],[],[],2.10
+09.10.2024,Barbier Gazeu P.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['3', '1', '5', '1']",[],[],[],-
+09.10.2024,Tayebwa F.,0,,,,,,[],[],[],[],[],12.90
+03.10.2024,Houkes M.,2,,,,,,"['4', '3', '6', '3']","['2', '0']",[],[],[],1.04
+03.10.2024,Barbier Gazeu P.,1,,,,,,[],"['1', '2', '3', '2', '5', '2', '6', '2']",[],[],[],8.50
+02.10.2024,Barbier Gazeu P.,2,,,,,,"['5', '3']","['6', '5']",[],[],[],1.17
+02.10.2024,Reddy R.,0,,,,,,[],[],[],[],[],4.53
+14.08.2024,Paz J. P.,2,,,,,,"['2', '3', '5', '4']","['3', '2']",[],[],[],1.26
+14.08.2024,Barbier Gazeu P.,0,,,,,,"['2', '0']",[],[],[],[],3.59
+12.03.2024,Knaff A.,2,,,,,,[],"['4', '2', '6', '2']","['3', '1', '5', '1']",[],[],1.12
+12.03.2024,Barbier Gazeu P.,1,,,,,,"['1', '0']",[],[],[],[],5.62
+06.03.2024,Pujol Navarro B.,2,,,,,,"['1', '2', '3', '2', '5', '4']","['1', '0', '4', '1', '6', '1']",[],[],[],-
+06.03.2024,Barbier Gazeu P.,0,,,,,,"['2', '0', '3', '3']",[],[],[],[],-
+03.09.2023,Molder M.,2,,,,,,"['1', '0', '4', '3']",[],[],[],[],-
+03.09.2023,Barbier Gazeu P.,0,,,,,,"['1', '1']",[],[],[],[],-
+09.07.2023,Radulov I.,2,,,,,,[],[],"['4', '3', '6', '3']",[],[],-
+09.07.2023,Barbier Gazeu P.,1,,,,,,"['1', '0']",[],[],[],[],-
+06.06.2023,Radulov I.,2,,,,,,"['3', '3']","['6', '5']",[],[],[],-
+06.06.2023,Barbier Gazeu P.,0,,,,,,"['1', '0']",[],[],[],[],-
+05.06.2023,Barbier Gazeu P.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '3', '7', '5']",[],[],[],-
+05.06.2023,Kriznik M.,0,,,,,,[],"['3', '2']",[],[],[],-
+04.09.2022,Kang K.,2,,,,,,"['5', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],-
+04.09.2022,Barbier Gazeu P.,0,,,,,,[],"['2', '2']",[],[],[],-
+05.07.2022,Pawelski M.,2,,,,,,[],"['1', '0', '3', '0']","['4', '3']",[],[],-
+05.07.2022,Barbier Gazeu P.,1,,,,,,[],[],[],[],[],-

@@ -1,55 +1,63 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-06.08.,Gschwendtner J.,0,,,,,,[],[],[],[],[],0
-06.08.,Mazzola F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Slobozia (Romania),clay,header
-19.07.,Gschwendtner J.,0,,,,,,[],[],[],[],[],0
-19.07.,Snitari I.,2,,,,,,[],[],[],[],[],0
-18.07.,Gschwendtner J.,2,,,,,,[],[],[],[],[],0
-18.07.,Ribero F.,0,,,,,,[],[],[],[],[],0
-18.07.,Gschwendtner J.,2,,,,,,[],[],[],[],[],0
-18.07.,Gima S.,0,,,,,,[],[],[],[],[],0
-17.07.,Gschwendtner J.,2,,,,,,[],[],[],[],[],0
-17.07.,Frusina A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Lodz (Poland),clay,header
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki (Poland),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-ITF MEN - SINGLES M15 Ljubljana (Slovenia),clay,header
-CHALLENGER MEN - SINGLES Vicenza (Italy) - Qualification,clay,header
-25.05.,Gschwendtner J.,0,,,,,,1,2,50%,38% (8/21),29% (6/21),33% (3/9),31% (8/26),40% (8/20),33% (1/3),10,16,80% (4/5),33% (14/42),35% (16/46),34% (30/88),5,0,14% (1/7),14% (1/7),14% (2/14),[],[],[],[],[],0
-25.05.,Fonio G.,2,,,,,,4,4,57%,69% (18/26),60% (12/20),67% (2/3),62% (13/21),71% (15/21),67% (6/9),22,15,100% (5/5),65% (30/46),67% (28/42),66% (58/88),5,0,86% (6/7),86% (6/7),86% (12/14),[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kotka (Finland),clay,header
-ITF MEN - SINGLES M15 Opatija (Croatia),clay,header
-ITF MEN - SINGLES M15 Rovinj (Croatia),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Ceuta (Spain),hard,header
-ITF MEN - SINGLES M25 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 46 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Bol 3 (Croatia),clay,header
-ITF MEN - SINGLES M15 Constanta 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Arad (Romania),clay,header
-ITF MEN - SINGLES M15 Targu Jiu (Romania),clay,header
-ITF MEN - SINGLES M15 Litija (Slovenia),clay,header
-10.07.2024,Gschwendtner J.,1,,,,,,[],[],[],[],[],0
-10.07.2024,Artnak B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Grodzisk Mazowiecki (Poland),clay,header
-06.06.2024,Gschwendtner J.,1,,,,,,[],[],[],[],[],0
-06.06.2024,Monzon I.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Braynin A.,1,,,,,,[],[],[],[],[],0
-05.06.2024,Gschwendtner J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-23.05.2024,Gschwendtner J.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Jovic V.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Gschwendtner J.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Madarasz G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 San Gregorio di Catania (Italy),clay,header
-ITF MEN - SINGLES M15 Telavi (Georgia),clay,header
-25.10.2023,Gschwendtner J.,0,,,,,,[],[],[],[],[],0
-25.10.2023,Perruzza V.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Telavi 2 (Georgia),clay,header
-18.10.2023,Gschwendtner J.,0,,,,,,[],[],[],[],[],0
-18.10.2023,Ionel N. D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Telavi (Georgia),clay,header
-11.10.2023,Gschwendtner J.,1,,,,,,[],[],[],[],[],0
-11.10.2023,Bulus C.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.07.,Larwig N.,2,,,,,,"['1', '0', '2', '1', '5', '4']","['4', '3', '6', '3']",[],[],[],2.66
+10.07.,Gschwendtner J.,0,,,,,,"['1', '1', '2', '2']",[],[],[],[],1.43
+24.06.,Filip J.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '6', '4']",[],[],[],1.72
+24.06.,Gschwendtner J.,0,,,,,,[],"['2', '3']",[],[],[],2.00
+17.06.,Oberleitner N.,2,,,,,,"['2', '1', '3', '2', '5', '2']","['2', '1']",[],[],[],1.09
+17.06.,Gschwendtner J.,0,,,,,,"['2', '2', '3', '5']",[],[],[],[],6.10
+14.06.,Oberleitner N.,2,,,,,,"['2', '3', '4', '3', '5', '4']","['1', '0', '4', '1', '5', '2']",[],[],[],1.08
+14.06.,Gschwendtner J.,0,,,,,,"['3', '1', '4', '4']","['2', '4']",[],[],[],6.25
+13.06.,Gschwendtner J.,2,,,,,,"['3', '1', '6', '4']","['2', '2', '4', '2', '7', '5']",[],[],[],-
+13.06.,Salazar D.,0,,,,,,"['2', '3']","['2', '1', '4', '5']",[],[],[],-
+12.06.,Gschwendtner J.,2,,,,,,"['2', '0']","['2', '3', '4', '5']","['2', '1', '5', '4']",[],[],2.11
+12.06.,Jilly A.,1,,,,,,"['3', '4']","['2', '0', '4', '2', '6', '4']","['2', '2']",[],[],1.66
+11.06.,Gschwendtner J.,2,,,,,,"['1', '2', '6', '5']","['1', '0', '3', '0']",[],[],[],1.17
+11.06.,Sallay P.,0,,,,,,"['2', '0']",[],[],[],[],4.53
+04.06.,Demanet E.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['4', '3', '6', '3']",[],[],[],1.30
+04.06.,Gschwendtner J.,0,,,,,,[],[],[],[],[],3.26
+25.05.,Fonio G.,2,,,,,,4,4,57%,69% (18/26),60% (12/20),67% (2/3),62% (13/21),71% (15/21),67% (6/9),22,15,100% (5/5),65% (30/46),67% (28/42),66% (58/88),5,0,86% (6/7),86% (6/7),86% (12/14),"['1', '0', '3', '0', '4', '1', '6', '1']","['2', '0', '4', '0']",[],[],[],-
+25.05.,Gschwendtner J.,0,,,,,,1,2,50%,38% (8/21),29% (6/21),33% (3/9),31% (8/26),40% (8/20),33% (1/3),10,16,80% (4/5),33% (14/42),35% (16/46),34% (30/88),5,0,14% (1/7),14% (1/7),14% (2/14),"['1', '3']",[],[],[],[],12.70
+22.05.,Nikles J.,2,,,,,,"['1', '2', '4', '5']","['1', '1', '3', '1', '4', '4', '7', '5']",[],[],[],1.21
+22.05.,Gschwendtner J.,0,,,,,,"['2', '0', '5', '3']","['1', '0', '2', '3', '4', '3']",[],[],[],4.04
+21.05.,Gschwendtner J.,2,,,,,,"['3', '3']","['1', '0']","['3', '1']",[],[],1.60
+21.05.,Jorgensen S. G.,1,,,,,,"['3', '2']","['4', '4']",[],[],[],2.22
+27.03.,Mikrut L.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0']",[],[],[],1.07
+27.03.,Gschwendtner J.,0,,,,,,[],[],[],[],[],6.60
+26.03.,Gschwendtner J.,2,,,,,,"['2', '0']","['5', '3']","['1', '0', '3', '2']",[],[],1.85
+26.03.,Malesevic N.,1,,,,,,"['2', '3', '5', '4']",[],"['2', '2']",[],[],1.85
+18.03.,Battiston A.,2,,,,,,"['3', '2', '4', '3']","['2', '1', '6', '3']",[],[],[],1.74
+18.03.,Gschwendtner J.,0,,,,,,"['3', '3']",[],[],[],[],1.97
+06.02.,Chazal M.,2,,,,,,"['2', '1', '6', '3']","['2', '0', '4', '0']",[],[],[],1.18
+06.02.,Gschwendtner J.,0,,,,,,[],[],[],[],[],4.43
+05.02.,Gschwendtner J.,2,,,,,,"['1', '3', '5', '5']","['5', '4']","['2', '1', '4', '1']",[],[],1.26
+05.02.,Toffanin N.,1,,,,,,"['1', '0', '3', '0']",[],[],[],[],3.54
+11.12.2024,Bourgue M.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '5', '2']",[],[],[],1.33
+11.12.2024,Gschwendtner J.,0,,,,,,[],"['1', '1']",[],[],[],3.09
+21.11.2024,Peniston R.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.09
+21.11.2024,Gschwendtner J.,0,,,,,,[],[],[],[],[],6.39
+20.11.2024,Gschwendtner J.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '6', '2']",[],[],[],1.12
+20.11.2024,Nesterov A.,0,,,,,,[],[],[],[],[],5.42
+15.11.2024,Gentzsch T.,2,,,,,,"['4', '3']","['3', '2', '6', '3']",[],[],[],1.31
+15.11.2024,Gschwendtner J.,0,,,,,,[],[],[],[],[],3.20
+14.11.2024,Gschwendtner J.,2,,,,,,"['1', '1']","['3', '3', '6', '4']","['2', '0', '6', '2']",[],[],2.30
+14.11.2024,Rivet M.,1,,,,,,"['1', '0', '2', '1']","['2', '1']",[],[],[],1.56
+13.11.2024,Gschwendtner J.,2,,,,,,"['2', '1', '4', '1', '6', '5']","['3', '4', '5', '4']",[],[],[],2.22
+13.11.2024,Rapagnetta D.,0,,,,,,"['2', '4', '5', '5']","['2', '0', '5', '5']",[],[],[],1.60
+17.10.2024,La Vela G.,2,,,,,,[],"['2', '0', '4', '2', '6', '4']","['4', '2', '6', '2']",[],[],1.24
+17.10.2024,Gschwendtner J.,1,,,,,,"['1', '0', '5', '2']","['2', '3', '4', '5']",[],[],[],3.72
+16.10.2024,Gschwendtner J.,2,,,,,,"['1', '1', '3', '1', '6', '4']","['2', '0', '4', '0']",[],[],[],2.08
+16.10.2024,Bonnaud A.,0,,,,,,"['1', '0', '3', '4']",[],[],[],[],1.69
+04.09.2024,Marino P.,2,,,,,,"['1', '0', '4', '3']","['1', '1', '3', '3']","['1', '1', '3', '1', '5', '1', '6', '2']",[],[],1.88
+04.09.2024,Gschwendtner J.,1,,,,,,"['1', '1', '5', '5']","['1', '0', '2', '1', '4', '3']","['1', '0', '2', '5']",[],[],1.84
+22.08.2024,Fajta P.,2,,,,,,"['3', '3']","['1', '0']",[],[],[],1.22
+22.08.2024,Gschwendtner J.,1,,,,,,"['3', '0']",[],[],[],[],3.96
+21.08.2024,Gschwendtner J.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0', '6', '0']",[],[],[],1.12
+21.08.2024,Onofrei M. C.,0,,,,,,[],[],[],[],[],5.67
+19.08.2024,Gschwendtner J.,2,,,,,,"['2', '0', '4', '0']","['4', '5']","['1', '0', '3', '0', '5', '0']",[],[],1.81
+19.08.2024,Denisov I.,1,,,,,,[],"['5', '3', '6', '4']",[],[],[],1.91
+15.08.2024,Tomescu D. A.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['2', '0', '6', '2']",[],[],[],-
+15.08.2024,Gschwendtner J.,0,,,,,,[],[],[],[],[],-
+14.08.2024,Oumaouche R.,1,,,,,,"['1', '0', '3', '0', '4', '3', '6', '3']","['2', '4']",[],[],[],-
+14.08.2024,Gschwendtner J.,1,,,,,,"['1', '3', '3', '3']","['1', '0', '3', '0']","['1', '0', '3', '0']",[],[],-
+28.11.2023,Pennaforti G.,2,,,,,,"['2', '1']","['1', '0', '3', '2', '6', '3']",[],[],[],1.11
+28.11.2023,Gschwendtner J.,0,,,,,,[],"['1', '1']",[],[],[],5.77

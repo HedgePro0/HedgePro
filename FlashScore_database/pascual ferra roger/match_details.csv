@@ -1,29 +1,67 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25+H Tauste (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 28 (Tunisia),hard,header
-19.07.,Pascual Ferra R.,1,,,,,,[],[],[],[],[],0
-19.07.,Vandermeersch C.,2,,,,,,[],[],[],[],[],0
-18.07.,Pascual Ferra R.,2,,,,,,[],[],[],[],[],0
-18.07.,Munk Mesa B.,0,,,,,,[],[],[],[],[],0
-17.07.,Pascual Ferra R.,2,,,,,,[],[],[],[],[],0
-17.07.,Wallart E.,0,,,,,,[],[],[],[],[],0
-16.07.,Pascual Ferra R.,2,,,,,,[],[],[],[],[],0
-16.07.,Lavizzari M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 Bakio (Spain),hard,header
-ITF MEN - SINGLES M15 Monastir 23 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Madrid 3 (Spain),hard,header
-ITF MEN - SINGLES M15 Pontevedra (Spain),hard,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES M15 Madrid 2 (Spain),hard,header
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
-06.08.2024,Pascual Ferra R.,0,,,,,,[],[],[],[],[],0
-06.08.2024,Fernandez Flores D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Gandia (Spain),clay,header
-ITF MEN - SINGLES M25 Roda de Bara (Spain),hard,header
-ITF MEN - SINGLES M25 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+06.08.,Ghazouani Durand Y.,2,,,,,,"['3', '3', '5', '5', '7', '5']","['1', '1', '3', '1', '6', '2']",[],[],[],2.62
+06.08.,Pascual Ferra R.,0,,,,,,"['2', '1', '5', '4']","['1', '0']",[],[],[],1.44
+05.08.,Pascual Ferra R.,2,,,,,,"['3', '4', '5', '4']","['1', '0', '4', '1']",[],[],[],1.49
+05.08.,McCormick T.,0,,,,,,"['3', '1']",[],[],[],[],2.47
+13.07.,Soriano Barrera A.,2,,,,,,"['4', '2', '5', '5', '6', '6']","['1', '0', '3', '2', '6', '3']",[],[],[],1.35
+13.07.,Pascual Ferra R.,0,,,,,,"['3', '4', '5', '4', '6', '5']","['1', '1']",[],[],[],2.99
+12.07.,Pascual Ferra R.,2,,,,,,"['1', '0', '2', '1', '4', '1', '5', '2']","['1', '0', '2', '1', '6', '3']",[],[],[],3.03
+12.07.,Echeverria J.,0,,,,,,"['1', '1', '2', '4']","['1', '1']",[],[],[],1.34
+11.07.,Pascual Ferra R.,2,,,,,,"['1', '0', '3', '0', '4', '1', '5', '2']","['2', '1', '4', '3', '6', '3']",[],[],[],3.09
+11.07.,Sun F.,0,,,,,,"['1', '3', '2', '4']","['3', '3']",[],[],[],1.33
+10.07.,Pascual Ferra R.,2,,,,,,"['3', '1']","['3', '2']","['1', '0', '3', '0', '5', '0']",[],[],3.54
+10.07.,Martinez A.,1,,,,,,"['4', '5']",[],[],[],[],1.26
+09.07.,Pascual Ferra R.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1', '6', '1']",[],[],[],2.01
+09.07.,Binda A.,0,,,,,,[],[],[],[],[],1.71
+25.06.,Ghazouani Durand Y.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '4', '4', '5', '6', '5']",[],[],[],1.59
+25.06.,Pascual Ferra R.,0,,,,,,"['1', '2']","['1', '1', '4', '2', '5', '3', '6', '6']",[],[],[],2.28
+23.06.,Pascual Ferra R.,2,,,,,,"['3', '2', '6', '5']","['1', '0']",[],[],[],1.50
+23.06.,Namigandet Tenguere L.,0,,,,,,"['3', '3']",[],[],[],[],2.44
+10.06.,Seghetti S.,2,,,,,,"['2', '5']","['2', '2', '4', '2', '6', '2']","['1', '1', '3', '3', '6', '4']",[],[],3.62
+10.06.,Pascual Ferra R.,1,,,,,,"['2', '0', '4', '0']","['2', '1']","['1', '0', '2', '1']",[],[],1.25
+07.06.,Rossi L.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['1', '1', '4', '2', '5', '3']",[],[],[],1.67
+07.06.,Pascual Ferra R.,0,,,,,,"['2', '3']","['1', '0', '3', '4']",[],[],[],2.10
+06.06.,Pascual Ferra R.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['2', '2', '4', '2']","['1', '0', '3', '0', '5', '2']",[],[],1.78
+06.06.,Rice K.,1,,,,,,"['3', '3']","['1', '0', '4', '5']","['2', '4']",[],[],1.92
+05.06.,Pascual Ferra R.,2,,,,,,"['3', '1', '4', '2', '6', '2']","['1', '1', '3', '1', '6', '2']",[],[],[],1.76
+05.06.,Silva T.,0,,,,,,"['2', '3']","['1', '0']",[],[],[],1.95
+03.06.,Pascual Ferra R.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '3', '1']",[],[],[],-
+03.06.,Pierre H.,0,,,,,,[],"['1', '2']",[],[],[],-
+28.11.2024,Freire Da Silva A.,2,,,,,,"['2', '0']","['1', '0']","['3', '2', '6', '5']",[],[],2.24
+28.11.2024,Pascual Ferra R.,1,,,,,,[],"['2', '2', '6', '4']","['5', '5']",[],[],1.59
+27.11.2024,Pascual Ferra R.,2,,,,,,[],"['3', '1', '5', '3', '6', '4']","['2', '0', '6', '4']",[],[],4.28
+27.11.2024,Sanchez Quilez A.,1,,,,,,"['1', '0', '3', '0']","['2', '3', '4', '5']","['2', '3']",[],[],1.19
+10.10.2024,Hudd E.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '0']",[],[],[],1.24
+10.10.2024,Pascual Ferra R.,0,,,,,,[],[],[],[],[],3.72
+09.10.2024,Pascual Ferra R.,2,,,,,,"['1', '0', '2', '1', '4', '3', '6', '5']","['1', '0', '4', '1']",[],[],[],1.18
+09.10.2024,Tsitsipas Pa.,0,,,,,,"['1', '1', '3', '3', '5', '5']","['2', '4']",[],[],[],4.38
+26.09.2024,Merida Aguilar D.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '5', '2', '6', '3']",[],[],[],1.04
+26.09.2024,Pascual Ferra R.,0,,,,,,[],"['3', '5']",[],[],[],8.60
+25.09.2024,Pascual Ferra R.,2,,,,,,[],"['1', '0', '5', '2']","['1', '0', '4', '1']",[],[],1.73
+25.09.2024,Gutierrez O. J.,1,,,,,,"['2', '1', '4', '1', '6', '1']",[],"['2', '4']",[],[],1.99
+20.09.2024,De Krom M.,2,,,,,,"['2', '0', '3', '1', '6', '2']","['3', '1']",[],[],[],1.27
+20.09.2024,Pascual Ferra R.,0,,,,,,"['1', '2']",[],[],[],[],3.46
+20.09.2024,Pascual Ferra R.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '2', '6', '3']",[],[],[],1.34
+20.09.2024,Dominguez Alonso J.,0,,,,,,"['2', '3']","['1', '1']",[],[],[],3.23
+18.09.2024,Pascual Ferra R.,2,,,,,,"['3', '3', '4', '4', '5', '5', '7', '5']","['2', '0', '6', '4']",[],[],[],-
+18.09.2024,Planella Hernandez S.,0,,,,,,"['3', '2', '4', '3', '5', '4']","['4', '5']",[],[],[],-
+11.09.2024,Manzanera Pertusa A.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],1.26
+11.09.2024,Pascual Ferra R.,0,,,,,,[],[],[],[],[],3.59
+17.07.2024,Sanchez Jover C.,2,,,,,,"['1', '0', '3', '2', '5', '2']","['1', '0', '2', '1', '5', '2']",[],[],[],1.07
+17.07.2024,Pascual Ferra R.,0,,,,,,"['2', '2']","['1', '1']",[],[],[],7.17
+12.07.2024,Lock B.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '3', '6', '4']",[],[],1.12
+12.07.2024,Pascual Ferra R.,1,,,,,,"['5', '3']",[],"['2', '3', '4', '5']",[],[],5.61
+11.07.2024,Pascual Ferra R.,2,,,,,,"['2', '0', '5', '3']","['2', '3', '4', '3', '5', '4']",[],[],[],5.99
+11.07.2024,Sanchez Quilez A.,0,,,,,,"['2', '3']","['2', '0', '4', '4']",[],[],[],1.11
+09.07.2024,Pascual Ferra R.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['3', '1', '5', '1']",[],[],[],2.83
+09.07.2024,Cekirge K.,0,,,,,,"['1', '4']",[],[],[],[],1.39
+29.05.2024,Gimeno Valero C.,2,,,,,,"['2', '1', '5', '2', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],1.05
+29.05.2024,Pascual Ferra R.,0,,,,,,"['3', '5']","['1', '0']",[],[],[],8.55
+25.04.2024,Gulin S.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '4', '0']",[],[],[],1.05
+25.04.2024,Pascual Ferra R.,0,,,,,,[],[],[],[],[],8.45
+24.04.2024,Pascual Ferra R.,2,,,,,,"['2', '1']","['3', '3', '6', '4']","['2', '0', '4', '0', '5', '3']",[],[],4.13
+24.04.2024,Elicha Navas G.,1,,,,,,"['2', '2', '5', '3']","['1', '0']","['1', '4', '3', '4']",[],[],1.21
+06.04.2022,Mansilla Diez M.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.06
+06.04.2022,Pascual Ferra R.,0,,,,,,[],[],[],[],[],8.40
+02.03.2022,Ivanov V.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['2', '0', '4', '0']",[],[],[],1.23
+02.03.2022,Pascual Ferra R.,0,,,,,,"['3', '3']",[],[],[],[],4.04

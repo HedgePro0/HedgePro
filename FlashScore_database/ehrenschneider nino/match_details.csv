@@ -1,36 +1,81 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Kayseri 6 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 5 (Turkey),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 18 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 17 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 14 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Luan (China),hard,header
-ITF MEN - SINGLES M15 Maanshan 2 (China),hard,header
-ITF MEN - SINGLES M15 Maanshan (China),hard,header
-ITF MEN - SINGLES M15 Bucharest (Romania),hard,header
-ITF MEN - SINGLES M15 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 Kayseri 5 (Turkey),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 18 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 17 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 14 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 13 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Luan (China),hard,header
-ITF MEN - SINGLES M15 Maanshan 2 (China),hard,header
-ITF MEN - SINGLES M15 Maanshan (China),hard,header
-ITF MEN - SINGLES M15 Bucharest (Romania),hard,header
-ITF MEN - SINGLES M15 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-07.01.,Ehrenschneider N.,2,,,,,,[],[],[],[],[],0
-07.01.,Woerner P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Stellenbosch 2 (South Africa),hard,header
-12.12.2024,Ehrenschneider N.,0,,,,,,[],[],[],[],[],0
-12.12.2024,Pierre H.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Stellenbosch (South Africa),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+19.08.,Popovic S.,2,,,,,,0,1,75%,65% (40/62),52% (11/21),80% (4/5),31% (14/45),61% (20/33),33% (3/9),11,26,100% (2/2),61% (51/83),44% (34/78),53% (85/161),7,0,90% (9/10),27% (3/11),57% (12/21),"['1', '0', '6', '3']","['2', '2']",[],[],[],-
+19.08.,Ehrenschneider N.,0,,,,,,0,3,58%,69% (31/45),39% (13/33),67% (6/9),35% (22/62),48% (10/21),20% (1/5),19,51,72% (13/18),56% (44/78),39% (32/83),47% (76/161),3,3,73% (8/11),10% (1/10),43% (9/21),[],"['2', '1']",[],[],[],-
+18.08.,Ehrenschneider N.,2,,,,,,1,4,58%,75% (40/53),55% (21/38),100% (7/7),20% (9/46),55% (12/22),33% (1/3),10,34,62% (8/13),67% (61/91),31% (21/68),52% (82/159),7,0,100% (11/11),9% (1/11),55% (12/22),"['4', '3']",[],[],[],[],1.84
+18.08.,Lopez Morillo I.,0,,,,,,0,1,68%,80% (37/46),45% (10/22),67% (2/3),25% (13/53),45% (17/38),0% (0/7),24,34,50% (4/8),69% (47/68),33% (30/91),48% (77/159),3,1,91% (10/11),0% (0/11),45% (10/22),[],[],[],[],[],20.0
+17.08.,Ehrenschneider N.,2,,,,,,1,4,48%,65% (22/34),65% (24/37),70% (7/10),34% (16/47),67% (26/39),44% (4/9),20,26,61% (11/18),65% (46/71),49% (42/86),56% (88/157),8,0,73% (8/11),36% (4/11),55% (12/22),"['2', '2', '4', '2', '6', '4']","['5', '5']",[],[],[],1.74
+17.08.,Held J.,0,,,,,,3,6,55%,66% (31/47),33% (13/39),56% (5/9),35% (12/34),35% (13/37),30% (3/10),27,44,100% (4/4),51% (44/86),35% (25/71),44% (69/157),2,0,64% (7/11),27% (3/11),45% (10/22),"['1', '0', '3', '4']","['2', '1']",[],[],[],18.0
+05.07.,Azkara A.,2,,,,,,[],"['1', '0', '6', '3']",[],[],[],1.71
+05.07.,Ehrenschneider N.,0,,,,,,[],[],[],[],[],2.01
+04.07.,Ehrenschneider N.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '2', '1', '3', '2', '4', '3', '6', '3']",[],[],[],1.28
+04.07.,Phillips D.,0,,,,,,[],"['1', '1', '2', '2', '3', '3']",[],[],[],3.36
+03.07.,Ehrenschneider N.,2,,,,,,"['4', '4', '7', '5']","['1', '1']",[],[],[],1.10
+03.07.,Anavatan M.,0,,,,,,"['3', '2']","['1', '0']",[],[],[],5.90
+02.07.,Ehrenschneider N.,2,,,,,,"['2', '0', '6', '2']","['2', '0', '4', '0', '5', '1']",[],[],[],1.05
+02.07.,Ignatov I.,0,,,,,,[],"['1', '4']",[],[],[],7.80
+25.06.,Milushev A.,2,,,,,,"['1', '0', '4', '1', '6', '3']","['2', '0', '3', '1']",[],[],[],6.35
+25.06.,Ehrenschneider N.,0,,,,,,"['3', '5']","['1', '2', '4', '5']",[],[],[],1.10
+22.05.,Hurrion M.,2,,,,,,"['1', '0']",[],"['4', '5']",[],[],1.86
+22.05.,Ehrenschneider N.,1,,,,,,[],"['6', '4']","['5', '3']",[],[],1.84
+21.05.,Ehrenschneider N.,2,,,,,,"['4', '3']","['5', '3']",[],[],[],1.31
+21.05.,Kroslak J.,0,,,,,,"['4', '4']",[],[],[],[],3.20
+17.05.,Zhukov M.,2,,,,,,"['1', '0', '2', '1', '4', '1']","['3', '2', '5', '4']","['1', '0', '3', '0', '5', '0']",[],[],2.01
+17.05.,Ehrenschneider N.,1,,,,,,"['1', '1', '2', '4', '4', '4', '6', '4']","['3', '3']",[],[],[],1.71
+16.05.,Ehrenschneider N.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '3']",[],[],[],1.40
+16.05.,Hernandez C.,0,,,,,,[],"['2', '2']",[],[],[],2.77
+15.05.,Ehrenschneider N.,2,,,,,,"['1', '0', '6', '5']","['1', '0', '3', '0']",[],[],[],1.34
+15.05.,Kroslak J.,0,,,,,,"['2', '2']",[],[],[],[],3.04
+13.05.,Ehrenschneider N.,2,,,,,,"['2', '3', '6', '5']","['2', '1', '4', '1', '6', '1']",[],[],[],1.41
+13.05.,Buldorini P.,0,,,,,,"['2', '0']",[],[],[],[],2.73
+07.05.,Andre S.,2,,,,,,"['4', '3']",[],"['5', '4']",[],[],3.32
+07.05.,Ehrenschneider N.,1,,,,,,[],"['6', '4']",[],[],[],1.29
+30.04.,Braithwaite T.,2,,,,,,"['3', '2']","['1', '0', '3', '2', '6', '3']",[],[],[],2.10
+30.04.,Ehrenschneider N.,0,,,,,,[],"['1', '1']",[],[],[],1.67
+10.04.,Strombachs R.,2,,,,,,"['3', '2']","['2', '0', '5', '1']",[],[],[],1.26
+10.04.,Ehrenschneider N.,0,,,,,,"['4', '4']",[],[],[],[],3.54
+08.04.,Ehrenschneider N.,2,,,,,,[],"['4', '2', '6', '2']",[],[],[],1.23
+08.04.,Hamza Reguig S.,0,,,,,,[],[],[],[],[],3.81
+02.04.,Sakellaridis D.,2,,,,,,"['2', '0', '5', '3']","['1', '0', '3', '0']","['3', '2']",[],[],4.43
+02.04.,Ehrenschneider N.,1,,,,,,"['3', '4', '4', '5']","['2', '4']","['4', '4']",[],[],1.18
+13.03.,Noguchi R.,2,,,,,,"['2', '1']","['3', '1']",[],[],[],1.31
+13.03.,Ehrenschneider N.,0,,,,,,"['2', '2']",[],[],[],[],3.20
+12.03.,Ehrenschneider N.,2,,,,,,"['4', '4', '6', '4']","['2', '2', '4', '2', '6', '2']",[],[],[],1.36
+12.03.,Xiao L.,0,,,,,,"['1', '0']","['2', '1']",[],[],[],2.94
+08.03.,Agafonov E.,2,,,,,,"['3', '2', '4', '3']","['3', '2', '5', '2']",[],[],[],2.10
+08.03.,Ehrenschneider N.,0,,,,,,"['3', '3']",[],[],[],[],1.67
+07.03.,Ehrenschneider N.,2,,,,,,"['2', '3']","['3', '1', '6', '2']",[],[],[],1.26
+07.03.,Trongcharoenchaikul W.,0,,,,,,"['2', '0']",[],[],[],[],3.54
+06.03.,Ehrenschneider N.,2,,,,,,"['1', '1']","['4', '2']","['2', '1', '3', '2']",[],[],1.48
+06.03.,Uchida K.,1,,,,,,"['1', '0', '6', '5']",[],"['2', '2', '4', '4']",[],[],2.50
+05.03.,Ehrenschneider N.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['1', '1', '3', '1', '5', '1']",[],[],[],1.41
+05.03.,Lee D. H.,0,,,,,,"['1', '0']","['1', '0']",[],[],[],2.73
+01.03.,Te R.,2,,,,,,[],"['3', '1']","['2', '1']",[],[],1.85
+01.03.,Ehrenschneider N.,1,,,,,,"['2', '0', '5', '1']",[],[],[],[],1.85
+28.02.,Ehrenschneider N.,2,,,,,,"['4', '2']","['4', '3']",[],[],[],1.21
+28.02.,Chanta T.,0,,,,,,[],[],[],[],[],4.28
+27.02.,Ehrenschneider N.,2,,,,,,"['3', '2', '5', '2']","['5', '4']",[],[],[],1.04
+27.02.,Jin Y.,0,,,,,,[],[],[],[],[],8.60
+26.02.,Ehrenschneider N.,2,,,,,,"['2', '0', '5', '1']","['3', '2', '6', '3']",[],[],[],-
+26.02.,Lomakin G.,0,,,,,,[],[],[],[],[],-
+16.02.,Stewart H.,2,,,,,,"['1', '0', '4', '5']",[],[],[],[],1.57
+16.02.,Ehrenschneider N.,0,,,,,,"['3', '3', '5', '3']",[],[],[],[],2.28
+15.02.,Ehrenschneider N.,2,,,,,,"['6', '5']","['2', '1']",[],[],[],1.85
+15.02.,Nesterov P.,0,,,,,,[],[],[],[],[],1.85
+14.02.,Ehrenschneider N.,2,,,,,,"['2', '0']","['5', '4']","['2', '1', '5', '4']",[],[],2.56
+14.02.,Added D.,1,,,,,,"['4', '5']",[],"['4', '4']",[],[],1.46
+13.02.,Boitan G. A.,1,,,,,,"['3', '3', '7', '5']",[],[],[],[],1.41
+13.02.,Ehrenschneider N.,1,,,,,,"['1', '0']",[],"['2', '0']",[],[],2.73
+12.02.,Ehrenschneider N.,2,,,,,,"['6', '4']","['4', '2']",[],[],[],1.45
+12.02.,Berkieta T.,0,,,,,,[],[],[],[],[],2.58
+23.01.,Cadenasso G.,2,,,,,,"['3', '5']","['2', '3', '6', '5']","['2', '1', '4', '1', '6', '1']",[],[],1.62
+23.01.,Ehrenschneider N.,1,,,,,,"['1', '0', '4', '1', '6', '3']","['3', '1']",[],[],[],2.18
+22.01.,Ehrenschneider N.,2,,,,,,"['3', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.23
+22.01.,Ivanov S.,0,,,,,,[],[],[],[],[],3.81
+16.01.,Broska F.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['5', '4']",[],[],[],1.62
+16.01.,Ehrenschneider N.,0,,,,,,"['2', '0', '3', '5']",[],[],[],[],2.18
+11.01.,Broska F.,2,,,,,,"['1', '0', '4', '3', '6', '3']",[],[],[],[],1.59
+11.01.,Ehrenschneider N.,1,,,,,,"['1', '1']",[],[],[],[],2.24
+10.01.,Ehrenschneider N.,2,,,,,,"['2', '2', '5', '5', '7', '5']","['3', '1', '5', '1']",[],[],[],1.28
+10.01.,Efstathiou M.,0,,,,,,"['2', '1', '4', '3']",[],[],[],[],3.40
+09.01.,Ehrenschneider N.,2,,,,,,[],"['3', '3', '6', '4']",[],[],[],1.45
+09.01.,Tessa L.,0,,,,,,[],"['1', '0']",[],[],[],2.59

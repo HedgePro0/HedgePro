@@ -1,59 +1,51 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Doboj (Bosnia and Herzegovina),clay,header
-08.05.2024,Lemstra K.,0,,,,,,[],[],[],[],[],0
-08.05.2024,Zielinski M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Osijek (Croatia),clay,header
-02.05.2024,Lemstra K.,0,,,,,,[],[],[],[],[],0
-02.05.2024,Bielinskyi V.,2,,,,,,[],[],[],[],[],0
-30.04.2024,Lemstra K.,1,,,,,,[],[],[],[],[],0
-30.04.2024,Madarasz G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Alaminos-Larnaca 2 (Cyprus),clay,header
-21.03.2024,Lemstra K.,0,,,,,,[],[],[],[],[],0
-21.03.2024,Miletich I.,2,,,,,,[],[],[],[],[],0
-19.03.2024,Lemstra K.,2,,,,,,[],[],[],[],[],0
-19.03.2024,Oetzbach A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Oberhaching (Germany),hard,header
-ITF MEN - SINGLES M25 Nussloch (Germany),hard,header
-ITF MEN - SINGLES M15 Cadolzburg (Germany),hard,header
-ITF MEN - SINGLES M15 Heraklion 6 (Greece),hard,header
-24.11.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-24.11.2023,Gray A.,2,,,,,,[],[],[],[],[],0
-22.11.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-22.11.2023,Skorilas A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Heraklion 5 (Greece),hard,header
-16.11.2023,Lemstra K.,1,,,,,,[],[],[],[],[],0
-16.11.2023,Nicod J.,2,,,,,,[],[],[],[],[],0
-14.11.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-14.11.2023,Nedelchev N.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Selva Gardena (Italy),hard,header
-ITF MEN - SINGLES M15 Bad Waltersdorf (Austria),clay,header
-05.10.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-05.10.2023,Dancu V. A.,2,,,,,,[],[],[],[],[],0
-03.10.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-03.10.2023,Filip J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Satu Mare (Romania),clay,header
-ITF MEN - SINGLES M15 Haren (Netherlands),clay,header
-08.09.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-08.09.2023,De Bakker T.,2,,,,,,[],[],[],[],[],0
-07.09.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-07.09.2023,Gulin S.,0,,,,,,[],[],[],[],[],0
-06.09.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-06.09.2023,Lipp M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Allershausen (Germany),clay,header
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Frankfurt am Main (Germany),clay,header
-ITF MEN - SINGLES M15 Metzingen (Germany),clay,header
-ITF MEN - SINGLES M15 Tanger (Morocco),clay,header
-ITF MEN - SINGLES M15 Constanta (Romania),clay,header
-30.05.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-30.05.2023,Ivanov S. A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Warmbad Villach (Austria),clay,header
-23.05.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-23.05.2023,Oradini G.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Telde 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Telde (Spain),clay,header
-ITF MEN - SINGLES M15 Heraklion 2 (Greece),hard,header
-23.03.2023,Lemstra K.,0,,,,,,[],[],[],[],[],0
-23.03.2023,Gima S.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Lemstra K.,2,,,,,,[],[],[],[],[],0
-22.03.2023,Bergdahl A.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+13.02.2024,Compagnucci T.,2,,,,,,"['1', '0', '6', '3']","['6', '4']",[],[],[],2.62
+13.02.2024,Lemstra K.,0,,,,,,[],[],[],[],[],1.45
+24.01.2024,Kivattsev K.,2,,,,,,"['2', '0', '5', '1']",[],[],[],[],1.50
+24.01.2024,Lemstra K.,0,,,,,,[],[],[],[],[],2.47
+17.01.2024,Marysko V.,2,,,,,,"['2', '0']","['4', '3']",[],[],[],5.40
+17.01.2024,Lemstra K.,0,,,,,,"['4', '5']",[],[],[],[],1.13
+01.11.2023,Barton H.,2,,,,,,"['1', '0', '4', '3']","['1', '0']",[],[],[],1.40
+01.11.2023,Lemstra K.,0,,,,,,"['3', '3']",[],[],[],[],2.78
+30.10.2023,Lemstra K.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '5', '4']",[],[],[],1.45
+30.10.2023,Giunta M.,0,,,,,,[],"['3', '3']",[],[],[],2.60
+15.09.2023,Palosi S.,2,,,,,,[],[],[],[],[],1.82
+15.09.2023,Lemstra K.,0,,,,,,[],[],[],[],[],1.89
+13.09.2023,Lemstra K.,2,,,,,,[],[],[],[],[],1.09
+13.09.2023,Agostini S.,0,,,,,,[],[],[],[],[],6.49
+02.09.2023,Oetzbach A.,2,,,,,,"['4', '3']","['1', '2', '4', '3', '6', '3']",[],[],[],2.27
+02.09.2023,Lemstra K.,0,,,,,,[],"['2', '0']",[],[],[],1.58
+01.09.2023,Lemstra K.,2,,,,,,"['3', '3', '7', '5']","['2', '0', '4', '0', '5', '1']",[],[],[],1.46
+01.09.2023,De Jonge D.,0,,,,,,"['3', '2']","['1', '4']",[],[],[],2.57
+31.08.2023,Lemstra K.,2,,,,,,"['3', '2', '5', '2']","['2', '1', '5', '2']",[],[],[],1.27
+31.08.2023,Al Azmeh T.,0,,,,,,[],[],[],[],[],3.48
+30.08.2023,Lemstra K.,2,,,,,,"['1', '0', '4', '3', '6', '3']","['2', '0', '4', '0']",[],[],[],2.43
+30.08.2023,Wiedenmann L.,0,,,,,,"['1', '1']",[],[],[],[],1.51
+24.08.2023,Wiskandt M.,2,,,,,,"['2', '4', '4', '4', '6', '4']","['2', '0', '4', '0', '6', '4']",[],[],[],2.21
+24.08.2023,Lemstra K.,0,,,,,,"['2', '1', '4', '1']","['2', '5', '4', '5']",[],[],[],1.61
+22.08.2023,Lemstra K.,2,,,,,,"['3', '3', '5', '3']","['1', '0', '2', '1', '3', '2', '4', '3', '6', '3']",[],[],[],2.09
+22.08.2023,Oetzbach A.,0,,,,,,"['3', '2', '4', '5']","['1', '1', '2', '2', '3', '3']",[],[],[],1.68
+10.08.2023,Haerteis J.,2,,,,,,"['1', '1', '5', '3']","['2', '0', '4', '2', '6', '4']","['3', '1', '6', '2']",[],[],1.88
+10.08.2023,Lemstra K.,1,,,,,,"['1', '0', '4', '5', '6', '5']","['2', '3', '3', '4']",[],[],[],1.83
+08.08.2023,Lemstra K.,2,,,,,,"['1', '1', '3', '3', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],[],1.45
+08.08.2023,Donald M.,0,,,,,,"['1', '0', '2', '1']",[],[],[],[],2.60
+28.07.2023,Jong A. M.,2,,,,,,"['3', '5']","['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0']",[],[],1.28
+28.07.2023,Lemstra K.,1,,,,,,"['1', '0', '5', '2', '6', '3']",[],[],[],[],3.42
+27.07.2023,Lemstra K.,2,,,,,,"['5', '5', '7', '5']","['2', '0', '4', '0', '6', '0']",[],[],[],2.12
+27.07.2023,Prado Angelo J. C.,0,,,,,,"['2', '1']",[],[],[],[],1.66
+26.07.2023,Lemstra K.,2,,,,,,"['2', '1', '4', '1', '6', '3']","['5', '3']",[],[],[],2.37
+26.07.2023,Sakellaridis S.,0,,,,,,"['2', '4']",[],[],[],[],1.43
+08.06.2023,Bittoun C.,2,,,,,,[],[],[],[],[],1.65
+08.06.2023,Lemstra K.,0,,,,,,[],[],[],[],[],2.13
+07.06.2023,Lemstra K.,2,,,,,,[],[],[],[],[],1.75
+07.06.2023,Steiner M.,0,,,,,,[],[],[],[],[],1.97
+22.04.2023,Zielinski M.,2,,,,,,"['1', '0', '2', '1', '4', '1', '5', '2']","['1', '0', '5', '4']",[],[],[],1.47
+22.04.2023,Lemstra K.,0,,,,,,"['1', '1', '2', '4']","['1', '1']",[],[],[],2.54
+21.04.2023,Lemstra K.,2,,,,,,"['1', '2', '5', '4']","['1', '0', '3', '0']",[],[],[],3.54
+21.04.2023,Buse I.,0,,,,,,"['2', '0']",[],[],[],[],1.26
+20.04.2023,Lemstra K.,2,,,,,,"['1', '2', '4', '3', '6', '5']","['1', '2', '2', '5']","['2', '0', '5', '1']",[],[],4.46
+20.04.2023,Barroso Campos A.,1,,,,,,"['2', '0', '4', '4']","['2', '0', '3', '1', '5', '1']",[],[],[],1.18
+19.04.2023,Lemstra K.,2,,,,,,"['1', '3', '2', '4', '4', '4', '5', '5', '6', '6']","['1', '2', '3', '4', '5', '4']",[],[],[],2.03
+19.04.2023,Lopez N.,0,,,,,,"['1', '0', '3', '0', '4', '1', '5', '4', '6', '5']","['2', '0', '4', '2']",[],[],[],1.70
+11.04.2023,Barreto Sanchez D. A.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['1', '1', '2', '2', '4', '2', '5', '3']",[],[],[],1.61
+11.04.2023,Lemstra K.,0,,,,,,[],"['1', '0', '2', '1', '3', '4']",[],[],[],2.21

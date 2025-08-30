@@ -1,81 +1,39 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Sunrise,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M25 Columbus,hard,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M25 Pensacola,clay,header
-ITF MEN - SINGLES M15 Orange Park,clay,header
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-ITF MEN - SINGLES M15 Sunrise,clay,header
-13.04.2023,Haviland R.,0,,,,,,[],[],[],[],[],0
-13.04.2023,McCormick T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Harlingen (USA),hard,header
-20.10.2017,Haviland R.,1,,,,,,[],[],[],[],[],0
-20.10.2017,Kirchheimer S.,2,,,,,,[],[],[],[],[],0
-19.10.2017,Haviland R.,2,,,,,,[],[],[],[],[],0
-19.10.2017,Nevolo D.,1,,,,,,[],[],[],[],[],0
-19.10.2017,Haviland R.,2,,,,,,[],[],[],[],[],0
-19.10.2017,Kwiatkowski T. S.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Cary (USA),hard,header
-CHALLENGER MEN - SINGLES Lexington (USA),hard,header
-ITF MEN - SINGLES Wichita (USA),hard,header
-05.07.2017,Haviland R.,1,,,,,,[],[],[],[],[],0
-05.07.2017,Brown A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Pittsburgh (USA),clay,header
-29.06.2017,Haviland R.,0,,,,,,[],[],[],[],[],0
-29.06.2017,Statham J. R.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Memphis (USA),hard,header
-07.04.2017,Haviland R.,0,,,,,,[],[],[],[],[],0
-07.04.2017,McDonald M.,2,,,,,,[],[],[],[],[],0
-07.04.2017,Haviland R.,2,,,,,,[],[],[],[],[],0
-07.04.2017,Mena F.,0,,,,,,[],[],[],[],[],0
-05.04.2017,Haviland R.,2,,,,,,[],[],[],[],[],0
-05.04.2017,King E.,0,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Cary (USA),hard,header
-13.09.2016,Haviland R.,1,,,,,,[],[],[],[],[],0
-13.09.2016,Tiafoe F.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Wichita (USA),hard,header
-01.07.2016,Haviland R.,1,,,,,,[],[],[],[],[],0
-01.07.2016,Hiltzik J.,2,,,,,,[],[],[],[],[],0
-30.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-30.06.2016,Meister N.,0,,,,,,[],[],[],[],[],0
-28.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-28.06.2016,Kilani M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Tulsa (USA),hard,header
-26.06.2016,Haviland R.,0,,,,,,[],[],[],[],[],0
-26.06.2016,Norrie C.,2,,,,,,[],[],[],[],[],0
-25.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-25.06.2016,Oosterbaan P. C.,1,,,,,,[],[],[],[],[],0
-24.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-24.06.2016,Mmoh M.,1,,,,,,[],[],[],[],[],0
-23.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-23.06.2016,Kadhe A.,0,,,,,,[],[],[],[],[],0
-21.06.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-21.06.2016,Garanganga T.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Winston-Salem (USA),hard,header
-15.06.2016,Haviland R.,1,,,,,,[],[],[],[],[],0
-15.06.2016,Bangoura S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Charlottesville (USA),hard,header
-08.06.2016,Haviland R.,0,,,,,,[],[],[],[],[],0
-08.06.2016,Polansky P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES Memphis (USA),hard,header
-09.04.2016,Haviland R.,0,,,,,,[],[],[],[],[],0
-09.04.2016,Sandgren T.,2,,,,,,[],[],[],[],[],0
-08.04.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-08.04.2016,Choinski J.,0,,,,,,[],[],[],[],[],0
-07.04.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-07.04.2016,Meister N.,0,,,,,,[],[],[],[],[],0
-05.04.2016,Haviland R.,2,,,,,,[],[],[],[],[],0
-05.04.2016,Chappell N.,0,,,,,,[],[],[],[],[],0
-ATP - SINGLES Winston-Salem (USA) - Qualification,hard,header
-ATP - SINGLES Atlanta (USA) - Qualification,hard,header
-ATP - SINGLES Newport (USA) - Qualification,grass,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+15.05.,Krall L.,2,,,,,,"['3', '3']",[],"['2', '1', '3', '4', '4', '5']",[],[],1.30
+15.05.,Haviland R.,1,,,,,,"['3', '2']","['2', '0', '4', '0', '6', '0']","['2', '2', '4', '2', '5', '3']",[],[],3.26
+14.05.,Haviland R.,2,,,,,,"['1', '1', '4', '4', '6', '4']","['1', '1', '3', '1', '7', '5']",[],[],[],1.65
+14.05.,Goldammer T.,0,,,,,,"['1', '0', '3', '2']","['1', '0', '4', '5']",[],[],[],2.13
+23.04.,Brown P.,2,,,,,,"['3', '5']","['2', '1']","['1', '0', '3', '0']",[],[],1.70
+23.04.,Haviland R.,1,,,,,,"['1', '0', '3', '0', '6', '3']",[],"['3', '5', '5', '5']",[],[],2.03
+13.11.2024,Nakashima B.,2,,,,,,"['2', '1', '5', '2']","['3', '2']",[],[],[],1.29
+13.11.2024,Haviland R.,0,,,,,,[],[],[],[],[],3.32
+02.05.2024,Nefve A.,2,,,,,,"['2', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.08
+02.05.2024,Haviland R.,0,,,,,,[],[],[],[],[],7.01
+01.05.2024,Haviland R.,2,,,,,,"['4', '5']","['3', '1', '5', '3', '7', '5']",[],[],[],1.64
+01.05.2024,Segura M.,0,,,,,,"['2', '0']","['3', '4', '4', '5']",[],[],[],2.17
+25.04.2024,Lilov V.,2,,,,,,"['2', '3', '4', '3']","['6', '4']",[],[],[],1.49
+25.04.2024,Haviland R.,0,,,,,,"['3', '1', '5', '5']",[],[],[],[],2.50
+24.04.2024,Haviland R.,2,,,,,,"['2', '2', '5', '3']","['4', '3']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],1.45
+24.04.2024,Cabrera M. A.,1,,,,,,"['2', '1']","['4', '4', '6', '4']","['2', '0', '3', '1']",[],[],2.62
+17.05.2023,Ponwith N.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '2', '6', '3']",[],[],[],1.19
+17.05.2023,Haviland R.,0,,,,,,[],"['1', '1']",[],[],[],4.30
+03.05.2023,Boitan G. A.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.12
+03.05.2023,Haviland R.,0,,,,,,[],[],[],[],[],5.40
+26.04.2023,Andrade A.,2,,,,,,"['1', '2', '2', '3', '4', '3', '6', '5']","['1', '2', '3', '2', '6', '3']",[],[],[],1.25
+26.04.2023,Haviland R.,0,,,,,,"['2', '0', '3', '1', '4', '4']","['2', '0']",[],[],[],3.64
+13.09.2017,Mena F.,1,,,,,,"['3', '2', '6', '3']","['2', '0', '4', '0']",[],[],[],2.25
+13.09.2017,Haviland R.,0,,,,,,[],[],[],[],[],1.56
+03.08.2017,Mmoh M.,2,,,,,,"['2', '3', '4', '3']","['2', '1']",[],[],[],1.18
+03.08.2017,Haviland R.,0,,,,,,"['3', '1']",[],[],[],[],4.54
+31.07.2017,Haviland R.,2,,,,,,"['4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.21
+31.07.2017,Yates T.,0,,,,,,[],[],[],[],[],4.54
+22.08.2015,Spencer W.,2,,,,,,"['3', '1']","['6', '4']","['1', '1', '4', '2', '6', '2']",[],[],-
+22.08.2015,Haviland R.,1,,,,,,"['3', '4', '6', '5']",[],"['1', '0']",[],[],-
+22.08.2015,Haviland R.,2,,,,,,"['5', '3']","['1', '0', '4', '1']",[],[],[],4.15
+22.08.2015,Dzumhur D.,0,,,,,,[],[],[],[],[],1.26
+25.07.2015,Huey T.,2,,,,,,[],"['2', '0']",[],[],[],3.40
+25.07.2015,Haviland R.,0,,,,,,[],[],[],[],[],1.32
+12.07.2015,Jung J.,2,,,,,,[],[],"['1', '0', '4', '1']",[],[],1.28
+12.07.2015,Haviland R.,1,,,,,,"['4', '2']",[],[],[],[],3.70
+11.07.2015,Haviland R.,2,,,,,,"['4', '3', '6', '3']","['2', '2']","['5', '3']",[],[],2.17
+11.07.2015,Jones G.,1,,,,,,[],"['2', '1', '3', '2', '5', '2']",[],[],[],1.67

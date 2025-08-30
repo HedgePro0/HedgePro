@@ -1,47 +1,75 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Curtea de Arges (Romania),clay,header
-08.08.,Rottoli L.,1,,,,,,[],[],[],[],[],0
-08.08.,Cherie Ligniere E.,1,,,,,,[],[],[],[],[],0
-07.08.,Rottoli L.,2,,,,,,[],[],[],[],[],0
-07.08.,Varbanciu M.,1,,,,,,[],[],[],[],[],0
-06.08.,Rottoli L.,2,,,,,,[],[],[],[],[],0
-06.08.,Gadoiu A. C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Pitesti (Romania),clay,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M25 Cattolica (Italy),clay,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 2 (Turkey),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 10 (Tunisia),hard,header
-ITF MEN - SINGLES M25+H Bacau (Romania),clay,header
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M25 Cattolica (Italy),clay,header
-ITF MEN - SINGLES M15 Kayseri 3 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kayseri 2 (Turkey),hard,header
-ITF MEN - SINGLES M15 Monastir 20 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 19 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M25 Sharm ElSheikh (Egypt),hard,header
-ITF MEN - SINGLES M15 Lons-le-Saunier (France),hard,header
-ITF MEN - SINGLES M15 Monastir 11 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 10 (Tunisia),hard,header
-12.03.,Rottoli L.,2,,,,,,[],[],[],[],[],0
-12.03.,Basile P.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Trimbach (Switzerland),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 3 (Egypt),hard,header
-12.02.,Rottoli L.,1,,,,,,[],[],[],[],[],0
-12.02.,Hipfl N.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 2 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh (Egypt),hard,header
-29.01.,Rottoli L.,0,,,,,,[],[],[],[],[],0
-29.01.,Wallin O.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Trnava 2 (Slovakia),hard,header
-ITF MEN - SINGLES M15 Trnava (Slovakia),hard,header
-25.09.2024,Rottoli L.,2,,,,,,[],[],[],[],[],0
-25.09.2024,Jermar J.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+30.07.,Ovcharenko O.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.23
+30.07.,Rottoli L.,0,,,,,,[],[],[],[],[],3.79
+23.07.,Boitan G. A.,2,,,,,,"['2', '0']","['2', '1', '5', '2']",[],[],[],1.23
+23.07.,Rottoli L.,0,,,,,,[],[],[],[],[],3.81
+24.06.,Malgaroli L.,2,,,,,,"['2', '2']","['4', '2', '6', '2']","['3', '1', '5', '3']",[],[],2.73
+24.06.,Rottoli L.,1,,,,,,"['1', '0', '5', '4']",[],"['2', '3']",[],[],1.41
+19.06.,Mazza M.,2,,,,,,"['5', '5', '6', '6']","['1', '0', '5', '2']",[],[],[],1.37
+19.06.,Rottoli L.,0,,,,,,"['3', '2', '6', '5']",[],[],[],[],2.89
+18.06.,Rottoli L.,2,,,,,,"['2', '0', '5', '1']",[],"['4', '5', '6', '5']",[],[],1.10
+18.06.,Meduri A.,1,,,,,,[],"['2', '0', '4', '0', '6', '0']","['2', '0']",[],[],6.50
+11.06.,Heredia S.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['2', '0', '3', '3', '5', '3']",[],[],[],2.94
+11.06.,Rottoli L.,0,,,,,,"['1', '0']","['1', '2', '3', '2', '4', '5']",[],[],[],1.36
+06.06.,Linde Palacios S. A.,2,,,,,,"['3', '3', '5', '3']","['3', '4', '4', '5', '6', '5']",[],[],[],4.70
+06.06.,Rottoli L.,0,,,,,,"['2', '1']","['3', '1', '5', '3']",[],[],[],1.15
+05.06.,Rottoli L.,2,,,,,,"['2', '1']","['4', '2', '6', '2']","['6', '4']",[],[],1.10
+05.06.,Pawlak P.,1,,,,,,"['2', '2', '4', '2']",[],[],[],[],5.80
+23.05.,Klier Junior G.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['1', '1', '3', '1', '5', '1']",[],[],[],1.79
+23.05.,Rottoli L.,0,,,,,,[],"['1', '0']",[],[],[],1.91
+22.05.,Rottoli L.,2,,,,,,"['1', '0']","['4', '3', '5', '4']","['1', '0', '2', '1', '5', '2']",[],[],1.17
+22.05.,Saraiva Dos Santos P. A.,1,,,,,,"['1', '1', '7', '5']","['4', '4']","['1', '1']",[],[],4.48
+21.05.,Rottoli L.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.51
+21.05.,Hernandez C.,0,,,,,,[],[],[],[],[],2.42
+16.05.,Barreto Sanchez D. A.,2,,,,,,[],"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],-
+16.05.,Rottoli L.,1,,,,,,"['4', '3']",[],"['2', '4']",[],[],-
+15.05.,Rottoli L.,2,,,,,,"['4', '2', '5', '3']","['3', '2', '5', '2']",[],[],[],2.20
+15.05.,Klier Junior G.,0,,,,,,"['3', '4']",[],[],[],[],1.61
+14.05.,Rottoli L.,2,,,,,,"['5', '3']","['1', '0', '5', '4']",[],[],[],1.29
+14.05.,Saraiva Dos Santos P. A.,0,,,,,,[],"['3', '3']",[],[],[],3.32
+25.04.,Dzhavakian Y.,2,,,,,,"['3', '1']",[],"['2', '0', '6', '2']",[],[],-
+25.04.,Rottoli L.,1,,,,,,[],"['4', '2']",[],[],[],-
+24.04.,Rottoli L.,2,,,,,,"['1', '1', '2', '2', '3', '5', '5', '5']","['2', '0', '3', '1', '4', '2', '6', '2']","['1', '0', '2', '1', '4', '1', '6', '1']",[],[],1.08
+24.04.,Konovchuk V.,1,,,,,,"['1', '0', '2', '1', '3', '2', '5', '2', '6', '5']","['1', '2', '2', '3']","['1', '1']",[],[],6.50
+23.04.,Rottoli L.,1,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0']",[],[],[],2.15
+23.04.,Safwat M.,0,,,,,,[],[],[],[],[],1.64
+19.04.,Purtseladze S.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['1', '1', '4', '2', '6', '2']",[],[],[],1.50
+19.04.,Rottoli L.,0,,,,,,[],"['1', '0']",[],[],[],2.44
+18.04.,Rottoli L.,2,,,,,,"['1', '1', '4', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.99
+18.04.,Zakaria F.,0,,,,,,"['1', '0']",[],[],[],[],1.73
+17.04.,Rottoli L.,2,,,,,,"['5', '3']","['3', '2']",[],[],[],4.38
+17.04.,De Loore J.,0,,,,,,[],[],[],[],[],1.18
+16.04.,Rottoli L.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['3', '1', '6', '2']",[],[],[],1.38
+16.04.,Opitz J.,0,,,,,,"['2', '2']",[],[],[],[],2.85
+03.04.,Raquillet L.,2,,,,,,"['1', '0', '6', '3']",[],"['5', '3']",[],[],2.50
+03.04.,Rottoli L.,1,,,,,,[],"['2', '1']",[],[],[],1.48
+01.04.,Rottoli L.,2,,,,,,"['1', '0', '5', '2']","['2', '1', '5', '4']",[],[],[],3.32
+01.04.,Lamasine T.,0,,,,,,"['3', '5']","['3', '3']",[],[],[],1.29
+22.03.,Mrva M.,2,,,,,,"['1', '3']","['3', '3', '5', '3']","['1', '0', '3', '2', '5', '2']",[],[],1.48
+22.03.,Rottoli L.,1,,,,,,"['1', '0', '3', '0']","['2', '1']","['2', '2']",[],[],2.50
+21.03.,Rottoli L.,2,,,,,,"['1', '0']","['5', '3']","['1', '0', '3', '4', '4', '5', '6', '5']",[],[],1.63
+21.03.,Van Der Meerschen M.,1,,,,,,"['3', '3', '5', '3']",[],"['2', '2', '4', '2', '5', '3']",[],[],2.16
+20.03.,Rottoli L.,2,,,,,,"['4', '2']","['1', '2', '2', '3', '4', '3', '6', '3']",[],[],[],2.22
+20.03.,Beauge M.,0,,,,,,[],"['2', '0', '3', '1']",[],[],[],1.60
+19.03.,Rottoli L.,2,,,,,,"['1', '4']","['3', '3', '5', '3']","['1', '0', '3', '0', '4', '1']",[],[],1.06
+19.03.,Trifi A.,1,,,,,,"['2', '0', '4', '0', '5', '1']","['1', '0']","['1', '3', '2', '4']",[],[],7.20
+14.03.,Schell N.,2,,,,,,"['1', '0', '3', '0', '6', '1']",[],"['2', '0']",[],[],2.69
+14.03.,Rottoli L.,1,,,,,,[],"['2', '1', '5', '2']",[],[],[],1.42
+13.03.,Rottoli L.,2,,,,,,"['3', '4']","['2', '0', '5', '1']","['1', '0', '3', '0', '5', '0', '6', '1']",[],[],2.19
+13.03.,Wallin O.,1,,,,,,"['3', '1']",[],"['1', '5']",[],[],1.57
+07.03.,Stricker D.,2,,,,,,"['4', '2']","['1', '0']",[],[],[],1.07
+07.03.,Rottoli L.,0,,,,,,[],[],[],[],[],6.80
+06.03.,Rottoli L.,2,,,,,,"['2', '1', '3', '4']","['3', '1', '5', '3']","['1', '0', '3', '0', '6', '1']",[],[],3.54
+06.03.,Wiskandt M.,1,,,,,,"['2', '2', '4', '2']","['2', '3']",[],[],[],1.26
+05.03.,Rottoli L.,2,,,,,,"['1', '0', '3', '0', '5', '4']","['1', '0', '4', '1']",[],[],[],1.03
+05.03.,Troebinger E.,0,,,,,,"['1', '3', '3', '3']","['3', '5']",[],[],[],9.10
+13.02.,Peliwo F.,2,,,,,,"['1', '0', '3', '0', '5', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.40
+13.02.,Rottoli L.,0,,,,,,"['1', '3', '3', '3']",[],[],[],[],2.77
+05.02.,Arutiunian E.,2,,,,,,"['5', '4']","['3', '2', '4', '3']",[],[],[],1.66
+05.02.,Rottoli L.,0,,,,,,[],"['3', '3']",[],[],[],2.11
+03.10.2024,Donald M.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '6', '1']",[],[],[],2.66
+03.10.2024,Rottoli L.,0,,,,,,"['3', '5']",[],[],[],[],1.43
+01.10.2024,Rottoli L.,2,,,,,,"['2', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.55
+01.10.2024,Krajci M.,0,,,,,,[],[],[],[],[],2.33
+28.09.2024,Pokorny L.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.41
+28.09.2024,Rottoli L.,0,,,,,,[],[],[],[],[],2.73

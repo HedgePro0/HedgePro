@@ -1,22 +1,31 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-30.07.,Alvarez Sarmiento M. L.,0,,,,,,[],[],[],[],[],0
-30.07.,Villoslada E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M15 Antalya 2 (Turkey),clay,header
-ITF MEN - SINGLES M15 Madrid 4 (Spain),clay,header
-ITF MEN - SINGLES M25 Oviedo (Spain),clay,header
-ITF MEN - SINGLES M25 Santander (Spain),clay,header
-ITF MEN - SINGLES M25 Getxo (Spain),clay,header
-ITF MEN - SINGLES M15 Oradea (Romania),clay,header
-13.06.2024,Alvarez Sarmiento M. L.,1,,,,,,[],[],[],[],[],0
-13.06.2024,Tomescu D. A.,2,,,,,,[],[],[],[],[],0
-12.06.2024,Alvarez Sarmiento M. L.,2,,,,,,[],[],[],[],[],0
-12.06.2024,Delage P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Reus (Spain),clay,header
-ITF MEN - SINGLES M15 Les Franqueses del Valles (Spain),hard,header
-ITF MEN - SINGLES M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES M15 Madrid (Spain),clay,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
-ITF MEN - SINGLES M15 Xativa (Spain),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+04.06.,Martinez Gomez P.,2,,,,,,"['3', '1']","['3', '2']",[],[],[],1.41
+04.06.,Alvarez Sarmiento M. L.,0,,,,,,[],[],[],[],[],2.73
+28.05.,Perez Contri S.,2,,,,,,"['2', '0', '4', '2']","['2', '3', '5', '4']",[],[],[],1.07
+28.05.,Alvarez Sarmiento M. L.,0,,,,,,"['2', '3']","['3', '1']",[],[],[],5.90
+16.01.,Maksimovic M.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '4', '2']",[],[],[],1.37
+16.01.,Alvarez Sarmiento M. L.,0,,,,,,[],"['2', '3']",[],[],[],2.89
+04.12.2024,Curras Abasolo T.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '0']",[],[],[],1.90
+04.12.2024,Alvarez Sarmiento M. L.,0,,,,,,"['1', '4']",[],[],[],[],1.80
+27.08.2024,Schwaerzler J. J.,2,,,,,,"['2', '0']","['3', '2']",[],[],[],1.06
+27.08.2024,Alvarez Sarmiento M. L.,0,,,,,,[],[],[],[],[],7.90
+21.08.2024,Chazal M.,2,,,,,,"['3', '1', '5', '1']","['2', '1', '4', '1']",[],[],[],1.12
+21.08.2024,Alvarez Sarmiento M. L.,0,,,,,,"['2', '5']",[],[],[],[],5.62
+20.08.2024,Alvarez Sarmiento M. L.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '5', '0']",[],[],[],1.40
+20.08.2024,Giraldi C.,0,,,,,,[],"['1', '5']",[],[],[],2.79
+03.07.2024,Alcala Gurri M.,1,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0']",[],[],[],1.18
+03.07.2024,Alvarez Sarmiento M. L.,0,,,,,,[],[],[],[],[],4.51
+03.04.2024,Bax F.,2,,,,,,"['4', '2']","['2', '1', '5', '4']",[],[],[],1.11
+03.04.2024,Alvarez Sarmiento M. L.,0,,,,,,[],"['3', '3']",[],[],[],5.77
+13.03.2024,Callejon H. S.,2,,,,,,"['2', '0']","['3', '2', '5', '2']",[],[],[],1.08
+13.03.2024,Alvarez Sarmiento M. L.,0,,,,,,[],[],[],[],[],6.74
+19.09.2023,Alcala Gurri M.,2,,,,,,"['2', '2', '4', '2', '6', '2']","['1', '1', '3', '1', '4', '2', '6', '2']",[],[],[],1.09
+19.09.2023,Alvarez Sarmiento M. L.,0,,,,,,"['1', '0']","['1', '0', '2', '3']",[],[],[],6.59
+07.09.2023,Gimeno Valero C.,2,,,,,,"['2', '0', '4', '0', '6', '6']","['2', '1', '4', '1', '6', '1']","['2', '0', '4', '0', '6', '2']",[],[],1.08
+07.09.2023,Alvarez Sarmiento M. L.,1,,,,,,"['1', '4', '4', '5', '6', '5']",[],"['2', '5']",[],[],6.92
+06.09.2023,Alvarez Sarmiento M. L.,2,,,,,,"['1', '0', '2', '1', '5', '2']","['1', '0', '2', '1']",[],[],[],2.13
+06.09.2023,Oliver Moratalla V.,0,,,,,,"['1', '1']","['1', '1']",[],[],[],1.65
+01.08.2023,Rodenas P.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '4', '3']",[],[],[],1.01
+01.08.2023,Alvarez Sarmiento M. L.,0,,,,,,[],"['2', '2']",[],[],[],12.00
+02.08.2022,Manzanera Pertusa A.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '2']",[],[],[],1.03
+02.08.2022,Alvarez Sarmiento M. L.,0,,,,,,"['2', '5']",[],[],[],[],11.50

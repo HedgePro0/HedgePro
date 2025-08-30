@@ -1,58 +1,57 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Slovenska Bistrica (Slovenia),clay,header
-07.08.,Boros A.,2,,,,,,[],[],[],[],[],0
-07.08.,Thurner N.,0,,,,,,[],[],[],[],[],0
-06.08.,Boros A.,2,,,,,,[],[],[],[],[],0
-06.08.,Kajin K.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Poprad (Slovakia),clay,header
-20.07.,Boros A.,2,,,,,,[],[],[],[],[],0
-20.07.,Gobat A.,0,,,,,,[],[],[],[],[],0
-19.07.,Boros A.,2,,,,,,[],[],[],[],[],0
-19.07.,Kellovsky D.,0,,,,,,[],[],[],[],[],0
-18.07.,Madarasz G.,1,,,,,,[],[],[],[],[],0
-18.07.,Boros A.,1,,,,,,[],[],[],[],[],0
-17.07.,Boros A.,2,,,,,,[],[],[],[],[],0
-17.07.,Fiorentini A.,0,,,,,,[],[],[],[],[],0
-16.07.,Boros A.,2,,,,,,[],[],[],[],[],0
-16.07.,Salazar D.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-ITF MEN - SINGLES M15 Gyula (Hungary),clay,header
-ITF MEN - SINGLES M15 Szentendre (Hungary),clay,header
-ITF MEN - SINGLES M15 Antalya 12 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 11 (Turkey),clay,header
-ITF MEN - SINGLES M15 Montreal (Canada),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Szabolcsveresmart 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-26.09.2024,Boros A.,0,,,,,,[],[],[],[],[],0
-26.09.2024,Tiurnev E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Budapest 2 (Hungary),hard,header
-ITF MEN - SINGLES M15 Budapest (Hungary),hard,header
-ITF MEN - SINGLES M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES M15 Nyiregyhaza 2 (Hungary),clay,header
-21.06.2024,Boros A.,1,,,,,,[],[],[],[],[],0
-21.06.2024,Roncadelli F.,2,,,,,,[],[],[],[],[],0
-20.06.2024,Boros A.,2,,,,,,[],[],[],[],[],0
-20.06.2024,Velcz Z.,0,,,,,,[],[],[],[],[],0
-19.06.2024,Boros A.,2,,,,,,[],[],[],[],[],0
-19.06.2024,Bacaloni A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nyiregyhaza (Hungary),clay,header
-13.06.2024,Boros A.,1,,,,,,[],[],[],[],[],0
-13.06.2024,Bodmer A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Gyula (Hungary),clay,header
-29.05.2024,Boros A.,0,,,,,,[],[],[],[],[],0
-29.05.2024,Cerny M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Brcko (Bosnia and Herzegovina),clay,header
-22.05.2024,Boros A.,1,,,,,,[],[],[],[],[],0
-22.05.2024,Zekic M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Osijek (Croatia),clay,header
-02.05.2024,Boros A.,0,,,,,,[],[],[],[],[],0
-02.05.2024,Oberleitner N.,2,,,,,,[],[],[],[],[],0
-01.05.2024,Boros A.,2,,,,,,[],[],[],[],[],0
-01.05.2024,Mikovic N.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Szekesfehervar (Hungary),clay,header
-11.03.2024,Boros A.,0,,,,,,3,1,37%,52% (13/25),49% (21/43),29% (2/7),17% (5/29),55% (11/20),100% (1/1),50% (34/68),33% (16/49),43% (50/117),4,0,50% (5/10),11% (1/9),32% (6/19),[],[],[],[],[],0
-11.03.2024,Maestrelli F.,2,,,,,,4,2,59%,83% (24/29),45% (9/20),0% (0/1),48% (12/25),51% (22/43),71% (5/7),67% (33/49),50% (34/68),57% (67/117),6,0,89% (8/9),50% (5/10),68% (13/19),[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+19.06.,Cazacu D. N.,2,,,,,,"['2', '2']","['2', '2']","['1', '0']",[],[],-
+19.06.,Boros A.,1,,,,,,"['1', '0', '6', '5']","['1', '0']","['5', '5']",[],[],-
+18.06.,Boros A.,2,,,,,,[],"['2', '0']","['2', '1', '5', '4']",[],[],1.18
+18.06.,Zusman R.,1,,,,,,"['1', '0', '3', '0', '5', '0']",[],"['3', '3']",[],[],4.38
+12.06.,Fajta P.,2,,,,,,[],"['1', '0', '3', '0']",[],[],[],1.34
+12.06.,Boros A.,0,,,,,,[],"['2', '4']",[],[],[],3.04
+11.06.,Boros A.,2,,,,,,"['6', '4']","['5', '3']",[],[],[],1.22
+11.06.,Mruzek S.,0,,,,,,[],[],[],[],[],3.91
+28.05.,Fuele M.,1,,,,,,"['2', '1', '6', '3']",[],[],[],[],2.26
+28.05.,Boros A.,0,,,,,,[],[],[],[],[],1.58
+15.05.,Kumstat J.,2,,,,,,"['2', '1', '4', '1']","['1', '2', '6', '5']",[],[],[],1.60
+15.05.,Boros A.,0,,,,,,"['3', '5']","['2', '0']",[],[],[],2.22
+13.05.,Boros A.,2,,,,,,"['6', '4']","['6', '4']",[],[],[],-
+13.05.,Catini N.,0,,,,,,[],[],[],[],[],-
+22.04.,Sorger S.,2,,,,,,"['4', '2', '6', '2']","['5', '5', '7', '5']",[],[],[],1.40
+22.04.,Boros A.,0,,,,,,[],"['1', '0']",[],[],[],2.77
+18.04.,Molcan A.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0', '5', '2']",[],[],[],1.13
+18.04.,Boros A.,0,,,,,,[],"['2', '4']",[],[],[],5.15
+17.04.,Boros A.,2,,,,,,[],"['2', '0', '6', '2']","['5', '3']",[],[],3.62
+17.04.,Karol M.,1,,,,,,"['4', '3']",[],[],[],[],1.25
+16.04.,Boros A.,2,,,,,,"['2', '3', '4', '3']","['2', '1', '6', '5']","['2', '0', '4', '0', '6', '0']",[],[],1.80
+16.04.,Wessels L.,1,,,,,,"['3', '1', '4', '4', '6', '4']","['2', '2', '6', '6']",[],[],[],1.90
+12.03.,Milavsky D.,2,,,,,,"['2', '0']","['5', '4']","['1', '0']",[],[],1.14
+12.03.,Boros A.,1,,,,,,"['2', '3']",[],[],[],[],4.95
+26.02.,Beckley A.,2,,,,,,"['2', '2', '3', '3', '4', '4', '7', '5']","['2', '0', '4', '2', '6', '2']",[],[],[],1.52
+26.02.,Boros A.,0,,,,,,"['1', '0', '3', '2', '4', '3']","['2', '3']",[],[],[],2.31
+23.02.,Ilkel C.,2,,,,,,"['2', '0', '4', '0']","['6', '5']",[],[],[],1.14
+23.02.,Boros A.,0,,,,,,[],[],[],[],[],4.85
+22.02.,Boros A.,2,,,,,,"['5', '4']","['1', '0', '5', '2']",[],[],[],-
+22.02.,Pierre H.,0,,,,,,[],[],[],[],[],-
+22.02.,Boros A.,2,,,,,,"['5', '4']","['6', '5']",[],[],[],1.25
+22.02.,Vujic S.,0,,,,,,[],[],[],[],[],3.62
+21.02.,Boros A.,2,,,,,,"['1', '0', '4', '3', '5', '4']","['2', '1', '4', '1']",[],[],[],1.54
+21.02.,Ramskogler G.,0,,,,,,"['2', '2', '4', '4']",[],[],[],[],2.35
+07.11.2024,Wallin O.,2,,,,,,"['1', '2', '4', '5']",[],"['1', '0', '3', '2', '5', '2']",[],[],1.15
+07.11.2024,Boros A.,1,,,,,,"['2', '0', '3', '1']","['4', '3', '6', '3']","['2', '2', '3', '5']",[],[],4.95
+06.11.2024,Boros A.,2,,,,,,"['2', '2', '5', '3', '6', '4']","['2', '0', '4', '0', '5', '1']",[],[],[],1.85
+06.11.2024,Pieleanu R. T.,0,,,,,,"['1', '0', '4', '5']","['1', '4']",[],[],[],1.85
+25.09.2024,Boros A.,2,,,,,,"['2', '0']","['5', '4']",[],[],[],1.45
+25.09.2024,Ibrahim K.,0,,,,,,[],[],[],[],[],2.59
+20.09.2024,Binda A.,2,,,,,,"['4', '3', '6', '3']",[],[],[],[],2.34
+20.09.2024,Boros A.,0,,,,,,[],[],[],[],[],1.55
+19.09.2024,Boros A.,2,,,,,,"['3', '1', '5', '5', '7', '5']","['5', '3']",[],[],[],1.33
+19.09.2024,Stuurman R.,0,,,,,,"['2', '3', '4', '3']",[],[],[],[],3.12
+18.09.2024,Boros A.,2,,,,,,"['2', '0']","['2', '1', '6', '3']",[],[],[],2.24
+18.09.2024,D'Agostino S.,0,,,,,,[],[],[],[],[],1.60
+05.09.2024,Krajci M.,2,,,,,,"['1', '2', '4', '3']","['3', '2', '5', '2']",[],[],[],1.86
+05.09.2024,Boros A.,0,,,,,,"['2', '0']",[],[],[],[],1.86
+04.09.2024,Boros A.,2,,,,,,"['3', '1', '5', '5']","['3', '2']",[],[],[],3.84
+04.09.2024,Poling K.,0,,,,,,"['2', '3', '5', '4']",[],[],[],[],1.23
+28.08.2024,Shimanov O.,2,,,,,,"['1', '0', '3', '2', '4', '3']","['4', '3', '6', '3']",[],[],[],3.86
+28.08.2024,Boros A.,0,,,,,,"['2', '2', '3', '3']",[],[],[],[],1.23
+08.08.2024,Vasa E.,2,,,,,,"['4', '3']","['4', '5']","['5', '4']",[],[],1.32
+08.08.2024,Boros A.,1,,,,,,[],"['3', '1', '6', '4']",[],[],[],3.18
+07.08.2024,Boros A.,2,,,,,,[],"['2', '2']","['2', '1', '3', '2']",[],[],1.59
+07.08.2024,Lofman A.,1,,,,,,"['3', '2', '5', '2']","['1', '0']","['2', '2']",[],[],2.26

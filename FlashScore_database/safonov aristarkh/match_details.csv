@@ -1,58 +1,49 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Monastir 5 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 9 (Serbia),clay,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M15 Tashkent 2 (Uzbekistan),hard,header
-ITF MEN - SINGLES M15 Tashkent (Uzbekistan),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 18 (Egypt),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 6 (Serbia),clay,header
-ITF MEN - SINGLES M15 Tashkent 2 (Uzbekistan),hard,header
-ITF MEN - SINGLES M15 Tashkent (Uzbekistan),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 8 (Egypt),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 18 (Egypt),hard,header
-29.11.2024,Safonov A.,0,,,,,,[],[],[],[],[],0
-29.11.2024,Gengel M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-ITF MEN - SINGLES M15 Tsaghkadzor 2 (Armenia),clay,header
-23.10.2024,Safonov A.,2,,,,,,[],[],[],[],[],0
-23.10.2024,Shvets V.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tsaghkadzor (Armenia),clay,header
-ITF MEN - SINGLES M15 Tashkent 2 (Uzbekistan),hard,header
-07.09.2024,Safonov A.,1,,,,,,[],[],[],[],[],0
-07.09.2024,Tkemaladze Z.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Tashkent (Uzbekistan),hard,header
-29.08.2024,Safonov A.,2,,,,,,[],[],[],[],[],0
-29.08.2024,Bar Biryukov P.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sharm ElSheikh 2 (Egypt),hard,header
-11.04.2024,Safonov A.,1,,,,,,[],[],[],[],[],0
-11.04.2024,van Wyk K.,2,,,,,,[],[],[],[],[],0
-10.04.2024,Safonov A.,2,,,,,,[],[],[],[],[],0
-10.04.2024,Stewart H.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Aktobe 2 (Kazakhstan),hard,header
-14.03.2024,Safonov A.,0,,,,,,[],[],[],[],[],0
-14.03.2024,Aitkulov A.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Safonov A.,2,,,,,,[],[],[],[],[],0
-13.03.2024,Milushev A.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Aktobe (Kazakhstan),hard,header
-06.03.2024,Safonov A.,0,,,,,,[],[],[],[],[],0
-06.03.2024,Karlovskiy E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 20 (Egypt),hard,header
-15.12.2023,Safonov A.,1,,,,,,[],[],[],[],[],0
-15.12.2023,Vincent Ruggeri S.,2,,,,,,[],[],[],[],[],0
-14.12.2023,Safonov A.,1,,,,,,[],[],[],[],[],0
-14.12.2023,Wiskandt M.,0,,,,,,[],[],[],[],[],0
-13.12.2023,Safonov A.,2,,,,,,[],[],[],[],[],0
-13.12.2023,Borrelli L.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kazan 2 (Russia),hard,header
-15.10.2021,Safonov A.,0,,,,,,[],[],[],[],[],0
-15.10.2021,Bobrov B.,2,,,,,,[],[],[],[],[],0
-14.10.2021,Safonov A.,2,,,,,,[],[],[],[],[],0
-14.10.2021,Simakin I.,1,,,,,,[],[],[],[],[],0
-13.10.2021,Safonov A.,2,,,,,,[],[],[],[],[],0
-13.10.2021,Shchaya-Zubrov P.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 St. Petersburg 4 (Russia),hard,header
-13.04.2021,Safonov A.,0,,,,,,[],[],[],[],[],0
-13.04.2021,Rikl P.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+14.08.,Coulibaly E.,2,,,,,,"['1', '0']","['2', '1', '6', '5']",[],[],[],1.69
+14.08.,Safonov A.,0,,,,,,[],"['4', '4', '6', '6']",[],[],[],18.0
+13.08.,Safonov A.,2,,,,,,"['2', '2', '7', '5']","['2', '0', '6', '4']",[],[],[],-
+13.08.,Barreiro J. A.,0,,,,,,"['1', '0']","['2', '3']",[],[],[],-
+05.08.,Ostapenkov D.,2,,,,,,[],"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],1.20
+05.08.,Safonov A.,1,,,,,,[],[],[],[],[],4.14
+01.07.,Bobrov B.,2,,,,,,"['1', '0', '5', '2', '6', '3']","['3', '1']",[],[],[],-
+01.07.,Safonov A.,0,,,,,,"['3', '5']",[],[],[],[],-
+11.06.,Ludoski Z.,2,,,,,,"['1', '2', '3', '2', '5', '2']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],[],-
+11.06.,Safonov A.,0,,,,,,"['2', '0']","['1', '1', '2', '4']",[],[],[],-
+29.05.,Milushev A.,2,,,,,,"['1', '0']","['3', '2', '5', '2']","['1', '0']",[],[],6.75
+29.05.,Safonov A.,1,,,,,,"['4', '4', '6', '4']",[],[],[],[],1.07
+28.05.,Safonov A.,2,,,,,,"['6', '4']","['3', '1', '5', '1']",[],[],[],1.06
+28.05.,Zatsepin V.,0,,,,,,[],[],[],[],[],7.50
+22.05.,Tyagi K.,2,,,,,,[],"['6', '4']","['3', '3', '6', '4']",[],[],2.59
+22.05.,Safonov A.,1,,,,,,"['3', '1']",[],"['2', '1']",[],[],1.45
+21.05.,Safonov A.,2,,,,,,"['3', '1']","['4', '3']",[],[],[],1.18
+21.05.,Kumaran B. N.,0,,,,,,[],[],[],[],[],4.43
+26.03.,Krylov A.,2,,,,,,"['3', '2', '5', '2']","['1', '0', '6', '5']",[],[],[],-
+26.03.,Safonov A.,0,,,,,,"['3', '5']","['2', '2']",[],[],[],-
+19.03.,Purtseladze S.,2,,,,,,"['4', '3', '6', '5']","['2', '1', '5', '2']",[],[],[],1.20
+19.03.,Safonov A.,0,,,,,,"['5', '5']",[],[],[],[],4.14
+28.11.2024,Safonov A.,2,,,,,,"['5', '5']","['3', '2', '4', '5']","['2', '0', '4', '0', '7', '5']",[],[],2.77
+28.11.2024,Binda A.,1,,,,,,"['3', '2']","['3', '3', '5', '3']","['1', '4', '4', '5']",[],[],1.40
+27.11.2024,Safonov A.,2,,,,,,"['1', '1', '3', '1', '6', '2']","['5', '5']","['2', '1', '4', '1', '5', '2']",[],[],1.25
+27.11.2024,Sakellaridis D.,1,,,,,,"['1', '0']","['1', '0']","['2', '4']",[],[],3.62
+14.11.2024,Milojevic N.,2,,,,,,"['1', '0', '3', '2', '5', '4']","['3', '2']",[],[],[],-
+14.11.2024,Safonov A.,0,,,,,,"['1', '1', '3', '3']",[],[],[],[],-
+13.11.2024,Safonov A.,2,,,,,,"['6', '4']","['2', '0', '6', '2']",[],[],[],2.18
+13.11.2024,Ojakaar O.,0,,,,,,[],[],[],[],[],1.62
+25.10.2024,Sarksian D.,2,,,,,,"['3', '2']","['2', '0']","['1', '0', '3', '4', '6', '5']",[],[],2.07
+25.10.2024,Safonov A.,1,,,,,,"['3', '3']","['4', '5']","['2', '2', '4', '2']",[],[],1.69
+24.10.2024,Safonov A.,2,,,,,,"['5', '4']",[],[],[],[],2.10
+24.10.2024,Filar K.,0,,,,,,[],[],[],[],[],1.67
+16.10.2024,Panak Y.,2,,,,,,"['3', '4', '4', '5']","['1', '2', '3', '2']","['2', '0', '4', '2', '5', '3', '6', '6']",[],[],1.88
+16.10.2024,Safonov A.,1,,,,,,"['2', '0', '5', '3', '6', '4']","['2', '0']","['1', '2', '3', '4', '4', '5', '6', '5']",[],[],1.82
+06.09.2024,Safonov A.,2,,,,,,"['5', '5']","['2', '1']",[],[],[],1.39
+06.09.2024,Binda A.,0,,,,,,"['2', '1']",[],[],[],[],2.83
+05.09.2024,Safonov A.,2,,,,,,[],"['2', '0']",[],[],[],-
+05.09.2024,Tiurnev E.,0,,,,,,[],[],[],[],[],-
+04.09.2024,Safonov A.,2,,,,,,"['3', '3', '5', '3']","['5', '5', '6', '5', '7', '5']",[],[],[],1.12
+04.09.2024,Yerdilda Y.,0,,,,,,"['1', '0']","['2', '0', '5', '1']",[],[],[],5.51
+31.08.2024,Palan D.,2,,,,,,"['1', '2', '3', '2', '4', '3', '6', '3']","['2', '0', '4', '0', '6', '2']",[],[],[],1.83
+31.08.2024,Safonov A.,0,,,,,,"['2', '0', '3', '3']","['1', '4']",[],[],[],1.89
+30.08.2024,Safonov A.,2,,,,,,"['2', '0', '4', '0']","['1', '0']","['1', '0', '5', '2']",[],[],1.58
+30.08.2024,Javia D.,1,,,,,,[],"['1', '1', '4', '2', '6', '2']",[],[],[],2.28
+28.08.2024,Safonov A.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '6', '2']",[],[],[],1.31
+28.08.2024,Faucon R.,0,,,,,,[],[],[],[],[],3.24

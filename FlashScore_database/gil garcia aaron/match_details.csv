@@ -1,52 +1,23 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Sofia (Bulgaria),clay,header
-07.08.,Gil Garcia A.,1,,,,,,[],[],[],[],[],0
-07.08.,Cuenin S.,2,,,,,,[],[],[],[],[],0
-06.08.,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-06.08.,Coman M. A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 13 (Serbia),clay,header
-31.07.,Gil Garcia A.,1,,,,,,[],[],[],[],[],0
-31.07.,Djuric B.,2,,,,,,[],[],[],[],[],0
-30.07.,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-30.07.,Del Pino M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-16.07.,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-16.07.,Voljavec A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sanxenxo (Spain),hard,header
-ITF MEN - SINGLES M25 Esch/Alzette (Luxembourg),hard,header
-ITF MEN - SINGLES M15 Santiago 2 (Chile),clay,header
-ITF MEN - SINGLES M15 Monastir 44 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Sarreguemines (France),hard,header
-ITF MEN - SINGLES M15 Monastir 39 (Tunisia),hard,header
-ITF MEN - SINGLES M25 Hong Kong (Hong Kong),hard,header
-ITF MEN - SINGLES M25 Esch/Alzette 2 (Luxembourg),clay,header
-18.07.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-18.07.2024,Onclin G.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-17.07.2024,Einig F.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Kassel (Germany),clay,header
-ITF MEN - SINGLES M15 Shymkent (Kazakhstan),clay,header
-18.04.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-18.04.2024,Tiurnev E.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-17.04.2024,Catani L.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Badalona (Spain),clay,header
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-11.01.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-11.01.2024,Figl M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Esch/Alzette (Luxembourg),hard,header
-02.01.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-02.01.2024,Storrie R. J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 48 (Tunisia),hard,header
-29.11.2023,Gil Garcia A.,1,,,,,,[],[],[],[],[],0
-29.11.2023,Dzhenev A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 46 (Tunisia),hard,header
-16.11.2023,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-16.11.2023,Giacomini L.,2,,,,,,[],[],[],[],[],0
-15.11.2023,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-15.11.2023,Faucon R.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Monastir 36 (Tunisia),hard,header
-07.09.2023,Gil Garcia A.,0,,,,,,[],[],[],[],[],0
-07.09.2023,Salomone F.,2,,,,,,[],[],[],[],[],0
-06.09.2023,Gil Garcia A.,2,,,,,,[],[],[],[],[],0
-06.09.2023,Giunta M.,0,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+22.04.,Domingues J.,2,,,,,,"['1', '1', '4', '2']","['2', '1', '6', '5']",[],[],[],1.12
+22.04.,Gil Garcia A.,0,,,,,,"['1', '0']","['3', '3', '6', '6']",[],[],[],5.40
+21.01.,Berghaus M.,2,,,,,,"['3', '5', '5', '5']","['3', '3', '5', '5', '7', '5']","['2', '0', '4', '0', '6', '4']",[],[],1.78
+21.01.,Gil Garcia A.,1,,,,,,"['2', '1', '4', '1', '6', '5']","['3', '2', '4', '3']","['1', '4', '3', '4']",[],[],1.92
+27.11.2024,Villalon N.,2,,,,,,"['1', '1', '4', '4']","['4', '5', '6', '5']",[],[],[],1.51
+27.11.2024,Gil Garcia A.,0,,,,,,"['1', '0', '4', '3']","['5', '3']",[],[],[],2.42
+25.11.2024,Gil Garcia A.,2,,,,,,"['1', '0', '4', '1']","['2', '1', '5', '2', '6', '3']",[],[],[],1.45
+25.11.2024,Bancalari A.,0,,,,,,[],"['3', '5']",[],[],[],2.59
+31.10.2024,Celikbilek A.,2,,,,,,"['4', '4']","['2', '1', '4', '1', '6', '1']",[],[],[],1.04
+31.10.2024,Gil Garcia A.,0,,,,,,"['1', '0']",[],[],[],[],8.50
+29.10.2024,Gil Garcia A.,2,,,,,,[],"['3', '3', '5', '3']","['1', '0', '3', '0', '4', '1']",[],[],5.05
+29.10.2024,Beauge M.,1,,,,,,"['1', '0']","['3', '2']","['1', '3', '3', '5']",[],[],1.14
+23.10.2024,Ghazouani Durand Y.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['7', '5']",[],[],[],1.14
+23.10.2024,Gil Garcia A.,0,,,,,,[],[],[],[],[],5.10
+25.09.2024,Tammaro M.,2,,,,,,[],"['1', '0', '4', '1', '6', '1']","['3', '1', '6', '4']",[],[],1.29
+25.09.2024,Gil Garcia A.,1,,,,,,"['4', '3', '6', '3']",[],"['2', '3']",[],[],3.32
+27.08.2024,Imamura M.,2,,,,,,"['2', '0', '4', '0']","['3', '4', '5', '4']",[],[],[],1.08
+27.08.2024,Gil Garcia A.,0,,,,,,[],"['2', '0']",[],[],[],7.01
+10.07.2024,Siniakov D.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['2', '0', '5', '2']",[],[],[],1.30
+10.07.2024,Gil Garcia A.,0,,,,,,[],"['1', '2', '3', '5']",[],[],[],3.34
+20.03.2024,Marti Pujolras A.,2,,,,,,"['2', '0', '3', '1', '5', '1', '6', '2']","['3', '1']",[],[],[],1.06
+20.03.2024,Gil Garcia A.,0,,,,,,"['1', '2', '2', '5']","['3', '4']",[],[],[],7.60

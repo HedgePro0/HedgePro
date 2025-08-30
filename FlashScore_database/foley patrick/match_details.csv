@@ -1,28 +1,41 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Monastir 23 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES M15 Cap d'Agde (France),clay,header
-ITF MEN - SINGLES M15 Dublin (Ireland),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Manacor (Spain),hard,header
-ITF MEN - SINGLES M15 Cap d'Agde (France),clay,header
-ITF MEN - SINGLES M15 Dublin (Ireland),hard,header
-ITF MEN - SINGLES M15 Monastir 22 (Tunisia),hard,header
-29.05.2024,Foley P.,0,,,,,,[],[],[],[],[],0
-29.05.2024,Gorokhov M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Sunderland (United Kingdom),hard,header
-ITF MEN - SINGLES M15 Torello (Spain),hard,header
-EXHIBITION - MEN Others matches (World),-,header
-29.08.2020,Foley P.,0,,,,,,[],[],[],[],[],0
-29.08.2020,Fery A.,2,,,,,,[],[],[],[],[],0
-EXHIBITION - MEN UK Pro Series 3 (United Kingdom),hard,header
-EXHIBITION - MEN UK Pro Series (United Kingdom),hard,header
-EXHIBITION - MEN UK Pro Series 3 (United Kingdom),hard,header
-EXHIBITION - MEN Others matches (World),-,header
-ITF MEN - SINGLES M25 Sunderland (United Kingdom),hard,header
-26.02.2020,Foley P.,0,,,,,,[],[],[],[],[],0
-26.02.2020,Matusevich A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Barnstaple (United Kingdom),hard,header
-ITF MEN - SINGLES Shrewsbury (United Kingdom),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+10.06.,Pierre H.,2,,,,,,"['3', '1', '4', '2', '5', '3']","['5', '4']",[],[],[],-
+10.06.,Foley P.,0,,,,,,"['2', '3', '3', '4']",[],[],[],[],-
+04.06.,Rathi A.,2,,,,,,"['2', '3']","['2', '0', '3', '3', '6', '4']","['4', '4', '6', '4']",[],[],1.90
+04.06.,Foley P.,1,,,,,,"['2', '0', '5', '3']","['1', '2', '3', '2']","['1', '0']",[],[],1.80
+08.01.,Dhamne M.,2,,,,,,"['2', '1', '4', '1', '6', '1']","['1', '1', '3', '1', '5', '3']",[],[],[],1.11
+08.01.,Foley P.,0,,,,,,[],"['1', '0', '2', '3']",[],[],[],5.50
+27.08.2024,Rivet M.,2,,,,,,"['5', '4']","['2', '1', '4', '1']",[],[],[],1.07
+27.08.2024,Foley P.,0,,,,,,[],[],[],[],[],6.23
+08.08.2024,Ribecai M.,2,,,,,,"['2', '0', '4', '0', '5', '1', '6', '2']","['2', '0', '4', '0']",[],[],[],1.05
+08.08.2024,Foley P.,0,,,,,,"['1', '4', '2', '5']",[],[],[],[],8.25
+07.08.2024,Foley P.,2,,,,,,"['5', '4']","['2', '0', '6', '4']",[],[],[],8.80
+07.08.2024,O'Hoisin O.,0,,,,,,"['5', '5']","['4', '5']",[],[],[],1.04
+16.01.2024,Basilashvili N.,2,,,,,,"['2', '2']","['2', '1']",[],[],[],1.08
+16.01.2024,Foley P.,0,,,,,,"['2', '1']",[],[],[],[],6.74
+09.12.2020,Burruchaga R. A.,2,,,,,,[],[],[],[],[],-
+09.12.2020,Foley P.,0,,,,,,[],[],[],[],[],-
+09.10.2020,Foley P.,2,,,,,,"['3', '2']","['1', '0', '3', '0', '5', '2']",[],[],[],2.32
+09.10.2020,Murphy B.,0,,,,,,[],"['2', '4']",[],[],[],1.63
+02.10.2020,Harris B.,2,,,,,,"['2', '1', '5', '2']","['1', '0']",[],[],[],1.07
+02.10.2020,Foley P.,0,,,,,,[],"['1', '1']",[],[],[],9.10
+21.08.2020,Gibbens J.,2,,,,,,"['4', '5']","['6', '4']",[],[],[],3.24
+21.08.2020,Foley P.,0,,,,,,"['2', '0']",[],[],[],[],1.33
+26.07.2020,Foley P.,2,,,,,,"['2', '1', '5', '2']","['6', '5']",[],[],[],-
+26.07.2020,Jones A.,0,,,,,,[],[],[],[],[],-
+25.07.2020,Cash J.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['6', '4']",[],[],[],-
+25.07.2020,Foley P.,0,,,,,,[],[],[],[],[],-
+24.07.2020,Johnson L.,2,,,,,,"['5', '3']","['1', '0', '4', '1']",[],[],[],-
+24.07.2020,Foley P.,0,,,,,,[],[],[],[],[],-
+23.07.2020,Meehan H. D.,2,,,,,,[],"['7', '5']",[],[],[],1.59
+23.07.2020,Foley P.,0,,,,,,[],[],[],[],[],2.23
+22.07.2020,Canter A.,2,,,,,,"['2', '1', '4', '1']","['1', '0', '4', '1']",[],[],[],1.21
+22.07.2020,Foley P.,0,,,,,,[],[],[],[],[],4.28
+18.07.2020,Stoute I.,2,,,,,,"['2', '1']","['2', '1', '5', '2']","['1', '0', '3', '1', '4', '1', '7', '1', '8', '1']",[],[],-
+18.07.2020,Foley P.,1,,,,,,"['2', '2', '7', '5']",[],"['1', '1']",[],[],-
+09.07.2020,Patten H.,2,,,,,,"['6', '5']","['1', '0', '3', '0']",[],[],[],1.26
+09.07.2020,Foley P.,0,,,,,,[],[],[],[],[],3.72
+11.02.2020,Patten H.,2,,,,,,"['2', '0', '4', '0', '6', '0']",[],"['3', '1', '5', '1']",[],[],1.40
+11.02.2020,Foley P.,1,,,,,,[],"['1', '0']",[],[],[],2.13
+24.09.2019,Houghton G.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '3', '0', '5', '0']",[],[],[],1.21
+24.09.2019,Foley P.,0,,,,,,[],[],[],[],[],3.98

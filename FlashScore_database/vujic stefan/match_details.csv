@@ -1,73 +1,59 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Brazzaville 2 (Republic of the Congo),clay,header
-ITF MEN - SINGLES M25 Brazzaville (Republic of the Congo),clay,header
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Kayseri 4 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Ahmedabad (India),hard,header
-ITF MEN - SINGLES M15 Chandigarh (India),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Pirot 2 (Serbia),clay,header
-ITF MEN - SINGLES M15 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M25 Hillcrest (South Africa),hard,header
-ITF MEN - SINGLES M15 Kayseri 4 (Turkey),hard,header
-ITF MEN - SINGLES M15 Kursumlijska Banja 4 (Serbia),clay,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Ahmedabad (India),hard,header
-ITF MEN - SINGLES M15 Chandigarh (India),hard,header
-ITF MEN - SINGLES M15 Pretoria 2 (South Africa),hard,header
-ITF MEN - SINGLES M15 Pretoria (South Africa),hard,header
-ITF MEN - SINGLES M15 Tehran 2 (Iran),clay,header
-ITF MEN - SINGLES M15 Tehran (Iran),clay,header
-ITF MEN - SINGLES M15 Pirot 2 (Serbia),clay,header
-03.09.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-03.09.2024,Markovic S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 16 (Serbia),clay,header
-ITF MEN - SINGLES M25 Brazzaville 2 (Republic of the Congo),clay,header
-ITF MEN - SINGLES M25 Brazzaville (Republic of the Congo),clay,header
-ITF MEN - SINGLES M15 Monastir 30 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Harmon (Guam),hard,header
-06.06.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-06.06.2024,Delaney Je.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Vujic S.,2,,,,,,[],[],[],[],[],0
-05.06.2024,Inoue G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Baotou (China),clay,header
-30.05.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-30.05.2024,Sun F.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Vujic S.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Yu B.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Anning (China),clay,header
-23.05.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-23.05.2024,Hornitschek N.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Vujic S.,2,,,,,,[],[],[],[],[],0
-22.05.2024,Mo Y. C.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Kursumlijska Banja (Serbia),clay,header
-09.05.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-09.05.2024,Popovic S.,2,,,,,,[],[],[],[],[],0
-08.05.2024,Vujic S.,2,,,,,,[],[],[],[],[],0
-08.05.2024,Deari S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 3 (Serbia),clay,header
-01.05.2024,Vujic S.,1,,,,,,[],[],[],[],[],0
-01.05.2024,Ghibaudo A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 2 (Serbia),clay,header
-26.04.2024,Vujic S.,1,,,,,,[],[],[],[],[],0
-26.04.2024,Rossi L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja (Serbia),clay,header
-19.04.2024,Vujic S.,0,,,,,,[],[],[],[],[],0
-19.04.2024,Barbier Gazeu P.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Doha 3 (Qatar),hard,header
-11.10.2023,Vujic S.,0,,,,,,[],[],[],[],[],0
-11.10.2023,Pieczkowski O.,1,,,,,,[],[],[],[],[],0
-10.10.2023,Vujic S.,2,,,,,,[],[],[],[],[],0
-10.10.2023,Ben Abdennibi S.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Doha 2 (Qatar),hard,header
-04.10.2023,Vujic S.,0,,,,,,[],[],[],[],[],0
-04.10.2023,Pokotilov B.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kursumlijska Banja 7 (Serbia),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+07.08.,Artnak B.,2,,,,,,[],"['1', '0', '5', '2']",[],[],[],1.61
+07.08.,Vujic S.,0,,,,,,[],[],[],[],[],18.0
+06.08.,Vujic S.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['4', '2', '6', '2']",[],[],[],1.02
+06.08.,Momo-Kassa K.,0,,,,,,[],[],[],[],[],10.20
+31.07.,Bennani R.,2,,,,,,"['5', '4']","['2', '1']",[],[],[],1.08
+31.07.,Vujic S.,0,,,,,,[],[],[],[],[],6.60
+30.07.,Vujic S.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '5', '2']",[],[],[],1.04
+30.07.,Koumba C.,0,,,,,,[],[],[],[],[],8.20
+09.07.,Longwe-Smit T.,1,,,,,,"['3', '2', '6', '3']","['4', '2']",[],[],[],1.99
+09.07.,Vujic S.,0,,,,,,[],[],[],[],[],1.73
+02.07.,Kirkin E.,1,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '0']",[],[],[],1.22
+02.07.,Vujic S.,0,,,,,,[],[],[],[],[],3.91
+18.06.,Krajci M.,2,,,,,,"['1', '0', '3', '2']","['3', '4']",[],[],[],1.20
+18.06.,Vujic S.,1,,,,,,"['2', '2']","['3', '1']",[],[],[],4.13
+21.05.,Falabella L. A.,2,,,,,,"['3', '2']",[],"['1', '0', '3', '0', '5', '0']",[],[],1.88
+21.05.,Vujic S.,1,,,,,,[],"['7', '5']",[],[],[],1.83
+15.05.,Perez B.,2,,,,,,[],"['1', '2', '4', '5', '6', '5']","['1', '0', '3', '2']",[],[],2.26
+15.05.,Vujic S.,1,,,,,,"['1', '0', '6', '3']","['2', '0', '3', '1']","['1', '1']",[],[],1.58
+14.05.,Vujic S.,2,,,,,,"['4', '2']","['1', '0']",[],[],[],1.59
+14.05.,Bianchi J. J.,0,,,,,,[],[],[],[],[],2.24
+08.05.,Singh K.,2,,,,,,[],"['2', '2', '6', '4']",[],[],[],-
+08.05.,Vujic S.,1,,,,,,[],"['2', '1']",[],[],[],-
+07.05.,Vujic S.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0']",[],[],[],-
+07.05.,Moghimi S.,0,,,,,,[],[],[],[],[],-
+19.03.,Vardhan V.,2,,,,,,"['5', '5']","['4', '3']",[],[],[],1.81
+19.03.,Vujic S.,0,,,,,,"['4', '3']",[],[],[],[],1.89
+15.03.,Clarke J.,2,,,,,,"['2', '0', '4', '2']",[],[],[],[],1.02
+15.03.,Vujic S.,0,,,,,,"['1', '2']",[],[],[],[],10.20
+14.03.,Vujic S.,2,,,,,,"['5', '5']",[],"['3', '1', '6', '2']",[],[],2.22
+14.03.,Sinha N. K.,1,,,,,,"['5', '4']",[],[],[],[],1.60
+13.03.,Vujic S.,2,,,,,,"['2', '0', '4', '0']","['3', '2', '6', '3']",[],[],[],-
+13.03.,Vishwakarma S.,0,,,,,,"['2', '5']",[],[],[],[],-
+12.03.,Vujic S.,2,,,,,,"['2', '0', '5', '1']","['1', '2']",[],[],[],2.03
+12.03.,Tyagi K.,0,,,,,,[],"['2', '0']",[],[],[],1.70
+26.02.,Thurner N.,2,,,,,,[],[],[],[],[],1.44
+26.02.,Vujic S.,0,,,,,,[],[],[],[],[],2.62
+22.02.,Boros A.,2,,,,,,"['5', '4']","['6', '5']",[],[],[],1.25
+22.02.,Vujic S.,0,,,,,,[],[],[],[],[],3.62
+21.02.,Vujic S.,2,,,,,,"['1', '0', '3', '0', '5', '0', '6', '1']","['1', '1', '3', '1', '5', '1', '6', '2']",[],[],[],2.24
+21.02.,Horoz A.,0,,,,,,"['1', '5']","['1', '0', '2', '5']",[],[],[],1.59
+19.09.2024,Bocchi L.,2,,,,,,[],"['2', '0']",[],[],[],1.15
+19.09.2024,Vujic S.,0,,,,,,[],[],[],[],[],4.98
+18.09.2024,Vujic S.,2,,,,,,"['4', '2', '5', '3']","['1', '0', '2', '1', '4', '1', '5', '2']",[],[],[],1.07
+18.09.2024,Ghavam A.,0,,,,,,"['3', '4']","['1', '1', '2', '4']",[],[],[],7.12
+11.09.2024,Turker M. N.,2,,,,,,"['2', '1']","['4', '3']",[],[],[],1.26
+11.09.2024,Vujic S.,0,,,,,,[],[],[],[],[],3.59
+28.08.2024,Ivanov S.,2,,,,,,"['6', '4']","['3', '5']","['2', '0', '4', '0']",[],[],1.86
+28.08.2024,Vujic S.,1,,,,,,[],"['1', '0', '4', '1']",[],[],[],1.86
+07.08.2024,Kalyanpur A.,2,,,,,,"['1', '0', '6', '5']","['3', '4']","['7', '5']",[],[],2.39
+07.08.2024,Vujic S.,1,,,,,,"['4', '4']","['3', '1']",[],[],[],1.53
+01.08.2024,Oliveira G.,2,,,,,,"['1', '0']","['3', '2']",[],[],[],1.10
+01.08.2024,Vujic S.,0,,,,,,[],[],[],[],[],6.04
+31.07.2024,Vujic S.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '3', '0', '6', '1']",[],[],[],1.01
+31.07.2024,Pandzou Ekoume C.,0,,,,,,[],[],[],[],[],12.80
+25.07.2024,Ouakaa A.,2,,,,,,"['3', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.42
+25.07.2024,Vujic S.,0,,,,,,"['2', '1']",[],[],[],[],2.72
+24.07.2024,Vujic S.,2,,,,,,"['4', '2']","['2', '1']",[],[],[],1.43
+24.07.2024,Van Raemdonck H.,0,,,,,,[],[],[],[],[],2.68

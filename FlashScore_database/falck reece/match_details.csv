@@ -1,50 +1,55 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Rochester,clay,header
-CHALLENGER MEN - SINGLES Cary (USA) - Qualification,hard,header
-CHALLENGER MEN - SINGLES Cary (USA) - Qualification,hard,header
-29.06.,Falck R.,0,,,,,,3,3,57%,57% (21/37),43% (12/28),33% (2/6),13% (3/24),29% (5/17),0% (0/1),11,37,40% (2/5),51% (33/65),20% (8/41),39% (41/106),3,0,56% (5/9),0% (0/8),29% (5/17),[],[],[],[],[],0
-29.06.,Moriya H.,2,,,,,,3,1,59%,88% (21/24),71% (12/17),100% (1/1),43% (16/37),57% (16/28),67% (4/6),16,19,80% (4/5),80% (33/41),49% (32/65),61% (65/106),7,0,100% (8/8),44% (4/9),71% (12/17),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Tulsa,hard,header
-ITF MEN - SINGLES M25 Wichita,hard,header
-ITF MEN - SINGLES M15 Orlando,clay,header
-ITF MEN - SINGLES M15 Montreal (Canada),hard,header
-ITF MEN - SINGLES M15 Sherbrooke (Canada),hard,header
-ITF MEN - SINGLES M25 Timaru (New Zealand),hard,header
-ITF MEN - SINGLES M15 Tauranga (New Zealand),hard,header
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-ITF MEN - SINGLES M25 Caloundra (Australia),hard,header
-21.11.2024,Falck R.,0,,,,,,[],[],[],[],[],0
-21.11.2024,Markovina D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Darwin 2 (Australia),hard,header
-ITF MEN - SINGLES M25 Darwin (Australia),hard,header
-11.09.2024,Falck R.,1,,,,,,[],[],[],[],[],0
-11.09.2024,Cook E.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Bali (Indonesia),hard,header
-03.09.2024,Falck R.,0,,,,,,[],[],[],[],[],0
-03.09.2024,Kelly D.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bali (Indonesia),hard,header
-28.08.2024,Falck R.,0,,,,,,[],[],[],[],[],0
-28.08.2024,Basing M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 Kingston 3 (Jamaica),hard,header
-30.05.2024,Falck R.,0,,,,,,[],[],[],[],[],0
-30.05.2024,Martin D.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Falck R.,2,,,,,,[],[],[],[],[],0
-28.05.2024,Portnoy J.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Kingston 2 (Jamaica),hard,header
-22.05.2024,Falck R.,0,,,,,,[],[],[],[],[],0
-22.05.2024,Matsuoka S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Papamoa (New Zealand),hard,header
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-12.12.2023,Falck R.,0,,,,,,[],[],[],[],[],0
-12.12.2023,Watt J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Wellington (New Zealand),hard,header
-14.12.2022,Falck R.,0,,,,,,[],[],[],[],[],0
-14.12.2022,Becroft I.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vero Beach,clay,header
-EXHIBITION - MEN Others matches (World),-,header
-BOYS - SINGLES Australian Open (Australia) - Qualification,hard,header
-23.01.2020,Falck R.,0,,,,,,[],[],[],[],[],0
-23.01.2020,Zhang Y.,2,,,,,,[],[],[],[],[],0
-22.01.2020,Falck R.,2,,,,,,[],[],[],[],[],0
-22.01.2020,White C.,1,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+16.07.,Mahjoob C.,2,,,,,,[],[],[],[],[],2.09
+16.07.,Falck R.,1,,,,,,[],[],[],[],[],1.68
+29.06.,Moriya H.,2,,,,,,3,1,59%,88% (21/24),71% (12/17),100% (1/1),43% (16/37),57% (16/28),67% (4/6),16,19,80% (4/5),80% (33/41),49% (32/65),61% (65/106),7,0,100% (8/8),44% (4/9),71% (12/17),"['2', '1', '6', '3']","['3', '1', '6', '2']",[],[],[],1.16
+29.06.,Falck R.,0,,,,,,3,3,57%,57% (21/37),43% (12/28),33% (2/6),13% (3/24),29% (5/17),0% (0/1),11,37,40% (2/5),51% (33/65),20% (8/41),39% (41/106),3,0,56% (5/9),0% (0/8),29% (5/17),[],[],[],[],[],4.80
+18.06.,Suarez B.,2,,,,,,"['1', '2']",[],"['2', '0', '5', '3']",[],[],2.10
+18.06.,Falck R.,1,,,,,,"['2', '0']","['2', '1', '5', '2']","['3', '4']",[],[],1.67
+12.06.,Moriya H.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '2', '1', '6', '3']",[],[],[],1.20
+12.06.,Falck R.,0,,,,,,[],"['1', '1']",[],[],[],4.14
+11.06.,Falck R.,2,,,,,,"['2', '3', '4', '3', '6', '3']","['1', '1', '3', '3', '5', '3']","['2', '0', '3', '1', '4', '2', '5', '3']",[],[],2.11
+11.06.,Fishback R.,1,,,,,,"['3', '1']","['1', '0', '2', '1', '4', '5', '6', '5']","['1', '2', '2', '3', '3', '4']",[],[],1.66
+15.05.,Leach J.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['2', '0', '5', '1']",[],[],[],1.18
+15.05.,Falck R.,0,,,,,,[],[],[],[],[],4.43
+14.05.,Falck R.,2,,,,,,"['2', '2', '4', '2', '5', '3']","['3', '2', '5', '2']",[],[],[],-
+14.05.,Karki R.,0,,,,,,"['2', '1', '3', '4']",[],[],[],[],-
+13.03.,Rybakov A.,2,,,,,,"['4', '2']","['1', '0', '3', '0']",[],[],[],1.13
+13.03.,Falck R.,0,,,,,,[],[],[],[],[],5.10
+12.03.,Falck R.,2,,,,,,"['2', '0']","['4', '3', '6', '3']",[],[],[],2.22
+12.03.,Muamba N.,0,,,,,,[],[],[],[],[],1.60
+05.03.,Peck J.,2,,,,,,"['2', '0', '4', '2', '6', '4']",[],"['2', '0', '4', '0']",[],[],1.97
+05.03.,Falck R.,1,,,,,,"['2', '3', '3', '4']","['1', '0', '5', '2']",[],[],[],1.74
+12.02.,Rai A.,2,,,,,,[],"['4', '3']","['1', '0', '4', '3', '6', '3']",[],[],1.20
+12.02.,Falck R.,1,,,,,,"['1', '0', '3', '0', '6', '1']",[],"['2', '2']",[],[],4.13
+19.12.2024,Hara Friend J. D.,2,,,,,,"['3', '2', '6', '3']","['5', '5', '7', '5']",[],[],[],1.15
+19.12.2024,Falck R.,0,,,,,,[],"['4', '3']",[],[],[],4.75
+17.12.2024,Rai A.,0,,,,,,"['1', '0']",[],[],[],[],1.18
+17.12.2024,Falck R.,0,,,,,,"['1', '1', '3', '1']",[],[],[],[],4.38
+12.12.2024,Hara Friend J. D.,2,,,,,,"['1', '0', '6', '5']","['1', '0']","['3', '5', '5', '5']",[],[],1.08
+12.12.2024,Falck R.,1,,,,,,"['4', '4']","['1', '1', '4', '2']","['2', '1', '5', '2']",[],[],6.60
+11.12.2024,Falck R.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '0', '6', '5']",[],[],[],1.27
+11.12.2024,McCall D.,0,,,,,,[],"['2', '4', '5', '5']",[],[],[],3.46
+19.09.2024,Bouzige M.,2,,,,,,[],[],[],[],[],1.19
+19.09.2024,Falck R.,1,,,,,,"['2', '0']",[],[],[],[],4.27
+18.09.2024,Falck R.,2,,,,,,"['2', '1', '6', '3']","['4', '2']",[],[],[],1.18
+18.09.2024,Gray T.,0,,,,,,[],[],[],[],[],4.42
+17.07.2024,Banerjee S.,2,,,,,,"['2', '0', '4', '2', '6', '2']","['3', '3', '5', '3']",[],[],[],1.21
+17.07.2024,Falck R.,0,,,,,,"['1', '2']","['2', '1']",[],[],[],4.13
+19.12.2023,Bouzige M.,2,,,,,,[],[],[],[],[],1.07
+19.12.2023,Falck R.,0,,,,,,[],[],[],[],[],7.38
+18.12.2023,Falck R.,2,,,,,,[],[],[],[],[],1.41
+18.12.2023,Hammond D.,0,,,,,,[],[],[],[],[],2.75
+20.10.2021,Zheng M.,2,,,,,,"['2', '0', '7', '5']","['2', '0', '4', '0']",[],[],[],1.16
+20.10.2021,Falck R.,0,,,,,,"['1', '2']",[],[],[],[],5.00
+18.06.2020,Statham O.,2,,,,,,"['2', '0', '4', '2']",[],"['2', '0']",[],[],2.04
+18.06.2020,Falck R.,1,,,,,,"['2', '3']",[],[],[],[],1.78
+16.06.2020,Reynolds F.,2,,,,,,"['1', '0', '4', '1', '6', '1']","['2', '0']",[],[],[],1.34
+16.06.2020,Falck R.,0,,,,,,[],[],[],[],[],3.16
+13.06.2020,Falck R.,2,,,,,,[],"['1', '1', '4', '2', '6', '2']","['2', '0']",[],[],2.03
+13.06.2020,Stoupe G.,1,,,,,,"['2', '0', '5', '1']","['1', '0']",[],[],[],1.77
+10.06.2020,Reynolds F.,2,,,,,,"['2', '0', '5', '1']","['1', '0']",[],[],[],-
+10.06.2020,Falck R.,0,,,,,,[],[],[],[],[],-
+06.06.2020,Falck R.,2,,,,,,"['3', '2', '5', '2', '6', '3']","['2', '0', '4', '0', '6', '0']",[],[],[],-
+06.06.2020,Garbett J.,0,,,,,,"['3', '5']",[],[],[],[],-
+03.06.2020,Falck R.,2,,,,,,"['1', '0', '2', '1', '5', '2']","['4', '3', '6', '3']",[],[],[],1.60
+03.06.2020,Lavie S.,0,,,,,,"['1', '1']",[],[],[],[],2.25

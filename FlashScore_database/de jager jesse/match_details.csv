@@ -1,66 +1,29 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Offenbach (Germany),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 5 (Egypt),hard,header
-ITF MEN - SINGLES M15 Alkmaar (Netherlands),clay,header
-ITF MEN - SINGLES M15 Offenbach (Germany),hard,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 10 (Egypt),hard,header
-ITF MEN - SINGLES M15 Trier (Germany),clay,header
-ITF MEN - SINGLES M15 Ystad (Sweden),clay,header
-ITF MEN - SINGLES M15 Vaasa (Finland),hard,header
-ITF MEN - SINGLES M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES M15 Sharm ElSheikh 5 (Egypt),hard,header
-02.03.2023,De Jager J.,1,,,,,,[],[],[],[],[],0
-02.03.2023,Lee D. H.,2,,,,,,[],[],[],[],[],0
-01.03.2023,De Jager J.,2,,,,,,[],[],[],[],[],0
-01.03.2023,Setkic A.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Vilnius (Lithuania),hard,header
-18.01.2023,De Jager J.,0,,,,,,[],[],[],[],[],0
-18.01.2023,Kielan S.,2,,,,,,[],[],[],[],[],0
-17.01.2023,De Jager J.,2,,,,,,[],[],[],[],[],0
-17.01.2023,Bertuccioli F.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 16 (Egypt),hard,header
-02.11.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-02.11.2022,Binda A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 15 (Egypt),hard,header
-26.10.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-26.10.2022,Elsayed A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 14 (Egypt),hard,header
-19.10.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-19.10.2022,Kuperstein A.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 13 (Egypt),hard,header
-13.10.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-13.10.2022,Giacomini L.,2,,,,,,[],[],[],[],[],0
-12.10.2022,De Jager J.,2,,,,,,[],[],[],[],[],0
-12.10.2022,Safwat M.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 12 (Egypt),hard,header
-06.10.2022,De Jager J.,1,,,,,,[],[],[],[],[],0
-06.10.2022,Serafini M.,2,,,,,,[],[],[],[],[],0
-05.10.2022,De Jager J.,2,,,,,,[],[],[],[],[],0
-05.10.2022,Bosio G.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 11 (Egypt),hard,header
-28.09.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-28.09.2022,Bradshaw J.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Sharm ElSheikh 9 (Egypt),hard,header
-16.09.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-16.09.2022,van Wyk K.,2,,,,,,[],[],[],[],[],0
-15.09.2022,De Jager J.,2,,,,,,[],[],[],[],[],0
-15.09.2022,Bakshi A.,1,,,,,,[],[],[],[],[],0
-14.09.2022,De Jager J.,2,,,,,,[],[],[],[],[],0
-14.09.2022,Shin W.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Poprad (Slovakia),clay,header
-28.06.2022,De Jager J.,1,,,,,,[],[],[],[],[],0
-28.06.2022,Palovic L.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 16 (Turkey),clay,header
-25.05.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-25.05.2022,Agabigun S.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya (Turkey),clay,header
-14.01.2022,De Jager J.,0,,,,,,[],[],[],[],[],0
-14.01.2022,Winter Lopez B.,2,,,,,,[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+28.08.,Broska F.,2,,,,,,"['2', '0']","['1', '0', '3', '0', '6', '1']",[],[],[],1.11
+28.08.,De Jager J.,0,,,,,,[],[],[],[],[],5.65
+12.08.,Loge J.,1,,,,,,"['2', '1', '4', '1', '5', '4']","['3', '2', '5', '4']","['2', '0', '4', '0']",[],[],-6
+12.08.,De Jager J.,1,,,,,,"['2', '4', '4', '4']","['3', '3', '5', '5']",[],[],[],1.85
+30.07.,Marysko V.,2,,,,,,"['3', '2', '5', '2']","['2', '1']","['7', '5']",[],[],-
+30.07.,De Jager J.,1,,,,,,[],"['2', '2', '4', '2']",[],[],[],-
+25.06.,Martin T.,2,,,,,,"['2', '2', '4', '2']","['1', '2', '3', '2', '6', '5']",[],[],[],1.47
+25.06.,De Jager J.,0,,,,,,"['2', '1']","['2', '0', '5', '5', '6', '6']",[],[],[],2.53
+17.10.2024,Donald M.,2,,,,,,"['2', '3', '5', '4']","['1', '0', '3', '0', '5', '2']","['1', '0', '3', '0']",[],[],1.30
+17.10.2024,De Jager J.,1,,,,,,"['3', '1', '5', '5', '7', '5']","['2', '4', '3', '5']",[],[],[],3.30
+16.10.2024,De Jager J.,2,,,,,,[],"['2', '0', '4', '0', '6', '0']","['1', '1', '3', '1', '6', '2']",[],[],7.04
+16.10.2024,Pawelski M.,1,,,,,,"['2', '1', '4', '1']",[],"['1', '0']",[],[],1.07
+18.09.2024,Kamrowski M.,2,,,,,,"['5', '4']","['1', '0', '4', '1']",[],[],[],1.74
+18.09.2024,De Jager J.,0,,,,,,[],[],[],[],[],1.98
+22.08.2024,Engel J.,2,,,,,,"['4', '5', '6', '5']","['3', '2', '6', '3']",[],[],[],1.10
+22.08.2024,De Jager J.,0,,,,,,"['4', '2']",[],[],[],[],6.15
+21.08.2024,De Jager J.,1,,,,,,"['2', '2', '4', '2', '6', '2']","['2', '0', '4', '0']",[],[],[],1.62
+21.08.2024,Steinbach A.,0,,,,,,"['1', '0']",[],[],[],[],2.20
+13.08.2024,Wallin O.,2,,,,,,"['3', '4', '6', '5']","['2', '1', '5', '2']",[],[],[],1.34
+13.08.2024,De Jager J.,0,,,,,,"['2', '0']",[],[],[],[],3.08
+08.08.2024,Kielan S.,2,,,,,,"['4', '3']","['3', '1', '6', '4']","['4', '4', '6', '4']",[],[],1.60
+08.08.2024,De Jager J.,1,,,,,,"['4', '4']","['3', '4']","['4', '3']",[],[],2.24
+01.08.2024,Vasquez A.,2,,,,,,"['1', '0']","['4', '3', '5', '4']","['2', '3', '4', '3', '6', '3']",[],[],1.66
+01.08.2024,De Jager J.,1,,,,,,"['3', '3', '6', '4']","['4', '4']","['2', '0']",[],[],2.13
+31.07.2024,De Jager J.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '5', '2']",[],[],[],6.96
+31.07.2024,Popovic S.,0,,,,,,[],"['3', '5']",[],[],[],1.08
+04.02.2022,Ilhan M.,2,,,,,,[],[],[],[],[],-
+04.02.2022,De Jager J.,0,,,,,,[],[],[],[],[],-

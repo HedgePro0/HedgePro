@@ -1,40 +1,25 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Tallahassee,hard,header
-21.11.2024,Sarr J.,2,,,,,,[],[],[],[],[],0
-21.11.2024,Altamirano C.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Huntsville,clay,header
-ITF MEN - SINGLES M15 Rochester,clay,header
-ITF MEN - SINGLES M15 Lakewood,hard,header
-ITF MEN - SINGLES M15 Santo Domingo 2 (Dominican Republic),hard,header
-13.06.2024,Sarr J.,0,,,,,,[],[],[],[],[],0
-13.06.2024,Bertran P.,2,,,,,,[],[],[],[],[],0
-12.06.2024,Sarr J.,2,,,,,,[],[],[],[],[],0
-12.06.2024,Jones M.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-07.06.2024,Sarr J.,1,,,,,,[],[],[],[],[],0
-07.06.2024,Baadi T.,2,,,,,,[],[],[],[],[],0
-06.06.2024,Sarr J.,2,,,,,,[],[],[],[],[],0
-06.06.2024,Poling K.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Rochester,clay,header
-20.07.2023,Sarr J.,1,,,,,,[],[],[],[],[],0
-20.07.2023,Stice T.,2,,,,,,[],[],[],[],[],0
-19.07.2023,Sarr J.,2,,,,,,[],[],[],[],[],0
-19.07.2023,Grant W.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santo Domingo 3 (Dominican Republic),hard,header
-28.06.2023,Sarr J.,1,,,,,,[],[],[],[],[],0
-28.06.2023,Browning T.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Santo Domingo (Dominican Republic),hard,header
-22.06.2023,Sarr J.,1,,,,,,[],[],[],[],[],0
-22.06.2023,Nunez D. A.,2,,,,,,[],[],[],[],[],0
-21.06.2023,Sarr J.,2,,,,,,[],[],[],[],[],0
-21.06.2023,Anthrop J.,1,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Orange Park,clay,header
-BOYS - SINGLES US Open (USA),hard,header
-BOYS - SINGLES Wimbledon (United Kingdom) - Qualification,grass,header
-01.07.2022,Sarr J.,1,,,,,,[],[],[],[],[],0
-01.07.2022,Braswell J.,2,,,,,,[],[],[],[],[],0
-30.06.2022,Sarr J.,2,,,,,,[],[],[],[],[],0
-30.06.2022,Coquelin H.,0,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Savannah (USA) - Qualification,clay,header
-24.04.2022,Sarr J.,0,,,,,,3,4,52%,57% (16/28),46% (12/26),43% (3/7),21% (7/33),30% (3/10),0% (0/1),52% (28/54),23% (10/43),39% (38/97),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],0
-24.04.2022,Leite W.,2,,,,,,0,0,77%,79% (26/33),70% (7/10),100% (1/1),43% (12/28),54% (14/26),57% (4/7),77% (33/43),48% (26/54),61% (59/97),100% (8/8),50% (4/8),75% (12/16),[],[],[],[],[],0
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+22.11.2024,Grant W.,2,,,,,,"['2', '1', '6', '3']","['5', '5']",[],[],[],1.64
+22.11.2024,Sarr J.,0,,,,,,[],"['1', '0']",[],[],[],2.14
+19.11.2024,Sarr J.,2,,,,,,[],"['2', '0', '5', '1']",[],[],[],1.99
+19.11.2024,Dickerson R.,1,,,,,,"['2', '0']",[],[],[],[],1.73
+14.08.2024,Ciric A.,2,,,,,,"['1', '0']","['4', '3', '5', '4']",[],[],[],-
+14.08.2024,Sarr J.,0,,,,,,[],"['4', '4']",[],[],[],-
+13.08.2024,Sarr J.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '5', '4']",[],[],[],-
+13.08.2024,Bobo D.,0,,,,,,[],"['4', '4']",[],[],[],-
+18.07.2024,Sinclair C.,2,,,,,,[],"['2', '1', '6', '3']","['2', '0', '5', '5']",[],[],1.42
+18.07.2024,Sarr J.,1,,,,,,[],[],"['1', '2', '4', '3']",[],[],2.72
+16.07.2024,Sarr J.,2,,,,,,"['3', '1']","['2', '1', '5', '2']",[],[],[],1.44
+16.07.2024,Filin N.,0,,,,,,[],[],[],[],[],2.65
+12.07.2024,Lee K. K.,2,,,,,,"['1', '0', '5', '2']","['5', '4']",[],[],[],2.05
+12.07.2024,Sarr J.,0,,,,,,"['3', '5']",[],[],[],[],1.70
+11.07.2024,Sarr J.,2,,,,,,"['6', '4']","['2', '0', '5', '3']",[],[],[],1.75
+11.07.2024,Brumm J.,0,,,,,,[],"['3', '4']",[],[],[],1.98
+10.07.2024,Sarr J.,2,,,,,,"['2', '0']","['4', '4', '6', '4']","['2', '0', '4', '0', '6', '0']",[],[],1.69
+10.07.2024,van Loben Sels E.,1,,,,,,"['3', '4', '6', '5']","['4', '3']",[],[],[],2.08
+03.05.2023,Vale D.,2,,,,,,"['1', '0', '2', '1', '4', '1', '6', '3']","['2', '0', '5', '3', '6', '4']",[],[],[],1.13
+03.05.2023,Sarr J.,0,,,,,,"['1', '1', '2', '4']","['3', '4', '4', '5']",[],[],[],5.35
+04.09.2022,Bueno G.,2,,,,,,"['3', '4', '6', '5']","['5', '4']",[],[],[],-
+04.09.2022,Sarr J.,0,,,,,,"['2', '0']",[],[],[],[],-
+24.04.2022,Leite W.,2,,,,,,0,0,77%,79% (26/33),70% (7/10),100% (1/1),43% (12/28),54% (14/26),57% (4/7),77% (33/43),48% (26/54),61% (59/97),100% (8/8),50% (4/8),75% (12/16),"['3', '1', '6', '2']","['3', '1', '6', '2']",[],[],[],1.08
+24.04.2022,Sarr J.,0,,,,,,3,4,52%,57% (16/28),46% (12/26),43% (3/7),21% (7/33),30% (3/10),0% (0/1),52% (28/54),23% (10/43),39% (38/97),50% (4/8),0% (0/8),25% (4/16),[],[],[],[],[],7.50

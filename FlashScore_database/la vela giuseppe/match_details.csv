@@ -1,30 +1,65 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M15 Segrate (Italy),clay,header
-23.07.,La Vela G.,0,,,,,,[],[],[],[],[],0
-23.07.,Hurrion M.,2,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Nova Gorica (Slovenia),clay,header
-17.07.,La Vela G.,0,,,,,,[],[],[],[],[],0
-17.07.,Kivattsev K.,2,,,,,,[],[],[],[],[],0
-15.07.,La Vela G.,2,,,,,,[],[],[],[],[],0
-15.07.,Pel S.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Bergamo (Italy),clay,header
-ITF MEN - SINGLES M15 Cluj Napoca (Romania),clay,header
-ITF MEN - SINGLES M15 Bucharest 2 (Romania),clay,header
-ITF MEN - SINGLES M15 Dubrovnik (Croatia),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 2 (Italy),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula (Italy),clay,header
-ITF MEN - SINGLES M15 Foggia (Italy),clay,header
-ITF MEN - SINGLES M15 Antalya 8 (Turkey),clay,header
-12.03.,La Vela G.,2,,,,,,[],[],[],[],[],0
-12.03.,Hartig R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M15 Antalya 7 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 6 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 5 (Turkey),clay,header
-ITF MEN - SINGLES M15 Antalya 4 (Turkey),clay,header
-ITF MEN - SINGLES M15 Monastir 3 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir 2 (Tunisia),hard,header
-ITF MEN - SINGLES M15 Monastir (Tunisia),hard,header
-ITF MEN - SINGLES M15 San Gregorio di Catania 2 (Italy),clay,header
-ITF MEN - SINGLES M15 San Gregorio di Catania (Italy),clay,header
-ITF MEN - SINGLES M15 Bol 3 (Croatia),clay,header
-ITF MEN - SINGLES M25 Santa Margherita di Pula 9 (Italy),clay,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+28.06.,Ferrari G.,2,,,,,,"['1', '0', '3', '0']","['1', '0']",[],[],[],1.49
+28.06.,La Vela G.,0,,,,,,[],[],[],[],[],2.47
+27.06.,La Vela G.,2,,,,,,"['2', '0', '4', '0', '5', '1']",[],"['7', '5']",[],[],1.46
+27.06.,Malgaroli L.,1,,,,,,"['1', '4']","['3', '1', '5', '1']",[],[],[],2.56
+26.06.,La Vela G.,2,,,,,,"['1', '1', '3', '1']","['2', '0', '3', '1', '6', '4']","['2', '0', '4', '0']",[],[],1.54
+26.06.,Angelini L.,1,,,,,,"['1', '0', '2', '3', '4', '3']","['1', '2', '3', '4']",[],[],[],2.35
+24.06.,La Vela G.,2,,,,,,"['1', '2', '4', '3', '5', '4']","['3', '1']",[],[],[],1.42
+24.06.,Crisostomo G.,0,,,,,,"['2', '0', '4', '4']",[],[],[],[],2.69
+20.06.,Papoe R. M.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '4', '1']",[],[],[],1.31
+20.06.,La Vela G.,0,,,,,,[],"['1', '3']",[],[],[],3.20
+19.06.,La Vela G.,2,,,,,,"['5', '3']","['1', '0']",[],[],[],4.14
+19.06.,Cretu C.,0,,,,,,[],"['1', '1']",[],[],[],1.20
+17.06.,La Vela G.,2,,,,,,"['3', '3', '5', '3', '7', '5']","['2', '0', '5', '1']",[],[],[],1.27
+17.06.,Crivellaro G.,0,,,,,,"['3', '2', '4', '5']",[],[],[],[],3.46
+14.05.,Ovcharenko O.,2,,,,,,"['2', '1']","['2', '1', '5', '2']",[],[],[],1.14
+14.05.,La Vela G.,0,,,,,,[],[],[],[],[],5.00
+15.04.,Blanch D.,2,,,,,,"['1', '0', '5', '2']","['3', '2']",[],[],[],1.75
+15.04.,La Vela G.,0,,,,,,[],[],[],[],[],1.96
+08.04.,Catini N.,2,,,,,,"['2', '3', '4', '3']","['1', '1', '3', '1', '6', '2']",[],[],[],2.16
+08.04.,La Vela G.,0,,,,,,"['2', '0', '4', '4']","['1', '0']",[],[],[],1.63
+31.03.,Juarez F.,2,,,,,,[],"['4', '4', '6', '4']","['3', '1', '5', '1']",[],[],1.57
+31.03.,La Vela G.,1,,,,,,"['4', '2']","['4', '3']",[],[],[],2.28
+29.03.,Miletich I.,2,,,,,,"['4', '3']","['3', '2', '6', '3']",[],[],[],2.03
+29.03.,La Vela G.,0,,,,,,[],[],[],[],[],1.70
+28.03.,La Vela G.,2,,,,,,"['1', '1']","['2', '0', '4', '2', '6', '2']","['2', '2', '7', '5']",[],[],2.85
+28.03.,Juarez F.,1,,,,,,"['1', '0', '2', '1']","['1', '2']","['2', '1']",[],[],1.38
+27.03.,La Vela G.,2,,,,,,"['2', '0']",[],[],[],[],1.70
+27.03.,Vasami J.,0,,,,,,[],[],[],[],[],2.03
+25.03.,La Vela G.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '3', '2', '5', '2']",[],[],[],1.10
+25.03.,Virgili Berini F.,0,,,,,,[],"['2', '2']",[],[],[],5.80
+13.03.,Gulin S.,2,,,,,,"['2', '0', '3', '1', '6', '2']","['3', '3', '5', '3']",[],[],[],-
+13.03.,La Vela G.,0,,,,,,"['1', '2']","['3', '2']",[],[],[],-
+06.03.,Weis A.,2,,,,,,"['3', '2', '6', '3']","['5', '3', '6', '6']",[],[],[],1.11
+06.03.,La Vela G.,0,,,,,,[],"['4', '5', '6', '5']",[],[],[],6.00
+05.03.,La Vela G.,2,,,,,,"['3', '1']","['1', '0', '4', '1', '5', '2']",[],[],[],1.38
+05.03.,Bosio G.,0,,,,,,[],"['2', '4']",[],[],[],2.85
+27.02.,Fatic N.,2,,,,,,"['1', '0', '3', '0', '6', '1']","['3', '1', '5', '1', '6', '2']",[],[],[],1.14
+27.02.,La Vela G.,0,,,,,,[],"['2', '5']",[],[],[],4.90
+26.02.,La Vela G.,2,,,,,,"['2', '0']",[],"['4', '2']",[],[],1.60
+26.02.,Turker M. N.,1,,,,,,"['3', '4']","['5', '3']","['3', '4']",[],[],2.22
+20.02.,Weis A.,2,,,,,,"['2', '1']","['1', '0', '4', '1']",[],[],[],1.45
+20.02.,La Vela G.,0,,,,,,[],[],[],[],[],2.59
+20.02.,La Vela G.,2,,,,,,"['1', '1', '3', '1', '5', '3']","['1', '0', '3', '0', '5', '0']",[],[],[],1.12
+20.02.,Garcia Longo N.,0,,,,,,"['1', '0', '3', '4']",[],[],[],[],5.35
+11.02.,Santillan A.,2,,,,,,"['2', '0', '5', '1']","['1', '0', '3', '0', '4', '1', '6', '3']",[],[],[],1.75
+11.02.,La Vela G.,0,,,,,,[],"['1', '3', '2', '4']",[],[],[],1.96
+23.01.,Echargui M.,2,,,,,,[],"['1', '0', '3', '0']","['1', '0', '3', '0', '5', '0']",[],[],1.31
+23.01.,La Vela G.,1,,,,,,"['4', '2', '6', '2']",[],[],[],[],3.20
+21.01.,La Vela G.,2,,,,,,"['2', '0', '4', '0', '5', '1']","['3', '4', '5', '4']",[],[],[],3.32
+21.01.,Ivashka I.,0,,,,,,"['1', '4']","['4', '2']",[],[],[],1.29
+17.01.,Paroulek T.,2,,,,,,"['4', '5']","['3', '1', '5', '1']",[],[],[],1.12
+17.01.,La Vela G.,0,,,,,,"['3', '1']",[],[],[],[],5.35
+16.01.,La Vela G.,2,,,,,,"['6', '4']","['4', '2', '6', '4']",[],[],[],-
+16.01.,Thurner N.,0,,,,,,[],"['4', '5']",[],[],[],-
+10.01.,Broska F.,2,,,,,,"['1', '0', '4', '1']","['1', '0', '3', '0', '5', '0']",[],[],[],1.34
+10.01.,La Vela G.,0,,,,,,[],[],[],[],[],3.04
+09.01.,La Vela G.,2,,,,,,"['5', '3', '7', '5']","['2', '0', '4', '0', '5', '1']",[],[],[],1.79
+09.01.,Sakellaridis D.,0,,,,,,"['4', '5']","['1', '4']",[],[],[],1.91
+07.01.,La Vela G.,2,,,,,,"['1', '0', '2', '1', '4', '1']","['2', '1', '4', '1']",[],[],[],1.04
+07.01.,Snoussi I.,0,,,,,,"['1', '1']",[],[],[],[],8.10
+15.11.2024,Weis A.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '4', '3']",[],[],[],1.40
+15.11.2024,La Vela G.,0,,,,,,[],"['3', '3']",[],[],[],2.77
+14.11.2024,La Vela G.,2,,,,,,"['3', '5']","['4', '3', '6', '3']","['2', '0', '6', '2']",[],[],2.01
+14.11.2024,Martin Manzano J. C.,1,,,,,,"['1', '0', '4', '1', '6', '3']",[],[],[],[],1.71

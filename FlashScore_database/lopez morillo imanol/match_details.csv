@@ -1,43 +1,73 @@
-Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
-ITF MEN - SINGLES M25 Wetzlar (Germany),clay,header
-ITF MEN - SINGLES M25 Marburg (Germany),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Saarlouis (Germany),clay,header
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M25 Mataro (Spain),clay,header
-ITF MEN - SINGLES M25 Vic (Spain),clay,header
-ITF MEN - SINGLES M15 Villena (Spain),hard,header
-ITF MEN - SINGLES M15 Valencia 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Melilla (Spain),clay,header
-ITF MEN - SINGLES M25 Marburg (Germany),clay,header
-ITF MEN - SINGLES M15 Kamen (Germany),clay,header
-ITF MEN - SINGLES M15 Saarlouis (Germany),clay,header
-ITF MEN - SINGLES M25 Martos (Spain),hard,header
-ITF MEN - SINGLES M25 Cordoba (Spain),clay,header
-ITF MEN - SINGLES M15 La Nucia (Spain),clay,header
-ITF MEN - SINGLES M25 Mataro (Spain),clay,header
-ITF MEN - SINGLES M25 Vic (Spain),clay,header
-ITF MEN - SINGLES M15 Villena (Spain),hard,header
-ITF MEN - SINGLES M15 Valencia 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Valencia (Spain),clay,header
-ITF MEN - SINGLES M15 Castellon (Spain),clay,header
-ITF MEN - SINGLES M25 Zaragoza (Spain),clay,header
-ITF MEN - SINGLES M25 Sabadell 2 (Spain),clay,header
-ITF MEN - SINGLES M15 Melilla (Spain),clay,header
-18.09.2024,Lopez Morillo I.,2,,,,,,[],[],[],[],[],0
-18.09.2024,Rocens M.,1,,,,,,[],[],[],[],[],0
-CHALLENGER MEN - SINGLES Seville (Spain) - Qualification,clay,header
-02.09.2024,Lopez Morillo I.,0,,,,,,1,3,63%,53% (25/47),43% (12/28),62% (8/13),29% (14/49),82% (9/11),25% (2/8),49% (37/75),38% (23/60),44% (60/135),3,0,44% (4/9),22% (2/9),33% (6/18),[],[],[],[],[],0
-02.09.2024,Merida Aguilar D.,2,,,,,,1,5,82%,71% (35/49),18% (2/11),75% (6/8),47% (22/47),57% (16/28),38% (5/13),62% (37/60),51% (38/75),56% (75/135),7,0,78% (7/9),56% (5/9),67% (12/18),[],[],[],[],[],0
-ITF MEN - SINGLES M25 Oviedo (Spain),clay,header
-29.08.2024,Lopez Morillo I.,2,,,,,,[],[],[],[],[],0
-29.08.2024,Nijboer R.,0,,,,,,[],[],[],[],[],0
-ITF MEN - SINGLES M25 Santander (Spain),clay,header
-ITF MEN - SINGLES M15 Gijon (Spain),clay,header
-ITF MEN - SINGLES M15+H Tauste (Spain),hard,header
+Date&Time,Name,Final Scores,Set1,Set2,Set3,Set4,Set5,Aces,Double Faults,1st Serve Percentage,1st Serve Points Won,2nd Serve Points Won,Break Points Saved,1st Return Points Won,2nd Return Points Won,Break Points Converted,Winners,Unforced Errors,Net Points Won,Max Points In Row,Service Points Won,Return Points Won,Total Points Won,Max Games In Row,Service Games Won,Return Games Won,Total Games Won,PBP(Set1),PBP(Set2),PBP(Set3),PBP(Set4),PBP(Set5),odds
+18.08.,Ehrenschneider N.,2,,,,,,1,4,58%,75% (40/53),55% (21/38),100% (7/7),20% (9/46),55% (12/22),33% (1/3),10,34,62% (8/13),67% (61/91),31% (21/68),52% (82/159),7,0,100% (11/11),9% (1/11),55% (12/22),"['4', '3']",[],[],[],[],1.84
+18.08.,Lopez Morillo I.,0,,,,,,0,1,68%,80% (37/46),45% (10/22),67% (2/3),25% (13/53),45% (17/38),0% (0/7),24,34,50% (4/8),69% (47/68),33% (30/91),48% (77/159),3,1,91% (10/11),0% (0/11),45% (10/22),[],[],[],[],[],20.0
+17.08.,Lopez Morillo I.,2,,,,,,4,4,60%,70% (21/30),50% (10/20),60% (3/5),50% (14/28),63% (20/32),50% (6/12),27,30,50% (3/6),62% (31/50),57% (35/61),59% (66/111),5,0,75% (6/8),75% (6/8),75% (12/16),"['2', '0', '4', '0']","['1', '2', '3', '2', '5', '2', '6', '3']",[],[],[],20.0
+17.08.,Wiedenmann L.,0,,,,,,1,1,47%,50% (14/28),38% (12/32),50% (6/12),30% (9/30),50% (10/20),40% (2/5),2,21,50% (2/4),43% (26/61),38% (19/50),41% (45/111),5,0,25% (2/8),25% (2/8),25% (4/16),[],"['2', '0', '3', '5']",[],[],[],1.73
+01.08.,Piraino G.,2,,,,,,"['1', '0', '3', '2', '6', '5']","['1', '0', '3', '0', '5', '0']",[],[],[],1.61
+01.08.,Lopez Morillo I.,0,,,,,,"['2', '2', '3', '3']",[],[],[],[],2.20
+31.07.,Lopez Morillo I.,2,,,,,,"['2', '0']","['2', '1', '5', '2']",[],[],[],2.09
+31.07.,Agamenone F.,0,,,,,,[],[],[],[],[],1.68
+30.07.,Lopez Morillo I.,2,,,,,,"['1', '0', '3', '0', '5', '0']","['1', '0', '6', '3']",[],[],[],1.22
+30.07.,Lipp M.,0,,,,,,[],[],[],[],[],3.91
+03.07.,Hardt N.,2,,,,,,"['2', '0', '4', '0', '6', '2']","['2', '2', '4', '2', '5', '3', '7', '5']",[],[],[],1.51
+03.07.,Lopez Morillo I.,0,,,,,,"['2', '5']","['1', '0', '3', '4', '4', '5']",[],[],[],2.42
+02.07.,Lopez Morillo I.,2,,,,,,"['4', '2']","['1', '0', '4', '1', '5', '2']",[],[],[],1.44
+02.07.,Sanchez Martinez B.,0,,,,,,[],"['2', '4']",[],[],[],2.62
+25.06.,Otte O.,2,,,,,,"['6', '4']","['2', '0', '4', '0', '6', '0']",[],[],[],1.78
+25.06.,Lopez Morillo I.,0,,,,,,[],[],[],[],[],1.92
+22.06.,Lopez Morillo I.,2,,,,,,"['2', '0', '4', '0', '6', '0']","['3', '1', '5', '1']",[],[],[],1.50
+22.06.,Garcian A.,0,,,,,,[],[],[],[],[],2.44
+21.06.,Lopez Morillo I.,2,,,,,,"['1', '0', '5', '2']","['1', '2', '4', '3', '6', '3']",[],[],[],1.48
+21.06.,Raynel A.,0,,,,,,[],"['2', '0']",[],[],[],2.50
+20.06.,Lopez Morillo I.,2,,,,,,"['3', '1', '6', '2']","['2', '0', '6', '4']",[],[],[],1.41
+20.06.,Welte M.,0,,,,,,[],"['2', '3']",[],[],[],2.77
+19.06.,Lopez Morillo I.,2,,,,,,"['2', '1', '4', '3', '6', '3']","['4', '2', '6', '2']",[],[],[],1.10
+19.06.,Horie T.,0,,,,,,"['3', '3']",[],[],[],[],5.80
+17.06.,Lopez Morillo I.,2,,,,,,"['1', '0', '5', '2']","['1', '0', '4', '1']",[],[],[],1.33
+17.06.,Steiner M.,0,,,,,,[],[],[],[],[],3.09
+11.06.,Barroso Campos A.,2,,,,,,"['2', '0', '4', '0']","['1', '0', '3', '2']",[],[],[],1.68
+11.06.,Lopez Morillo I.,0,,,,,,[],"['2', '2']",[],[],[],2.06
+04.06.,Berrettini J.,2,,,,,,"['1', '0', '4', '5']","['1', '0', '5', '4']","['1', '0', '5', '4']",[],[],1.43
+04.06.,Lopez Morillo I.,1,,,,,,"['2', '2', '4', '2', '7', '5']","['3', '3']","['3', '3']",[],[],2.66
+28.05.,Damas M.,2,,,,,,"['1', '1']","['5', '4']","['1', '0', '3', '0', '5', '0']",[],[],1.36
+28.05.,Lopez Morillo I.,1,,,,,,"['1', '0', '2', '1', '4', '1', '6', '1']",[],[],[],[],2.94
+21.05.,Nijboer R.,2,,,,,,"['1', '0', '2', '1']",[],"['2', '4', '4', '4', '6', '4']",[],[],1.45
+21.05.,Lopez Morillo I.,1,,,,,,"['1', '1']","['2', '0', '4', '0']","['2', '1', '4', '1']",[],[],2.59
+14.05.,Alcala Gurri M.,2,,,,,,"['4', '3']","['1', '0', '3', '2', '5', '2']",[],[],[],1.14
+14.05.,Lopez Morillo I.,0,,,,,,[],"['2', '2']",[],[],[],4.85
+19.02.,Lopez Morillo I.,2,,,,,,"['3', '3', '5', '5']","['6', '4']","['6', '4']",[],[],1.25
+19.02.,Juan Mano A.,1,,,,,,"['2', '1', '5', '4', '6', '5']",[],[],[],[],3.62
+13.02.,Piraino G.,2,,,,,,"['1', '0', '3', '0']","['1', '0', '4', '1', '6', '1']",[],[],[],1.33
+13.02.,Lopez Morillo I.,0,,,,,,[],[],[],[],[],3.09
+11.02.,Lopez Morillo I.,2,,,,,,"['6', '4']","['1', '1', '3', '1', '5', '3']",[],[],[],1.18
+11.02.,Fita Juan S.,0,,,,,,[],"['1', '0', '2', '3', '4', '5']",[],[],[],4.43
+05.02.,Gulin S.,2,,,,,,"['4', '2', '6', '2']","['4', '2', '6', '2']",[],[],[],-
+05.02.,Lopez Morillo I.,0,,,,,,[],[],[],[],[],-
+18.10.2024,Slump S.,2,,,,,,"['3', '2']","['2', '1']",[],[],[],2.47
+18.10.2024,Lopez Morillo I.,0,,,,,,[],[],[],[],[],1.49
+17.10.2024,Lopez Morillo I.,2,,,,,,"['1', '0', '4', '1', '6', '3']","['1', '1', '3', '1', '5', '1']",[],[],[],1.06
+17.10.2024,Urribarrens Ramirez I.,0,,,,,,"['3', '5']","['1', '0']",[],[],[],7.50
+15.10.2024,Lopez Morillo I.,2,,,,,,"['3', '1', '5', '1']","['1', '0', '4', '1', '6', '1']",[],[],[],1.07
+15.10.2024,Sheyngezikht L.,0,,,,,,[],[],[],[],[],7.31
+01.10.2024,Perez Contri S.,2,,,,,,"['2', '1', '4', '3', '5', '4']","['2', '1', '6', '5']",[],[],[],2.16
+01.10.2024,Lopez Morillo I.,0,,,,,,"['2', '2', '4', '4']","['2', '2']",[],[],[],1.63
+25.09.2024,Giustino L.,2,,,,,,"['3', '1']","['3', '4', '5', '4']","['5', '4']",[],[],1.39
+25.09.2024,Lopez Morillo I.,1,,,,,,[],"['2', '0', '5', '5', '7', '5']",[],[],[],2.81
+22.09.2024,Lopez Morillo I.,2,,,,,,"['2', '3', '4', '5', '6', '5']","['2', '3']","['1', '0', '3', '2']",[],[],2.42
+22.09.2024,De Krom M.,1,,,,,,"['2', '0', '4', '2']","['2', '0', '7', '5']","['2', '2']",[],[],1.51
+21.09.2024,Lopez Morillo I.,2,,,,,,"['2', '2', '3', '3', '4', '4']","['1', '0', '3', '0', '5', '0']",[],[],[],1.54
+21.09.2024,Winter Lopez B.,0,,,,,,"['1', '0', '3', '2', '4', '3']",[],[],[],[],2.35
+20.09.2024,Lopez Morillo I.,2,,,,,,"['1', '0', '3', '0', '6', '3']","['1', '1', '5', '3']",[],[],[],1.88
+20.09.2024,Marrero Curbelo I.,0,,,,,,"['1', '3']","['1', '0']",[],[],[],1.82
+20.09.2024,Lopez Morillo I.,2,,,,,,"['3', '1', '4', '2']","['1', '2', '3', '4', '4', '5']",[],[],[],1.45
+20.09.2024,Pedrico Kravtsov A.,0,,,,,,"['2', '3', '3', '4']","['2', '0', '3', '1', '5', '3']",[],[],[],2.63
+02.09.2024,Merida Aguilar D.,2,,,,,,1,5,82%,71% (35/49),18% (2/11),75% (6/8),47% (22/47),57% (16/28),38% (5/13),62% (37/60),51% (38/75),56% (75/135),7,0,78% (7/9),56% (5/9),67% (12/18),"['3', '3', '5', '3']","['2', '1', '4', '3', '6', '3']",[],[],[],1.41
+02.09.2024,Lopez Morillo I.,0,,,,,,1,3,63%,53% (25/47),43% (12/28),62% (8/13),29% (14/49),82% (9/11),25% (2/8),49% (37/75),38% (23/60),44% (60/135),3,0,44% (4/9),22% (2/9),33% (6/18),"['2', '1']","['2', '2']",[],[],[],2.80
+01.09.2024,Lopez Morillo I.,2,,,,,,5,1,67%,75% (36/48),46% (11/24),70% (7/10),33% (15/45),56% (14/25),67% (4/6),65% (47/72),41% (29/70),54% (76/142),5,0,73% (8/11),36% (4/11),55% (12/22),"['4', '2']","['1', '0', '3', '0', '4', '1']",[],[],[],2.80
+01.09.2024,Lopez Montagud C.,0,,,,,,2,3,64%,67% (30/45),44% (11/25),33% (2/6),25% (12/48),54% (13/24),30% (3/10),59% (41/70),35% (25/72),46% (66/142),5,1,64% (7/11),27% (3/11),45% (10/22),"['3', '4']","['1', '3', '2', '4']",[],[],[],1.41
+30.08.2024,Merida Aguilar D.,2,,,,,,"['2', '0', '5', '3', '7', '5']","['2', '2', '3', '3', '5', '5']","['1', '2', '3', '2', '5', '2']",[],[],1.42
+30.08.2024,Lopez Morillo I.,1,,,,,,"['2', '3', '4', '5']","['2', '1', '3', '2', '4', '3']","['2', '0']",[],[],2.72
+28.08.2024,Lopez Morillo I.,2,,,,,,"['6', '4']","['3', '1', '4', '2', '6', '2']",[],[],[],1.05
+28.08.2024,Zusman R.,0,,,,,,[],"['2', '3']",[],[],[],8.45
+26.08.2024,Lopez Morillo I.,2,,,,,,"['1', '3']","['2', '1', '6', '3']","['4', '2']",[],[],3.34
+26.08.2024,Sanchez Jover C.,1,,,,,,"['1', '0', '3', '0', '4', '1', '6', '1']",[],[],[],[],1.30
